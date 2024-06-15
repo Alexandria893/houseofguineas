@@ -1,0 +1,5 @@
+baseURL = 'https://houseofguineas.com'
+languageCode = 'en-us'
+title = 'House of Guineas'
+theme = 'hugo-universal-theme'
+style = 'default'
