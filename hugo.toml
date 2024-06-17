@@ -6,13 +6,14 @@ style = 'default'
 
 
 [params]
-    name = "Anthony Russel"
-    description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
+    name = "Alexandria Brown"
+    description = "With several years of pet ownership and a love for traveling, I understand the discomfort of leaving my beloved pets behind while I'm away. I am happy to care for your pets as my own, and I look forward to becoming their new best friend!"
+
+    email = "houseofguineas@gmail.com"
+    phone = "415-244-4266"
     address = "234 Hidden Pond Road, Ashland City, TN 37015"
     year = 2017
-    avatar = "images/guy.jpg"
+    avatar = "images/photo.jpeg"
     avatarclass = "circle"
     background = ""
     banner = "images/bg_head.jpg"
