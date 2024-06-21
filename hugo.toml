@@ -6,111 +6,111 @@ style = 'default'
 
 
 [params]
-    name = "Alexandria"
-    description = "With several years of pet ownership and a love for traveling, I understand the discomfort of leaving my beloved pets behind while I'm away. I am happy to care for your pets as my own, and I look forward to becoming their new best friend!"
+name = "Alexandria"
+description = "Native San Franciscan exotic (and non-exotic!) pet sitter ❤️"
 
-    email = "houseofguineas@gmail.com"
-    phone = "415-244-4266"
-    address = "San Francisco, CA"
-    year = 2024
-    avatar = "images/photo.jpeg"
-    avatarclass = "circle"
-    background = ""
-    banner = "images/milo.jpg" 
-    favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
-    author = "Sergey Pozhilov (GetTemplate.com)"
+email = "houseofguineas@gmail.com"
+phone = "415-244-4266"
+address = "San Francisco, CA"
+year = 2024
+avatar = "images/photo.jpeg"
+avatarclass = "circle"
+background = ""
+banner = "images/milo.jpg"
+favicon = "images/gt_favicon.png"
+DateForm = "January 2, 2006"
+author = "Sergey Pozhilov (GetTemplate.com)"
 
-    showSubheader = true
-    showServices = true
-    showRecentWorks = true
-    showDownloads = true
-    showClients = true
+showSubheader = true
+showServices = true
+showRecentWorks = true
+showDownloads = true
+showClients = true
 
-    showFooterContact = true
-    showFooterFollowMe = true
-    showFooterTextWidget = true
-    showFooterFormWidget = true
+showFooterContact = true
+showFooterFollowMe = true
+showFooterTextWidget = true
+showFooterFormWidget = true
 
 [[menu.main]]
-    name = "home"
-    url = "/"
-    weight = 1
+name = "home"
+url = "/"
+weight = 1
 #[[menu.main]]
-  #  name = "blog"
-  #  url = "/post/"
-   # weight = 5
+#  name = "blog"
+#  url = "/post/"
+# weight = 5
 
 [params.disqus]
-    site = "hugo-initio-site.disqus.com"
+site = "hugo-initio-site.disqus.com"
 
 [params.sharethis]
-    property = "123456789012345678901234"
-    custom = true
+property = "123456789012345678901234"
+custom = true
 
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+trackerID = "GA-000000000-0"
 
 [[params.social]]
-	title = "facebook"
-	url = "https://www.facebook.com/groups/7386512764719877/"
-    icon = "fab fa-facebook-square"
-    footer = true
-    sharethis = true
-    network = "facebook"
+title = "facebook"
+url = "https://www.facebook.com/groups/7386512764719877/"
+icon = "fab fa-facebook-square"
+footer = true
+sharethis = true
+network = "facebook"
 #[[params.social]]
 #	title = "twitter"
 #	url = "https://twitter.com/nickname"
- #   icon = "fab fa-twitter-square"
-  #  footer = true
-   # sharethis = true
-    #network = "twitter"
+#   icon = "fab fa-twitter-square"
+#  footer = true
+# sharethis = true
+#network = "twitter"
 [[params.social]]
-	title = "instagram"
-	url = "https://www.instagram.com/houseofguineas?igsh=OGQ5ZDc2ODk2ZA=="
-    icon = "fab fa-instagram"
-    footer = true
-    sharethis = false
-    network = ""
+title = "instagram"
+url = "https://www.instagram.com/houseofguineas?igsh=OGQ5ZDc2ODk2ZA=="
+icon = "fab fa-instagram"
+footer = true
+sharethis = false
+network = ""
 #[[params.social]]
 #	title = "google+"
 #	url = "https://plus.google.com/+nickname"
- #   icon = "fab fa-google-plus-square"
-  #  footer = false
-   # sharethis = true
-    #network = ""
+#   icon = "fab fa-google-plus-square"
+#  footer = false
+# sharethis = true
+#network = ""
 #[[params.social]]
 #	title = "google+"
 #	url = "https://plus.google.com/+nickname"
- #   icon = "fab fa-google-plus-square"
-  #  footer = false
-   # sharethis = true
-    #network = "googleplus"
+#   icon = "fab fa-google-plus-square"
+#  footer = false
+# sharethis = true
+#network = "googleplus"
 [[params.social]]
-	title = "linkedin"
-	url = "https://www.linkedin.com/in/alexandria-brown-65b845100/"
-    icon = "fab fa-linkedin"
-    footer = true
-    sharethis = true
-    network = "linkedin"
+title = "linkedin"
+url = "https://www.linkedin.com/in/alexandria-brown-65b845100/"
+icon = "fab fa-linkedin"
+footer = true
+sharethis = true
+network = "linkedin"
 #[[params.social]]
 #	title = "tumblr"
 #	url = "https://nickname.tumblr.com"
- #   icon = "fab fa-tumblr-square"
-  #  footer = false
-   # sharethis = false
-    #network = "tumblr"
+#   icon = "fab fa-tumblr-square"
+#  footer = false
+# sharethis = false
+#network = "tumblr"
 #[[params.social]]
 #	title = "github"
 #	url = "https://github.com/nickname"
- #   icon = "fab fa-github"
-  #  footer = true
-   # sharethis = false
-    #network = ""
+#   icon = "fab fa-github"
+#  footer = true
+# sharethis = false
+#network = ""
 [[params.social]]
-	title = "email"
-	url = "mailto:houseofguineas@gmail.com"
-    icon = "fas fa-envelope-square"
-    footer = true
-    sharethis = true
-    network = "email"
+title = "email"
+url = "mailto:houseofguineas@gmail.com"
+icon = "fas fa-envelope-square"
+footer = true
+sharethis = true
+network = "email"
