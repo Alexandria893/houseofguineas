@@ -1,12 +1,19 @@
 +++
-title = "Wordpress integration"
+title = "Peace of Mind: Multi-day Visits"
 weight = 2
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+Perfect for routine and worry-free visits, love and care for your furry (or feathery, or scaly) friend! For visits over 4 days or more.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* **Multi-Day Visit Discount (5% off):** Applied to the total cost of your chosen package(s) for bookings of 3 to 7 consecutive days.
 
+* **Peace of Mind Travels Discount (10% off):**  For bookings of 7 or more consecutive days. Can discuss quote for over 7 days.
+
+**Here's what's included in your Peace of Mind Travels Discount:**
+
+* A complimentary in-home consultation before the stay to discuss your pet(s) routine and needs. 
+* A mid-week deep clean (for litter boxes, enclosures, etc.)
+* Everything in your chosen package(s) at a discounted rate (See packages for details)
 

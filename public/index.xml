@@ -9,32 +9,25 @@
     <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Express Errands</title>
+      <title>Errand Saver: One-Time Visits</title>
       <link>http://localhost:1313/home/services/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/services/service1/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;One-hour visit that includes fresh food and water refills, enclosure/litter cleaning, playtime and enrichment activities. Perfect for under 3 day visits.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Wordpress integration</title>
+      <title>Peace of Mind: Multi-day Visits</title>
       <link>http://localhost:1313/home/services/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/services/service2/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Perfect for routine and worry-free visits, love and care for your furry (or feathery, or scaly) friend! For visits over 4 days or more.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Application development</title>
+      <title>Home-Alone Hero: All Day Visits</title>
       <link>http://localhost:1313/home/services/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/services/service3/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SEO &amp; SEM services</title>
-      <link>http://localhost:1313/home/services/service4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service4/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;For extended in-home care when you&amp;rsquo;re out all day. Includes everything in your chosen package, with additional feeding, playtime, and bathroom breaks throughout the day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
