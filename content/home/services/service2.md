@@ -25,14 +25,14 @@ weight = 2
 
 #### Exotic Pets
 
-* **Birds, Reptiles and Amphibians**: $60 ($30/hr)
-* **Small Mammals (rabbits, guinea pigs, chinchillas, etc.)**: $80 ($40/hr)
+* **Birds, Reptiles and Amphibians**: $60 per visit ($30/hr)
+* **Small Mammals (rabbits, guinea pigs, chinchillas, etc.)**: $80 per visit ($40/hr)
 
 #### Dogs & Cats
 <!-- (Includes active walk with optional training session (basic commands) for 1 dog of any size) -->
-* **Dogs (under 30lbs)**: $60 ($30/hr) 
-    * **Dogs (over 30lbs or fun energy)**: $70 ($45/hr)
-* **Cats**: $40 ($20/hr)
+* **Dogs (under 30lbs)**: $60 per visit ($30/hr) 
+    * **Dogs (over 30lbs or fun energy)**: $70 per visit ($45/hr)
+* **Cats**: $40 per visit ($20/hr)
 
 #### Add-ons
 

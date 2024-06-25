@@ -3,7 +3,7 @@ title = "Home-Alone Hero: All Day Visits"
 weight = 3
 +++
 
-**4+ hour** extended, in-home care when you're out all day. Includes additional feeding, playtime, and bathroom breaks throughout the day! **Discounted** for **over 6 hour** visits.
+**4+ hour** extended, in-home care when you're out all day. Includes additional feeding, playtime, and bathroom breaks throughout the day! **Discounted** for visits of **3 days or more**.
 <!--more-->
 
 #### Routine Discount
@@ -18,14 +18,14 @@ weight = 3
 
 #### Exotic Pets
 
-* **Birds, Reptiles and Amphibians**: starting at $120 ($30/hr)
-* **Small Mammals (rabbits, guinea pigs, chinchillas, etc.)**: starting at $160 ($40/hr)
+* **Birds, Reptiles and Amphibians**: starting at $120 per visit ($30/hr)
+* **Small Mammals (rabbits, guinea pigs, chinchillas, etc.)**: starting at $160 per visit ($40/hr)
 
 #### Dogs & Cats
 <!-- (Includes active walk with optional training session (basic commands) for 1 dog of any size) -->
-* **Dogs (under 30lbs)**: starting at $120 ($30/hr) 
-    * **Dogs (over 30lbs or fun energy)**: starting at $140 ($45/hr)
-* **Cats**: starting at $80 ($20/hr)
+* **Dogs (under 30lbs)**: starting at $120 per visit ($30/hr) 
+    * **Dogs (over 30lbs or fun energy)**: starting at $140 per visit ($45/hr)
+* **Cats**: starting at $80 per visit ($20/hr)
 
 #### Add-ons
 

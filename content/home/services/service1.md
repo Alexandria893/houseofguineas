@@ -3,19 +3,19 @@ title = "Errand Saver: One-Time Visits"
 weight = 1
 +++
 
- **1 hour** drop-ins that includes food and water refills, basic spot-cleaning and play. Perfect for same-day, emergency care!
+ **1 hour** drop-ins that includes food and water refills, basic spot-cleaning and play. Perfect for **same-day**, emergency care!
 
 
 <!--more-->
 #### Exotic Pets
 
-* **Birds, Reptiles and Amphibians**: $40
-* **Small Mammals (rabbits, guinea pigs, chinchillas, etc.)**: $50
+* **Birds, Reptiles and Amphibians**: $40 per visit
+* **Small Mammals (rabbits, guinea pigs, chinchillas, etc.)**: $50 per visit
 
 #### Dogs & Cats
 <!-- (Includes active walk with optional training session (basic commands) for 1 dog of any size) -->
-* **Dogs**: $55 (any size)
-* **Cats**: $45
+* **Dogs (any size)**: $55 per visit
+* **Cats**: $45 per visit
 
 #### Add-ons
 
