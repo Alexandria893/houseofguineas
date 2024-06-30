@@ -62,4 +62,4 @@ weight = 2
 Because of my limited availability during holidays and special occasions, please contact me as soon as possible to make sure your pet(s) have the care they need. 
 
 
-Depending on my availability, pet care can be 1.5x or 2x the regular rate.
+Depending on my availability, pet care can be 1.5x or 2x the regular rate on holidays and special occasions.
