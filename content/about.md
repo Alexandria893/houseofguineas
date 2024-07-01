@@ -5,9 +5,14 @@ type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+![about](../milo.jpg)
 
-![about](../images/mac.jpg)
+I grew in San Francisco and received my Bachelors of Science Degree in Electrical Engineering at the University of California Santa Cruz. Through my career, I often found myself enjoying working with companies that focused on altruism. 
+
+While I enjoyed working with amazing teams in the engineering industry, I couldn't shake the thought that I should be working in a different field. After adopting several
+
+![about](../milo.jpg)
+
 
 ### Necessitatibus
 

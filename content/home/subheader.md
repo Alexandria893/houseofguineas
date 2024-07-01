@@ -4,8 +4,11 @@ title = ""
 +++
 
 <!-- Let me tell you something my friend. hope is a dangerous thing. hope can drive a man insane. you [measure](/about) yourself by the people who measure themselves by you. it only took me [six days](/sidebar-right). -->
+<!-- ![subheader](../milo.jpg) -->
 
-🐾 With several years of experience of pet ownership and a love for traveling, I understand the discomfort of leaving my beloved pets behind while I'm away. I am happy to care for your pet as my own and make sure they have the attention and love they deserve!
+🐾 [I'm an SF native](/about) with a passion for animal care. With several years of experience of pet ownership and a love for traveling, I understand the discomfort of leaving my beloved pets behind while I'm away. 
+
+I am happy to care for your pet as my own and make sure they have the attention and love they deserve!
 
 <!-- ❤️ I look forward to meeting you and your pet, and please read below for details of what our time together would look like: 
 
