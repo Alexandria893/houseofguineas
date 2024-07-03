@@ -12,21 +12,21 @@ weight = 2
 * An in-home visit before the stay to discuss your pet(s) routine and needs (and of course, meet the cutie(s)!)
 * Thorough cleans for enclosure/litter boxes
 * Oral medicine administration 
-* Upkeep & mail retrieval for your home
-* Lastly, peace of mind that your pet will have consistent love and attention when you're away (and pet pics)!
+* Home upkeep and mail retrieval for your home
+* Lastly, peace of mind that your pet will have consistent love and attention when you're away (and a bunch of pet pics)!
 
 ##### Peace of Mind Care
 
 * **Monthly Peace of Mind (10% off):** Perfect for maintaining routine, worry-free care over a month-period. Includes routine nail trimming for guinea pigs and rabbits.
     * Example: 2 guinea pigs & 2 cats
         * Each Visit: $80
-        * Monthly total (30 days): $80 x 30 = $2,400
-        * 10% discount: $2,160 (***~$250 off!***) 
-* **Peace of Mind Vacation Saver (5% off):** Perfect for trips away from home over 3 or more consecutive days. Includes basic nail trimming for guinea pigs and rabbits for 14 day or more visits.
-    * Example: 2 bearded dragons, a dog & 2 cats for 2 weeks
+        * Monthly total (20 days): $80 x 20 = $1,600
+        * 10% discount: $1,440 (***$160 off***) 
+* **Peace of Mind Vacation Saver (5% off):** Perfect for trips away from home for 3 or more consecutive days. Includes touch-up nail trimming for guinea pigs and rabbits.
+    * Example: 2 bearded dragons, 1 dog & 1 cat for 2 weeks
         * Each Visit: $80
         * Total (14 days): $80 x 14 = $1,120
-        * 5% discount: $1,064 (***~$50 off!***) 
+        * 5% discount: $1,064 (***~$60 off***) 
     
 ##### Emergency Care
 

@@ -11,7 +11,7 @@ weight = 3
 * An in-home visit before the stay to discuss your pet(s) routine and needs (and of course, meet the cutie(s)!)
 * Thorough cleans for enclosure/litter boxes
 * Oral medicine administration 
-* Upkeep & mail retrieval for your home
+* Home upkeep and mail retrieval for your home
 * Lastly, peace of mind that your pet will have consistent love and attention when you're away (and pet pics)!
 
 ##### Home-Alone Hero Care
@@ -19,13 +19,13 @@ weight = 3
 * **Monthly Home-Alone Hero (10% off):** Perfect for maintaining routine, care for pets who need more care distributed over a month-period. Includes routine nail trimming for guinea pigs and rabbits.
     * Example: 2 guinea pigs & 2 cats
         * Each Visit: $200
-        * Monthly total (30 days): $200 x 30 = $6,000
-        * 10% discount: $5,400 (***~$600 off!***) 
-* **Home-Alone Hero Vacation Saver (5% off):** Perfect for maintaining routine, care for pets who need more care for trips away from home over 3 or more consecutive days.
+        * Monthly total (20 days): $200 x 20 = $4,000
+        * 10% discount: $3,600 (***$400 off***) 
+* **Home-Alone Hero Vacation Saver (5% off):** Perfect for maintaining routine, care for pets who need more care for trips away from home over 3 or more consecutive days. Includes touch-up nail trimming for guinea pigs and rabbits.
     * Example: 2 bearded dragons, a dog & 2 cats for 2 weeks
         * Each Visit: $200
-        * Monthly total (30 days): $200 x 14 = $2,800
-        * 10% discount: $2,660 (***~$150 off!***) 
+        * Monthly total (14 days): $200 x 14 = $2,800
+        * 10% discount: $2,660 (***~$150 off***) 
     
 ##### Emergency Care
 
