@@ -88,7 +88,7 @@ network = ""
 #network = "googleplus"
 [[params.social]]
 title = "linkedin"
-url = "https://www.linkedin.com/in/alexandria-brown-65b845100/"
+url = "https://www.linkedin.com/in/alexandria-b-65b845100/"
 icon = "fab fa-linkedin"
 footer = true
 sharethis = true
