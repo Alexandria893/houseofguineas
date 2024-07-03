@@ -1,5 +1,5 @@
 +++
-title = "Peace of Mind: Multi-day Visits ($70+)"
+title = "Peace of Mind: Multi-day Visits ($70)"
 weight = 2
 +++
 
@@ -16,12 +16,13 @@ weight = 2
 
 ##### Peace of Mind Care
 
-* **Monthly Peace of Mind (10% off):** Perfect for maintaining routine, worry-free care over a month-period. 
-* **Vacation Saver (5% off):** Perfect for trips away from home over 3 or more consecutive days.
-    * Monthly Peace of Mind Example: 2 guinea pigs & 2 cats
-        * 2hr Visit: $70
+* **Monthly Peace of Mind (10% off):** Perfect for maintaining routine, worry-free care over a month-period.
+    * Example: 2 guinea pigs & 2 cats
+        * Each Visit: $70
         * Monthly total (30 days): $70 x 30 = $2100
-        * Total with 10% off discount: $1890 (***~$200 off!***)
+        * 10% discount: $1890 (***~$200 off!***) 
+* **Vacation Saver (5% off):** Perfect for trips away from home over 3 or more consecutive days.
+    
 
 ##### Holiday Care
 
