@@ -5,7 +5,7 @@ type = "about"
 weight = 10
 +++
 
-![about](../Coco.jpg)
+![about](../engineer.jpg)
 
 ##### From Engineering to Exotic Pets:
 
@@ -15,6 +15,7 @@ I found myself working in a spectrum of roles after college, ranging from workin
 
 ![about](../2ChungusPuppyDog.jpg)
 
+##### Challenges Away from Home:
 
 The first time I needed to leave home after adopting my adorable guinea pig crew, panic set in. Finding someone to care for these little fluff balls, with their specific dietary needs and skittish personalities, felt like an impossible mission. Thankfully, I found a caring sitter, but the worry lingered – were there enough experienced sitters familiar with exotic pets like mine? This experience opened my eyes to the real struggle pet owners face, especially those with unique companions.
 

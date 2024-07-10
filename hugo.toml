@@ -83,10 +83,10 @@ footer = true
 sharethis = false
 network = "linkedin"
 
-[[params.social]]
-title = "email"
-url = "mailto:houseofguineas@gmail.com"
-icon = "fa-regular fa-envelope"
-footer = true
-sharethis = false
-network = "email"
+# [[params.social]]
+# title = "email"
+# url = "mailto:houseofguineas@gmail.com"
+# icon = "fa-regular fa-envelope"
+# footer = true
+# sharethis = false
+# network = "email"
