@@ -52,65 +52,41 @@ custom = true
 trackerID = "GA-000000000-0"
 
 [[params.social]]
-title = "facebook"
-url = "https://www.facebook.com/groups/7386512764719877/"
-icon = "fab fa-facebook-square"
+title = "tiktok"
+url = "https://www.tiktok.com/@houseofguineas"
+icon = "fa-brands fa-tiktok"
 footer = true
-sharethis = true
-network = "facebook"
-#[[params.social]]
-#	title = "twitter"
-#	url = "https://twitter.com/nickname"
-#   icon = "fab fa-twitter-square"
-#  footer = true
-# sharethis = true
-#network = "twitter"
+sharethis = false
+network = "tiktok"
+
 [[params.social]]
 title = "instagram"
 url = "https://www.instagram.com/houseofguineas?igsh=OGQ5ZDc2ODk2ZA=="
-icon = "fab fa-instagram"
+icon = "fa-brands fa-instagram"
 footer = true
 sharethis = false
-network = ""
-#[[params.social]]
-#	title = "google+"
-#	url = "https://plus.google.com/+nickname"
-#   icon = "fab fa-google-plus-square"
-#  footer = false
-# sharethis = true
-#network = ""
-#[[params.social]]
-#	title = "google+"
-#	url = "https://plus.google.com/+nickname"
-#   icon = "fab fa-google-plus-square"
-#  footer = false
-# sharethis = true
-#network = "googleplus"
+network = "instagram"
+
+[[params.social]]
+title = "youtube"
+url = "https://www.youtube.com/@houseofguineas"
+icon = "fa-brands fa-youtube"
+footer = true
+sharethis = false
+network = "youtube"
+
 [[params.social]]
 title = "linkedin"
 url = "https://www.linkedin.com/in/alexandria-b-65b845100/"
-icon = "fab fa-linkedin"
+icon = "fa-brands fa-linkedin"
 footer = true
-sharethis = true
+sharethis = false
 network = "linkedin"
-#[[params.social]]
-#	title = "tumblr"
-#	url = "https://nickname.tumblr.com"
-#   icon = "fab fa-tumblr-square"
-#  footer = false
-# sharethis = false
-#network = "tumblr"
-#[[params.social]]
-#	title = "github"
-#	url = "https://github.com/nickname"
-#   icon = "fab fa-github"
-#  footer = true
-# sharethis = false
-#network = ""
+
 [[params.social]]
 title = "email"
 url = "mailto:houseofguineas@gmail.com"
-icon = "fas fa-envelope-square"
+icon = "fa-regular fa-envelope"
 footer = true
-sharethis = true
+sharethis = false
 network = "email"
