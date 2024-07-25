@@ -13,25 +13,18 @@ Regular visits ensure your pet's needs are met and can minimize separation anxie
 * **Complimentary Home Upkeep:** I also include complimentary care such as tidying the home, plant watering and mail retrieval.
 * **Peace of Mind:** Relax knowing your pet receives loving care in their familiar environment. You will of course receive adorable picture updates, as well as a weekly summary of our time together!
 
-
-
-| Per Visit       |   Pets    |
-| :---------- | :-------: |
-| 1hr: $80   |  Up to 2  |
-| 2hrs: $100 | Unlimited |
+##### Peace of Mind Care
+* **1hr visit:** $80 (1-2 pets)
+* **2hr visit:** $100 (2+ pets)
 
 *Note: standard rates apply for bookings under 2 days*
 
-
 ##### Discounted Peace of Mind Care
 I understand the value of predictable, routine care for you and your beloved pet(s), so I make sure to include discounts for routine care! 
-
-* **Monthly Peace of Mind (10% off):** Perfect for maintaining routine, worry-free care over a month-period. Includes at least 5 visits per week, as well as routine nail trimming for guinea pigs and rabbits.
-  
+* **Monthly Peace of Mind (10% off):** Perfect for maintaining routine, worry-free care over a month-period. Includes at least *5 visits per week*, as well as routine nail trimming for guinea pigs and rabbits.
 * **Peace of Mind Vacation Saver (5% off):** Perfect for trips away from home for 3 or more consecutive days.
 
 ##### Peace of Mind Add-Ons
-
 * *Dog Walking:* $30 for an *additional hour* is needed for homes with *2 or more dogs* to ensure the health and safety of your pets. 
 
 

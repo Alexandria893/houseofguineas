@@ -24,3 +24,5 @@ For our visits, I require note of a veterinary hospital. I will communicate with
 
 ##### Holiday Care
 Because of my limited availability during holidays and special occasions, pet care may be more than the regular rate. Please contact me as soon as possible to make sure your pet(s) have the care they need.  
+
+<!-- * Looking for scheduled pet sits? Take a look at [Peace of Mind: Multi-Day Care](home/services/service2/) -->

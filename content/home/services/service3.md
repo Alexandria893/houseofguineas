@@ -12,17 +12,23 @@ Longer visits ensure your pet's needs are met, especially for those who need mor
 * **Complimentary Home Upkeep:** I also include complimentary care such as tidying the home, plant watering and mail retrieval.
 * **Home Alone Hero:** Relax knowing that your day is saved and your pet is cared for in a familiar, cozy environment. You will of course receive adorable picture updates, as well as a summary of our time together!
 
-| Per Visit (up to 2 pets)        |  2 or more   |
+
+##### Home-Alone Hero Care
+* **1-2 pets**
+    * 4hr visit: $320
+    * 6hr visit: $480
+* **2+ pets**
+    * 4hr visit: $400
+    * 6hr visit: $600
+* Need more time? Give me a call! *Note: standard rates apply for bookings under 2 days*
+<!-- | Per Visit (up to 2 pets)        |  2 or more   |
 | :------------------------------ | --- |
 | 4hrs: $320                      | 4hrs: $400    |
 | 6hrs: $480                      | 6hrs: $600    |
-| Need more time? Give me a call! |   Need more time? Give me a call!   |
-
-*Note: standard rates apply for bookings under 2 days*
-
+| Need more time? Give me a call! |   Need more time? Give me a call!   | -->
 ##### Discounted Home-Alone Hero Care
 I understand the stress of seeing your pet struggle when you are away. I make sure to include discounts when you and your pet need that extra boost. 
-* **Monthly Home-Alone Hero (10% off):** Perfect for maintaining routine, care for pets who need more care distributed over a month-period. Includes at least 2 visits per week, as well as routine nail trimming for guinea pigs and rabbits.
+* **Monthly Home-Alone Hero (10% off):** Perfect for maintaining routine, care for pets who need more care distributed over a month-period. Includes at least *2 visits per week*, as well as routine nail trimming for guinea pigs and rabbits.
   
 * **Home-Alone Hero Vacation Saver (5% off):** Perfect for maintaining routine, care for pets who need more care for trips away from home over 3 or more consecutive days. Includes touch-up nail trimming for guinea pigs and rabbits.
 
