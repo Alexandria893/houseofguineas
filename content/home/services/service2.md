@@ -7,31 +7,34 @@ weight = 2
 
 <!--more-->
 
-##### Why Choose Multi-Day Visits?
-Regular visits ensure your pet's needs are met and can minimize separation anxiety while you are away. 
-* **Consistent Care:** I provide dedicated love and attention, feeding, medication administration, enclosure/litter box cleaning, playtime and cuddles! 
-* **Complimentary Home Upkeep:** I also include complimentary care such as tidying the home, plant watering and mail retrieval.
-* **Peace of Mind:** Relax knowing your pet receives loving care in their familiar environment. You will of course receive adorable picture updates, as well as a weekly summary of our time together!
+##### Why Choose Multi-Day Care?
+Prioritize your pet's well-being with consistent, familiar care. By maintaining their daily routine, I help prevent stress and anxiety often caused by abrupt changes in their schedules. Safeguard your pet's comfort and security with a dedicated caregiver providing loving companionship.
+* **Consistent Care:** Enjoy peace of mind knowing your pet receives dedicated love and attention, including feeding, medication, playtime and cuddles. 
+* **Extra Perks:** Take advantage of complimentary home upkeep like tidying, plant care and mail retrieval.
+* **Peace of Mind:** Relax knowing your pet is receiving attentive, personalized care in the comfort of their own home. Enjoy peace of mind with regular updates and heartwarming photos capturing their adventures!
 
 ##### Peace of Mind Care
-* **1hr visit:** $80 (1-2 pets)
-* **2hr visit:** $100 (2+ pets)
-
-*Note: standard rates apply for bookings under 2 days*
+* **1hr visit:** $80 *(1-2 pets)*
+* **2hr visit:** $100 *(2+ pets)*
 
 ##### Discounted Peace of Mind Care
-I understand the value of predictable, routine care for you and your beloved pet(s), so I make sure to include discounts for routine care! 
-* **Monthly Peace of Mind (10% off):** Perfect for maintaining routine, worry-free care over a month-period. Includes at least *5 visits per week*, as well as routine nail trimming for guinea pigs and rabbits.
-* **Peace of Mind Vacation Saver (5% off):** Perfect for trips away from home for 3 or more consecutive days.
+I understand the importance of maintaining consistent care for both you and your pet, so I offer discounts for routine care.
+* **Monthly Peace of Mind (10% off):** Enjoy worry-free, routine care with *at least 5 visits per week.* Perfect for maintaining your pet's well-being throughout the month. Includes routine nail trimming for guinea pigs and rabbits.
+* **Peace of Mind Vacation Saver (5% off):** Perfect for trips away from home for *3 or more consecutive days.*
 
-##### Peace of Mind Add-Ons
-* *Dog Walking:* $30 for an *additional hour* is needed for homes with *2 or more dogs* to ensure the health and safety of your pets. 
+##### Peace of Mind Additional Care
+* **Dog Walking:** $30 for an *additional hour* is needed for homes with *2 or more dogs* to ensure the health and safety of your pets. 
 
+***Don't see what you need?** We can create a personalized plan just for you and pet. Reach out to discuss your perfect care plan!*
 
 ##### Emergency Care
 
-For our visits, I require note of a veterinary hospital. I will communicate with you first for any small situations, and will take immediate action in emergencies to admit your pet(s) and will communicate with you once your pet(s) are admitted. 
+For our visits, I require note of a veterinary hospital. I will communicate with you first for any small situations, and will take immediate action in emergencies to admit your pet and will communicate with you once your pet is admitted. 
 
 ##### Holiday Care
 
-Because of my limited availability during holidays and special occasions, pet care may be more than the regular rate. Please contact me as soon as possible to make sure your pet(s) have the care they need.  
+Because of my limited availability during holidays and special occasions, pet care may be more than the regular rate. Please contact me as soon as possible to make sure your pet have the care they need.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Looking for longer pet care? Take a look at [Home-Alone Hero: All-Day Care!](../service3/)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Want to learn more about your pet's caregiver? Learn more about me [here!](/about/)*
