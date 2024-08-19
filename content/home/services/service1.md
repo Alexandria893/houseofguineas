@@ -1,5 +1,5 @@
 +++
-title = "Errand Saver: Same-Day Care ($70)"
+title = "Errand Saver: Same-Day Care ($100)"
 weight = 1
 +++
 
@@ -13,15 +13,15 @@ weight = 1
  * Enclosure/litter spot-cleaning 
 
  ##### Errand Saver Care:
- * **1-2 pets:** $70
- * **2+ pets:** $5 *per additional pet*
+ * **1-2 pets:** $100 per hour
+ * **2+ pets:** $20 per hour *per additional pet*
 
 ##### Errand Saver Additional Care
 
-* **Dog Walking:** $30 for an *additional hour* is needed to ensure the health and safety of your pets. 
+* **Dog Walking:** $50 for an *additional hour* is needed to ensure the health and safety of your pets. 
 * **Medication Administration:** $10 *per visit*
 
-***Don't see what you need?** We can create a personalized plan just for you and pet. Reach out to discuss your perfect care plan!*
+***Don't see what you need?** Connect with me as soon as possible to discuss how I can support you and your pet.*
     
 ##### Emergency Care
 
