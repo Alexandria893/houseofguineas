@@ -15,7 +15,7 @@ Prioritize your pet's well-being with consistent, familiar care. By maintaining 
 
 ##### Peace of Mind Care
 * **1hr visit:** $80 *(1-2 pets)*
-* **2hr visit:** $100 *(2+ pets)*
+* **2hr visit:** $100 *(3+ pets)*
 
 ##### Discounted Peace of Mind Care
 I understand the importance of maintaining consistent care for both you and your pet, so I offer discounts for routine care.

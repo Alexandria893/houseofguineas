@@ -16,11 +16,11 @@ Provide your pet with the best care and companionship through my extended visits
 * **1-2 pets**
     * 4hr visit: $320
     * 6hr visit: $480
-* **2+ pets**
+* **3+ pets**
     * 4hr visit: $400
     * 6hr visit: $600
 
-<!-- | Per Visit (up to 2 pets)        |  2 or more   |
+<!-- | Per Visit (up to 2 pets)        |  3 or more   |
 | :------------------------------ | --- |
 | 4hrs: $320                      | 4hrs: $400    |
 | 6hrs: $480                      | 6hrs: $600    |
