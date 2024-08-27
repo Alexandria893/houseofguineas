@@ -35,6 +35,9 @@ I adapt to each pet I care for and follow instructions to a T so you can focus o
 
 ##### Certified, Bonded & Insured
 Rest assured, your pet's safety and well-being is my top priority. I am certified in Pet CPR and First Aid, bonded, and insured for your complete peace of mind. As a proud member of Pet Sitters International, the world's largest pet sitting association, I adhere to the highest industry standards. My insurance protects you from unexpected incidents, while my bond provides financial protection against theft or property damage.
+
+*Ready to schedule care for your pet? Take a look at my care and contact me to [get started!](../home/services/service2/)*
+
 <!-- ##### Meet my Pet Family!
 
 ##### Milo

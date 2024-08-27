@@ -1,5 +1,5 @@
 +++
-title = "Peace of Mind: Multi-day Care ($80)"
+title = "Peace of Mind: Multi-day Care ($65)"
 weight = 2
 +++
 
@@ -14,16 +14,16 @@ Prioritize your pet's well-being with consistent, familiar care. By maintaining 
 * **Peace of Mind:** Relax knowing your pet is receiving attentive, personalized care in the comfort of their own home. Enjoy peace of mind with regular updates and heartwarming photos capturing their adventures!
 
 ##### Peace of Mind Care
-* **1hr visit:** $80 *(1-2 pets)*
-* **2hr visit:** $100 *(3+ pets)*
+* **1hr visit:** $65 *(1-2 pets)*
+* **2hr visit:** $80 *(3-5 pets)* | $100 *(6+ pets)*
 
 ##### Discounted Peace of Mind Care
 I understand the importance of maintaining consistent care for both you and your pet, so I offer discounts for routine care.
-* **Monthly Peace of Mind (10% off):** Enjoy worry-free, routine care with *at least 5 visits per week.* Perfect for maintaining your pet's well-being throughout the month. Includes routine nail trimming for guinea pigs and rabbits.
-* **Peace of Mind Vacation Saver (5% off):** Perfect for trips away from home for *3 or more consecutive days.*
+* **Monthly Peace of Mind (20% off):** Perfect for maintaining your pet's well-being throughout the month. Enjoy worry-free, routine care with *at least 5 visits per week*. Includes routine nail trimming for guinea pigs and rabbits.
+* **Peace of Mind Vacation Saver (5-10% off):** Perfect when you're away from home for *3 or more consecutive days.* 5% off for 3-5 days, 10% off for 6 or more days.
 
 ##### Peace of Mind Additional Care
-* **Dog Walking:** $30 for an *additional hour* is needed for homes with *2 or more dogs* to ensure the health and safety of your pets. 
+* **Dog Walking:** $25 for at least an *additional hour* is needed for homes with *2 or more dogs* to ensure the health and safety of your pets. 
 
 ***Don't see what you need?** We can create a personalized plan just for you and pet. Reach out to discuss your perfect care plan!*
 
@@ -38,3 +38,5 @@ Because of my limited availability during holidays and special occasions, pet ca
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Looking for longer pet care? Take a look at [Home-Alone Hero: All-Day Care!](../service3/)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Want to learn more about your pet's caregiver? Learn more about me [here!](/about/)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*[Home](/)*
