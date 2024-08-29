@@ -21,7 +21,7 @@ I found myself working in a range of roles after college, from renewable energy 
 
 The first time I needed to leave home after adopting my adorable crew, panic set in. Finding someone to care for these little fluff balls, with their specific dietary needs and skittish personalities, felt like an impossible mission. Thankfully, I found a caring sitter, but the worry lingered – were there enough experienced sitters familiar with exotic pets like mine? This experience opened my eyes to the real struggle pet owners face, especially those with such unique companions.
 
-![about](../milo.jpg)
+![about](../milo.jpeg)
 *One of my many photogenic pets (and who you see everywhere) Milo!*
 
 ##### House of Guineas: Born from a Passion for Pets

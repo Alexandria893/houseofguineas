@@ -16,7 +16,7 @@ year = 2024
 avatar = "prof.jpeg"
 avatarclass = "circle"
 background = ""
-banner = "milo.jpg"
+banner = "milo.jpeg"
 favicon = "images/gt_favicon.png"
 DateForm = "January 2, 2006"
 author = "Sergey Pozhilov (GetTemplate.com)"
@@ -36,7 +36,7 @@ showFooterFormWidget = false
 name = "home"
 url = "/"
 weight = 1
-#[[menu.main]]
+# [[menu.main]]
 #  name = "blog"
 #  url = "/post/"
 # weight = 5
