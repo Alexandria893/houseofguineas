@@ -24,6 +24,8 @@ author = "Sergey Pozhilov (GetTemplate.com)"
 showSubheader = true
 showServices = true
 showRecentWorks = true
+# added reviews
+showReviews = true
 showDownloads = true
 showClients = true
 

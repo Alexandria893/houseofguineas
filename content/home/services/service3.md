@@ -27,9 +27,9 @@ Provide your pet with the best care and companionship through my extended visits
 | Need more time? Give me a call! |   Need more time? Give me a call!   | -->
 ##### Discounted Home-Alone Hero Care
 I understand the stress of leaving your pet alone, especially if they require extra attention. That's why I offer additional discounts to ensure your pet receives the care they need.
-* **Monthly Home-Alone Hero (10% off):** Ideal for pets needing additional care and support. Includes *at least 2 visits per week,* plus routine nail trimming for guinea pigs and rabbits.
+* **Monthly Home-Alone Hero (15% off):** Ideal for pets needing additional care and support. Includes *at least 2 visits per week,* plus routine nail trimming for guinea pigs and rabbits.
   
-* **Home-Alone Hero Vacation Saver (5% off):** Perfect for maintaining your pet's routine while you're away for *3 or more days.* Includes nail trims for guinea pigs and rabbits.
+* **Home-Alone Hero Vacation Saver (10% off):** Perfect for maintaining your pet's routine while you're away for *3 or more days.* Includes nail trims for guinea pigs and rabbits.
 
 ***Don't see what you need?** We can create a personalized plan just for you and pet. Reach out to discuss your perfect care plan!*
 
