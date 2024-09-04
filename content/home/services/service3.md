@@ -3,7 +3,7 @@ title = "Home-Alone Hero: All Day Care ($260)"
 weight = 3
 +++
 
-**4+ hour** extended, in-home care when you're out all day. Includes additional feeding, playtime and cuddles! **Discounted** for visits of **3 days or more**!
+**4+ hour** extended, in-home care when you're out all day. Includes additional feeding, playtime and cuddles! **Discounted** for **2 visits or more**!
 <!--more-->
 
 ##### Why Choose Extended Visits?
