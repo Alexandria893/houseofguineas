@@ -1,6 +1,6 @@
 +++
-title = "Home-Alone Hero: All Day Care ($260)"
-weight = 3
+title = "Home-Alone Hero: All Day Care ($100)"
+weight = 2
 +++
 
 **4+ hour** extended, in-home care when you're out all day. Includes additional feeding, playtime and cuddles! **Discounted** for **2 visits or more**!
@@ -14,11 +14,11 @@ Provide your pet with the best care and companionship through my extended visits
 * **Home-Alone Hero:** Relax knowing your pet is thriving with extended care and companionship. Stay connected with adorable photo updates and summaries of our time together!
 ##### Home-Alone Hero Care
 * **1-5 pets**
-    * 4hr visit: $260
-    * 6hr visit: $300 *(over 20% off!)*
+    * 4hr visit: $100
+    * 6hr visit: $150 
 * **6+ pets**
-    * 4hr visit: $320
-    * 6hr visit: $400 *(over 15% off!)*
+    * 4hr visit: $200
+    * 6hr visit: $250 
 
 <!-- | Per Visit (up to 2 pets)        |  3 or more   |
 | :------------------------------ | --- |

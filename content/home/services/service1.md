@@ -1,6 +1,6 @@
 +++
 title = "Errand Saver: Same-Day Care ($200)"
-weight = 1
+weight = 3
 +++
 
  **2+ hour**, same-day drop-ins in the comfort of your home - perfect for last-minute **emergency care!**
