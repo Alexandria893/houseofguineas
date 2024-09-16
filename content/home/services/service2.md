@@ -1,6 +1,6 @@
 +++
 title = "Peace of Mind: Multi-day Care ($45)"
-weight = 1
+weight = 2
 +++
 
 **1-2 hour** routine, worry-free visits, with attentive love and care for your furry (or feathery, or scaly) friend! **Discounted** for **3 visits or more**!

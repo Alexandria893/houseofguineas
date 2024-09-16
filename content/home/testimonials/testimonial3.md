@@ -1,6 +1,6 @@
 +++
 title = "Brianna B."
-weight = 1
+weight = 2
 +++
 
 *"Alexandria went over and beyond with her caregiving for our fur baby Mishi. She was amazing at keeping us in the loop with how Mishi was doing throughout the day and sent tons of photos.* 

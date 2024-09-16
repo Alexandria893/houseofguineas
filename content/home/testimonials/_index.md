@@ -1,5 +1,5 @@
 +++
-title = "Reviews"
+title = "Testimonials"
 type = "review"
 weight = 3
 +++

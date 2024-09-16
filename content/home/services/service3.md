@@ -1,9 +1,9 @@
 +++
-title = "Home-Alone Hero: All Day Care ($100)"
-weight = 2
+title = "Home-Alone Hero: All Day Care ($125)"
+weight = 1
 +++
 
-**4+ hour** extended, in-home care when you're out all day. Includes additional feeding, playtime and cuddles! **Discounted** for **2 visits or more**!
+**4+ hour** extended, in-home care when you're out all day. Includes additional feeding, playtime and cuddles! **Discounted** for **3 visits or more**!
 <!--more-->
 
 ##### Why Choose Extended Visits?
@@ -14,11 +14,11 @@ Provide your pet with the best care and companionship through my extended visits
 * **Home-Alone Hero:** Relax knowing your pet is thriving with extended care and companionship. Stay connected with adorable photo updates and summaries of our time together!
 ##### Home-Alone Hero Care
 * **1-5 pets**
-    * 4hr visit: $100
+    * 4hr visit: $125
     * 6hr visit: $150 
 * **6+ pets**
-    * 4hr visit: $200
-    * 6hr visit: $250 
+    * 4hr visit: $175
+    * 6hr visit: $200 
 
 <!-- | Per Visit (up to 2 pets)        |  3 or more   |
 | :------------------------------ | --- |
@@ -27,9 +27,9 @@ Provide your pet with the best care and companionship through my extended visits
 | Need more time? Give me a call! |   Need more time? Give me a call!   | -->
 ##### Discounted Home-Alone Hero Care
 I understand the stress of leaving your pet alone, especially if they require extra attention. That's why I offer additional discounts to ensure your pet receives the care they need.
-* **Monthly Home-Alone Hero (15% off):** Ideal for pets needing additional care and support. Includes *at least 2 visits per week,* plus routine nail trimming for guinea pigs and rabbits.
+* **Monthly Home-Alone Hero (10% off):** Ideal for pets needing additional care and support. Includes *at least 3 visits per week,* plus routine nail trimming for guinea pigs and rabbits.
   
-* **Home-Alone Hero Vacation Saver (10% off):** Perfect for maintaining your pet's routine while you're away for *3 or more days.* Includes nail trims for guinea pigs and rabbits.
+* **Home-Alone Hero Vacation Saver (5% off):** Perfect for maintaining your pet's routine while you're away for *3 or more consecutive days.*
 
 ***Don't see what you need?** We can create a personalized plan just for you and pet. Reach out to discuss your perfect care plan!*
 
