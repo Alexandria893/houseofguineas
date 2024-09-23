@@ -1,5 +1,5 @@
 +++
-title = "Home-Alone Hero: All Day Care ($125)"
+title = "Home-Alone Hero: All Day Care"
 weight = 1
 +++
 

@@ -1,9 +1,9 @@
 +++
-title = "Peace of Mind: Multi-day Care ($45)"
+title = "Peace of Mind: Multi-day Care"
 weight = 2
 +++
 
-**1-2 hour** routine, worry-free visits, with attentive love and care for your furry (or feathery, or scaly) friend! **Discounted** for **3 visits or more**!
+**1-2 hour** routine, worry-free visits, with attentive love and care for your furry (or feathery, or scaly) friend! **Discounted** for visits over **3 days or more**!
 
 <!--more-->
 
@@ -19,7 +19,10 @@ Prioritize your pet's well-being with consistent, familiar care. By maintaining 
 
 ##### Discounted Peace of Mind Care
 I understand the importance of maintaining consistent care for both you and your pet, so I offer discounts for routine care.
-* **Monthly Peace of Mind (15% off):** Perfect for maintaining your pet's well-being throughout the month. Enjoy worry-free, routine care with *at least 3 visits per week*. Includes routine nail trimming for guinea pigs and rabbits.
+* **Monthly Peace of Mind (15% off):** Perfect for maintaining your pet's well-being throughout the month. Enjoy worry-free, routine care with *3 or 5 visits per week*. Includes routine nail trimming for guinea pigs and rabbits.
+
+    * *Want more weekly visits? Give me a call and let's make it happen!*
+
 * **Peace of Mind Vacation Saver (5-10% off):** Perfect when you're away from home for *3 or more consecutive days.* 5% off for 3-5 days, 10% off for 6 or more days.
 
 ##### Peace of Mind Additional Care

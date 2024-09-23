@@ -1,9 +1,9 @@
 +++
-title = "Errand Saver: Same-Day Care ($200)"
+title = "Errand Saver: Same-Day Care"
 weight = 3
 +++
 
- **2+ hour**, same-day drop-ins in the comfort of your home - perfect for last-minute **emergency care!**
+ **2+ hour**, same-day drop-ins in the comfort of your home - perfect for **last-minute care!**
 
 <!--more-->
 *Note: As same-day care could conflict with routine pet-care, please contact me as soon as possible to make sure your pet(s) have the care they need.*
