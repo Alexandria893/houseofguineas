@@ -8,25 +8,25 @@ weight = 2
 <!--more-->
 
 ##### Why Choose Multi-Day Care?
-Prioritize your pet's well-being with consistent, familiar care. By maintaining their daily routine, I help prevent stress and anxiety often caused by abrupt changes in their schedules. Safeguard your pet's comfort and security with a dedicated caregiver providing loving companionship.
+Your home is your pet's safe-haven. By maintaining their daily routine in a familiar space, I help prevent stress and anxiety often caused by abrupt changes in their environment. Let me help you keep your pet's world consistent.
 * **Consistent Care:** Enjoy peace of mind knowing your pet receives dedicated love and attention, including feeding, medication, playtime and cuddles. 
 * **Extra Perks:** Take advantage of complimentary home upkeep like tidying, plant care and mail retrieval.
-* **Peace of Mind:** Relax knowing your pet is receiving attentive, personalized care in the comfort of their own home. Enjoy peace of mind with regular updates and heartwarming photos capturing their adventures!
+* **Peace of Mind:** Relax knowing your pet is receiving attentive, personalized care in the comfort of their own home. Enjoy peace of mind with regular updates capturing their adventures!
 
 ##### Peace of Mind Care
-* **1hr visit:** $45 *(1-2 pets)*
-* **2hr visit:** $60 *(3-5 pets)* | $80+ *(6+ pets)*
+* **1hr visit:** $50 *(1-2 pets)*
+* **2hr visit:** $65 *(3-5 pets)* | $80+ *(6+ pets)*
 
 ##### Discounted Peace of Mind Care
 I understand the importance of maintaining consistent care for both you and your pet, so I offer discounts for routine care.
-* **Monthly Peace of Mind (15% off):** Perfect for maintaining your pet's well-being throughout the month. Enjoy worry-free, routine care with *3 or 5 visits per week*. Includes routine nail trimming for guinea pigs and rabbits.
+* **Monthly Peace of Mind (10% off):** Perfect for maintaining your pet's well-being throughout the month. Enjoy worry-free, routine care with *3 or 5 visits per week*. Includes routine nail trimming for guinea pigs and rabbits.
 
-    * *Want more weekly visits? Give me a call and let's make it happen!*
+     * *Want more weekly visits? Give me a call and let's make it happen!*
 
-* **Peace of Mind Vacation Saver (5-10% off):** Perfect when you're away from home for *3 or more consecutive days.* 5% off for 3-5 days, 10% off for 6 or more days.
-
+* **Peace of Mind Vacation Saver (5% off):** Perfect when you're away from home for *3 or more consecutive days.*
+<!-- 
 ##### Peace of Mind Additional Care
-* **Dog Walking:** $25 for at least an *additional hour* is needed for homes with *2 or more dogs* to ensure the health and safety of your pets. 
+* **Dog Walking:** $25 for at least an *additional hour* is needed for homes with *2 or more dogs* to ensure the health and safety of your pets.  -->
 
 ***Don't see what you need?** We can create a personalized plan just for you and pet. Reach out to discuss your perfect care plan!*
 
@@ -36,7 +36,7 @@ For our visits, I require note of a veterinary hospital. I will communicate with
 
 ##### Holiday Care
 
-Because of my limited availability during holidays and special occasions, pet care may be more than the regular rate. Please contact me as soon as possible to make sure your pet have the care they need.  
+Because of my limited availability during holidays and special occasions, pet care will be 1.5x the regular rate. Please contact me as soon as possible to make sure your pet have the care they need.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Looking for longer pet care? Take a look at [Home-Alone Hero: All-Day Care!](../service3/)*
 
