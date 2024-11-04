@@ -1,6 +1,6 @@
 +++
 title = "Home-Alone Hero: All Day Care"
-weight = 1
+weight = 3
 +++
 
 **4+ hour** extended, in-home care when you're out all day. Includes additional feeding, playtime and cuddles! 
