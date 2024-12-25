@@ -51,7 +51,7 @@ property = "123456789012345678901234"
 custom = true
 
 [params.google.analytics]
-trackerID = "GA-000000000-0"
+trackerID = "G-6JZQ3G0Q5M"
 
 [[params.social]]
 title = "tiktok"
