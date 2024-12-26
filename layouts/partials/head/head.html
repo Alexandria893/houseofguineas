@@ -14,6 +14,16 @@
 {{ $css := $styles | resources.Minify }}
 <link rel="stylesheet" href="{{ $css.Permalink }}">
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6JZQ3G0Q5M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6JZQ3G0Q5M');
+</script>
+
 <!-- Share this -->
 {{ if .Site.Params.customsharethis }}
 <script type="text/javascript"
