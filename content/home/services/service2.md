@@ -19,7 +19,7 @@ Your home is your pet's safe-haven. By maintaining their daily routine in a fami
 
 ##### Discounted Peace of Mind Care
 I understand the importance of maintaining consistent care for both you and your pet, so I offer discounts for routine care.
-* **Monthly Peace of Mind (10% off):** Perfect for maintaining your pet's well-being throughout the month. Enjoy worry-free, routine care with *3 or 5 visits per week*. Includes routine nail trimming for guinea pigs and rabbits.
+* **Monthly Peace of Mind (10% off):** Perfect for maintaining your pet's well-being throughout the month. Enjoy worry-free, routine care with *3 or 5 visits per week*. Includes routine nail trimming for guinea pigs.
 
      * *Want more weekly visits? Give me a call and let's make it happen!*
 
