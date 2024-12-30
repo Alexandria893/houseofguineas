@@ -7,7 +7,7 @@
             <span class="title" style="color: white">{{ .Site.Params.name }}</span>
             <span class="tagline" style="color: rgb(255, 255, 255)">{{ .Site.Params.description }}<br>
                 <!-- <a href="mailto:{{ .Site.Params.email }}" style="color: white">{{ .Site.Params.email }}</a> -->
-                <p>415-484-6493</p>
+                <p>{{ if .Site.Params.phone }}<a href="tel:{{ .Site.Params.phone }}" style="color: white;">{{ .Site.Params.phone }}</a><br>{{ end }}
             </span>
         </h1>
     </div>
