@@ -16,8 +16,8 @@ weight = 1
 
  ##### Errand Saver Care
  *(2hrs included in care; plus $20/hr for additional hours)*
- * **1-2 pets:** $100
- * **3+ pets:** $150 
+ * **1-2 pets:** $350
+ * **3+ pets:** $600 
 
 <!-- ##### Errand Saver Additional Care
 <!-- 
