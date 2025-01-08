@@ -23,7 +23,7 @@ I understand the importance of maintaining consistent care for both you and your
 
      * *Want more weekly visits? Give me a call and let's make it happen!*
 
-* **Peace of Mind Vacation Saver (5% off):** Perfect when you're away from home for *3 or more consecutive days.*
+* **Peace of Mind Vacation Saver (5% off):** Perfect when you're away from home for *5 or more consecutive days.*
 <!-- 
 ##### Peace of Mind Additional Care
 * **Dog Walking:** $25 for at least an *additional hour* is needed for homes with *2 or more dogs* to ensure the health and safety of your pets.  -->
