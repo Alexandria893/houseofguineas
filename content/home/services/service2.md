@@ -3,7 +3,7 @@ title = "Peace of Mind: Multi-day Care"
 weight = 2
 +++
 
-**1-2 hour** routine, worry-free visits, with attentive love and care for your furry (or feathery, or scaly) friend! **Discounted** for visits over **3 days or more**!
+**1-2 hour** routine, worry-free visits, with attentive love and care for your furry (or feathery, or scaly) friend! **Discounted** for visits over **5 days or more**!
 
 <!--more-->
 
