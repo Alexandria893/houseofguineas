@@ -15,9 +15,9 @@ Provide your pet with the best care and companionship through my extended visits
 * **Home-Alone Hero:** Relax knowing your pet is thriving with extended care and companionship. Stay connected with adorable photo updates and summaries of our time together!
 ##### Home-Alone Hero Care
 * **4hr visit:** 
-    * $150 *(1-5 pets)*
-    * $200 *(6+ pets)*
-
+* **(1-2 pets):** $285
+* **(3-5 pets):** $385
+* **(6+ pets):** $500+
 
     
 <!-- ##### Discounted Home-Alone Hero Care

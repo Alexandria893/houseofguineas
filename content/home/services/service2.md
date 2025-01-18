@@ -15,11 +15,11 @@ Your home is your pet's safe-haven. By maintaining their daily routine in a fami
 
 ##### Peace of Mind Care
 * **1hr visit:** $70 *(1-2 pets)*
-* **2hr visit:** $95 *(3-5 pets)* | $125+ *(6+ pets)*
+* **2hr visit:** $140 *(3-5 pets)* | $210+ *(6+ pets)*
 
 ##### Discounted Peace of Mind Care
 I understand the importance of maintaining consistent care for both you and your pet, so I offer discounts for routine care.
-* **Monthly Peace of Mind (15% off):** Perfect for maintaining your pet's well-being throughout the month. Enjoy worry-free, routine care with *3 or 5 visits per week* over a 4 week period. Includes routine nail trimming for guinea pigs.
+* **Monthly Peace of Mind (15% off):** Perfect for maintaining your pet's well-being throughout the month. Enjoy worry-free, routine care with *3 or 5 visits per week* over a 30-day period. Includes routine nail trimming for guinea pigs.
 
      * *Want more weekly visits? Give me a call and let's make it happen!*
 

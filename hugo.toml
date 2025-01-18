@@ -7,12 +7,12 @@ style = 'default'
 
 [params]
 name = "House of Guineas LLC"
-description = "San Francisco's exotic pet sitter"
+description = "San Francisco's Exotic Pet Sitter"
 
 email = "houseofguineas@gmail.com"
 phone = "415-484-6493"
 address = "San Francisco, CA"
-year = 2024
+year = 2025
 avatar = "prof.jpeg"
 avatarclass = "circle"
 background = ""

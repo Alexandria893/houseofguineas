@@ -15,9 +15,9 @@ weight = 1
  * Medication Administration *(if needed)*
 
  ##### Errand Saver Care
- *(2hrs included in care; plus $20/hr for additional hours)*
- * **1-2 pets:** $350
- * **3+ pets:** $600 
+ *(2hrs included in care; plus $30/hr for each additional hours)*
+ * **1-3 pets:** $500
+ * **4+ pets:** $700+ 
 
 <!-- ##### Errand Saver Additional Care
 <!-- 
