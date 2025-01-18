@@ -14,8 +14,8 @@ Your home is your pet's safe-haven. By maintaining their daily routine in a fami
 * **Peace of Mind:** Relax knowing your pet is receiving attentive, personalized care in the comfort of their own home. Enjoy peace of mind with regular updates capturing their adventures!
 
 ##### Peace of Mind Care
-* **1hr visit:** $70 *(1-2 pets)*
-* **2hr visit:** $140 *(3-5 pets)* | $210+ *(6+ pets)*
+* **1hr visit:** $75 *(1-2 pets)*
+* **2hr visit:** $105 *(3-5 pets)* | $135+ *(6+ pets)*
 
 ##### Discounted Peace of Mind Care
 I understand the importance of maintaining consistent care for both you and your pet, so I offer discounts for routine care.
