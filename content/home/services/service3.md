@@ -35,9 +35,9 @@ For our visits, I require note of a veterinary hospital. I will communicate with
 ##### Holiday Care
 
 Because of my limited availability during holidays and special occasions, pet care will be 1.5x the regular rate. Please contact me as soon as possible to make sure your pet have the care they need.  
- 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Want to learn more about your pet's caregiver? Learn more about me [here!](/about/)*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*[Home](/)*
+| *Looking for more routine pet care? Take a look at [Peace of Mind Multi-Day Care!](../service2/)* | 
+|:---:|
+| *Want to learn more about your pet's caregiver? Learn more about me [here!](/about/)* |  
+| *[Home](/)* |
 
