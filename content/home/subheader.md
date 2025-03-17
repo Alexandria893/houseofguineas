@@ -5,8 +5,12 @@ title = ""
 
 
 <!-- 🐾 [As an exotic pet parent,](\about), I understand the unique and thorough care of exotic pets. the love and care they deserve. Explore my care services below and contact me to discuss how I can best meet you and your pet's needs! -->
+*Serving San Francisco, California*
 
-Welcome to a pet care service that [truly understands exotic animals.](/about) Combining exotic veterinary hospital experience with ongoing education, I ensure your beloved companions receive exceptional, specialized care. Your extraordinary pet deserves the best – contact me to make their perfect care plan!
+
+<!-- Welcome to a pet care service that [truly understands exotic animals.](/about) Combining [exotic veterinary experience](../home/services/service1.md) with ongoing education, I ensure your beloved companions receive exceptional, specialized care. Your extraordinary pet deserves the best – contact me to make their perfect care plan! -->
+
+Welcome to a pet care service that [truly understands exotic animals.](/about) Combining exotic veterinary experience with ongoing education, I ensure your beloved companions receive exceptional, specialized care. Your extraordinary pet deserves the best – contact me to make their perfect care plan!
 
 <!-- _*** **Starting December 30th 2024**, any care made during the last 2 weeks of the month of December to the first week of January will include an additional, non-refundable charge of 150 for last-minute care ***_ -->
 

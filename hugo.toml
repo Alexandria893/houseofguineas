@@ -6,8 +6,8 @@ style = 'default'
 
 
 [params]
-name = "House of Guineas LLC"
-description = "San Francisco's Exotic Pet Care Professional"
+name = "House of Guineas Pet Care"
+description = "San Francisco's Exotic Pet Professional"
 email = "houseofguineas@gmail.com"
 phone = "415-484-6493"
 address = "San Francisco, CA"
@@ -80,7 +80,7 @@ network = "youtube"
 title = "linkedin"
 url = "https://www.linkedin.com/in/alexandria-b-65b845100/"
 icon = "fa-brands fa-linkedin"
-footer = true
+footer = false
 sharethis = false
 network = "linkedin"
 

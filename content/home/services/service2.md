@@ -1,34 +1,41 @@
 +++
-title = "Peace of Mind: Multi-day Care"
+title = "In-Home Visits"
 weight = 2
 +++
 
-**1-2 hour** routine, worry-free visits, with attentive love and care for your furry (or feathery, or scaly) friend! **Discounted** for visits over **5 days or more**!
+**1-2 hour** routine visits, with attentive love and care for your furry (or feathery, or scaly) friend! **Discounted** for routine care.
 
 <!--more-->
 
-##### Why Choose Multi-Day Care?
+##### Why Choose Routine Care?
 Your home is your pet's safe-haven. By maintaining their daily routine in a familiar space, I help prevent stress and anxiety often caused by abrupt changes in their environment. Let me help you keep your pet's world consistent.
-* **Consistent Care:** Enjoy peace of mind knowing your pet receives dedicated love and attention, including feeding, medication, playtime and cuddles. 
-* **Extra Perks:** Take advantage of complimentary home upkeep like tidying, plant care and mail retrieval.
-* **Peace of Mind:** Relax knowing your pet is receiving attentive, personalized care in the comfort of their own home. Enjoy peace of mind with regular updates capturing their adventures!
+* **Pet Care:** Be at ease knowing your pet receives dedicated love and attention, including feeding, medication, affection and enrichment.
+* **Home Care:** Care includes home upkeep like tidying, plant care and mail retrieval. I can also alternate lights and blinds upon request.
+* **Peace of Mind:** Relax knowing your pet receives attentive, personalized care in the comfort of their own home. Have peace of mind with daily updates of their care and well-being.
 
-##### Peace of Mind Care
-* **1hr visit:** $75 *(1-2 pets)*
-* **2hr visit:** $125 *(3-5 pets)* | $180+ *(6+ pets)*
+##### Errand Saver: Individual Visits
+* **1hr visit:** $75 *base rate* | $12 *per additional pet*
 
-##### Discounted Peace of Mind Care
-I understand the importance of maintaining consistent care for both you and your pet, so I offer discounts for routine care.
-* **Monthly Peace of Mind (15% off):** Perfect for maintaining your pet's well-being throughout the month. Enjoy worry-free, routine care with *3 or 5 visits per week* over a 30-day period. Includes routine nail trimming for guinea pigs.
+##### Peace of Mind: Routine Visits
+I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day visits* over *at least 5 consecutive days*.
+* **1hr visit:** $65 *base rate* | $12 *per additional pet*
 
-     * *Want more weekly visits? Give me a call and let's make it happen!*
+##### Home Alone Hero: Daily Visits
+Enjoy daily visits over *at least 7 consecutive days*.
+* **1hr visit:** $70 *base rate* | $12 *per additional pet*
 
-* **Peace of Mind Vacation Saver (5% off):** Perfect when you're away from home for *5 or more consecutive days.*
+**Note: For 1-3 pets, standard visits are 1 hour. For 4 or more pets, standard visits may be 2 hours to ensure proper care for each animal.*
+
+* *Location Surcharges:*
+     * Within 2 miles: Standard rates apply
+     * 2-3 miles away: additional $10 per visit for 1-2 pets | additional $5 per visit for 3+ pets
+
+
 <!-- 
 ##### Peace of Mind Additional Care
 * **Dog Walking:** $25 for at least an *additional hour* is needed for homes with *2 or more dogs* to ensure the health and safety of your pets.  -->
 
-***Don't see what you need?** We can create a personalized plan just for you and pet. Reach out to discuss your perfect care plan!*
+<!-- ***Don't see what you need?** We can create a personalized plan just for you and pet. Reach out to discuss your perfect care plan!* -->
 
 ##### Emergency Care
 
@@ -38,7 +45,11 @@ For our visits, I require note of a veterinary hospital. I will communicate with
 
 Because of my limited availability during holidays and special occasions, pet care will be 1.5x the regular rate. Please contact me as soon as possible to make sure your pet have the care they need.  
 
-| *Looking for longer pet care? Take a look at [Home-Alone Hero: All-Day Care!](../service3/)* | 
+<!-- | *Take a look at some common answers about House of Guineas [here](../service3/)* | 
 |:---:|
 | *Want to learn more about your pet's caregiver? Learn more about me [here!](/about/)* |  
-| *[Home](/)* |
+| *[Home](/)* | -->
+
+| *Want to learn more about your pet's caregiver? Learn more about me [here!](/about/)* |  
+|:---:|
+|*[Home](/)*|

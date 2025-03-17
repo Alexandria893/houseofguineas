@@ -4,5 +4,5 @@ type = "service"
 weight = 1
 +++
 
-<!-- ![home](../Coco.jpg) -->
+<!-- ![service](../Coco.jpg) -->
 

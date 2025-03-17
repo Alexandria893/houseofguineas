@@ -19,13 +19,15 @@ I found myself working in a range of roles after college, from renewable energy 
 
 ##### Challenges Away from Home
 
-The first time I needed to leave home after adopting my adorable crew, panic set in. Finding someone to care for these little fluff balls, with their specific dietary needs and skittish personalities, felt like an impossible mission. Thankfully, I found a caring sitter, but the worry lingered – were there enough experienced sitters familiar with exotic pets like mine? This experience opened my eyes to the real struggle pet owners face, especially those with such unique companions.
+The first time I needed to leave home after adopting my adorable crew, panic set in. Finding someone to care for these little fluff balls, with their specific dietary needs and skittish personalities, felt like an impossible mission. Thankfully, I found a caring sitter, but the worry lingered – were there enough experienced sitters familiar with exotic pets like mine? This experience opened my eyes to the challenges of finding reliable care for my unique companions.
 
 ![about](../milo.jpeg)
 *One of my many photogenic pets (and who you see everywhere) Milo!*
 
 ##### House of Guineas: Born from a Passion for Pets
 The occasional trip became a logistical hurdle – reliable and knowledgeable exotic pet sitters were scarce. This experience fueled my desire to create House of Guineas: a service offering experienced, routine care for exotic pets, and peace of mind for their owners.
+
+<!-- PUT IN FAQ SECTION
 
 ##### Your Pet's Care
 
@@ -34,7 +36,7 @@ I understand the stress of having someone access your home. I assure you that I 
 I adapt to each pet I care for and follow instructions to a T so you can focus on your time away. Message me to learn more about how I can care for your cuties - I'd be happy to answer any questions you may have! 
 
 ##### Certified, Bonded & Insured
-Rest assured, your pet's safety and well-being is my top priority. I am certified in Pet CPR and First Aid, bonded, and insured for your complete peace of mind. As a proud member of Pet Sitters International, the world's largest pet sitting association, I adhere to the highest industry standards. My insurance protects you from unexpected incidents, while my bond provides financial protection against theft or property damage.
+Rest assured, your pet's safety and well-being is my top priority. I am certified in Pet CPR and First Aid, bonded, and insured for your complete peace of mind. As a proud member of Pet Sitters International, the world's largest pet sitting association, I adhere to the highest industry standards. My insurance protects you from unexpected incidents, while my bond provides financial protection against theft or property damage. -->
 
 *Ready to schedule care for your pet? Take a look at my care and contact me to [get started!](../home/services/service2/)*
 
