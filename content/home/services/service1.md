@@ -27,23 +27,18 @@ As a former Veterinary Assistant at the Bay Area Bird and Exotics Hospital in Sa
 
 My professional background ensures that your exotic pets receive the attentive, knowledgeable care they deserve when you're away. This isn't just pet sitting—it's specialized care from someone who loves animals and understands the unique needs of each pet.
 
-##### Animal Exposure at
-
-##### Reptiles:
-
-* Snakes
-* Fat-tailed Geckos
-* Bearded Dragons
-* Chameleons
-* Large Tortoises (We often needed a scale for dogs to measure these guys!)
-* Box Turtles
+##### Animal's I've seen and will happily care for:
 
 ##### Birds:
 
 * Budgies (often interchanged with parakeets~)
+* Finches
+* Parrots
+* Cockatoos
 * African Greys
 * Chickens
 * Ducks
+* Conures 
 
 ##### Small Mammals:
 
@@ -51,11 +46,38 @@ My professional background ensures that your exotic pets receive the attentive, 
 * Rats
 * Guinea Pigs
 * Rabbits (from Dwarf to Flemish Giants)
+* Chinchillas
+
+##### Reptiles:
+
+* Snakes
+* Fat-tailed Geckos
+* Leopard Geckos
+* Bearded Dragons
+* Chameleons
+* Iguanas
+* Large Tortoises (We often needed a scale for dogs to measure these guys!)
+* Box Turtles
+
+##### Amphibians:
+* Newts
+* Frogs
+* Axolotls 
+* Bearded Dragons
+
+##### Aquarium Buddies:
+* Fish
+* Eels
+* Crabs 
+* Snails
+* Shrimp
+
+*And many more!*
 
 <!-- | *Ready to create a care plan? Get started with my [pet care services](../service2/)* | 
 |:---:|
-| *Did you know I have my own at-home zoo? Learn more about your pet's caregiver [here!](/about/)* |  
+| *Did you know I have my own personal zoo of exotic pets? Learn more about your pet's caregiver [here!](/about/)* |  
 | *[Home](/)* | -->
-|*Ready to create your perfect care plan? Get started with my [pet care services](../service2/)*| 
+|  *Ready to create your perfect care plan? Get started with my [pet care services](../service2/)* | 
 |:---:|
 |*[Home](/)*|
