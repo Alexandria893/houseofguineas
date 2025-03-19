@@ -28,7 +28,7 @@ Enjoy daily visits over *at least 7 consecutive days*.
 
 ##### *Location Surcharges:*
 * Within 2 miles: Standard rates apply
-* 2-3 miles away: additional $10 per visit for 1-2 pets | additional $5 per visit for 3+ pets
+* 2-3 miles away: $15 per visit
 
 
 <!-- 
