@@ -16,15 +16,15 @@ Your home is your pet's safe-haven. By maintaining their daily routine in a fami
 **Note: For 1-3 pets, standard visits are 1 hour. For 4 or more pets, standard visits may be 2 hours to ensure proper care for each animal.*
 
 ##### Errand Saver: Individual Visits
-* **1hr visit:** $75 *base rate* | $12 *per additional pet*
+* **1hr visit:** $80 *base rate* | $12 *per additional pet*
 
 ##### Peace of Mind: Routine Visits
 I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day visits* over *at least 5 consecutive days*.
-* **1hr visit:** $65 *base rate* | $12 *per additional pet*
+* **1hr visit:** $70 *base rate* | $12 *per additional pet*
 
 ##### Home Alone Hero: Daily Visits
 Enjoy daily visits over *at least 7 consecutive days*.
-* **1hr visit:** $70 *base rate* | $12 *per additional pet*
+* **1hr visit:** $75 *base rate* | $12 *per additional pet*
 
 ##### *Location Surcharges:*
 * Within 2 miles: Standard rates apply
