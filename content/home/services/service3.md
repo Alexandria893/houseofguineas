@@ -19,7 +19,7 @@ Have a question about San Francisco's House of Guineas Pet Care services? Take a
 * I understand the stress of having someone access your home. I assure you that I value you and your pet's well-beings, and will make sure that the fort is locked down and secured during my stay. I'll check that the doors and windows are locked, pet is secured (if they're in an enclosure), and no unnecessary lights are on. 
 
 ##### Are you insured?
-* Rest assured, your pet's safety and well-being is my top priority. I am certified in Pet CPR and First Aid, bonded, and insured for your complete peace of mind. As a proud member of Pet Sitters International, the world's largest pet sitting association, I adhere to the highest industry standards. My insurance protects you from unexpected incidents, while my bond provides financial protection against theft or property damage.
+* Rest assured, your pet's safety and well-being is my top priority. I am certified in Pet CPR and First Aid, bonded, and insured for your complete peace of mind. As a member of [Pet Sitters International](https://www.petsit.com/pet-sitter-san-francisco-ca-house-of-guineas-llc), the world's largest pet sitting association, I adhere to the highest industry standards. My insurance protects you from unexpected incidents, while my bond provides financial protection against theft or property damage.
 
 ##### What are your service areas?
 * House of Guineas Pet Care services most of San Francisco, California. For clients who are 2-3 miles away, an additional travel charge of $15 will apply. 

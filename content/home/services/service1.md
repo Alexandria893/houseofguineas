@@ -23,7 +23,7 @@ Exotic pets have specialized needs that differ significantly from traditional pe
 <!-- Your exotic pet deserves specialized care from someone who understands their unique needs. With my veterinary assistant experience and genuine passion for exotic animals, I provide pet sitting services that go beyond the basics to ensure your pet's health, happiness, and well-being while you're away. -->
 
 #### My Veterinary Background: Expertise You Can Trust
-As a former Veterinary Assistant at the Bay Area Bird and Exotics Hospital in San Francisco, I bring specialized knowledge and hands-on experience to exotic pet sitting. During my time at the veterinary hospital, I developed the skills and understanding necessary to provide exceptional care for your unique animal companions.
+As a former Veterinary Assistant at the [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco, I bring specialized knowledge and hands-on experience to exotic pet sitting. During my time at the veterinary hospital, I developed the skills and understanding necessary to provide exceptional care for your unique animal companions.
 
 My professional background ensures that your exotic pets receive the attentive, knowledgeable care they deserve when you're away. This isn't just pet sitting—it's specialized care from someone who loves animals and understands the unique needs of each pet.
 
