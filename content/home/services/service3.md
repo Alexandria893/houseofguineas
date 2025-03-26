@@ -31,7 +31,7 @@ Have a question about San Francisco's House of Guineas Pet Care services? Take a
 For our visits, I require note of a veterinary hospital. I will communicate with you first for any small situations, and will take immediate action in emergencies to admit your pet and will communicate with you once your pet is admitted. 
 
 ##### Which animals does House of Guineas Pet Care service?
-* House of Guineas Pet Care offers specialized care for exotic animals. With a background as a veterinary assistant at an exotic pet hospital in San Francisco, as well as [growing up around animals in the city](/about), I am experienced with a sleuth of pets. 
+* House of Guineas Pet Care offers specialized care for exotic animals. With a background as a veterinary assistant at an exotic pet hospital in San Francisco, as well as [growing up around animals in the city](/about), I am experienced with a variety of pets. 
 
 * These pets include but are not limited to: small mammals (rats, hamsters, rabbits etc), birds (parakeets, ducks, chickens etc), reptiles and amphibians (snakes, bearded dragons, geckos, frogs etc), aquarium buddies (fish, shrimp, crabs etc) and cats.
 
@@ -42,6 +42,6 @@ No problem, these things happen. Please be aware that any sits scheduled within 
 Because of my limited availability during holidays and special occasions, pet care will be 1.5x the regular rate.  Please be aware that any sits scheduled within 7 days of the needed care over a holiday, care will include a $50 holiday surcharge. Because last-minute care can conflict with routine clients, please contact me as soon as possible to make sure your pet have the care they need.
 
 <!-- put some of the info from the about page to the FAQs, as well as holiday rates. Goal is to make the services page shorter -->
-|  *Ready to create your perfect care plan? Get started with my [pet care services](../service2/)* | 
+|  *Ready to create your perfect care plan? Get started with my [pet care services](../service2)* | 
 |:---:|
 |*[Home](/)*|

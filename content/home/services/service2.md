@@ -53,6 +53,6 @@ Enjoy daily visits over *at least 7 consecutive days*.
 | *Want to learn more about your pet's caregiver? Learn more about me [here!](/about/)* |  
 | *[Home](/)* | -->
 
-| *Want to learn more about your pet's caregiver? Learn more about me [here!](/about/)* |  
+| *Want to learn more about your pet's caregiver? Learn more about me [here!](../service1/)* |  
 |:---:|
 |*[Home](/)*|
