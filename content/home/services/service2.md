@@ -3,7 +3,7 @@ title = "In-Home Visits"
 weight = 2
 +++
 
-**1-2 hour** routine visits, with attentive love and care for your furry (or feathery, or scaly) friend! **Discounted** for routine care.
+Routine visits with attentive love and care for your furry (or feathery, or scaly) friend!
 
 <!--more-->
 
@@ -13,22 +13,32 @@ Your home is your pet's safe-haven. By maintaining their daily routine in a fami
 * **Home Care:** Care includes home upkeep like tidying, plant care and mail retrieval. I can also alternate lights and blinds upon request.
 * **Peace of Mind:** Relax knowing your pet receives attentive, personalized care in the comfort of their own home. Have peace of mind with daily updates of their care and well-being.
 
-**Note: For 1-3 pets, standard visits are 1 hour. For 4 or more pets, standard visits may be 2 hours to ensure proper care for each animal.*
+<!-- **Note: For households with 4 or more pets, standard rates include $15 per additional pet to ensure proper care for each animal.* -->
+<!-- **Note: For 1-3 pets, standard rates apply. For 4 or more pets, standard rates include $15 per additional pet to ensure proper care for each animal.* -->
 
-##### Errand Saver: Individual Visits
-* **1hr visit:** $80 *base rate* | $12 *per additional pet*
+##### Peace of Mind Visits:
+* **1hr visit (1-2 pets):** $75
+* **Additional pets (3+):** $15 per pet
+
+<!-- ##### Errand Saver: Veterinary Visits
+Unable to take off of work to take your pet(s) to the vet? I can help you make sure your pet has the care they need!
+* **1hr visit:** $125 -->
+
+<!-- ##### Errand Saver: Individual Visits
+* **1hr visit:** $85
 
 ##### Peace of Mind: Routine Visits
 I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day visits* over *at least 5 consecutive days*.
-* **1hr visit:** $70 *base rate* | $12 *per additional pet*
+* **1hr visit:** $75
 
 ##### Home Alone Hero: Daily Visits
 Enjoy daily visits over *at least 7 consecutive days*.
-* **1hr visit:** $75 *base rate* | $12 *per additional pet*
+* **1hr visit:** $80 -->
 
-##### *Location Surcharges:*
+##### Location Surcharges:
 * Within 2 miles: Standard rates apply
 * 2-3 miles away: $15 per visit
+* 3+ miles away: Let's have a call and figure out a plan!
 
 
 <!-- 
@@ -37,13 +47,6 @@ Enjoy daily visits over *at least 7 consecutive days*.
 
 <!-- ***Don't see what you need?** We can create a personalized plan just for you and pet. Reach out to discuss your perfect care plan!* -->
 
-##### Emergency Care
-
-For our visits, I require note of a veterinary hospital. I will communicate with you first for any small situations, and will take immediate action in emergencies to admit your pet and will communicate with you once your pet is admitted. 
-
-##### Holiday Care
-
-Because of my limited availability during holidays and special occasions, pet care will be 1.5x the regular rate. Please contact me as soon as possible to make sure your pet have the care they need.  
 
 <!-- | *Take a look at some common answers about House of Guineas [here](../service3/)* | 
 |:---:|

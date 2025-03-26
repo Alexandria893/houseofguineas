@@ -3,7 +3,7 @@ title = "Exotic Veterinary Experience"
 weight = 1
 +++
 
-It's important to have a knowledgeable and caring sitter for your unique pet. Learn more about my veterinary experience and pets serviced.
+It's important to have a knowledgeable and caring professional sitter for your unique pet. Learn more about my veterinary experience and pets serviced.
 <!--more-->
 
 <!-- ![service](../cert.png) -->
@@ -63,7 +63,6 @@ My professional background ensures that your exotic pets receive the attentive, 
 * Newts
 * Frogs
 * Axolotls 
-* Bearded Dragons
 
 ##### Aquarium Buddies:
 * Fish
