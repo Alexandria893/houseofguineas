@@ -6,6 +6,6 @@ weight = 3
 
 *She takes great care of her own pets, and will treat yours as if they were her own. She is an excellent pet sitter, and you will not regret hiring her!"*
 
-* *view more testimonials from [Google reviews](https://www.google.com/search?client=opera&q=house+of+guineas&sourceid=opera&ie=UTF-8&oe=UTF-8#lrd=0xd4b9a97efc430e3:0x55357195846c7b57,1,,,,)*
+* *view more testimonials from [Google reviews](https://www.google.com/search?client=opera&hs=SSy&sca_esv=4d0581c537874d20&sxsrf=AHTn8zoQrLffw7MqiYPKObiZxJ1jt7ofeg:1743027491876&si=APYL9bs7Hg2KMLB-4tSoTdxuOx8BdRvHbByC_AuVpNyh0x2KzeoctBtRUuAU1OLA3sOjuye6wyQnvZg-UZqkjmn0dOvUlevQTKxtlTqxETPIYPwdw0XXvoPQbA0bhsy050nc-ATrNyk_m5qzg2dHPk0o0zvrbU9CGQ%3D%3D&q=House+of+Guineas+Pet+Care+Reviews&sa=X&ved=2ahUKEwibvvKz46iMAxV9MDQIHbvgNPAQ0bkNegQIMBAD&cshid=1743027506897032)*
 * *as well as [Yelp reviews](https://www.yelp.com/biz/house-of-guineas-san-francisco-2?osq=House+of+Guineas)*
 <!--more-->
