@@ -8,7 +8,7 @@ Have a question about San Francisco's House of Guineas Pet Care services? Take a
 
 <!-- ***Looks like Kai nibbled on the page again...FAQs is coming soon!*** -->
 ##### What is a Meet and Greet, and what will it look like?
-* A meet and greet is a brief visit to your home. This is the time for me to get to know you, your pet(s) and answer any remaining questions you have. After covering care for your pets, this would be the time to hand-off any physical keys to access your home. Please disregard this if you have a keycode or digital codes for accessing your home.
+* A meet and greet is a brief visit to your home. This is the time for me to get to know you, your pet(s) and answer any remaining questions you have. After covering care for your pets, this would be the time to hand-off any physical keys to access your home. Physical key hand-off does not apply if you have a keycode or digital codes for accessing your home.
 
 ##### What happens if I don't have a key available for the Meet and Greet?
 * Don't worry! We can schedule a time for a key pickup before the first visit. A key pickup and drop-off will be $50 each. I've found that clients often have lockboxes, hidden-keys and other methods to securely store their keys when they are away.

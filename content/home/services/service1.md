@@ -27,7 +27,7 @@ As a former Veterinary Assistant at the [Bay Area Bird and Exotics Hospital](htt
 
 My professional background ensures that your exotic pets receive the attentive, knowledgeable care they deserve when you're away. This isn't just pet sitting—it's specialized care from someone who loves animals and understands the unique needs of each pet.
 
-##### Animal's I've seen and will happily care for:
+##### Animals I've seen and will happily care for:
 
 ##### Birds:
 
