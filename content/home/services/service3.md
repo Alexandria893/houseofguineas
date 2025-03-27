@@ -18,6 +18,9 @@ Have a question about San Francisco's House of Guineas Pet Care services? Take a
 
 * I understand the stress of having someone access your home. I assure you that I value you and your pet's well-beings, and will make sure that the fort is locked down and secured during my stay. I'll check that the doors and windows are locked, pet is secured (if they're in an enclosure), and no unnecessary lights are on. 
 
+##### It's only been a day, and I miss my baby!
+* Don't you worry - you will receive daily pictures of your pet's adventures while you're away! I also include high level updates of their health, any changes in their behaviors/feeding levels and any relevant updates with the home (i.e. received mail/packages). For videos, I can provide a Google Photos link to you so you can access clear, quality videos of your pet - whether they're squeaking for even more cheek scratches, bobbing their head at their reflection or thumping in protest for more treats!
+
 ##### Are you insured?
 * Rest assured, your pet's safety and well-being is my top priority. I am certified in Pet CPR and First Aid, bonded, and insured for your complete peace of mind. As a member of [Pet Sitters International](https://www.petsit.com/pet-sitter-san-francisco-ca-house-of-guineas-llc), the world's largest pet sitting association, I adhere to the highest industry standards. My insurance protects you from unexpected incidents, while my bond provides financial protection against theft or property damage.
 
@@ -40,6 +43,9 @@ Have a question about San Francisco's House of Guineas Pet Care services? Take a
 
 ##### What if I'm looking for pet care during the holidays?
 * Because of my limited availability during holidays and special occasions, pet care will be 1.5x the regular rate.  Please be aware that any sits scheduled within 7 days of the needed care over a holiday, care will include a $50 holiday surcharge. Because last-minute care can conflict with routine clients, please contact me as soon as possible to make sure your pet have the care they need.
+
+##### Do you offer overnight pet sitting?
+* House of Guineas does not offer overnight pet sitting. However, I will be more than happy to discuss ways to meet you and your pet's needs through extended early morning and evening visits. Just give me a call/text and we can figure our a plan!
 
 <!-- put some of the info from the about page to the FAQs, as well as holiday rates. Goal is to make the services page shorter -->
 |  *Ready to create your perfect care plan? Get started with my [pet care services](../service2)* | 
