@@ -36,7 +36,7 @@ Have a question about San Francisco's House of Guineas Pet Care services? Take a
 ##### Which animals does House of Guineas Pet Care service?
 * House of Guineas Pet Care offers specialized care for exotic animals. With a background as a veterinary assistant at an exotic pet hospital in San Francisco, as well as [growing up around animals in the city](/about), I am experienced with a variety of pets. 
 
-* These pets include but are not limited to: small mammals (rats, hamsters, rabbits etc), birds (parakeets, ducks, chickens etc), reptiles and amphibians (snakes, bearded dragons, geckos, frogs etc), aquarium buddies (fish, shrimp, crabs etc) and cats.
+* These pets include but are not limited to: small mammals (rats, hamsters, rabbits etc), birds (parakeets, ducks, chickens etc), reptiles and amphibians (snakes, bearded dragons, geckos, frogs etc), aquarium buddies (fish, shrimp, crabs etc) and cats. A more expansive list of pets can be found (here)[https://www.houseofguineas.com/home/services/service1/#:~:text=Animals%20I%E2%80%99ve%20seen%20and%20will%20happily%20care%20for%3A].
 
 ##### What happens if I need last-minute care?
 * No problem, these things happen. Please be aware that any sits scheduled within 2 days of the needed care will include a $25 surcharge; $50 for holidays. Because last-minute care can conflict with routine clients, please contact me as soon as possible to make sure your pet have the care they need.
