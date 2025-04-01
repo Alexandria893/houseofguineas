@@ -77,6 +77,6 @@ My professional background ensures that your exotic pets receive the attentive, 
 |:---:|
 | *Did you know I have my own personal zoo of exotic pets? Learn more about your pet's caregiver [here!](/about/)* |  
 | *[Home](/)* | -->
-|  *Ready to create your perfect care plan? Get started with my [pet care services](../service2/)* | 
+|  *Ready to create your perfect care plan? Get started with my [pet care services.](../service2/)* | 
 |:---:|
 |*[Home](/)*|

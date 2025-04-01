@@ -19,11 +19,14 @@ Your home is your pet's safe-haven. By maintaining their daily routine in a fami
 ##### Peace of Mind: Routine Visits
 I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day visits*.
 * **1 hour (1-5 pets):** $60 per visit
-* *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Animals%20I%E2%80%99ve%20seen,Birds%3A) care will be $45 per visit.*
+    * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $45 per visit.*
 * *Have 6 or more pets? Give me a [call](tel:415-484-6493) and let's figure out a plan!*
+
+
 ##### Errand Saver: Individual Visits
 * **1 hour (1-5 pets):** $75
-* *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](../service1/) care will be $60 per visit.*
+    * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $60 per visit.*
+
 * *Have 6 or more pets? Give me a [call](tel:415-484-6493) and let's figure out a plan!*
 
 
@@ -44,7 +47,7 @@ Enjoy daily visits over *at least 7 consecutive days*.
 * **1hr visit:** $80 -->
 
 ##### Location Surcharges:
-* Within 2 miles: Standard rates apply
+* Within 2 miles: [Standard rates apply](https://www.houseofguineas.com/home/services/service3/#:~:text=What%20are%20your,and%20Duboce%20Triangle.)
 * 2-3 miles away: $15 per visit
 * 3+ miles away: A bit father away? Let's have a [chat](tel:415-484-6493) and figure out a plan!
 
