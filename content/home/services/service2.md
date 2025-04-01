@@ -14,11 +14,19 @@ Your home is your pet's safe-haven. By maintaining their daily routine in a fami
 * **Peace of Mind:** Relax knowing your pet receives attentive, personalized care in the comfort of their own home. Have peace of mind with daily updates of their care and well-being.
 
 <!-- **Note: For households with 4 or more pets, standard rates include $15 per additional pet to ensure proper care for each animal.* -->
-<!-- **Note: For 1-3 pets, standard rates apply. For 4 or more pets, standard rates include $15 per additional pet to ensure proper care for each animal.* -->
+<!-- **Note: For 1-5 pets, standard rates apply. For homes with 6 or more pets, standard rates include $15 per additional pet to ensure proper care for each animal.* -->
 
-##### Peace of Mind Visits:
-* **1hr visit (1-2 pets):** $75
-* **Additional pets (3+):** $15 per pet
+##### Peace of Mind: Routine Visits
+I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day visits*.
+* **1 hour (1-5 pets):** $60 per visit
+* *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Animals%20I%E2%80%99ve%20seen,Birds%3A) care will be $45 per visit.*
+* *Have 6 or more pets? Give me a [call](tel:415-484-6493) and let's figure out a plan!*
+##### Errand Saver: Individual Visits
+* **1 hour (1-5 pets):** $75
+* *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](../service1/) care will be $60 per visit.*
+* *Have 6 or more pets? Give me a [call](tel:415-484-6493) and let's figure out a plan!*
+
+
 
 <!-- ##### Errand Saver: Veterinary Visits
 Unable to take off of work to take your pet(s) to the vet? I can help you make sure your pet has the care they need!
@@ -38,7 +46,7 @@ Enjoy daily visits over *at least 7 consecutive days*.
 ##### Location Surcharges:
 * Within 2 miles: Standard rates apply
 * 2-3 miles away: $15 per visit
-* 3+ miles away: Let's have a call and figure out a plan!
+* 3+ miles away: A bit father away? Let's have a [chat](tel:415-484-6493) and figure out a plan!
 
 
 <!-- 
@@ -48,11 +56,7 @@ Enjoy daily visits over *at least 7 consecutive days*.
 <!-- ***Don't see what you need?** We can create a personalized plan just for you and pet. Reach out to discuss your perfect care plan!* -->
 
 
-<!-- | *Take a look at some common answers about House of Guineas [here](../service3/)* | 
+| *Have a question? Take a look at House of Guineas's [FAQs](../service3/)* | 
 |:---:|
-| *Want to learn more about your pet's caregiver? Learn more about me [here!](/about/)* |  
-| *[Home](/)* | -->
-
 | *Want to learn more about your pet's caregiver? Learn more about me [here!](../service1/)* |  
-|:---:|
 |*[Home](/)*|
