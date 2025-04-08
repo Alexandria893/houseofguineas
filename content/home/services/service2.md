@@ -17,7 +17,7 @@ Your home is your pet's safe-haven. By maintaining their daily routine in a fami
 <!-- **Note: For 1-5 pets, standard rates apply. For homes with 6 or more pets, standard rates include $15 per additional pet to ensure proper care for each animal.* -->
 
 ##### Peace of Mind: Routine Visits
-I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day visits*.
+I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day, consecutive visits*.
 * **1 hour (1-5 pets):** $60 per visit
     * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $45 per visit.*
 * *Have 6 or more pets? Give me a [call](tel:415-484-6493) and let's figure out a plan!*
