@@ -48,8 +48,8 @@ Enjoy daily visits over *at least 7 consecutive days*.
 
 <!-- each mile is about 1.25 per mile; or $2.50 for each 1 mile, round trip ( accounting for 2 miles total back and forth trip)-->
 ##### Location Surcharges: 
-I want to make sure I can best care for you and your pet, whether you're here, or there. Care may include additional charges to make sure I can continue to support those who are farther away.
-* Take a look if you're within the: [travel area](http://localhost:1313/home/services/service3/#:~:text=What%20are%20your,out%20a%20plan!)
+I want to make sure I can provide the best care for you and your pet, whether you're here, or there. Care may include additional charges to make sure I can continue to support those who are farther away.
+* Take a look if you're within the [travel area](http://localhost:1313/home/services/service3/#:~:text=What%20are%20your,out%20a%20plan!)
 
 <!-- 
 ##### Peace of Mind Additional Care
