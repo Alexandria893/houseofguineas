@@ -46,10 +46,10 @@ Enjoy daily visits over *at least 7 consecutive days*.
 
 <!-- each mile is about 1.25 per mile; or $2.50 for each 1 mile, round trip ( accounting for 2 miles total back and forth trip)-->
 ##### Location Surcharges
-I want to make sure I can provide the best care for you and your pet, whether you're here, or there. Care may include additional charges to make sure I can continue to support those who are farther away. Take a look [if you're within the travel area](https://www.houseofguineas.com/home/services/service3/#:~:text=What%20are%20your,out%20a%20plan!)
+I want to make sure I can provide the best care for you and your pet, whether you're here, or there. Care may include additional charges to make sure I can continue to support those who are farther away. Take a look [if you're within the travel area.](https://www.houseofguineas.com/home/services/service3/#:~:text=What%20are%20your%20service%20areas%3F)
 
 ##### Boarding
-Changing your pet’s environment, especially if they are a prey animal, can cause discomfort and stress. With that said, I understand that there are cases where their home may not be the best place to stay while you are away. Care will be $60 per night; take a look at [what boarding your pet would look like here](https://www.houseofguineas.com/home/services/service3/#:~:text=Do%20you%20offer%20boarding,the%20care%20they%20need!).
+Changing your pet’s environment, especially if they are a prey animal, can cause discomfort and stress. With that said, I understand that there are cases where their home may not be the best place to stay while you are away. Care will be $60 per night; take a look at [what boarding your pet would look like here.](https://www.houseofguineas.com/home/services/service3/#:~:text=Do%20you%20offer%20boarding%3F)
 
 <!-- Include a map that shows a client's rate depending on their area within the city. It would ideally be interactive so a client can input their address and check what their rate would be. Can start with a static picture.-->
 
