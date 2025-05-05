@@ -26,7 +26,7 @@ Have a question about San Francisco's House of Guineas Pet Care services? Take a
 * After our meet and greet, a booking deposit will include half of the total care. After the final visit, the remaining half of the care is due, along with any additional charges if applicable. I accept Zelle, Venmo, checks and cash. For memo areas and checks, please make them payable to: *House of Guineas LLC*.
 
 ##### It's only been a day, and I miss my baby!
-* Don't you worry - you will receive daily pictures of your pet's adventures while you're away! I also include high level updates of their health, any changes in their behaviors/feeding levels and any relevant updates with the home (i.e. received mail/packages). For videos, I can provide a Google Photos link to you so you can access clear, quality videos of your pet - whether they're squeaking for even more cheek scratches, bobbing their head at their reflection or thumping in protest for more treats!
+* Don't you worry - you will receive daily pictures of your pet's adventures while you're away! I also include high level updates of their health, any changes in their behaviors/feeding levels and any relevant updates with the home (i.e. received mail/packages). For videos, I can provide a personal album so you can access clear, quality videos of your pet - whether they're squeaking for even more cheek scratches, bobbing their head at their reflection or thumping in protest for more treats!
 
 ##### What are your service areas?
 * House of Guineas Pet Care services most of San Francisco, California. For clients who are outside of the travel range, additional travel rates will apply. Examples of these areas include Lakeshore, Presidio, Excelsior and North Beach.
@@ -47,6 +47,13 @@ Have a question about San Francisco's House of Guineas Pet Care services? Take a
 
 ##### Do you offer overnight pet sitting?
 * House of Guineas does not offer overnight pet sitting. However, I will be more than happy to discuss ways to meet you and your pet's needs through extended early morning and evening visits. Just give me a [call/text](tel:415-484-6493) and we can figure our a plan!
+
+##### Do you offer boarding?
+* Changing your pet's environment, especially if they are a prey animal, can cause discomfort and stress. With that said, I understand that there are cases where their home may not be the best place to stay while you are away. House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals. To ensure the safety and well-being of the exotic animals in the home, House of Guineas does not offer boarding for dogs and cats. 
+
+* Care will be $60 per night, and we will discuss a plan together to make sure your pet(s) feel as safe and comfortable as possible. Please bring any enclosures, bedding,food and supplies your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), as well as for any additional supplies needed during their stay. 
+
+* A meet and greet are required for first-time clients and your pet must be up-to-date with all of their vaccinations by the first visit. As with in-home pet sitting, boarding can book quickly. Please [contact me](tel:415-484-6493) as soon as possible to make sure your pet(s) have the care they need!
 
 <!-- put some of the info from the about page to the FAQs, as well as holiday rates. Goal is to make the services page shorter -->
 |  *Ready to create your perfect care plan? Get started with my [pet care services](../service2)* | 

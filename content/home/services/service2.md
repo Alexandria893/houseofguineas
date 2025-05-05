@@ -17,17 +17,15 @@ Your home is your pet's safe-haven. By maintaining their daily routine in a fami
 <!-- **Note: For 1-5 pets, standard rates apply. For homes with 6 or more pets, standard rates include $15 per additional pet to ensure proper care for each animal.* -->
 
 ##### Peace of Mind: Routine Visits
-I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day, daily visits*. 
+I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day, daily visits*. Additional rates will apply if more time is needed for their care.
 * **1 hour:** $60 per visit 
     * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $45 per visit.*
-    * *Rates for longer care starts at $15 per each additional 15 minutes.*
 
 
 ##### Individual Visits
-This option is for non-daily, in-frequent visits. 
+This option is for non-daily, in-frequent visits. Additional rates will apply if more time is needed for their care.
 * **1 hour:** $75 per visit
     * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $60 per visit.*
-    * *Rates for longer care starts at $15 per each additional 15 minutes.*
 
 
 
@@ -47,9 +45,14 @@ Enjoy daily visits over *at least 7 consecutive days*.
 * **1hr visit:** $80 -->
 
 <!-- each mile is about 1.25 per mile; or $2.50 for each 1 mile, round trip ( accounting for 2 miles total back and forth trip)-->
-##### Location Surcharges: 
+##### Location Surcharges
 I want to make sure I can provide the best care for you and your pet, whether you're here, or there. Care may include additional charges to make sure I can continue to support those who are farther away.
-* Take a look if you're within the [travel area](http://localhost:1313/home/services/service3/#:~:text=What%20are%20your,out%20a%20plan!)
+* Take a look if you're within the [travel area](https://www.houseofguineas.com/home/services/service3/#:~:text=What%20are%20your,out%20a%20plan!)
+
+##### Boarding
+Changing your pet’s environment, especially if they are a prey animal, can cause discomfort and stress. With that said, I understand that there are cases where their home may not be the best place to stay while you are away. House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals. To ensure the safety and well-being of the exotic animals in the home, House of Guineas does not offer boarding for dogs and cats. Care will be $60 per night; take a look at what boarding your pet would look like [here](http://localhost:1313/home/services/service3/#:~:text=Do%20you%20offer%20boarding,the%20care%20they%20need!).
+
+<!-- Include a map that shows a client's rate depending on their area within the city. It would ideally be interactive so a client can input their address and check what their rate would be. Can start with a static picture.-->
 
 <!-- 
 ##### Peace of Mind Additional Care
