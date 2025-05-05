@@ -50,7 +50,7 @@ I want to make sure I can provide the best care for you and your pet, whether yo
 * Take a look if you're within the [travel area](https://www.houseofguineas.com/home/services/service3/#:~:text=What%20are%20your,out%20a%20plan!)
 
 ##### Boarding
-Changing your pet’s environment, especially if they are a prey animal, can cause discomfort and stress. With that said, I understand that there are cases where their home may not be the best place to stay while you are away. House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals. To ensure the safety and well-being of the exotic animals in the home, House of Guineas does not offer boarding for dogs and cats. Care will be $60 per night; take a look at what boarding your pet would look like [here](http://localhost:1313/home/services/service3/#:~:text=Do%20you%20offer%20boarding,the%20care%20they%20need!).
+Changing your pet’s environment, especially if they are a prey animal, can cause discomfort and stress. With that said, I understand that there are cases where their home may not be the best place to stay while you are away. House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals. To ensure the safety and well-being of the exotic animals in the home, House of Guineas does not offer boarding for dogs and cats. Care will be $60 per night; take a look at what boarding your pet would look like [here](https://www.houseofguineas.com/home/services/service3/#:~:text=Do%20you%20offer%20boarding,the%20care%20they%20need!).
 
 <!-- Include a map that shows a client's rate depending on their area within the city. It would ideally be interactive so a client can input their address and check what their rate would be. Can start with a static picture.-->
 
