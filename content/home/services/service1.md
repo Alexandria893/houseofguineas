@@ -22,10 +22,18 @@ Exotic pets have specialized needs that differ significantly from traditional pe
 
 <!-- Your exotic pet deserves specialized care from someone who understands their unique needs. With my veterinary assistant experience and genuine passion for exotic animals, I provide pet sitting services that go beyond the basics to ensure your pet's health, happiness, and well-being while you're away. -->
 
-#### My Veterinary Background: Expertise You Can Trust
-As a former Veterinary Assistant at the [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco, I bring specialized knowledge and hands-on experience to exotic pet sitting. During my time at the veterinary hospital, I developed the skills and understanding necessary to provide exceptional care for your unique animal companions.
+#### My Exotic Veterinary Background: Expertise You Can Trust
+Entrust your unique companions to experienced hands. As a former **Exotic Veterinary Assistant** at the [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco, I bring a deep understanding of the specialized care exotic pets require.
 
-My professional background ensures that your exotic pets receive the attentive, knowledgeable care they deserve when you're away. This isn't just pet sitting—it's specialized care from someone who loves animals and understands the unique needs of each pet.
+My professional experience involved providing dedicated care for a wide variety of animals – from reptiles like snakes and bearded dragons, to birds such as African greys and budgies, and small mammals including rabbits (ask about the Flemish Giant!) and guinea pigs. I'm proficient in essential skills learned in a clinical setting, including:
+
+* Safe handling and species-specific care routines
+* Gentle restraint techniques (especially vital for rabbits and guinea pigs)
+* Post-procedure monitoring and recovery support
+
+This isn't just pet sitting; it's specialized care grounded in real-world veterinary experience. You can relax knowing my background ensures attentive, knowledgeable and compassionate attention based on professional standards, and a genuine understanding of your pet's specific needs.
+
+
 
 ##### Animals I've seen and will happily care for:
 
