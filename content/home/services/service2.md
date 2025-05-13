@@ -24,7 +24,7 @@ I understand the importance of maintaining consistent care for both you and your
     <!-- * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $45 per visit.* -->
 
 ##### Individual Visits
-This option is for non-daily, in-frequent visits. Additional rates will apply if more time is needed for their care.
+This option is for in-frequent and/or once a day visits. Additional rates will apply if more time is needed for their care.
 * **30 minutes:** $55 per visit 
 * **45 minutes:** $65 per visit 
 * **60 minutes:** $75 per visit
