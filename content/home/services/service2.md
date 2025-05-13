@@ -19,15 +19,16 @@ Your home is your pet's safe-haven. By maintaining their daily routine in a fami
 ##### Peace of Mind: Routine Visits
 I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day, daily visits*. Additional rates will apply if more time is needed for their care.
 * **30 minutes:** $55 per visit 
-<!-- * **45 minutes:** $55 per visit  -->
 * **60 minutes:** $60 per visit
+<!-- * **45 minutes:** $55 per visit  -->
+
     <!-- * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $45 per visit.* -->
 
 ##### Individual Visits
 This option is for in-frequent and/or once a day visits. Additional rates will apply if more time is needed for their care.
 * **30 minutes:** $65 per visit 
-<!-- * **45 minutes:** $65 per visit  -->
 * **60 minutes:** $75 per visit
+<!-- * **45 minutes:** $65 per visit  -->
     <!-- * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $60 per visit.* -->
 
 <!-- ##### Errand Saver: Veterinary Visits
