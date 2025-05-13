@@ -40,20 +40,19 @@ Have a question about San Francisco's House of Guineas Pet Care services? Take a
 * For our visits, I require note of a veterinary hospital. I will communicate with you first for any small situations, and will take immediate action in emergencies to admit your pet and will communicate with you once your pet is admitted. 
 
 ##### What happens if I need last-minute care?
-* No problem, these things happen. Please be aware that any sits scheduled within 2 days of the needed care will include a $25 surcharge; $50 for holidays. Because last-minute care can conflict with routine clients, please contact me as soon as possible to make sure your pet have the care they need.
+* No problem, these things happen. Please be aware that any sits scheduled under a week will include a non-refundable, $30 surcharge; $50 if care includes any holidays. Because last-minute care can conflict with routine clients, please contact me as soon as possible to make sure your pet have the care they need.
 
 ##### What if I'm looking for pet care during the holidays?
-* Because of my limited availability during holidays and special occasions, pet care will be 1.5x the regular rate.  Please be aware that any sits scheduled within 7 days of the needed care over a holiday, care will include a $50 holiday surcharge. Because last-minute care can conflict with routine clients, please contact me as soon as possible to make sure your pet have the care they need.
-
-##### Do you offer overnight pet sitting?
-* House of Guineas does not offer overnight pet sitting. However, I will be more than happy to discuss ways to meet you and your pet's needs through extended early morning and evening visits. Just give me a [call/text](tel:415-484-6493) and we can figure our a plan!
+* Because of my limited availability during holidays and special occasions, pet care over a holiday will be 1.5x the regular rate. Please be aware that any sits scheduled within 7 days of the needed care over a holiday, a non-refundable, $50 holiday surcharge is due in addition to applicable service fees. Because last-minute care can conflict with routine clients, please contact me as soon as possible to make sure your pet have the care they need.
 
 ##### Do you offer boarding?
 * Changing your pet's environment, especially if they are a prey animal, can cause discomfort and stress. With that said, I understand that there are cases where their home may not be the best place to stay while you are away. House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals. To ensure the safety and well-being of the exotic animals in the home, House of Guineas does not offer boarding for dogs and cats. 
-
-* Care will be $60 per night, and we will discuss a plan together to make sure your pet(s) feel as safe and comfortable as possible. Please bring any enclosures, bedding,food and supplies your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), as well as for any additional supplies needed during their stay. 
+Boarding starts at $60 per night, and we will discuss a plan together to make sure your pet(s) feel as safe and comfortable as possible. Please bring any enclosures, bedding,food and supplies your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), including any additional supplies needed during their stay. 
 
 * A meet and greet are required for first-time clients and your pet must be up-to-date with all of their vaccinations by the first visit. As with in-home pet sitting, boarding can book quickly. Please [contact me](tel:415-484-6493) as soon as possible to make sure your pet(s) have the care they need!
+
+##### Do you offer overnight pet sitting?
+* House of Guineas does not offer overnight pet sitting. However, I will be more than happy to discuss ways to meet you and your pet's needs through extended early morning and evening visits. Just give me a [call/text](tel:415-484-6493) and we can figure our a plan!
 
 <!-- put some of the info from the about page to the FAQs, as well as holiday rates. Goal is to make the services page shorter -->
 |  *Ready to create your perfect care plan? Get started with my [pet care services](../service2)* | 

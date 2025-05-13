@@ -18,16 +18,17 @@ Your home is your pet's safe-haven. By maintaining their daily routine in a fami
 
 ##### Peace of Mind: Routine Visits
 I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day, daily visits*. Additional rates will apply if more time is needed for their care.
-* **1 hour:** $60 per visit 
-    * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $45 per visit.*
-
+<!-- * **30 minutes:** $50 per visit  -->
+* **45 minutes:** $55 per visit 
+* **60 minutes:** $60 per visit
+    <!-- * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $45 per visit.* -->
 
 ##### Individual Visits
 This option is for non-daily, in-frequent visits. Additional rates will apply if more time is needed for their care.
-* **1 hour:** $75 per visit
-    * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $60 per visit.*
-
-
+<!-- * **30 minutes:** $55 per visit  -->
+* **45 minutes:** $65 per visit 
+* **60 minutes:** $75 per visit
+    <!-- * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $60 per visit.* -->
 
 <!-- ##### Errand Saver: Veterinary Visits
 Unable to take off of work to take your pet(s) to the vet? I can help you make sure your pet has the care they need!
@@ -45,12 +46,11 @@ Enjoy daily visits over *at least 7 consecutive days*.
 * **1hr visit:** $80 -->
 
 <!-- each mile is about 1.25 per mile; or $2.50 for each 1 mile, round trip ( accounting for 2 miles total back and forth trip)-->
+##### Boarding
+Changing your pet’s environment, especially if they are a prey animal, can cause discomfort and stress. With that said, I understand that there are cases where their home may not be the best place to stay while you are away. Care starts at $60 per night; take a look at [what boarding your pet would look like here.](https://www.houseofguineas.com/home/services/service3/#:~:text=Do%20you%20offer%20boarding%3F)
+
 ##### Location Surcharges
 I want to make sure I can provide the best care for you and your pet, whether you're here, or there. Care may include additional charges to make sure I can continue to support those who are farther away. Take a look [if you're within the travel area.](https://www.houseofguineas.com/home/services/service3/#:~:text=What%20are%20your%20service%20areas%3F)
-
-##### Boarding
-Changing your pet’s environment, especially if they are a prey animal, can cause discomfort and stress. With that said, I understand that there are cases where their home may not be the best place to stay while you are away. Care will be $60 per night; take a look at [what boarding your pet would look like here.](https://www.houseofguineas.com/home/services/service3/#:~:text=Do%20you%20offer%20boarding%3F)
-
 <!-- Include a map that shows a client's rate depending on their area within the city. It would ideally be interactive so a client can input their address and check what their rate would be. Can start with a static picture.-->
 
 <!-- 
