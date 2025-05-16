@@ -21,7 +21,7 @@ Your home is your pet's safe-haven. By maintaining their daily routine in a fami
 ##### Our In-Home Visit Options & Rates
 We offer different visit structures to best suit your needs and provide consistent, high-quality care for your companions.
 
-##### Routine Care Visits
+##### Routine Visits
 I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day, daily visits*. Additional rates will apply if more time is needed for their care.
 * **30 minutes:** $55 per visit 
 * **60 minutes:** $60 per visit
