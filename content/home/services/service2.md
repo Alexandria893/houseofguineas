@@ -1,22 +1,27 @@
 +++
-title = "In-Home Visits"
+title = "Our Specialized Pet Care Services in San Francisco"
 weight = 2
 +++
 
-Routine visits with attentive love and care for your furry (or feathery, or scaly) companion(s)!
+From precise **reptile habitat management and avian dietary needs, to the gentle handling of small mammals,** your exotic pets receive attentive, knowledgeable care in the comfort of your home.
 
+Learn more about my **specialized services for Reptiles, Birds, Small Mammals & More.**
+
+<!-- From precise **reptile habitat management and avian dietary needs to the gentle handling of small mammals,** your exotic pets receive attentive, knowledgeable care in the comfort of your home. My background as an **exotic veterinary assistant** ensures a keen eye for their well-being. 
+
+Learn more about my **specialized services for Reptiles, Birds, Small Mammals & More.** -->
 <!--more-->
 
-##### Why Choose Routine Care?
+##### Benefits of Our In-Home Visits
 Your home is your pet's safe-haven. By maintaining their daily routine in a familiar space, I help prevent stress and anxiety often caused by abrupt changes in their environment. Let me help you keep your pet's world consistent.
-* **Pet Care:** Be at ease knowing your pet receives dedicated love and attention, including feeding, medication, affection and enrichment.
-* **Home Care:** Care includes home upkeep like tidying, plant care and mail retrieval. I can also alternate lights and blinds upon request.
-* **Peace of Mind:** Relax knowing your pet receives attentive, personalized care in the comfort of their own home. Have peace of mind with daily updates of their care and well-being.
+* ***Pet Care:*** Be at ease knowing your pet receives dedicated love and attention, including species-specific feeding, fresh water, medication administration if needed, enrichment activities, and plenty of affection.
+* ***Home Care:*** Visits include general home upkeep such as tidying pet areas, plant care, and mail/package retrieval. I can also alternate lights and blinds upon request to maintain a lived-in appearance.
+* ***Peace of Mind:*** Relax knowing your pet receives attentive, expert care. You'll receive daily updates, including photos and notes on their well-being and activities, so you can enjoy your time away without worry.
 
-<!-- **Note: For households with 4 or more pets, standard rates include $15 per additional pet to ensure proper care for each animal.* -->
-<!-- **Note: For 1-5 pets, standard rates apply. For homes with 6 or more pets, standard rates include $15 per additional pet to ensure proper care for each animal.* -->
+##### Our In-Home Visit Options & Rates
+We offer different visit structures to best suit your needs and provide consistent, high-quality care for your companions.
 
-##### Peace of Mind: Routine Visits
+##### Routine Care Visits
 I understand the importance of maintaining consistent care for both you and your pet, so I offer worry-free, routine care for *2x a day, daily visits*. Additional rates will apply if more time is needed for their care.
 * **30 minutes:** $55 per visit 
 * **60 minutes:** $60 per visit
@@ -47,8 +52,8 @@ Enjoy daily visits over *at least 7 consecutive days*.
 * **1hr visit:** $80 -->
 
 <!-- each mile is about 1.25 per mile; or $2.50 for each 1 mile, round trip ( accounting for 2 miles total back and forth trip)-->
-##### Boarding
-Changing your pet’s environment, especially if they are a prey animal, can cause discomfort and stress. With that said, I understand that there are cases where their home may not be the best place to stay while you are away. Care starts at $60 per night; take a look at [what boarding your pet would look like here.](https://www.houseofguineas.com/home/services/service3/#:~:text=Do%20you%20offer%20boarding%3F)
+##### Exotic Pet Boarding
+Changes in your pet’s environment can cause discomfort and stress. With that said, I understand that there are times where their home may not be the best place to stay while you are away. Care starts at $60 per night; take a look at [what boarding your exotic pet would look like here.](https://www.houseofguineas.com/home/services/service3/#:~:text=Do%20you%20offer%20boarding%3F)
 
 ##### Location Surcharges
 I want to make sure I can provide the best care for you and your pet, whether you're here, or there. Care may include additional charges to make sure I can continue to support those who are farther away. Take a look [if you're within the travel area.](https://www.houseofguineas.com/home/services/service3/#:~:text=What%20are%20your%20service%20areas%3F)

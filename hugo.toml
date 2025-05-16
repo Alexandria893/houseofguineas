@@ -1,6 +1,6 @@
 baseURL = 'https://houseofguineas.com'
 languageCode = 'en-us'
-title = 'House of Guineas Pet Care| San Francisco Exotic Pet Care'
+title = 'House of Guineas: San Francisco Exotic Pet Care'
 theme = 'hugo-initio'
 style = 'default'
 
@@ -10,7 +10,8 @@ name = "House of Guineas Pet Care"
 description = "San Francisco's Exotic Pet Professional"
 email = "houseofguineas@gmail.com"
 phone = "415-484-6493"
-address = "San Francisco, CA"
+# address = "San Francisco, CA"
+address = "San Francisco's Exotic Pet Professional serving Inner Sunset, Richmond District, Cole Valley, Haight-Ashbury, and surrounding neighborhoods."
 year = 2025
 avatar = "prof.jpeg"
 avatarclass = "circle"
