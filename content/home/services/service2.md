@@ -53,7 +53,7 @@ Enjoy daily visits over *at least 7 consecutive days*.
 
 <!-- each mile is about 1.25 per mile; or $2.50 for each 1 mile, round trip ( accounting for 2 miles total back and forth trip)-->
 ##### Exotic Pet Boarding
-Changes in your pet’s environment can cause discomfort and stress. With that said, I understand that there are times where their home may not be the best place to stay while you are away. Care starts at $60 per night; take a look at [what boarding your exotic pet would look like here.](https://www.houseofguineas.com/home/services/service3/#:~:text=Do%20you%20offer%20boarding%3F)
+Changes in your pet’s environment can cause discomfort and stress. With that said, I understand that there are times where their home may not be the best place to stay while you are away. Exotic pet boarding starts at $60 per night; take a look at [what boarding your exotic pet would look like here.](https://www.houseofguineas.com/home/services/service3/#:~:text=Do%20you%20offer%20boarding%3F)
 
 ##### Location Surcharges
 I want to make sure I can provide the best care for you and your pet, whether you're here, or there. Care may include additional charges to make sure I can continue to support those who are farther away. Take a look [if you're within the travel area.](https://www.houseofguineas.com/home/services/service3/#:~:text=What%20are%20your%20service%20areas%3F)
