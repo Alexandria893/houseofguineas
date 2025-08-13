@@ -21,7 +21,7 @@ Exotic pets have specialized needs that differ significantly from traditional pe
 * **Stress Sensitivity:** Many exotic animals are particularly sensitive to changes in their routine and environment. An exotic pet specialist knows how to mitigate stress while prioritizing your pet's health.
 * **Quick Problem Recognition:** Unlike cats and dogs, exotic pets (especially prey animals) tend to hide their symptoms. As such, it is important to hire someone with a keen eye for identifying subtle changes in your pet's behavior and address them before they become serious. This proactive observation can be ***crucial*** for early intervention and better health outcomes for your pet.
 
-#### My Exotic Veterinary Background: Expertise You Can Trust
+<!-- #### My Exotic Veterinary Background: Expertise You Can Trust
 Place your trust in experienced, professional hands. I currently volunteer as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richimond, California, where I vaccinate bunnies as well as support the onsite veterinarian with pre and post-operation surgeries.
 
 I also worked as an **Exotic Veterinary Assistant** at the local [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco provided me with a comprehensive understanding of the specialized care exotic pets require. My professional experience at the veterinary hospital involved providing care for a wide variety of animals – from reptiles like snakes, bearded dragons and geckos, to birds such as African greys and budgies, and small mammals including rabbits (ask about the baby Flemish Giant!) and guinea pigs. 
@@ -33,7 +33,7 @@ I'm proficient in essential skills learned in a clinical setting, including:
 * Detailed knowledge of normal vs. abnormal behaviors and subtle signs of illness across a wide range of exotic species
 * Post-procedure monitoring and recovery support
 
-This isn’t just pet sitting; it’s specialized care grounded in real-world veterinary experience. You can relax knowing your pet will receive attentive, knowledgeable, and compassionate care, informed by professional standards and a genuine understanding of their specific needs.
+This isn’t just pet sitting; it’s specialized care grounded in real-world veterinary experience. You can relax knowing your pet will receive attentive, knowledgeable, and compassionate care, informed by professional standards and a genuine understanding of their specific needs. -->
 
 ##### What We Offer – Expert Care for Diverse Exotic Pets
 
@@ -104,10 +104,12 @@ My primary focus is providing exceptional, personalized care, ensuring your pets
 
 *And many more!*
 
+*Ready to create your perfect care plan? Get started with my pet care services [**here**](../service2)* 
+
 <!-- | *Ready to create a care plan? Get started with my [pet care services](../service2/)* | 
 |:---:|
 | *Did you know I have my own personal zoo of exotic pets? Learn more about your pet's caregiver [here!](/about/)* |  
 | *[Home](/)* | -->
-|  *Ready to create your perfect care plan? Get started with my [exotic pet care services.](../service2/)* | 
+<!-- |  *Ready to create your perfect care plan? Get started with my [exotic pet care services.](../service2/)* | 
 |:---:|
-|*[Home](/)*|
+|*[Home](/)*| -->
