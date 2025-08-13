@@ -1,6 +1,6 @@
 +++
-title = "Certifications"
+title = "Certifications and Associations"
 type = "client"
-weight = 4
+weight = 1
 image = "../cert1.png"
 +++

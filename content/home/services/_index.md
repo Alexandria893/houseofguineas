@@ -1,7 +1,7 @@
 +++
-title = "Our Expert Exotic Pet Care Services"
+title = "Expert Exotic Pet Care"
 type = "service"
-weight = 1
+weight = 2
 +++
 
 <!-- ![service](../Coco.jpg) -->

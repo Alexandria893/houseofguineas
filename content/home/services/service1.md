@@ -1,9 +1,11 @@
 +++
-title = "This is more than pet sitting; it's expert, veterinary-informed care."
+title = "specialized knowledge isn't just a bonus—it's essential."
 # title = "Why Choose a Vet Assistant?"
 weight = 1
 +++
-When it comes to your unique exotic pet, **specialized knowledge isn't just a bonus—it's essential.** Benefit from professional insights into animal health, medication administration (if needed), and recognizing subtle signs that require attention. 
+<!-- When it comes to your unique exotic pet, **specialized knowledge isn't just a bonus—it's essential.**
+
+ Benefit from professional insights into animal health, medication administration (if needed), and recognizing subtle signs that require attention.  -->
 
 Learn about the **difference professional veterinary experience makes.**
 
@@ -20,9 +22,11 @@ Exotic pets have specialized needs that differ significantly from traditional pe
 * **Quick Problem Recognition:** Unlike cats and dogs, exotic pets (especially prey animals) tend to hide their symptoms. As such, it is important to hire someone with a keen eye for identifying subtle changes in your pet's behavior and address them before they become serious. This proactive observation can be ***crucial*** for early intervention and better health outcomes for your pet.
 
 #### My Exotic Veterinary Background: Expertise You Can Trust
-Place your trust in experienced, professional hands. My role as an **Exotic Veterinary Assistant** at the local [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco provided me with a comprehensive understanding of the specialized care exotic pets require.
+Place your trust in experienced, professional hands. I currently volunteer as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richimond, California, where I vaccinate bunnies as well as support the onsite veterinarian with pre and post-operation surgeries.
 
-My professional experience involved providing dedicated care for a wide variety of animals – from reptiles like snakes, bearded dragons and geckos, to birds such as African greys and budgies, and small mammals including rabbits (ask about the baby Flemish Giant!) and guinea pigs. I'm proficient in essential skills learned in a clinical setting, including:
+I also worked as an **Exotic Veterinary Assistant** at the local [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco provided me with a comprehensive understanding of the specialized care exotic pets require. My professional experience at the veterinary hospital involved providing care for a wide variety of animals – from reptiles like snakes, bearded dragons and geckos, to birds such as African greys and budgies, and small mammals including rabbits (ask about the baby Flemish Giant!) and guinea pigs. 
+
+I'm proficient in essential skills learned in a clinical setting, including:
 
 * Proficiency in administering medications (such as oral and topical) and treatments as prescribed by veterinarians
 * Safe handling and species-specific care routines, along with gentle restraint techniques
@@ -33,7 +37,7 @@ This isn’t just pet sitting; it’s specialized care grounded in real-world ve
 
 ##### What We Offer – Expert Care for Diverse Exotic Pets
 
-My primary focus is providing exceptional in-home care, ensuring your pets are comfortable and their routines are maintained. I offer tailored care plans for a variety of exotic animals, leveraging my clinical experience to focus on their unique requirements for their environment, diet, and well-being:
+My primary focus is providing exceptional, personalized care, ensuring your pets are comfortable and their routines are maintained. I offer tailored care plans for a variety of exotic animals, leveraging my clinical experience to focus on their unique requirements for their environment, diet, and well-being:
 
 **Reptile Care** *(e.g., Bearded Dragons, Geckos, Snakes, Turtles, Tortoises)*
 * Expert management of species-specific temperature, humidity, and UVB/UVA lighting.
@@ -84,7 +88,6 @@ My primary focus is providing exceptional in-home care, ensuring your pets are c
 * Conures 
 
 ##### **Small Mammals:**
-
 * Hamsters
 * Rats
 * Guinea Pigs
