@@ -42,7 +42,7 @@ Changes in your pet’s environment can cause discomfort and stress. With that s
 I want to make sure I can provide the best care for you and your pet, whether you're here or there. 
 
 * Additional travel rates is $25/visit if you're outside of the travel area.
-* [Take a look if you're within the travel area here.](http://localhost:1313/home/services/service3/#:~:text=What%20are%20your%20service%20areas%3F)
+* [Take a look if you're within the travel area here.](https://www.houseofguineas.com/home/services/service3/#:~:text=What%20are%20your%20service%20areas%3F)
 <!-- Include a map that shows a client's rate depending on their area within the city. It would ideally be interactive so a client can input their address and check what their rate would be. Can start with a static picture.-->
 
 <!-- ***Don't see what you need?** We can create a personalized plan just for you and pet. Reach out to discuss your perfect care plan!* -->
