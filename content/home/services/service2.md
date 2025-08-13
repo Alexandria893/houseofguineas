@@ -23,24 +23,15 @@ From precise reptile habitat management and avian dietary needs, to the gentle h
 <!-- 
 * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $45 per visit.*  -->
 <!-- * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $60 per visit.* -->
-
-<!-- ##### Errand Saver: Veterinary Visits
-Unable to take off of work to take your pet(s) to the vet? I can help you make sure your pet has the care they need!
-* **1hr visit:** $125 -->
-
-
 <!-- each mile is about 1.25 per mile; or $2.50 for each 1 mile, round trip ( accounting for 2 miles total back and forth trip)-->
 ##### House of Guineas Exotic Pet Boarding
 Changes in your pet’s environment can cause discomfort and stress. With that said, I understand that there are times where their home may not be the best option while you are away. I will work with you to make sure their home-away-from-home is the next best thing.
-
 * (1-2 exotic pets): $65/night 
 * (3+ exotic pets): $100/night 
-
 * Take a look at what boarding your exotic pet would look like [here.](https://www.houseofguineas.com/home/services/service3/#:~:text=Do%20you%20offer%20boarding%3F)
 
 ##### Location Surcharges
 I want to make sure I can provide the best care for you and your pet, whether you're here or there. 
-
 * Additional travel rates is $25/visit if you're outside of the travel area.
 * [Take a look if you're within the travel area here.](https://www.houseofguineas.com/home/services/service3/#:~:text=What%20are%20your%20service%20areas%3F)
 <!-- Include a map that shows a client's rate depending on their area within the city. It would ideally be interactive so a client can input their address and check what their rate would be. Can start with a static picture.-->
