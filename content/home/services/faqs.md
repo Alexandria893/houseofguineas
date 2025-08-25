@@ -18,7 +18,7 @@ Have a question about San Francisco's House of Guineas Pet Care services? **Take
 
 * I also grew up around animals [here in San Francisco](/about). These pets include but are not limited to: small mammals (rats, hamsters, rabbits etc), birds (parakeets, ducks, chickens etc), reptiles and amphibians (snakes, bearded dragons, geckos, frogs etc), aquarium buddies (fish, shrimp, crabs etc) and cats. I offer in-home dog visits and dog-walking on a case-by-case basis.
 
-* A more expansive list of pets can be found [here](https://www.houseofguineas.com/home/services/service1/#:~:text=Animals%20I%E2%80%99ve%20seen%20and%20will%20happily%20care%20for%3A). 
+* A more expansive list of pets can be found [here](http://localhost:1313/exotic-veterinary-experience/#:~:text=Animals%20I%E2%80%99ve%20seen%20and%20will%20happily%20care%20for%3A). 
 
 ##### What is a Meet and Greet, and what will our's look like?
 * A meet and greet is a visit to you and your companion's home; this is the time for me to get to know you, your pet(s) and answer any questions you have! After covering care for your pets, this would be the time to **hand-off any physical keys** to access your home (physical key hand-off does not apply if you have a keycode or digital codes for accessing your home).
