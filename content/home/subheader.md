@@ -7,7 +7,7 @@ title = ""
 <!-- 🐾 [As an exotic pet parent,](\about), I understand the unique and thorough care of exotic pets. the love and care they deserve. Explore my care services below and contact me to discuss how I can best meet you and your pet's needs! -->
 <!-- *Serving San Francisco, California* -->
 
-Welcome to House of Guineas – **San Francisco's Premier Care for Exotic Pets**. I bring my veterinary experience as an [exotic veterinary assistant](https://www.houseofguineas.com/home/services/service1/#:~:text=My%20Veterinary%20Background%3A%20Expertise%20You%20Can%20Trust) along with ongoing education to ensure your beloved companions, whether a bird, reptile or small mammal, receive exceptional care.
+Welcome to House of Guineas – **San Francisco's Premier Care for Exotic Pets**. I bring my veterinary experience as an **exotic veterinary assistant** along with ongoing education to ensure your beloved companions, whether a bird, reptile or small mammal, receive exceptional care.
 
 Your extraordinary pet deserves the best – [contact me](tel:415-484-6493) to get started!
 

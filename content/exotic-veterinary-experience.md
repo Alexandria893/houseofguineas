@@ -1,19 +1,20 @@
 +++
-title = "specialized knowledge isn't just a bonus—it's essential."
-# title = "Why Choose a Vet Assistant?"
+menu= "main"
+# title = "specialized knowledge isn't just a bonus—it's essential."
+title = "Why Choose a Vet Assistant?"
 weight = 1
 +++
 <!-- When it comes to your unique exotic pet, **specialized knowledge isn't just a bonus—it's essential.**
 
  Benefit from professional insights into animal health, medication administration (if needed), and recognizing subtle signs that require attention.  -->
 
-Learn about the **difference professional veterinary experience makes.**
+<!-- Learn about the **difference professional veterinary experience makes.** -->
 
 <!-- When it comes to your unique exotic pet, specialized knowledge isn't just a bonus—it's essential. Benefit from professional insights into animal health, medication administration (if needed), and recognizing subtle signs that require attention. Read about my background and approach below. -->
 
 <!--more-->
 
-##### Why Choose an Exotic Pet Professional?
+<!-- ##### Why Choose an Exotic Pet Professional? -->
 Exotic pets have specialized needs that differ significantly from traditional pets such as cats and dogs:
 
 * **Species-Specific Requirements:** Each exotic species has unique dietary, environmental, and behavioral needs that require specialized knowledge.
@@ -104,7 +105,7 @@ My primary focus is providing exceptional, personalized care, ensuring your pets
 
 *And many more!*
 
-*Ready to create your perfect care plan? Get started with my pet care services [**here**](../service2)* 
+*Ready to create your perfect care plan? Get started with my in-home pet care services [**here**](/home/services/exotic-pet-care-services-in-home)* 
 
 <!-- | *Ready to create a care plan? Get started with my [pet care services](../service2/)* | 
 |:---:|
