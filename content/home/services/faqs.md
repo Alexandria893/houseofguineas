@@ -75,4 +75,4 @@ Have a question about San Francisco's House of Guineas Pet Care services? **Take
 <!-- |  *Ready to create your perfect care plan? Get started with my [pet care services](../service2)* | 
 |:---:|
 |*[Home](/)*| -->
-*Ready to create your perfect care plan? Get started with my pet care services [**here**](../exotic-pet-care-services-in-home)* 
+*Ready to create your perfect care plan? Get started with my [in-home pet care services](../exotic-pet-care-services-in-home)* 

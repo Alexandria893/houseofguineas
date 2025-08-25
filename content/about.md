@@ -59,4 +59,4 @@ I adapt to each pet I care for and follow instructions to a T so you can focus o
 
 His photos are everywhere (he's so photgentic)! Milo is a very sweet guinea pig who loves to snuggle in his pouch. He gently takes treats from your hands and has an adorable quirk of sleeping in my sweatshirts. -->
 
-*Ready to create your perfect care plan? Get started with my pet care services [**here**](/home/services/exotic-pet-care-services-in-home)* 
+*Ready to create your perfect care plan? Get started with my [in-home pet care services](/home/services/exotic-pet-care-services-in-home)* 
