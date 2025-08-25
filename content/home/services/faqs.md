@@ -9,16 +9,15 @@ Have a question about San Francisco's House of Guineas Pet Care services? **Take
 <!--more-->
 
 ##### Are you insured? I'm nervous of having someone enter my home.
+* I understand the stress of having someone access your home. I assure you that I value you and your pet's well-beings, and will make sure that the fort is locked down and secured during my stay. I'll check that the doors and windows are locked, pet is secured (if they're in an enclosure), and no unnecessary lights are on. 
+
 * Rest assured, your pet's safety and well-being is my top priority. I am **certified in Pet CPR and First Aid, bonded, and insured** for your complete peace of mind. As a member of [Pet Sitters International](https://www.petsit.com/pet-sitter-san-francisco-ca-house-of-guineas-llc), the **world's largest pet sitting association**, I adhere to the highest industry standards. My insurance protects you from unexpected incidents, while my bond provides financial protection against theft or property damage.
  
-* I understand the stress of having someone access your home. I assure you that I value you and your pet's well-beings, and will make sure that the fort is locked down and secured during my stay. I'll check that the doors and windows are locked, pet is secured (if they're in an enclosure), and no unnecessary lights are on. 
 
 ##### Which animals does House of Guineas Pet Care service?
 * House of Guineas Pet Care offers specialized care for exotic animals. With a background as a **veterinary assistant** and my current role as a **volunteer medical assistant** at the [House Rabbit Society in Richmond, California](https://houserabbit.org/mission), I am well adept to provide the best care for your pets.
 
-* I also grew up around animals [here in San Francisco](/about). These pets include but are not limited to: small mammals (rats, hamsters, rabbits etc), birds (parakeets, ducks, chickens etc), reptiles and amphibians (snakes, bearded dragons, geckos, frogs etc), aquarium buddies (fish, shrimp, crabs etc) and cats. I offer in-home dog visits and dog-walking on a case-by-case basis.
-
-* A more expansive list of pets can be found [here](http://localhost:1313/exotic-veterinary-experience/#:~:text=Animals%20I%E2%80%99ve%20seen%20and%20will%20happily%20care%20for%3A). 
+* An expansive list of pets I care for can be found [here](http://localhost:1313/exotic-veterinary-experience/#:~:text=Animals%20I%E2%80%99ve%20seen%20and%20will%20happily%20care%20for%3A). 
 
 ##### What is a Meet and Greet, and what will our's look like?
 * A meet and greet is a visit to you and your companion's home; this is the time for me to get to know you, your pet(s) and answer any questions you have! After covering care for your pets, this would be the time to **hand-off any physical keys** to access your home (physical key hand-off does not apply if you have a keycode or digital codes for accessing your home).
@@ -44,8 +43,6 @@ Have a question about San Francisco's House of Guineas Pet Care services? **Take
 * **Secondary Service Area (3-6 miles radius of Inner Sunset)**: All visits are subject to a *$15/visit travel surcharge*.
 * **Tertiary Service Area (6+ mile radius of Inner Sunset)**: All visits are subject to a *minimum of $25/visit travel surcharge*.
     * Are you father away? [Text or call me](tel:415-484-6493) and let's figure out if we're a good fit for each other!
-
-<!-- * Areas within the range include: Marina, Cow Hollow, Pacific Heights, Presidio Heights, Inner Richmond, Jordan Park/Laurel Heights, Lone Mountain, North Panhandle, Anza Vista, Lower Pacific Heights, Russian Hill, Nob Hill, Hayes Valley, Western Addition, Alamo Square, Haight Ashbury and Duboce Triangle. -->
 
 ##### What if there's an emergency during the visit?
 
@@ -75,4 +72,4 @@ Have a question about San Francisco's House of Guineas Pet Care services? **Take
 <!-- |  *Ready to create your perfect care plan? Get started with my [pet care services](../service2)* | 
 |:---:|
 |*[Home](/)*| -->
-*Ready to create your perfect care plan? Get started with my [in-home pet care services](../exotic-pet-care-services-in-home)* 
+*Ready to create your perfect care plan? Get started with my [in-home pet care services](../san-francisco-california-exotic-pet-care-services-in-home)* 

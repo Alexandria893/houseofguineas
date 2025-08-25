@@ -105,7 +105,7 @@ My primary focus is providing exceptional, personalized care, ensuring your pets
 
 *And many more!*
 
-*Ready to create your perfect care plan? Get started with my [in-home pet care services](/home/services/exotic-pet-care-services-in-home)* 
+*Ready to create your perfect care plan? Get started with my [in-home pet care services](/home/services/san-francisco-california-exotic-pet-care-services-in-home)* 
 
 <!-- | *Ready to create a care plan? Get started with my [pet care services](../service2/)* | 
 |:---:|
