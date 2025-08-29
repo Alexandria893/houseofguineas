@@ -105,12 +105,8 @@ My primary focus is providing exceptional, personalized care, ensuring your pets
 
 *And many more!*
 
-*Ready to create your perfect care plan? Get started with my [in-home pet care services](/home/services/san-francisco-california-exotic-pet-care-services-in-home)* 
+<!-- will change back to include san-francisco-california SEO/GEO feature in the coming months -->
+<!-- *Ready to create your perfect care plan? Get started with my [in-home pet care services](/home/services/san-francisco-california-exotic-pet-care-services-in-home)*  -->
 
-<!-- | *Ready to create a care plan? Get started with my [pet care services](../service2/)* | 
-|:---:|
-| *Did you know I have my own personal zoo of exotic pets? Learn more about your pet's caregiver [here!](/about/)* |  
-| *[Home](/)* | -->
-<!-- |  *Ready to create your perfect care plan? Get started with my [exotic pet care services.](../service2/)* | 
-|:---:|
-|*[Home](/)*| -->
+
+*Ready to create your perfect care plan? Get started with my [in-home pet care services](/home/services/exotic-pet-care-services-in-home)* 

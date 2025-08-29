@@ -44,6 +44,6 @@ We will discuss a plan together to make sure your pet(s) feel as safe and comfor
 <!-- ##### Location Surcharges
 I want to make sure I can provide the best care for you and your pet, whether you're here or there. 
 * Additional travel rates **starts at $15/visit** if you're outside of the travel area.
-* [Take a look if you're within the travel area here.](https://www.houseofguineas.com/home/services/service3/#:~:text=What%20are%20your%20service%20areas%3F) -->
+
 <!-- Include a map that shows a client's rate depending on their area within the city. It would ideally be interactive so a client can input their address and check what their rate would be. Can start with a static picture.-->
 
