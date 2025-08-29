@@ -33,7 +33,7 @@ Changes in your pet’s environment can cause discomfort and stress. With that s
 
 ##### What do I need for boarding?
 
-We will discuss a plan together to make sure your pet(s) feel as safe and comfortable as possible. They will have their own **private room** facing an **outdoor garden** on the 1st floor, with soothing music played as they become acclimated during their stay. They may even receive a fresh treat from the garden!
+We will discuss a plan together to make sure your pet(s) feel as safe and comfortable as possible. They will have their **own room**, with soothing music played as they become acclimated during their stay.
 
 * Please bring any **enclosures, bedding,food and supplies** your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), including any additional supplies needed during their stay. 
 

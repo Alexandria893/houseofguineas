@@ -59,9 +59,9 @@ Have a question about San Francisco's House of Guineas Pet Care services? **Take
 ##### Do you offer boarding?
 * Changing your pet's environment, especially if they are a prey animal, can cause discomfort and stress. With that said, I understand that there are cases where their home may not be the best place to stay while you are away. House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals. To ensure the safety and well-being of the exotic animals in the home, House of Guineas does not offer boarding for dogs and cats. 
 
-* Exotic pet boarding is $65/night. We will discuss a plan together to make sure your pet(s) feel as safe and comfortable as possible. They will have their own **private room** facing an **outdoor garden** on the 1st floor, with soothing music played as they become acclimated during their stay. They may even receive a fresh treat from the garden!
+* Exotic pet boarding is $65/night. We will discuss a plan together to make sure your pet(s) feel as safe and comfortable as possible. They will have their **own room**, with soothing music played as they become acclimated during their stay.
 
-* Please bring any enclosures, bedding,food and supplies your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), including any additional supplies needed during their stay. 
+* Please bring any **enclosures, bedding,food and supplies** your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), including any additional supplies needed during their stay. 
 
 * A meet and greet is required for first-time clients and your pet **must be up-to-date with all of their vaccinations by the first visit**. As with in-home pet sitting, boarding can book quickly. Please [contact me](tel:415-484-6493) as soon as possible to make sure your pet(s) have the care they need!
 
