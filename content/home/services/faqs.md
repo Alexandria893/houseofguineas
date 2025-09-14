@@ -94,7 +94,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
   <summary class="faq-summary">What happens if I don't have a key available for the Meet and Greet?</summary>
   <div class="faq-answer">
-    <p>Don't worry! We can schedule a time for a key pickup before the first visit. <strong>A key pickup and drop-off will be $50 each.</strong> House of Guineas can also store your keys, and our keys will be stored in a secure, undisclosed location.</p> 
+    <p>Don't worry! We can schedule a time for a key pickup before the first visit. <strong>A key pickup and drop-off will be $50 each.</strong> House of Guineas can also store your keys, and your keys will be stored in a secure, undisclosed location.</p> 
     <p>I've found that clients often have lockboxes, emergency contact key drop-offs and other methods to securely store their keys when they are away.</p>
   </div>
 </details>
