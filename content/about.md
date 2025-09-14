@@ -40,25 +40,50 @@ I'm proficient in essential skills learned in a clinical setting, including:
 
 This isn’t just pet sitting; it’s specialized care grounded in real-world veterinary experience. You can relax knowing your pet will receive attentive, knowledgeable, and compassionate care, informed by professional standards and a genuine understanding of their specific needs.
 
-<!-- PUT IN FAQ SECTION
+<!-- ##### *Animals I've seen and will happily care for:* -->
+*Animals I will happily care for:*
 
-##### Your Pet's Care
+##### **Reptiles:**
+* Snakes
+* Fat-tailed Geckos
+* Leopard Geckos
+* Bearded Dragons
+* Chameleons
+* Iguanas
+* Large Tortoises (We often needed a scale for dogs to measure these guys!)
+* Box Turtles
 
-I adapt to each pet I care for and follow instructions to a T so you can focus on your time away. Message me to learn more about how I can care for your cuties - I'd be happy to answer any questions you may have! 
+##### **Amphibians:**
+* Newts
+* Frogs
+* Axolotls 
 
+##### **Birds:**
+* Budgies (often interchanged with parakeets~)
+* Finches
+* Parrots
+* Cockatoos
+* African Greys
+* Chickens
+* Ducks
+* Conures 
 
-*Ready to schedule care for your pet? Take a look at my care and contact me to [get started!](../home/services/service2/)*
+##### **Small Mammals:**
+* Hamsters
+* Rats
+* Guinea Pigs
+* Rabbits (from Dwarf to Flemish Giants)
+* Chinchillas
+* Ferrets
 
-<!-- ##### Meet my Pet Family!
+##### **Aquarium Buddies:**
+* Fish
+* Eels
+* Crabs 
+* Snails
+* Shrimp
 
-##### Milo
-![about](../milo.jpg)
-
-![about](../Luca.jpg)
-
-
-His photos are everywhere (he's so photgentic)! Milo is a very sweet guinea pig who loves to snuggle in his pouch. He gently takes treats from your hands and has an adorable quirk of sleeping in my sweatshirts. -->
-
+*And many more!*
 
 <!-- will change back to include san-francisco-california SEO/GEO feature in the coming months -->
 <!-- *Ready to create your perfect care plan? Get started with my [in-home pet care services](/home/services/san-francisco-california-exotic-pet-care-services-in-home)*  -->

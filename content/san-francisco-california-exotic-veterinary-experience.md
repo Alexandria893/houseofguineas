@@ -1,7 +1,6 @@
 +++
 menu= "main"
-# title = "specialized knowledge isn't just a bonus—it's essential."
-title = "Why Choose a Vet Assistant?"
+title = "Why Choose an Exotic Vet Assistant?"
 weight = 1
 +++
 <!-- When it comes to your unique exotic pet, **specialized knowledge isn't just a bonus—it's essential.**
@@ -13,14 +12,13 @@ weight = 1
 <!-- When it comes to your unique exotic pet, specialized knowledge isn't just a bonus—it's essential. Benefit from professional insights into animal health, medication administration (if needed), and recognizing subtle signs that require attention. Read about my background and approach below. -->
 
 <!--more-->
-
-<!-- ##### Why Choose an Exotic Pet Professional? -->
 Exotic pets have specialized needs that differ significantly from traditional pets such as cats and dogs:
 
-* **Species-Specific Requirements:** Each exotic species has unique dietary, environmental, and behavioral needs that require specialized knowledge.
-* **Proper Handling:** Incorrect handling can cause injury and/or stress to exotic pets. My professional training ensures I know the proper techniques for each species, and respecting their personal space.
-* **Stress Sensitivity:** Many exotic animals are particularly sensitive to changes in their routine and environment. An exotic pet specialist knows how to mitigate stress while prioritizing your pet's health.
-* **Quick Problem Recognition:** Unlike cats and dogs, exotic pets (especially prey animals) tend to hide their symptoms. As such, it is important to hire someone with a keen eye for identifying subtle changes in your pet's behavior and address them before they become serious. This proactive observation can be ***crucial*** for early intervention and better health outcomes for your pet.
+* **Problem Recognition:** Unlike cats and dogs, exotic pets (especially prey animals) tend to hide their symptoms. As such, it is important to hire someone with a keen eye for identifying subtle changes in your pet's behavior, and address them before they become serious. This proactive observation can be ***crucial*** for early intervention and better health outcomes for your pet.
+
+* **Mitigate Stress and Provide Enrichment:** Many exotic animals are particularly sensitive to changes in their routine and environment. An exotic pet specialist knows how to mitigate stress, while providing proper enrichment for your pet's mental and physical health.
+
+* **Professional Handling:** Incorrect handling can cause injury to your exotic pet. Knowing and being able to assess your pet's comfort with handling mitigates unnecessary stress, while respecting your pet's boundaries.
 
 <!-- #### My Exotic Veterinary Background: Expertise You Can Trust
 Place your trust in experienced, professional hands. I currently volunteer as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richimond, California, where I vaccinate bunnies as well as support the onsite veterinarian with pre and post-operation surgeries.
@@ -55,55 +53,10 @@ My primary focus is providing exceptional, personalized care, ensuring your pets
 * Regular enclosure cleaning, bedding changes, and provision of safe environmental enrichment.
 * ***Vet Assistant Insight:*** Experienced in recognizing early signs of common small mammal ailments (e.g., GI stasis in rabbits/guinea pigs, dental issues, respiratory distress, overgrown nails), crucial for their delicate health.
 
-**Aquatic Life & Other Pets:**
+<!-- **Aquatic Life & Other Pets:**
 * Careful feeding for fish, shrimp, crabs, and other aquatic life; observation of water quality and equipment function.
 * Knowledgeable care for amphibians like frogs, newts, and axolotls, including habitat maintenance.
-* Dedicated care for both feline and canine companions, including feeding, walks, litter box maintenance, play, and affection.
-
-<!-- ##### *Animals I've seen and will happily care for:* -->
-*Animals I've seen and will happily care for:*
-
-##### **Reptiles:**
-* Snakes
-* Fat-tailed Geckos
-* Leopard Geckos
-* Bearded Dragons
-* Chameleons
-* Iguanas
-* Large Tortoises (We often needed a scale for dogs to measure these guys!)
-* Box Turtles
-
-##### **Amphibians:**
-* Newts
-* Frogs
-* Axolotls 
-
-##### **Birds:**
-* Budgies (often interchanged with parakeets~)
-* Finches
-* Parrots
-* Cockatoos
-* African Greys
-* Chickens
-* Ducks
-* Conures 
-
-##### **Small Mammals:**
-* Hamsters
-* Rats
-* Guinea Pigs
-* Rabbits (from Dwarf to Flemish Giants)
-* Chinchillas
-* Ferrets
-
-##### **Aquarium Buddies:**
-* Fish
-* Eels
-* Crabs 
-* Snails
-* Shrimp
-
-*And many more!*
+* Dedicated care for both feline and canine companions, including feeding, walks, litter box maintenance, play, and affection. -->
 
 <!-- will change back to include san-francisco-california SEO/GEO feature in the coming months -->
 <!-- *Ready to create your perfect care plan? Get started with my [in-home pet care services](/home/services/san-francisco-california-exotic-pet-care-services-in-home)*  -->

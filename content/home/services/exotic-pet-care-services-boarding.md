@@ -1,11 +1,11 @@
 +++
 menu = "main"
 type = "services"
-title = "Exotic Pet Care Services: Boarding"
+title = "Boarding Services"
 weight = 3
 +++
 
-Learn more about my **boarding rates and specialized services for Reptiles, Birds and Small Mammals.**
+Learn more about my boarding rates and specialized services for **Reptiles, Birds and Small Mammals.**
 <!--more-->
 
 <!-- ##### Benefits of Our Personalized, In-Home Visits
@@ -35,7 +35,9 @@ Changes in your pet’s environment can cause discomfort and stress. With that s
 
 We will discuss a plan together to make sure your pet(s) feel as safe and comfortable as possible. They will have their **own room**, with soothing music played as they become acclimated during their stay.
 
-* Please bring any **enclosures, bedding,food and supplies** your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), including any additional supplies needed during their stay. 
+* Please bring any **enclosures, bedding,food and supplies** your pet needs to feel at home when you drop them off. 
+
+<!-- Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), including any additional supplies needed during their stay.  -->
 
 * A meet and greet is required for first-time clients and your pet **must be up-to-date with all of their vaccinations by the first visit**. 
 

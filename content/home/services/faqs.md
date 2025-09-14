@@ -15,9 +15,9 @@ Have a question about San Francisco's House of Guineas Pet Care services? **Take
  
 
 ##### Which animals does House of Guineas Pet Care service?
-* House of Guineas Pet Care offers specialized care for exotic animals. With a background as a **veterinary assistant** and my current role as a **volunteer medical assistant** at the [House Rabbit Society in Richmond, California](https://houserabbit.org/mission), I am well adept to provide the best care for your pets.
+* House of Guineas Pet Care offers specialized care for exotic animals. With a background working out of an exotic veterinary hospital and my current role as a **volunteer medical assistant** at the [House Rabbit Society in Richmond, California](https://houserabbit.org/mission), I am well adept to provide the best care for your pets.
 
-* An expansive list of pets I care for can be found [here](http://localhost:1313/exotic-veterinary-experience/#:~:text=Animals%20I%E2%80%99ve%20seen%20and%20will%20happily%20care%20for%3A). 
+* I care for pets ranging from small mammals such as sassy hamsters, amphibian and reptiles such as proud bearded dragons, to miscevous cockatiels. An expansive list of pets I care for can be found [here](http://localhost:1313/exotic-veterinary-experience/#:~:text=Animals%20I%E2%80%99ve%20seen%20and%20will%20happily%20care%20for%3A). <!-- FIX THIS LINK, NOW ON ABOUT PAGE -->
 
 ##### What is a Meet and Greet, and what will our's look like?
 * A meet and greet is a visit to you and your companion's home; this is the time for me to get to know you, your pet(s) and answer any questions you have! After covering care for your pets, this would be the time to **hand-off any physical keys** to access your home (physical key hand-off does not apply if you have a keycode or digital codes for accessing your home).
@@ -26,12 +26,12 @@ Have a question about San Francisco's House of Guineas Pet Care services? **Take
 * Don't worry! We can schedule a time for a key pickup before the first visit. **A key pickup and drop-off will be $50 each.** I've found that clients often have lockboxes, hidden-keys and other methods to securely store their keys when they are away.
 
 ##### What would service payments look like?
-* After our meet and greet, a booking deposit will include half of the total care. After the final visit, the remaining half of the care is due, along with any additional charges if applicable. 
+* At the end of our meet and greet, a booking deposit is due. The booking deposit will include half of the total care. After the final visit, the remaining half of the care is due, along with any additional charges if applicable. 
 
 * I accept Zelle, Venmo, checks and cash. For memo areas, please make them payable to: *House of Guineas LLC*.
 
 ##### It's only been a day, and I miss my baby!
-* Don't you worry - you will receive pictures and videos of your pet's adventures while you're away! I also include high level updates of their health, any changes in their behaviors/feeding levels and any relevant updates with the home (i.e. received mail/packages). 
+* Don't you worry - you will receive pictures of your pet's adventures while you're away! I also include high level updates of their health, any changes in their behaviors/feeding levels and any relevant updates with the home (i.e. received mail/packages). 
 
 * I provide a **unique, personalized album** so you can access clear, quality videos of your pet - whether they're squeaking for even more cheek scratches, bobbing their head at their reflection or thumping in protest for more treats!
 
@@ -46,10 +46,10 @@ Have a question about San Francisco's House of Guineas Pet Care services? **Take
 
 ##### What if there's an emergency during the visit?
 
-* For our visits, I require note of a veterinary hospital. I will communicate with you first for any small situations, and will take immediate action in emergencies (per our discussion) to admit your pet. 
+* For our visits, I require note of at least one veterinary hospital. Per our discussion, I will communicate with you first for any minor situations, and will take immediate action in emergencies to admit your pet. My priority is making sure that your pet receives the care they need, so additional charges are due by the last service.
 
 ##### What happens if I need last-minute care?
-* No problem, these things happen. Please be aware that **any sits scheduled within 7 days of their first visit will include a non-refundable, $75 surcharge; $125 if care includes any holidays.** Because last-minute care can conflict with routine clients, please [contact me](tel:415-484-6493) as soon as possible to make sure your pet has the care they need.
+* No problem, these things happen. Please be aware that **any sits scheduled within 7 days of their first visit** will include a non-refundable, $75 surcharge; $125 if care includes any holidays. Because last-minute care can conflict with routine clients, please [contact me](tel:415-484-6493) as soon as possible to make sure your pet has the care they need.
 
 ##### What if I'm looking for pet care during the holidays?
 * Because of my limited availability during holidays and special occasions, **pet care over a holiday will be 1.5x the regular rate.** Please be aware that any sits scheduled within 7 days of the needed care over a holiday, a non-refundable, $125 holiday surcharge is due, in addition to applicable service fees. 
@@ -66,10 +66,10 @@ Have a question about San Francisco's House of Guineas Pet Care services? **Take
 * A meet and greet is required for first-time clients and your pet **must be up-to-date with all of their vaccinations by the first visit**. As with in-home pet sitting, boarding can book quickly. Please [contact me](tel:415-484-6493) as soon as possible to make sure your pet(s) have the care they need!
 
 ##### Do you offer overnight pet sitting?
-* While House of Guineas does not offer overnight pet sitting, I will be more than happy to discuss ways to meet you and your pet's needs, such extended early morning and evening visits. Just give me a [call/text](tel:415-484-6493) and we can figure our a plan!
+* While House of Guineas does not offer overnight pet sitting, I will be more than happy to discuss ways to meet you and your pet's needs, such as extended morning and afternoon visits. Just give me a [call/text](tel:415-484-6493) and we can figure our a plan!
 
 <!-- put some of the info from the about page to the FAQs, as well as holiday rates. Goal is to make the services page shorter -->
 <!-- |  *Ready to create your perfect care plan? Get started with my [pet care services](../service2)* | 
 |:---:|
 |*[Home](/)*| -->
-*Ready to create your perfect care plan? Get started with my [in-home pet care services](../san-francisco-california-exotic-pet-care-services-in-home)* 
+*Ready to create your perfect care plan? Get started with my [in-home pet care services](../exotic-pet-care-services-in-home)* 

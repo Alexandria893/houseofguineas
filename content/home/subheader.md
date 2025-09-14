@@ -10,7 +10,6 @@ title = ""
 Welcome to House of Guineas – **San Francisco's Premier Care for Exotic Pets**. I bring my veterinary experience as an **exotic veterinary assistant** along with ongoing education to ensure your beloved companions, whether a bird, reptile or small mammal, receive exceptional care.
 
 Your extraordinary pet deserves the best – [contact me](tel:415-484-6493) to get started!
-
 <!-- As an experienced exotic veterinary assistant, I provide specialized in-home care, ensuring your cherished companions receive not just attention, but knowledgeable support tailored to their specific needs. From precise habitat management to recognizing subtle health cues, your pet's well-being is my top priority.  -->
 
 <!-- Ready for peace of mind for your reptile, bird, or unique small mammal? [Contact me](tel:415-484-6493) to discuss your pet's care! -->
