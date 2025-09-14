@@ -86,14 +86,16 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
   <summary class="faq-summary">What is a Meet and Greet, and what will ours look like?</summary>
   <div class="faq-answer">
-    <p>A meet and greet is a visit to you and your companion's home; this is the time for me to get to know you, your pet(s) and answer any questions you have! After covering care for your pets, this would be the time to <strong>hand-off any physical keys</strong> to access your home (physical key hand-off does not apply if you have a keycode or digital codes for accessing your home).</p>
+    <p>A meet and greet is a visit to you and your companion's home; this is the time for me to get to know you, your pet(s) and answer any questions you have! After covering care for your pets, this would be the time to <strong>hand-off any physical keys</strong> to access your home. Your keys will be stored in a <strong>secure, undisclosed location.</strong></p> 
+    <p>If a digital code/keyless entry method is used and there is a situation where I am unable to access your home, House of Guineas is not responsible for any damages to your home and your pet(s). We <strong>recommend a local, emergency contact to have at least one spare key in the event of an emergency.</strong></p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What happens if I don't have a key available for the Meet and Greet?</summary>
   <div class="faq-answer">
-    <p>Don't worry! We can schedule a time for a key pickup before the first visit. <strong>A key pickup and drop-off will be $50 each.</strong> I've found that clients often have lockboxes, hidden-keys and other methods to securely store their keys when they are away.</p>
+    <p>Don't worry! We can schedule a time for a key pickup before the first visit. <strong>A key pickup and drop-off will be $50 each.</strong> House of Guineas can also store your keys, and our keys will be stored in a secure, undisclosed location.</p> 
+    <p>I've found that clients often have lockboxes, emergency contact key drop-offs and other methods to securely store their keys when they are away.</p>
   </div>
 </details>
 
@@ -109,7 +111,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
   <summary class="faq-summary">It's only been a day, and I miss my baby!</summary>
   <div class="faq-answer">
     <p>Don't you worry - you will receive pictures of your pet's adventures while you're away! I also include high level updates of their health, any changes in their behaviors/feeding levels and any relevant updates with the home (i.e. received mail/packages).</p>
-    <p>I provide a <strong>unique, personalized album</strong> so you can access clear, quality videos of your pet - whether they're squeaking for even more cheek scratches, bobbing their head at their reflection or thumping in protest for more treats!</p>
+    <!-- <p>I provide a <strong>unique, personalized album</strong> so you can access clear, quality videos of your pet - whether they're squeaking for even more cheek scratches, bobbing their head at their reflection or thumping in protest for more treats!</p> -->
   </div>
 </details>
 
@@ -124,14 +126,15 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
   <summary class="faq-summary">What happens if I need last-minute care?</summary>
   <div class="faq-answer">
-    <p>No problem, these things happen. Please be aware that <strong>any sits scheduled within 7 days of their first visit</strong> will include a non-refundable, $75 surcharge; $125 if care includes any holidays. Because last-minute care can conflict with routine clients, please <a href="tel:415-484-6493">contact me</a> as soon as possible to make sure your pet has the care they need.</p>
+    <p>No problem, these things happen. Please be aware that <strong>any sits scheduled within 7 days of their first visit</strong> will include a non-refundable, $75 surcharge; $125 if care includes any holidays.</p> 
+    <p>Because last-minute care can conflict with routine clients, please <a href="tel:415-484-6493">contact me</a> as soon as possible to make sure your pet has the care they need.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What if I'm looking for pet care during the holidays?</summary>
   <div class="faq-answer">
-    <p>Because of my limited availability during holidays and special occasions, <strong>pet care over a holiday will be 1.5x the regular rate.</strong> Please be aware that any sits scheduled within 7 days of the needed care over a holiday, a non-refundable, $125 holiday surcharge is due, in addition to applicable service fees.</p>
+    <p>Because of my limited availability during holidays and special occasions, <strong>pet care over a holiday will be 1.5x the regular rate.</strong> Please be aware that any sits scheduled within 7 days of the needed care over a holiday, <strong>a non-refundable, $125 holiday surcharge is due,</strong> in addition to applicable service fees.</p>
     <p>Care over the holidays are often <strong>booked months in advance,</strong> so please <a href="tel:415-484-6493">contact me</a> as soon as possible to make sure your pet have the care they need.</p>
   </div>
 </details>
