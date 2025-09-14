@@ -4,7 +4,13 @@ title = 'House of Guineas: San Francisco Exotic Pet Care'
 theme = 'hugo-initio'
 style = 'default'
 
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # This setting allows you to use raw HTML in your Markdown files.
+      # It is required for the <details> and <summary> tags to work.
+      unsafe = true
+      
 [params]
 name = "House of Guineas Pet Care"
 description = "San Francisco's Exotic Pet Professional"
@@ -42,6 +48,18 @@ weight = 1
 #  name = "blog"
 #  url = "/post/"
 # weight = 5
+# added to include sub menu for resources in bay area
+[[menu.main]]
+  name = "Resources"
+   url = "/resources/"
+  identifier = "resources"
+  weight = 5
+#   to concatenate services boardinfg and inhome on the menu par
+[[menu.main]]
+  name = "Services and Rates"
+   url = "/services/"
+  identifier = "rates"
+  weight = 2
 
 [params.disqus]
 site = "hugo-initio-site.disqus.com"

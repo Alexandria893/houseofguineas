@@ -1,8 +1,9 @@
 +++
-menu = "main"
 type = "services"
 title = "Boarding Services"
 weight = 3
+[menu.main]
+  parent = "rates"
 +++
 
 Learn more about my boarding rates and specialized services for **Reptiles, Birds and Small Mammals.**

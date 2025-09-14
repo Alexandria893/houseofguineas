@@ -1,6 +1,7 @@
 +++
-menu= "main"
 title = "Why Choose an Exotic Vet Assistant?"
+[menu.main]
+  parent = "resources"
 weight = 1
 +++
 <!-- When it comes to your unique exotic pet, **specialized knowledge isn't just a bonus—it's essential.**
