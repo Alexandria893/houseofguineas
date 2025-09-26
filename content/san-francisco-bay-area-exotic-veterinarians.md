@@ -30,7 +30,7 @@ A list of trusted local veterinarians and emergency hospitals that provide care 
 
 <details class="list-item">
   <summary class="list-summary">
-    <a href="https://sfexoticvet.com/" target="_blank" rel="noopener noreferrer">Bay Area Bird & Exotics Hospital</a>
+    <a href="https://www.birdandexoticsvet.com" target="_blank" rel="noopener noreferrer">Bay Area Bird & Exotics Hospital</a>
   </summary>
   <div class="list-info">
     <div>
