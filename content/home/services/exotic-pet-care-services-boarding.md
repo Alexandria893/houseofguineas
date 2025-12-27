@@ -30,7 +30,8 @@ From precise reptile habitat management and avian dietary needs, to the gentle h
 
 ##### House of Guineas Exotic Pet Boarding
 Changes in your pet’s environment can cause discomfort and stress. With that said, I understand that there are times where their home may not be the best option while you are away. I will work with you to make sure their home-away-from-home is the next best thing.
-* **Nightly Rate**: $65/night 
+<!-- previously $65 per night as of 12/25 change to clients before 1/1/26 on 9/26-->
+* **Nightly Rate**: $95/night 
 
 ##### What do I need for boarding?
 

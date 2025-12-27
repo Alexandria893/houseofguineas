@@ -61,8 +61,8 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
     <p>Changing your pet's environment, especially if they are a prey animal, can cause discomfort and stress. With that said, I understand that there are cases where their home may not be the best place to stay while you are away.</p>
     <p><strong>House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals.</strong> To ensure the safety and well-being of the exotic animals in the home, <strong>House of Guineas does not offer boarding for dogs and cats.</strong></p>
       <ul>
-        <li><strong>Exotic pet boarding is $65/night.</strong> We will discuss a plan together to make sure your pet(s) feel as safe and comfortable as possible. They will have their <strong>own room</strong>, with soothing music played as they become acclimated during their stay.</li>
-        <li>Please bring any <strong>enclosures, bedding,food and supplies</strong> your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), including any additional supplies needed during their stay.</li>
+        <li><strong>Exotic pet boarding is $85 per night.</strong> We will discuss a plan together to make sure your pet(s) feel as safe and comfortable as possible. They will have their <strong>own room</strong>, with soothing music played as they become acclimated during their stay.</li>
+        <li>Please bring any <strong>medication (if needed), enclosures, bedding,food and supplies</strong> your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), including any additional supplies needed during their stay.</li>
         <li>A meet and greet is required for first-time clients and your pet <strong>must be up-to-date with all of their vaccinations by the first visit</strong>. As with in-home pet sitting, boarding can book quickly. Please <a href="tel:415-484-6493">contact me</a> as soon as possible to make sure your pet(s) have the care they need!</li>
     </ul>
   </div>
@@ -94,7 +94,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
   <summary class="faq-summary">What happens if I don't have a key available for the Meet and Greet?</summary>
   <div class="faq-answer">
-    <p>Don't worry! We can schedule a time for a key pickup before the first visit. <strong>A key pickup and drop-off will be $50 each.</strong> House of Guineas can also store your keys, and your keys will be stored in a secure, undisclosed location.</p> 
+    <p>Don't worry! We can schedule a time for a key pickup before the first visit. <strong>A key pickup and drop-off will be $65 each.</strong> House of Guineas can also store your keys, and your keys will be stored in a secure, undisclosed location.</p> 
     <p>I've found that clients often have lockboxes, emergency contact key drop-offs and other methods to securely store their keys when they are away.</p>
   </div>
 </details>
