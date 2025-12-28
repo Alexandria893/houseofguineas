@@ -13,7 +13,6 @@ Learn more about my in-home rates and specialized services for **Reptiles, Birds
 From precise reptile habitat management and avian dietary needs, to the gentle handling of small mammals, I help prevent stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; let me help you keep your pet's world consistent. 
 
 ##### Routine Visits (2x/day) 
-*Routine visits, 2x/day visits, can be used in combination of 30 minute and 60 minute visits per day. As such, this daily rate would be $155/day*.
 * **30 minutes:** $140/day ($70/visit) <!-- prev 60/120 for 30 and  155 for 30/+60/165 -->
 * **30 minute & 60 minute visit combo:** $165/day
 * **60 minutes:** $190/day ($95/visit)
