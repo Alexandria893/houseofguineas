@@ -387,3 +387,102 @@ details[open] summary {
     padding: 10px 15px !important;
   }
 }
+
+/* --- CTA Block --- */
+.cta-section {
+  background-color: var(--color-primary) !important;
+  padding: 40px 0 !important;
+  margin-top: 40px;
+  border-radius: var(--radius);
+}
+
+.cta-section h3 {
+  color: #fff !important;
+  margin-bottom: 10px !important;
+  font-size: 24px !important;
+}
+
+.cta-section p {
+  color: rgba(255, 255, 255, 0.9) !important;
+  margin-bottom: 15px !important;
+}
+
+.cta-buttons {
+  margin-top: 20px !important;
+}
+
+.btn-cta-primary {
+  background-color: var(--color-accent) !important;
+  border: 2px solid var(--color-accent) !important;
+  color: #fff !important;
+  border-radius: var(--radius-sm) !important;
+  text-shadow: none !important;
+  text-transform: none !important;
+  margin: 5px !important;
+}
+
+.btn-cta-primary:hover,
+.btn-cta-primary:focus {
+  background-color: var(--color-accent-dark) !important;
+  border-color: var(--color-accent-dark) !important;
+  color: #fff !important;
+}
+
+.btn-cta-secondary {
+  background: transparent !important;
+  border: 2px solid rgba(255, 255, 255, 0.8) !important;
+  color: #fff !important;
+  border-radius: var(--radius-sm) !important;
+  text-shadow: none !important;
+  text-transform: none !important;
+  margin: 5px !important;
+}
+
+.btn-cta-secondary:hover,
+.btn-cta-secondary:focus {
+  background: rgba(255, 255, 255, 0.15) !important;
+  border-color: #fff !important;
+  color: #fff !important;
+}
+
+/* --- Footer --- */
+#footer {
+  background: var(--color-footer-bg) !important;
+  color: var(--color-footer-text) !important;
+  padding: 40px 0 20px 0 !important;
+  font-size: 14px !important;
+}
+
+#footer a {
+  color: var(--color-bg-alt) !important;
+}
+
+#footer a:hover {
+  color: #fff !important;
+}
+
+#footer h3.widget-title {
+  font-family: var(--font-heading) !important;
+  font-size: 16px !important;
+  text-transform: none !important;
+  color: #fff !important;
+}
+
+#footer .follow-me-icons {
+  font-size: 24px !important;
+}
+
+#footer .follow-me-icons i {
+  padding: 10px 0 !important;
+  margin: 0 8px 0 0 !important;
+  transition: color 0.2s ease;
+}
+
+#footer .follow-me-icons a:hover i {
+  color: var(--color-accent) !important;
+}
+
+/* Remove the old underfooter entirely */
+#underfooter {
+  display: none !important;
+}

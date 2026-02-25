@@ -1,92 +1,50 @@
 <footer id="footer">
-	<div class="container">
-		<div class="row">
-			{{ if .Site.Params.showFooterContact }}
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">{{ i18n "footer_contact_title" }}</h3>
-				<div class="widget-body">
-					<p>{{ if .Site.Params.phone }}<a href="tel:{{ .Site.Params.phone }}">{{ .Site.Params.phone }}</a><br>{{ end }}
-					{{ if .Site.Params.email }}<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a><br>{{ end }}
-					<br>
-					{{ if .Site.Params.address }}{{ .Site.Params.address }}{{ end }}
-					</p>
-				</div>
-			</div>
-			{{ end }}
-
-			{{ if .Site.Params.showFooterFollowMe }}
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">{{ i18n "footer_followme_title" }}</h3>
-				<div class="widget-body">
-					<p class="follow-me-icons">
-            {{ range .Site.Params.social }}
-							{{ if .footer }}
-								<a href="{{ .url }}" target="_blank"><i class="{{ .icon }} fa-1x"></i></a>
-							{{ end }}
+    <div class="container">
+        <div class="row">
+            {{ if .Site.Params.showFooterContact }}
+            <div class="col-md-4 widget">
+                <h3 class="widget-title">Contact</h3>
+                <div class="widget-body">
+                    <p>
+                        {{ if .Site.Params.phone }}<a href="tel:{{ .Site.Params.phone }}">{{ .Site.Params.phone }}</a><br>{{ end }}
+                        {{ if .Site.Params.email }}<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>{{ end }}
+                    </p>
+                </div>
+            </div>
             {{ end }}
-					</p>
-				</div>
-			</div>
-			{{ end }}
 
-			{{ if .Site.Params.showFooterTextWidget }}
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">{{ i18n "footer_text_title" }}</h3>
-				<div class="widget-body">
-					<p>
-						{{ i18n "footer_text1" . | markdownify }}
-					</p>
-					<p>
-						{{ i18n "footer_text2" . | markdownify }}
-					</p>
-				</div>
-			</div>
-			{{ end }}
+            <div class="col-md-4 widget">
+                <h3 class="widget-title">Service Areas</h3>
+                <div class="widget-body">
+                    <p>San Francisco's Exotic Pet Professional serving Inner Sunset, Richmond District, Cole Valley, Haight-Ashbury, and surrounding neighborhoods.</p>
+                </div>
+            </div>
 
-			{{ if .Site.Params.showFooterFormWidget }}
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">{{ i18n "footer_form_title" }}</h3>
-				<div class="widget-body">
-					<p>{{ if .Site.Params.phone }}{{ .Site.Params.phone }}<br>{{ end }}
-					{{ if .Site.Params.email }}<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a><br>{{ end }}
-					<br>
-					{{ if .Site.Params.address }}{{ .Site.Params.address }}{{ end }}
-					</p>
-				</div>
-			</div>
-			{{ end }}
+            {{ if .Site.Params.showFooterFollowMe }}
+            <div class="col-md-4 widget">
+                <h3 class="widget-title">Follow Me</h3>
+                <div class="widget-body">
+                    <p class="follow-me-icons">
+                        {{ range .Site.Params.social }}
+                            {{ if .footer }}
+                                <a href="{{ .url }}" target="_blank"><i class="{{ .icon }} fa-1x"></i></a>
+                            {{ end }}
+                        {{ end }}
+                    </p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
 
-		</div> <!-- /row of widgets -->
-	</div>
+        <div class="row">
+            <div class="col-md-12 text-center" style="padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.1); margin-top: 20px;">
+                <p style="margin: 0; font-size: 13px;">
+                    Copyright &copy; {{ now.Year }}, {{ .Site.Params.name }}
+                </p>
+            </div>
+        </div>
+    </div>
 </footer>
-
-<footer id="underfooter">
-	<div class="container">
-		<div class="row">
-
-			<div class="col-md-6 widget">
-				<div class="widget-body">
-					<p>{{ if .Site.Params.address}}{{ .Site.Params.address }}{{ end }}</p>
-				</div>
-			</div>
-
-			<div class="col-md-6 widget">
-				<div class="widget-body">
-					<p class="text-right">
-                                                {{ if .Site.Copyright }}
-                                                Copyright &copy; {{ .Site.Copyright }} <br>
-                                                {{ else }}
-                                                Copyright &copy; {{ now.Year }}, {{ .Site.Params.name }}<br>
-                                                {{ end }}
-					</p>
-				</div>
-			</div>
-
-		</div> <!-- /row of widgets -->
-	</div>
-</footer>
-
-
 
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
@@ -103,5 +61,3 @@
 {{ if .Site.Params.google.analytics -}}
 {{ partial "footer/analyticstracking.html" . }}
 {{ end -}}
-</body>
-</html>
