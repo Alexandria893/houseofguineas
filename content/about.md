@@ -40,10 +40,11 @@ I'm proficient in essential skills learned in a clinical setting, including:
 
 This isn’t just pet sitting; it’s specialized care grounded in real-world veterinary experience. You can relax knowing your pet will receive attentive, knowledgeable, and compassionate care, informed by professional standards and a genuine understanding of their specific needs.
 
-<!-- ##### *Animals I've seen and will happily care for:* -->
 *Animals I will happily care for:*
 
-##### **Reptiles:**
+<details>
+<summary><strong>Reptiles</strong></summary>
+
 * Snakes
 * Fat-tailed Geckos
 * Leopard Geckos
@@ -53,12 +54,20 @@ This isn’t just pet sitting; it’s specialized care grounded in real-world ve
 * Large Tortoises (We often needed a scale for dogs to measure these guys!)
 * Box Turtles
 
-##### **Amphibians:**
+</details>
+
+<details>
+<summary><strong>Amphibians</strong></summary>
+
 * Newts
 * Frogs
-* Axolotls 
+* Axolotls
 
-##### **Birds:**
+</details>
+
+<details>
+<summary><strong>Birds</strong></summary>
+
 * Budgies (often interchanged with parakeets~)
 * Finches
 * Parrots
@@ -66,9 +75,13 @@ This isn’t just pet sitting; it’s specialized care grounded in real-world ve
 * African Greys
 * Chickens
 * Ducks
-* Conures 
+* Conures
 
-##### **Small Mammals:**
+</details>
+
+<details>
+<summary><strong>Small Mammals</strong></summary>
+
 * Hamsters
 * Rats
 * Guinea Pigs
@@ -76,12 +89,18 @@ This isn’t just pet sitting; it’s specialized care grounded in real-world ve
 * Chinchillas
 * Ferrets
 
-##### **Aquarium Buddies:**
+</details>
+
+<details>
+<summary><strong>Aquarium Buddies</strong></summary>
+
 * Fish
 * Eels
-* Crabs 
+* Crabs
 * Snails
 * Shrimp
+
+</details>
 
 *And many more!*
 
