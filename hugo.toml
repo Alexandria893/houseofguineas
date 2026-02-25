@@ -34,6 +34,7 @@ showRecentWorks = true
 showReviews = true
 showDownloads = true
 showClients = true
+showProduct = true
 
 showFooterContact = true
 showFooterFollowMe = true

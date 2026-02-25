@@ -255,6 +255,26 @@ details summary {
   font-weight: 600;
   padding: 8px 0;
   transition: color 0.2s ease;
+  list-style: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::after {
+  content: "\f078";
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  font-size: 0.75em;
+  margin-left: 8px;
+  display: inline-block;
+  transition: transform 0.2s ease;
+  color: var(--color-primary);
+}
+
+details[open] summary::after {
+  transform: rotate(180deg);
 }
 
 details summary:hover {
@@ -549,6 +569,154 @@ details[open] summary {
   font-style: italic;
 }
 
+/* --- Enriched Service Cards --- */
+.service-card-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.service-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.service-card__cta {
+  margin-top: auto;
+  padding-top: 15px;
+}
+
+.service-card__price {
+  margin: 15px 0 10px;
+}
+
+.service-card__price-amount {
+  font-family: var(--font-heading);
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--color-accent);
+}
+
+.service-card__price-unit {
+  font-family: var(--font-heading);
+  font-size: 16px;
+  color: var(--color-accent);
+}
+
+.service-card__price-note {
+  font-size: 13px;
+  color: var(--color-text-light);
+  margin-top: 2px;
+}
+
+.service-card__animals {
+  margin: 10px 0 15px;
+}
+
+.service-card__animal-tag {
+  display: inline-block;
+  background: var(--color-bg-alt);
+  color: var(--color-text);
+  font-size: 12px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 20px;
+  margin: 3px 2px;
+}
+
+.service-card__highlights {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 10px;
+  text-align: left;
+}
+
+.service-card__highlights li {
+  position: relative;
+  padding-left: 22px;
+  margin-bottom: 8px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.service-card__highlights li::before {
+  content: "\f00c";
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  color: var(--color-primary);
+  font-size: 13px;
+}
+
+/* --- Product Showcase --- */
+.product-showcase {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.product-showcase__tagline {
+  text-transform: uppercase;
+  color: var(--color-primary) !important;
+  font-size: 13px !important;
+  font-weight: 700 !important;
+  letter-spacing: 1px;
+  margin-bottom: 5px !important;
+  text-align: center;
+}
+
+.product-showcase__name {
+  text-align: center;
+  margin-bottom: 15px !important;
+}
+
+.product-showcase__description {
+  text-align: center;
+  color: var(--color-text-light) !important;
+  font-size: 15px !important;
+  max-width: 600px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.product-showcase__features {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin: 25px 0;
+}
+
+.product-showcase__feature {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.product-showcase__feature-icon {
+  color: var(--color-primary) !important;
+  font-size: 20px;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.product-showcase__feature strong {
+  display: block;
+  font-size: 15px;
+  margin-bottom: 2px;
+}
+
+.product-showcase__feature p {
+  font-size: 13px !important;
+  color: var(--color-text-light) !important;
+  margin: 0 !important;
+  line-height: 1.5 !important;
+}
+
+.product-showcase__cta-wrap {
+  margin-top: 25px;
+}
+
 /* --- Mobile Refinements --- */
 @media (max-width: 768px) {
   .home #head {
@@ -608,5 +776,17 @@ details[open] summary {
   #footer .col-md-4 {
     margin-bottom: 20px;
     text-align: center;
+  }
+
+  .service-card-row {
+    display: block;
+  }
+
+  .service-card__price-amount {
+    font-size: 22px;
+  }
+
+  .product-showcase__features {
+    grid-template-columns: 1fr;
   }
 }

@@ -12,9 +12,10 @@
     {{ $stype := .Type}}
     {{ if (or (and (eq $stype "service") (.Site.Params.showServices))
     (and (eq $stype "recentwork") (.Site.Params.showRecentWorks))
-    (and (eq $stype "review") (.Site.Params.showReviews))     
+    (and (eq $stype "review") (.Site.Params.showReviews))
     (and (eq $stype "download") (.Site.Params.showDownloads))
     (and (eq $stype "client") (.Site.Params.showClients))
+    (and (eq $stype "product") (.Site.Params.showProduct))
     (eq $stype "single")) }}
 
     <div class="row section featured topspace">
@@ -36,6 +37,9 @@
       {{ else if eq $stype "client" }}
       {{ partial "home/clients.html" . }}
 
+      {{ else if eq $stype "product" }}
+      {{ partial "home/product.html" . }}
+
       {{ else if eq $stype "single" }}
       {{ partial "home/single.html" . }}
 
@@ -44,6 +48,9 @@
     {{ end }}
     {{ end }}
     {{ end }}
+
+    {{ partial "cta-block.html" . }}
+
   </div> <!-- /container -->
 </main>
 

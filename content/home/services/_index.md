@@ -1,7 +1,7 @@
 +++
 title = "Expert Exotic Pet Care"
 type = "service"
-weight = 2
+weight = 3
 +++
 
 <!-- ![service](../Coco.jpg) -->

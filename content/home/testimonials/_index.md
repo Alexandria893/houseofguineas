@@ -1,6 +1,6 @@
 +++
 title = "Trusted by San Francisco Pet Owners"
 type = "review"
-weight = 3
+weight = 4
 +++
 <!-- ![home](../Coco.jpg) -->
