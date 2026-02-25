@@ -10,6 +10,11 @@
                 <p>{{ if .Site.Params.phone }}<a href="tel:{{ .Site.Params.phone }}" style="color: white;">{{ .Site.Params.phone }}</a><br>{{ end }}
             </span>
         </h1>
+        <div class="text-center" style="padding-bottom: 30px;">
+            <a href="tel:{{ .Site.Params.phone }}" class="btn btn-lg" style="background-color: #bd1550; color: #fff; text-shadow: none; font-size: 16px; padding: 15px 40px; border-radius: 4px;">
+                Schedule Your Free Meet &amp; Greet
+            </a>
+        </div>
     </div>
 
     {{ partial "head/menu.html" . }}
