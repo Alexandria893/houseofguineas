@@ -8,11 +8,14 @@
 <script src="https://kit.fontawesome.com/575930b510.js" crossorigin="anonymous"></script>
 
 <!-- Fonts -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Nunito:wght@400;600;700&display=swap">
 
 {{ $styles := resources.Get "css/styles.css" }}
 {{ $css := $styles | resources.Minify }}
 <link rel="stylesheet" href="{{ $css.Permalink }}">
+{{ $custom := resources.Get "css/custom.css" }}
+{{ $customCss := $custom | resources.Minify }}
+<link rel="stylesheet" href="{{ $customCss.Permalink }}">
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-6JZQ3G0Q5M"></script>
