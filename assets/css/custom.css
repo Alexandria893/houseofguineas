@@ -32,6 +32,7 @@ body {
   color: var(--color-text) !important;
   background-color: var(--color-bg) !important;
   line-height: 1.7 !important;
+  overflow-x: hidden !important;
 }
 
 /* --- Typography --- */
@@ -394,6 +395,7 @@ details[open] summary {
   padding: 40px 0 !important;
   margin-top: 40px;
   border-radius: var(--radius);
+  overflow: hidden;
 }
 
 .cta-section h3 {
