@@ -3,8 +3,15 @@
   {{ range where .Data.Pages "Section" .Section }}
     <div class="col-sm-6 col-md-4">
       <h3 class="text-center">{{ .Title }}</h3>
-      <p>{{ .Summary }}</p>
-      <!-- <p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action">Read more</a></p> -->
+      {{ if .Truncated }}
+      <div>{{ .Summary }}</div>
+      <details>
+        <summary style="cursor: pointer; color: #bd1550; font-weight: bold; margin-top: 10px;">Read full review</summary>
+        <div style="margin-top: 10px;">{{ .Content }}</div>
+      </details>
+      {{ else }}
+      <div>{{ .Content }}</div>
+      {{ end }}
     </div>
   {{ end }}
 </div>
