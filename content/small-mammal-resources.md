@@ -17,16 +17,16 @@ Discover House of Guinea's patent pending Clinical Series Liners, along with my 
   }
   .resource-link-button {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 12px 32px;
     margin-top: 15px;
-    background-color: #333;
+    background-color: var(--color-accent, #C4704B);
     color: #fff;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: var(--radius-sm, 8px);
     font-weight: bold;
   }
   .resource-link-button:hover {
-    background-color: #555;
+    background-color: var(--color-accent-dark, #A85C3B);
     color: #fff;
   }
 </style>
