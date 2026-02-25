@@ -486,3 +486,53 @@ details[open] summary {
 #underfooter {
   display: none !important;
 }
+
+/* --- Testimonial Cards --- */
+.review-card {
+  background: var(--color-card);
+  border-radius: var(--radius);
+  padding: 24px;
+  box-shadow: var(--shadow);
+  border-left: 4px solid var(--color-accent);
+  height: 100%;
+}
+
+.review-author {
+  font-family: var(--font-heading) !important;
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  margin-bottom: 12px !important;
+  text-align: left !important;
+}
+
+.review-quote {
+  font-style: italic;
+  color: var(--color-text-light) !important;
+  font-size: 14px !important;
+  line-height: 1.6 !important;
+}
+
+.review-quote p {
+  color: var(--color-text-light) !important;
+  font-size: 14px !important;
+}
+
+.review-card details summary {
+  font-size: 14px !important;
+  color: var(--color-accent) !important;
+  margin-top: 8px;
+}
+
+.review-card details summary:hover {
+  color: var(--color-accent-dark) !important;
+}
+
+.review-full {
+  margin-top: 12px;
+}
+
+.review-full p {
+  font-size: 14px !important;
+  color: var(--color-text-light) !important;
+  font-style: italic;
+}

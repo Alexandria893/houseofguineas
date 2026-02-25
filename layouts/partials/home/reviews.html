@@ -2,16 +2,18 @@
 <div class="row">
   {{ range where .Data.Pages "Section" .Section }}
     <div class="col-sm-6 col-md-4">
-      <h3 class="text-center">{{ .Title }}</h3>
-      {{ if .Truncated }}
-      <div>{{ .Summary }}</div>
-      <details>
-        <summary style="cursor: pointer; color: #bd1550; font-weight: bold; margin-top: 10px;">Read full review</summary>
-        <div style="margin-top: 10px;">{{ .Content }}</div>
-      </details>
-      {{ else }}
-      <div>{{ .Content }}</div>
-      {{ end }}
+      <div class="review-card">
+        <h3 class="review-author">{{ .Title }}</h3>
+        {{ if .Truncated }}
+        <div class="review-quote">{{ .Summary }}</div>
+        <details>
+          <summary>Read full review</summary>
+          <div class="review-full">{{ .Content }}</div>
+        </details>
+        {{ else }}
+        <div class="review-quote">{{ .Content }}</div>
+        {{ end }}
+      </div>
     </div>
   {{ end }}
 </div>
