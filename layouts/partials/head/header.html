@@ -1,19 +1,20 @@
 <header id="header">
     <div id="head" class="parallax" data-parallax-speed="2"
         style="background-image:url('{{ .Site.BaseURL }}{{ .Site.Params.banner }}');">
-        <h1 id="logo" class="text-center">
+        <div class="hero-overlay"></div>
+        <div class="hero-content text-center">
             <img class='img-{{ .Site.Params.avatarclass | default "circle"}}'
-                src="{{ .Site.BaseURL }}{{ .Site.Params.avatar }}" alt="">
-            <span class="title" style="color: white">{{ .Site.Params.name }}</span>
-            <span class="tagline" style="color: rgb(255, 255, 255)">{{ .Site.Params.description }}<br>
-                <!-- <a href="mailto:{{ .Site.Params.email }}" style="color: white">{{ .Site.Params.email }}</a> -->
-                <p>{{ if .Site.Params.phone }}<a href="tel:{{ .Site.Params.phone }}" style="color: white;">{{ .Site.Params.phone }}</a><br>{{ end }}
-            </span>
-        </h1>
-        <div class="text-center" style="padding-bottom: 30px;">
-            <a href="tel:{{ .Site.Params.phone }}" class="btn btn-lg" style="background-color: #bd1550; color: #fff; text-shadow: none; font-size: 16px; padding: 15px 40px; border-radius: 4px;">
-                Schedule Your Free Meet &amp; Greet
-            </a>
+                src="{{ .Site.BaseURL }}{{ .Site.Params.avatar }}" alt="{{ .Site.Params.name }}">
+            <h1 class="hero-title">{{ .Site.Params.name }}</h1>
+            <p class="hero-tagline">{{ .Site.Params.description }}</p>
+            {{ if .Site.Params.phone }}
+            <p class="hero-phone"><a href="tel:{{ .Site.Params.phone }}">{{ .Site.Params.phone }}</a></p>
+            {{ end }}
+            <div class="hero-cta">
+                <a href="tel:{{ .Site.Params.phone }}" class="btn btn-lg btn-cta-hero">
+                    Schedule Your Free Meet &amp; Greet
+                </a>
+            </div>
         </div>
     </div>
 

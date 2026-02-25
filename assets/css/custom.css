@@ -283,3 +283,78 @@ details[open] summary {
 .nav-side > li.active > a {
   color: var(--color-primary-dark) !important;
 }
+
+/* --- Hero Banner --- */
+#head {
+  position: relative;
+  padding: 60px 0 50px 0 !important;
+}
+
+.home #head {
+  padding: 70px 0 60px 0 !important;
+}
+
+.hero-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(61, 50, 40, 0.45);
+  z-index: 1;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+}
+
+#head img {
+  border: 5px solid rgba(255, 255, 255, 0.3) !important;
+  width: 120px !important;
+  height: 120px !important;
+}
+
+.hero-title {
+  font-family: var(--font-heading) !important;
+  font-size: 42px !important;
+  color: #fff !important;
+  margin: 15px 0 5px 0;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.hero-tagline {
+  font-family: var(--font-body) !important;
+  font-size: 16px !important;
+  color: rgba(255, 255, 255, 0.9) !important;
+  margin: 0 0 5px 0 !important;
+}
+
+.hero-phone a {
+  color: rgba(255, 255, 255, 0.9) !important;
+  font-size: 16px !important;
+  text-decoration: none !important;
+}
+
+.hero-phone a:hover {
+  color: #fff !important;
+}
+
+.hero-cta {
+  margin-top: 20px;
+}
+
+.btn-cta-hero {
+  background-color: var(--color-accent) !important;
+  border: 2px solid var(--color-accent) !important;
+  color: #fff !important;
+  border-radius: var(--radius-sm) !important;
+  font-size: 16px !important;
+  padding: 14px 36px !important;
+  text-shadow: none !important;
+  text-transform: none !important;
+}
+
+.btn-cta-hero:hover,
+.btn-cta-hero:focus {
+  background-color: var(--color-accent-dark) !important;
+  border-color: var(--color-accent-dark) !important;
+  color: #fff !important;
+}
