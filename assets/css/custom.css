@@ -358,3 +358,32 @@ details[open] summary {
   border-color: var(--color-accent-dark) !important;
   color: #fff !important;
 }
+
+/* --- Inner Page Header --- */
+.header-inner .navbar-inner {
+  margin-bottom: 0;
+  border-bottom: 1px solid var(--color-border) !important;
+  background-color: var(--color-card) !important;
+  border-top: none !important;
+}
+
+.header-inner .navbar-inner .navbar-nav {
+  float: right !important;
+}
+
+.header-inner .navbar-brand:hover {
+  color: var(--color-primary) !important;
+}
+
+.header-inner .navbar-inner .navbar-nav > li > a {
+  padding: 20px 20px !important;
+}
+
+@media (max-width: 768px) {
+  .header-inner .navbar-inner .navbar-nav {
+    float: none !important;
+  }
+  .header-inner .navbar-inner .navbar-nav > li > a {
+    padding: 10px 15px !important;
+  }
+}
