@@ -6,7 +6,7 @@ weight = 3
   parent = "rates"
 +++
 
-Learn more about my boarding rates and specialized services for **Reptiles, Birds and Small Mammals.**
+Your pet gets their own room with soothing music — **$75/night** for **Reptiles, Birds and Small Mammals**.
 <!--more-->
 
 <!-- ##### Benefits of Our Personalized, In-Home Visits

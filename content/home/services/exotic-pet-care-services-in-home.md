@@ -6,7 +6,7 @@ weight = 2
   parent = "rates"
 +++
 
-Learn more about my in-home rates and specialized services for **Reptiles, Birds and Small Mammals.**
+Twice-daily visits in your pet's own habitat for **Reptiles, Birds and Small Mammals** — starting at **$70/visit**.
 <!--more-->
  
 ##### Benefits of Our Personalized, In-Home Visits
