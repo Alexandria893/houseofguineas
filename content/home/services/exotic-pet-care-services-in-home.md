@@ -4,9 +4,19 @@ title = "In-Home Services"
 weight = 2
 [menu.main]
   parent = "rates"
+[params]
+  price = "$85"
+  priceUnit = "/visit"
+  priceNote = "starting rate for daily visits"
+  animals = ["Reptiles", "Birds", "Small Mammals"]
+  highlights = [
+    "Species-specific feeding & medication",
+    "Enrichment & photo/video updates",
+    "Home care: tidying, plants, mail"
+  ]
 +++
 
-Twice-daily visits in your pet's own habitat for **Reptiles, Birds and Small Mammals** — starting at **$70/visit**.
+Visits in the comfort of your pet's home for **Reptiles, Birds and Small Mammals** — starting at **$85/visit**.
 <!--more-->
  
 ##### Benefits of Our Personalized, In-Home Visits

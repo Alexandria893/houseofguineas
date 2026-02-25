@@ -1,0 +1,32 @@
+
+<div class="product-showcase">
+  <div class="product-showcase__content">
+    {{ with .Params.tagline }}
+    <p class="product-showcase__tagline">{{ . }}</p>
+    {{ end }}
+
+    <h3 class="product-showcase__name">{{ .Params.productName }}</h3>
+
+    <p class="product-showcase__description">{{ .Params.description }}</p>
+
+    {{ with .Params.features }}
+    <div class="product-showcase__features">
+      {{ range . }}
+      <div class="product-showcase__feature">
+        <i class="{{ .icon }} product-showcase__feature-icon"></i>
+        <div>
+          <strong>{{ .title }}</strong>
+          <p>{{ .description }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <div class="text-center product-showcase__cta-wrap">
+      <a href="{{ .Params.ctaUrl }}" target="_blank" rel="noopener noreferrer" class="btn btn-lg btn-cta-primary product-showcase__cta">
+        {{ .Params.ctaText }}
+      </a>
+    </div>
+  </div>
+</div>

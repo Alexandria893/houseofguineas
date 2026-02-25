@@ -4,6 +4,16 @@ title = "Boarding Services"
 weight = 3
 [menu.main]
   parent = "rates"
+[params]
+  price = "$75"
+  priceUnit = "/night"
+  priceNote = ""
+  animals = ["Reptiles", "Birds", "Small Mammals"]
+  highlights = [
+    "Own room with soothing music",
+    "Client provides enclosure & supplies",
+    "Meet & greet required for first visit"
+  ]
 +++
 
 Your pet gets their own room with soothing music — **$75/night** for **Reptiles, Birds and Small Mammals**.
