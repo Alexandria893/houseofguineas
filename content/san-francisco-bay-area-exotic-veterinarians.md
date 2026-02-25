@@ -3,7 +3,7 @@ title = "Local Veterinarians and Emergency Hospitals"
 [menu.main]
   parent = "resources"
 +++
-A list of trusted local veterinarians and emergency hospitals that provide care for exotic pets.
+A list of local veterinarians and emergency hospitals that provide care for exotic pets.
 
 ---
 <style>
@@ -37,7 +37,7 @@ A list of trusted local veterinarians and emergency hospitals that provide care 
     <p>
       <strong>Specializes In:</strong> 🐹 Small Mammals, 🦎 Reptiles & Amphibians, 🦜 Birds <br>
       <strong>Veterinarian(s):</strong> Dr. Leila Marcucci <br>
-      <strong>Address:</strong> 2145 Taraval St, San Francisco, CA 94116 (moving to: 2300 Sutter St Suite #102, San Francisco CA)<br>
+      <strong>Address:</strong> 2300 Sutter St Suite #102, San Francisco CA<br>
       <strong>Phone:</strong> <a href="tel:415-566-4359">(415) 566-4359</a> <br>
       <strong>Email:</strong> <a href="mailto:reception@birdandexoticsvet.com">reception@birdandexoticsvet.com</a> <br>
       <strong>Hours:</strong> Tuesday - Friday, 9:00 AM - 5:30 PM <br>
@@ -67,7 +67,7 @@ A list of trusted local veterinarians and emergency hospitals that provide care 
 
 <details class="list-item">
   <summary class="list-summary">
-    <a href="https://petsreferralcenter.com/" target="_blank" rel="noopener noreferrer">PETS Referral Center</a>
+    <a href="https://petsreferralcenter.com/" target="_blank" rel="noopener noreferrer">(Emergencies Only) PETS Referral Center</a>
   </summary>
   <div class="list-info">
     <p>

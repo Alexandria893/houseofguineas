@@ -1,11 +1,11 @@
 +++
-title = "Best Food and Housing Resources for Small Pets"
-description = "Discover our recommended resources for high-quality food and housing for your guinea pig, rabbit, or chinchilla. Featuring Small Pet Select and a discount link for Critter Colony."
+title = "Best Resources for Small Pets"
+description = "Discover House of Guinea's patent pending Clinical Series Liners, along with my recommended resources for high-quality food and housing for your guinea pig, rabbit, or chinchilla. Featuring Small Pet Select and Critter Colony."
 [menu.main]
   parent = "resources"
 +++
 
-Discover our favorite, trusted resources for high-quality housing and food for your small pet, weather it's a popcorning guinea or a telporting chinchilla. We recommend these products to ensure your companion lives a happy, healthy and enriched life.
+Discover House of Guinea's patent pending Clinical Series Liners, along with my favorite, trusted resources for high-quality housing and food for your small pets. Weather it's a popcorning guinea or a telporting chinchilla, I recommend these products to ensure your companions lives a happy, healthy and enriched life.
 
 ---
 <style>
@@ -30,7 +30,39 @@ Discover our favorite, trusted resources for high-quality housing and food for y
     color: #fff;
   }
 </style>
+<div class="resource-section">
+  <h2>Invest in Your Guinea Pig's Health</h2>
+  <h4>House of Guineas Clinical Series Liners (Patent Pending)</h3>
+  <p>
+   I want to make sure our little guineas stay as healthy as they can be, and this starts in their main housing. 
+  
+   My clinical series liners prevent our guineas from sitting in their own waste, while neutralizing ammonia buildup that can cause health issues for their little bodies. 
+   
+   This keeps them dry and healthy, while protecting against respiratory issues and bumblefoot (plus, the fleece feels soft like a baby chinchilla!). Since it comes as a pair, you simply spot clean the "jelly beans" and swap to the second liner while the used one is in the wash.
+  </p>
+  <h4>Key Features:</h4>
+  <ul>
+    <li>
+    Pre-activated Superior Absorption: 10x its weight
+    </li>
+    <li>
+    Antimicrobial: Silver ion technology optimizes health
+    </li>
+    <li>
+    Medical-Grade: Fabric Adheres to stringent safety standards    
+    </li>
+  </ul>
+  <p>
+Handmade here in San Francisco, California, designed by myself - an Exotic Pet Professional with an engineering background. Sewn with industrial, medical-grade materials for maximum durability. 
 
+Invest in your pet's health and pre-order their clinical liners! 
+</p>
+  <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="resource-link-button" target="_blank" rel="noopener noreferrer">
+    Shop House of Guineas Clinical Series Liners
+  </a>
+</div>
+
+<!-- PARTNERS BELOW -->
 <div class="resource-section">
   <h2>Spacious & Safe Habitat for Your Guinea Pigs</h2>
   <h4>Critter Colony C&C Cages</h3>
