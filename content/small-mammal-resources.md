@@ -5,7 +5,7 @@ description = "Discover House of Guinea's patent pending Clinical Series Liners,
   parent = "resources"
 +++
 
-Discover House of Guinea's patent pending Clinical Series Liners, along with my favorite, trusted resources for high-quality housing and food for your small pets. Weather it's a popcorning guinea or a telporting chinchilla, I recommend these products to ensure your companions lives a happy, healthy and enriched life.
+Discover House of Guinea's patent pending Clinical Series Liners, along with my favorite, trusted resources for high-quality housing and food for your small pets. Whether it's a popcorning guinea or a teleporting chinchilla, I recommend these products to ensure your companions lives a happy, healthy and enriched life.
 
 ---
 <style>
