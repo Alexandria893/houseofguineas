@@ -93,10 +93,10 @@
 
 {{ $styles := resources.Get "css/styles.css" }}
 {{ $css := $styles | resources.Minify }}
-<link rel="stylesheet" href="{{ $css.Permalink }}">
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{ $custom := resources.Get "css/custom.css" }}
 {{ $customCss := $custom | resources.Minify }}
-<link rel="stylesheet" href="{{ $customCss.Permalink }}">
+<link rel="stylesheet" href="{{ $customCss.RelPermalink }}">
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-6JZQ3G0Q5M"></script>
