@@ -505,12 +505,8 @@ a.btn.btn-cta-outline:focus {
 }
 
 /* Prevent cream body background from showing as a line below footer */
-html, body {
+html {
   background-color: var(--color-footer-bg) !important;
-}
-
-main {
-  background-color: var(--color-bg);
 }
 
 #footer p,
