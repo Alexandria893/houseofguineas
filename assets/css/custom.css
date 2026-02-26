@@ -449,6 +449,13 @@ details[open] summary {
 
 .btn-cta-primary:hover,
 .btn-cta-primary:focus {
+  background: transparent !important;
+  border-color: var(--color-accent) !important;
+  color: var(--color-accent) !important;
+}
+
+.cta-section .btn-cta-primary:hover,
+.cta-section .btn-cta-primary:focus {
   background-color: var(--color-accent-dark) !important;
   border-color: var(--color-accent-dark) !important;
   color: #fff !important;
@@ -468,6 +475,22 @@ details[open] summary {
 .btn-cta-secondary:focus {
   background: rgba(255, 255, 255, 0.15) !important;
   border-color: #fff !important;
+  color: #fff !important;
+}
+
+a.btn.btn-cta-outline {
+  background: transparent !important;
+  border: 2px solid var(--color-accent) !important;
+  color: var(--color-accent) !important;
+  border-radius: var(--radius-sm) !important;
+  text-shadow: none !important;
+  text-transform: none !important;
+  margin: 5px !important;
+}
+
+a.btn.btn-cta-outline:hover,
+a.btn.btn-cta-outline:focus {
+  background-color: var(--color-accent) !important;
   color: #fff !important;
 }
 
@@ -567,6 +590,22 @@ details[open] summary {
   font-size: 14px !important;
   color: var(--color-text-light) !important;
   font-style: italic;
+}
+
+.review-expandable .review-toggle-close {
+  display: none;
+}
+
+.review-expandable[open] .review-quote {
+  display: none;
+}
+
+.review-expandable[open] .review-toggle-open {
+  display: none;
+}
+
+.review-expandable[open] .review-toggle-close {
+  display: inline;
 }
 
 /* --- Enriched Service Cards --- */

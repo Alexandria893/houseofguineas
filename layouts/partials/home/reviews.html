@@ -5,9 +5,12 @@
       <div class="review-card">
         <h3 class="review-author">{{ .Title }}</h3>
         {{ if .Truncated }}
-        <div class="review-quote">{{ .Summary }}</div>
-        <details>
-          <summary>Read full review</summary>
+        <details class="review-expandable">
+          <summary>
+            <div class="review-quote">{{ .Summary }}</div>
+            <span class="review-toggle-open">Read full review</span>
+            <span class="review-toggle-close">Close review</span>
+          </summary>
           <div class="review-full">{{ .Content }}</div>
         </details>
         {{ else }}

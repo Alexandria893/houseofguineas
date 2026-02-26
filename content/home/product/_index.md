@@ -1,11 +1,12 @@
 +++
 title = "From Our Workshop"
+description = "House of Guineas Clinical Series Liners — patent pending medical-grade guinea pig cage liners with 10x absorption and antimicrobial silver ion technology. Handmade in San Francisco."
 type = "product"
 weight = 2
 [params]
   productName = "House of Guineas Clinical Series Liners"
   tagline = "Patent Pending"
-  description = "My clinical series liners prevent our guineas from sitting in their own waste, while neutralizing ammonia buildup that can cause health issues for their little bodies. This keeps them dry and healthy, while protecting against respiratory issues and bumblefoot."
+  productDescription = "My clinical series liners prevent our guineas from sitting in their own waste, while neutralizing ammonia buildup that can cause health issues for their little bodies. This keeps them dry and healthy, while protecting against respiratory issues and bumblefoot."
   ctaText = "Shop on Etsy"
   ctaUrl = "https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners"
 

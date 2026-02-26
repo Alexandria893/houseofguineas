@@ -1,5 +1,6 @@
 +++
 title = "FAQs"
+description = "Frequently asked questions about House of Guineas exotic pet care services in San Francisco. Service areas, boarding, rates, insurance and more."
 menu = "main"
 summary = "Have a question about San Francisco's House of Guineas Pet Care services? Take a look at some answers to common questions!"
 
@@ -139,8 +140,118 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
   </div>
 </details>
 
-<br>
-<em>Ready to create your perfect care plan? Get started with my <a href="../exotic-pet-care-services-in-home">in-home pet care services</a></em>
+<div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
+  <p style="font-size: 1.1em;"><strong>Ready to create your perfect care plan?</strong></p>
+  <p>
+    <a href="../exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-primary">In-Home Pet Care</a>
+    <a href="../exotic-pet-care-services-boarding" class="btn btn-lg btn-cta-outline">Boarding</a>
+  </p>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which animals does House of Guineas Pet Care service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "House of Guineas Pet Care offers specialized care for exotic animals including small mammals such as hamsters and guinea pigs, reptiles and amphibians such as bearded dragons, and birds such as cockatiels. An expansive list of pets we care for can be found on the about page."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are your service areas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "House of Guineas Pet Care services most of San Francisco, California. The primary service area includes Inner Sunset and its surrounding areas (0–3 mile radius, no surcharge). Secondary service area (3-6 miles) has a $15/visit travel surcharge. Tertiary service area (6+ miles) has a minimum $25/visit travel surcharge."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer boarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals at $75 per night. Your pet gets their own room with soothing music. Please bring enclosures, bedding, food and supplies. A meet and greet is required for first-time clients and pets must be up-to-date with vaccinations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer overnight pet sitting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While House of Guineas does not offer overnight pet sitting, we are happy to discuss ways to meet your pet's needs, such as extended visits. Contact us at 415-484-6493 to discuss a plan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are you insured?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. House of Guineas is certified in Pet CPR + CPCR and First Aid, bonded, and insured. As a member of Pet Sitters International, the world's largest pet sitting association, we adhere to the highest industry standards. Insurance protects against unexpected incidents and bonding provides financial protection against theft or property damage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a Meet and Greet, and what will ours look like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A meet and greet is a visit to your home where we get to know you and your pet(s) and answer any questions. This is also the time to hand off any physical keys, which will be stored in a secure, undisclosed location."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I don't have a key available for the Meet and Greet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We can schedule a key pickup before the first visit. A key pickup and drop-off is $70 each. House of Guineas can also store your keys in a secure, undisclosed location."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What would service payments look like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A booking deposit of half the total care is due at the end of the meet and greet. The remaining half is due after the final visit, along with any additional charges. We accept Zelle, Venmo, checks and cash, payable to House of Guineas LLC."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will I receive updates about my pet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! You will receive pictures of your pet's adventures while you're away, along with high-level updates of their health, any changes in behaviors or feeding levels, and relevant home updates such as received mail or packages."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if there's an emergency during the visit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We require note of at least one veterinary hospital. For minor situations, we will communicate with you first. In emergencies, immediate action will be taken to admit your pet. Additional charges are due by the last service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I need last-minute care?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Any sits scheduled within 7 days of their first visit include a non-refundable $100 surcharge ($150 if care is over holidays). Contact us as soon as possible at 415-484-6493 to ensure your pet has the care they need."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I'm looking for pet care during the holidays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pet care over a holiday is 1.5x the regular rate. Any sits scheduled within 7 days of the needed care over a holiday include a non-refundable $150 holiday surcharge in addition to applicable service fees. Holiday care is often booked months in advance."
+      }
+    }
+  ]
+}
+</script>
 
 
 

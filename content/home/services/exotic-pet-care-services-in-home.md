@@ -1,6 +1,7 @@
 +++
 type = "services"
 title = "In-Home Services"
+description = "Professional in-home exotic pet care in San Francisco. Species-specific feeding, medication, enrichment and home care for reptiles, birds and small mammals. Starting at $85/visit."
 weight = 2
 [menu.main]
   parent = "rates"
@@ -19,16 +20,16 @@ weight = 2
 Visits in the comfort of your pet's home for **Reptiles, Birds and Small Mammals** — starting at **$85/visit**.
 <!--more-->
  
-##### Benefits of Our Personalized, In-Home Visits
+## Benefits of Our Personalized, In-Home Visits
 From precise reptile habitat management and avian dietary needs, to the gentle handling of small mammals, I help prevent stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; let me help you keep your pet's world consistent. 
 
-##### Routine Visits (2x/day) 
+### Routine Visits (2x/day)
 * **30 minutes:** $140/day ($70/visit) <!-- prev 60/120 for 30 and  155 for 30/+60/165 -->
 * **30 minute & 60 minute visit combo:** $165/day
 * **60 minutes:** $190/day ($95/visit)
 
 
-##### Individual Visits (1x/day) <!-- 12/25,prev 70 for 30 and 105 for 60; 09/25,prev 65 for 30 and 75 for 60 -->
+### Individual Visits (1x/day) <!-- 12/25,prev 70 for 30 and 105 for 60; 09/25,prev 65 for 30 and 75 for 60 -->
 * **30 minutes:** $85/visit 
 * **60 minutes:** $115/visit
 
@@ -38,7 +39,7 @@ From precise reptile habitat management and avian dietary needs, to the gentle h
 
 ***Peace of Mind:*** You'll receive updates including snapshots and details of their well-being and activities, so you can enjoy your time away without worry.
 
-##### Location Surcharges
+## Location Surcharges
 I want to make sure I can provide the best care for you and your pet, whether you're here or there. 
 * Additional travel rates **starts at $15/visit** if you're outside of the [travel area.](/home/services/faqs/#service-areas)
 

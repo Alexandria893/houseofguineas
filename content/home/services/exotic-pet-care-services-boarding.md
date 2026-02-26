@@ -1,6 +1,7 @@
 +++
 type = "services"
 title = "Boarding Services"
+description = "Exotic pet boarding in San Francisco — your pet gets their own room with soothing music. Reptiles, birds and small mammals welcome. $75/night."
 weight = 3
 [menu.main]
   parent = "rates"
@@ -38,12 +39,12 @@ From precise reptile habitat management and avian dietary needs, to the gentle h
 <!-- * *Note: For homes with only [amphibians, reptiles and/or aquarium buddies,](https://www.houseofguineas.com/home/services/service1/#:~:text=Reptiles%3A,Shrimp) care will be $60 per visit.* -->
 <!-- each mile is about 1.25 per mile; or $2.50 for each 1 mile, round trip ( accounting for 2 miles total back and forth trip)-->
 
-##### House of Guineas Exotic Pet Boarding
+## House of Guineas Exotic Pet Boarding
 Changes in your pet’s environment can cause discomfort and stress. With that said, I understand that there are times where their home may not be the best option while you are away. I will work with you to make sure their home-away-from-home is the next best thing.
 <!-- previously $65 per night as of 12/25 change to clients before 1/1/26 on 9/26-->
 * **Nightly Rate**: $75/night 
 
-##### What do I need for boarding?
+### What do I need for boarding?
 
 We will discuss a plan together to make sure your pet(s) feel as safe and comfortable as possible. They will have their **own room**, with soothing music played as they become acclimated during their stay.
 

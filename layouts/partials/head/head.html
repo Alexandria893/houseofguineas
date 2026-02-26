@@ -1,4 +1,85 @@
 <title>{{ .Title }}</title>
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ .Site.BaseURL }}prof.jpeg">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- Structured Data: LocalBusiness (all pages) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "{{ .Site.BaseURL }}#localbusiness",
+  "name": "{{ .Site.Params.name }}",
+  "description": "{{ .Site.Params.description }}",
+  "url": "{{ .Site.BaseURL }}",
+  "telephone": "{{ .Site.Params.phone }}",
+  "email": "{{ .Site.Params.email }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "San Francisco",
+    "addressRegion": "CA",
+    "addressCountry": "US"
+  },
+  "areaServed": [
+    "Inner Sunset",
+    "Richmond District",
+    "Cole Valley",
+    "Haight-Ashbury"
+  ],
+  "priceRange": "$$",
+  "image": "{{ .Site.BaseURL }}prof.jpeg"{{ with .Site.Params.social }},
+  "sameAs": [{{ range $i, $s := . }}{{ if $i }},{{ end }}"{{ $s.url }}"{{ end }}]{{ end }}
+}
+</script>
+
+{{ if eq .Type "services" }}
+<!-- Structured Data: Service -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "{{ .Title }}",
+  "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "{{ .Site.BaseURL }}#localbusiness"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "San Francisco",
+    "addressRegion": "CA"
+  }
+}
+</script>
+{{ end }}
+
+{{ if eq .Type "product" }}
+<!-- Structured Data: Product -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "House of Guineas Clinical Series Liners",
+  "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
+  "brand": {
+    "@type": "Brand",
+    "name": "House of Guineas"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners",
+    "availability": "https://schema.org/InStock"
+  }
+}
+</script>
+{{ end }}
+
 <link rel="shortcut icon" href="{{ .Site.BaseURL }}{{ .Site.Params.favicon }}">
 
 <!-- Bootstrap -->

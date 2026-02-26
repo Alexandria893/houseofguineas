@@ -15,19 +15,19 @@ Discover House of Guinea's patent pending Clinical Series Liners, along with my 
   .resource-section h3 {
     margin-top: 1rem;
   }
-  .resource-link-button {
+  a.resource-link-button {
     display: inline-block;
     padding: 12px 32px;
     margin-top: 15px;
-    background-color: var(--color-accent, #C4704B);
-    color: #fff;
-    text-decoration: none;
+    background-color: var(--color-accent, #C4704B) !important;
+    color: #fff !important;
+    text-decoration: none !important;
     border-radius: var(--radius-sm, 8px);
     font-weight: bold;
   }
-  .resource-link-button:hover {
-    background-color: var(--color-accent-dark, #A85C3B);
-    color: #fff;
+  a.resource-link-button:hover {
+    background-color: var(--color-accent-dark, #A85C3B) !important;
+    color: #fff !important;
   }
 </style>
 <div class="resource-section">
@@ -94,4 +94,12 @@ Invest in your pet's health and pre-order their clinical liners!
   <a href="https://smallpetselect.com/" class="resource-link-button" target="_blank" rel="noopener noreferrer">
     Shop Small Pet Select
   </a>
+</div>
+
+<div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
+  <p style="font-size: 1.1em;"><strong>Ready to create your perfect care plan?</strong></p>
+  <p>
+    <a href="/home/services/exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-primary">In-Home Pet Care</a>
+    <a href="/home/services/exotic-pet-care-services-boarding" class="btn btn-lg btn-cta-outline">Boarding</a>
+  </p>
 </div>

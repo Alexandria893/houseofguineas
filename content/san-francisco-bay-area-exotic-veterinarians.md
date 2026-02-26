@@ -1,5 +1,6 @@
 +++
 title = "Local Veterinarians and Emergency Hospitals"
+description = "Local exotic pet veterinarians and emergency hospitals in San Francisco and the East Bay. Recommended by House of Guineas Pet Care."
 [menu.main]
   parent = "resources"
 +++
@@ -81,9 +82,13 @@ A list of local veterinarians and emergency hospitals that provide care for exot
   </div>
 </details>
 
-
-
-
+<div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
+  <p style="font-size: 1.1em;"><strong>Ready to create your perfect care plan?</strong></p>
+  <p>
+    <a href="/home/services/exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-primary">In-Home Pet Care</a>
+    <a href="/home/services/exotic-pet-care-services-boarding" class="btn btn-lg btn-cta-outline">Boarding</a>
+  </p>
+</div>
 
 
 
