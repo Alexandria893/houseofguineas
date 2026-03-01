@@ -1,5 +1,6 @@
 +++
 title = "Why Choose an Exotic Vet Assistant?"
+description = "Why hire an exotic vet assistant for your pet? Specialized reptile, bird and small mammal care in San Francisco from a trained veterinary professional."
 [menu.main]
   parent = "resources"
 weight = 1

@@ -4,6 +4,10 @@ title = 'House of Guineas: San Francisco Exotic Pet Care'
 theme = 'hugo-initio'
 style = 'default'
 
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -18,18 +22,17 @@ email = "houseofguineas@gmail.com"
 phone = "415-484-6493"
 # address = "San Francisco, CA"
 address = "San Francisco's Exotic Pet Professional serving Inner Sunset, Richmond District, Cole Valley, Haight-Ashbury, and surrounding neighborhoods."
-year = 2025
 avatar = "prof.jpeg"
 avatarclass = "circle"
 background = ""
 banner = "milo.jpeg"
 favicon = "images/gt_favicon.png"
 DateForm = "January 2, 2006"
-author = "Sergey Pozhilov (GetTemplate.com)"
+author = "House of Guineas Pet Care"
 
 showSubheader = true
 showServices = true
-showRecentWorks = true
+showRecentWorks = false
 # added reviews
 showReviews = true
 showDownloads = true

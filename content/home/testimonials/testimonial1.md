@@ -1,6 +1,8 @@
 +++
 title = "Izzy S."
 weight = 1
+[_build]
+  render = 'never'
 +++
 *"Alexandria took the very best care of my 4 guinea pigs, and I'm thrilled & relieved to have finally found a reliable and trustworthy guinea-sitter!"*
 <!--more-->

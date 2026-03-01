@@ -32,7 +32,7 @@ Discover House of Guinea's patent pending Clinical Series Liners, along with my 
 </style>
 <div class="resource-section">
   <h2>Invest in Your Guinea Pig's Health</h2>
-  <h4>House of Guineas Clinical Series Liners (Patent Pending)</h3>
+  <h3>House of Guineas Clinical Series Liners (Patent Pending)</h3>
   <p>
    I want to make sure our little guineas stay as healthy as they can be, and this starts in their main housing. 
   
@@ -40,7 +40,7 @@ Discover House of Guinea's patent pending Clinical Series Liners, along with my 
    
    This keeps them dry and healthy, while protecting against respiratory issues and bumblefoot (plus, the fleece feels soft like a baby chinchilla!). Since it comes as a pair, you simply spot clean the "jelly beans" and swap to the second liner while the used one is in the wash.
   </p>
-  <h4>Key Features:</h4>
+  <h3>Key Features:</h3>
   <ul>
     <li>
     Pre-activated Superior Absorption: 10x its weight
@@ -65,11 +65,11 @@ Invest in your pet's health and pre-order their clinical liners!
 <!-- PARTNERS BELOW -->
 <div class="resource-section">
   <h2>Spacious & Safe Habitat for Your Guinea Pigs</h2>
-  <h4>Critter Colony C&C Cages</h3>
+  <h3>Critter Colony C&C Cages</h3>
   <p>
     We've all been there - spending hours setting up our C&C cage - snapping in corners, finagling with the walls, and tightening endless zip-tips for security. For modular, safe and simple builds, we recommend housing from Critter Colony. These sleek enclosures provide essential space guinea pigs, are easy to clean, and can be customized to fit your desired layout.
   </p>
-  <h4>Why Choose Critter Colony C&C Cages?</h4>
+  <h3>Why Choose Critter Colony C&C Cages?</h3>
   <p>
     We know all-too-well that many commercial pet store cages are too small for small animals, and are detrimental to their health and well-beings. A C&C cage provides ample room for exercise, dedicated areas for sleeping and eating, and is a long-term, cost-effective investment in your pet's well-being.
   </p>
@@ -83,11 +83,11 @@ Invest in your pet's health and pre-order their clinical liners!
 
 <div class="resource-section">
   <h2>Choosing the Best Quality Hay for Rabbits, Guinea Pigs & Chinchillas</h2>
-  <h4>Small Pet Select</h3>
+  <h3>Small Pet Select</h3>
   <p>
     High-quality hay is the most important part of a guinea pig, rabbit, or chinchilla's diet. Small Pet Select is renowned for its fresh, fragrant, and nutritious hay, delivered right to your home. They also offer high-quality pellets, forage mixes, and healthy treats to keep your small companion happy and healthy. (I and my bunnies and guineas LOVE their Flower Power Herb Blend! 🌸)
   </p>
-  <h4>The Importance of Quality Hay</h4>
+  <h3>The Importance of Quality Hay</h3>
   <p>
     Fresh hay should make up about 80% of your pet's diet. It's essential for proper digestion, dental health (they need a healthy outlet to wear down their always-growing teeth!), and preventing boredom. Choosing a reputable source like Small Pet Select ensures the hay is free from dust and mold, providing the best diet for your pet.
   </p>
