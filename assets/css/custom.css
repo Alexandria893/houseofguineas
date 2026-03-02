@@ -787,8 +787,10 @@ html {
 
   .mobile-nav__scroll {
     display: flex;
-    justify-content: space-around;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
     padding: 0 8px;
+    gap: 4px;
   }
 
   .mobile-nav__link {
