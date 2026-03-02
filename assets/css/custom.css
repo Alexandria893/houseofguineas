@@ -788,9 +788,17 @@ html {
   .mobile-nav__scroll {
     display: flex;
     justify-content: space-around;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
     padding: 0 8px;
+  }
+
+  @media (max-width: 360px) {
+    .mobile-nav__scroll {
+      padding: 0 2px;
+    }
+    .mobile-nav__link {
+      padding: 12px 8px !important;
+      font-size: 13px !important;
+    }
   }
 
   .mobile-nav__link {
