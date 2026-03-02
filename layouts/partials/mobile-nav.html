@@ -9,10 +9,10 @@
       </div>
     </div>
     <a href="/about/" class="mobile-nav__link{{ if eq .RelPermalink "/about/" }} mobile-nav__link--active{{ end }}">About</a>
-    <a href="/home/services/faqs/" class="mobile-nav__link{{ if eq .RelPermalink "/home/services/faqs/" }} mobile-nav__link--active{{ end }}">FAQs</a>
     <div class="mobile-nav__dropdown">
-      <button type="button" class="mobile-nav__link mobile-nav__link--parent{{ if or (eq .RelPermalink "/small-mammal-resources/") (eq .RelPermalink "/san-francisco-bay-area-exotic-veterinarians/") (eq .RelPermalink "/san-francisco-california-exotic-veterinary-experience/") }} mobile-nav__link--active{{ end }}" aria-expanded="false">Resources <i class="fa-solid fa-chevron-down mobile-nav__caret"></i></button>
+      <button type="button" class="mobile-nav__link mobile-nav__link--parent{{ if or (eq .RelPermalink "/home/services/faqs/") (eq .RelPermalink "/small-mammal-resources/") (eq .RelPermalink "/san-francisco-bay-area-exotic-veterinarians/") (eq .RelPermalink "/san-francisco-california-exotic-veterinary-experience/") }} mobile-nav__link--active{{ end }}" aria-expanded="false">Resources <i class="fa-solid fa-chevron-down mobile-nav__caret"></i></button>
       <div class="mobile-nav__dropdown-menu">
+        <a href="/home/services/faqs/" class="mobile-nav__dropdown-item">FAQs</a>
         <a href="/small-mammal-resources/" class="mobile-nav__dropdown-item">Small Pet Resources</a>
         <a href="/san-francisco-bay-area-exotic-veterinarians/" class="mobile-nav__dropdown-item">Local Vets</a>
         <a href="/san-francisco-california-exotic-veterinary-experience/" class="mobile-nav__dropdown-item">Vet Experience</a>
