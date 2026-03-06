@@ -1,11 +1,11 @@
 +++
 title = "Best Resources for Small Pets"
-description = "Discover House of Guinea's patent pending Clinical Series Liners, along with my recommended resources for high-quality food and housing for your guinea pig, rabbit, or chinchilla. Featuring Small Pet Select and Critter Colony."
+description = "Shop House of Guineas Clinical Series fleece cage liners — patent pending guinea pig bedding with 10x absorption and antimicrobial silver ion technology. Plus top resources for food and housing from Small Pet Select and Critter Colony."
 [menu.main]
   parent = "resources"
 +++
 
-Discover House of Guinea's patent pending Clinical Series Liners, along with my favorite, trusted resources for high-quality housing and food for your small pets. Whether it's a popcorning guinea or a teleporting chinchilla, I recommend these products to ensure your companions lives a happy, healthy and enriched life.
+Discover House of Guinea's patent pending Clinical Series fleece cage liners — the best guinea pig bedding for health-conscious pet parents — along with my favorite, trusted resources for high-quality housing and food for your small pets. Whether it's a popcorning guinea or a teleporting chinchilla, I recommend these products to ensure your companions live a happy, healthy and enriched life.
 
 ---
 <style>
@@ -32,13 +32,13 @@ Discover House of Guinea's patent pending Clinical Series Liners, along with my 
 </style>
 <div class="resource-section">
   <h2>Invest in Your Guinea Pig's Health</h2>
-  <h3>House of Guineas Clinical Series Liners (Patent Pending)</h3>
+  <h3>House of Guineas Clinical Series Fleece Cage Liners (Patent Pending)</h3>
   <p>
-   I want to make sure our little guineas stay as healthy as they can be, and this starts in their main housing. 
-  
-   My clinical series liners prevent our guineas from sitting in their own waste, while neutralizing ammonia buildup that can cause health issues for their little bodies. 
-   
-   This keeps them dry and healthy, while protecting against respiratory issues and bumblefoot (plus, the fleece feels soft like a baby chinchilla!). Since it comes as a pair, you simply spot clean the "jelly beans" and swap to the second liner while the used one is in the wash.
+   I want to make sure our little guineas stay as healthy as they can be, and this starts with the right guinea pig bedding in their main housing.
+
+   My clinical series fleece liners prevent our guineas from sitting in their own waste, while neutralizing ammonia buildup for superior odor control and healthier air quality in their enclosure.
+
+   These absorbent cage liners keep your pets dry and healthy, while protecting against respiratory issues and bumblefoot (plus, the fleece feels soft like a baby chinchilla!). Since it comes as a pair, you simply spot clean the "jelly beans" and swap to the second liner while the used one is in the wash.
   </p>
   <h3>Key Features:</h3>
   <ul>
@@ -53,9 +53,9 @@ Discover House of Guinea's patent pending Clinical Series Liners, along with my 
     </li>
   </ul>
   <p>
-Handmade here in San Francisco, California, designed by myself - an Exotic Pet Professional with an engineering background. Sewn with industrial, medical-grade materials for maximum durability. 
+Handmade here in San Francisco, California, designed by myself — an Exotic Pet Professional with an engineering background. Sewn with industrial, medical-grade materials for maximum durability. These fleece liners are sized for standard C&C cage setups, making them the perfect upgrade from disposable guinea pig bedding.
 
-Invest in your pet's health and pre-order their clinical liners! 
+Invest in your pet's health and pre-order their clinical cage liners! 
 </p>
   <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="resource-link-button" target="_blank" rel="noopener noreferrer">
     Shop House of Guineas Clinical Series Liners

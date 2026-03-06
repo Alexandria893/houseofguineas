@@ -449,9 +449,9 @@ details[open] summary {
 
 .btn-cta-primary:hover,
 .btn-cta-primary:focus {
-  background: transparent !important;
-  border-color: var(--color-accent) !important;
-  color: var(--color-accent) !important;
+  background-color: var(--color-accent-dark) !important;
+  border-color: var(--color-accent-dark) !important;
+  color: #fff !important;
 }
 
 .cta-section .btn-cta-primary:hover,
