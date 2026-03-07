@@ -51,9 +51,6 @@ weight = 3
   }
 </style>
 
-![Luca the guinea pig on House of Guineas Clinical Series fleece cage liner](../Luca.jpg)
-*Luca enjoying a clean, dry fleece liner — no prep washes needed.*
-
 ## The Best Guinea Pig Fleece Cage Liners for Health-Conscious Pet Parents
 
 Looking for the best **guinea pig fleece liners** that actually work from day one? The House of Guineas Clinical Series is the first **patent-pending, medical-grade guinea pig bedding** designed specifically to protect your pet's health. Engineered with antimicrobial silver ion technology and pre-activated 10x absorption, these reusable **fleece cage liners** keep your guinea pig dry, healthy, and comfortable — right out of the box. No more disposable bedding, no more prep washes.

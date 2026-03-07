@@ -39,7 +39,7 @@ I also worked as an **Exotic Veterinary Assistant** at the local [Bay Area Bird 
 
 I'm proficient in essential skills learned in a clinical setting, including:
 
-* Proficiency in administering medications — including oral, topical, and subcutaneous injections (such as RHDV vaccinations) — as prescribed by veterinarians
+* Proficiency in administering medications (oral, topical, and subcutaneous injections) and treatments as prescribed by veterinarians
 * Safe handling and species-specific care routines, along with gentle restraint techniques
 * Detailed knowledge of normal vs. abnormal behaviors and subtle signs of illness across a wide range of exotic species
 * Post-procedure monitoring and recovery support
