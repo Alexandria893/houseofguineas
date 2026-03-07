@@ -1,7 +1,8 @@
 +++
-menu = "main"
 title = "About Alexandria | San Francisco Exotic Pet Care Professional"
 shortTitle = "About Alexandria"
+[menu.main]
+  name = "About"
 description = "Meet Alexandria, San Francisco's exotic pet care professional. Veterinary assistant background at Bay Area Bird & Exotics Hospital. Specialized care for reptiles, birds and small mammals."
 type = "about"
 weight = 4

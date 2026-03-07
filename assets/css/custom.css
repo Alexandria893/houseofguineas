@@ -787,8 +787,15 @@ html {
 
   .mobile-nav__scroll {
     display: flex;
-    justify-content: space-around;
     padding: 0 8px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;          /* Firefox */
+    -ms-overflow-style: none;       /* IE/Edge */
+  }
+
+  .mobile-nav__scroll::-webkit-scrollbar {
+    display: none;                  /* Chrome/Safari */
   }
 
   @media (max-width: 360px) {
@@ -853,14 +860,12 @@ html {
 
   .mobile-nav__dropdown-menu {
     display: none;
-    position: absolute;
-    top: 100%;
+    position: fixed;
     left: 0;
+    right: 0;
     background: var(--color-card);
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius-sm);
+    border-bottom: 1px solid var(--color-border);
     box-shadow: var(--shadow);
-    min-width: 160px;
     z-index: 1050;
     padding: 4px 0;
   }

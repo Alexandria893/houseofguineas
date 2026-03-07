@@ -26,6 +26,14 @@
 
 <script>
 (function() {
+  function positionDropdown(dropdown) {
+    var menu = dropdown.querySelector('.mobile-nav__dropdown-menu');
+    var nav = document.querySelector('.mobile-nav');
+    if (nav && menu) {
+      menu.style.top = nav.getBoundingClientRect().bottom + 'px';
+    }
+  }
+
   document.addEventListener('click', function(e) {
     var toggle = e.target.closest('.mobile-nav__link--parent');
     if (toggle) {
@@ -41,6 +49,7 @@
       if (!isOpen) {
         dropdown.classList.add('open');
         toggle.setAttribute('aria-expanded', 'true');
+        positionDropdown(dropdown);
       }
     } else if (!e.target.closest('.mobile-nav__dropdown-menu')) {
       // Clicked outside dropdown — close all
