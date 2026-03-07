@@ -11,6 +11,25 @@
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@houseofguineas">
+<meta name="twitter:creator" content="@houseofguineas">
+
+{{ if .IsHome }}
+<!-- Structured Data: WebSite (homepage only) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "House of Guineas Pet Care",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "publisher": {
+    "@type": "LocalBusiness",
+    "@id": "{{ .Site.BaseURL }}#localbusiness"
+  }
+}
+</script>
+{{ end }}
 
 <!-- Structured Data: LocalBusiness (all pages) -->
 <script type="application/ld+json">
