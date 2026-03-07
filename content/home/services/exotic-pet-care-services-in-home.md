@@ -51,3 +51,5 @@ I provide in-home exotic pet sitting across San Francisco — from the Inner Sun
 
 <!-- Include a map that shows a client's rate depending on their area within the city. It would ideally be interactive so a client can input their address and check what their rate would be. Can start with a static picture.-->
 
+*Leaving town with a reptile at home? Read our guide on [how to prepare your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting). Own guinea pigs? Learn why [fleece liners are better than disposable bedding](/post/guinea-pig-fleece-liners-vs-disposable-bedding).*
+

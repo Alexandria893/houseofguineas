@@ -76,3 +76,5 @@ We will discuss a plan together to make sure your pet(s) feel as safe and comfor
 * A meet and greet is **required for first-time clients** and your pet must be up-to-date with all vaccinations by the first visit
 * Boarding can book quickly — please [contact me](tel:415-484-6493) as soon as possible to make sure your pet(s) have the care they need!
 
+*Planning a trip? Read our step-by-step guide on [how to prepare your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting). Guinea pig parent? Check out our [Clinical Series fleece cage liners](/clinical-series-guinea-pig-fleece-cage-liners) for the healthiest bedding option.*
+
