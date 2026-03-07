@@ -962,4 +962,14 @@ html {
   .product-showcase__features {
     grid-template-columns: 1fr;
   }
+
+  /* Make tables scrollable on mobile */
+  .entry-content table,
+  .spec-table,
+  .comparison-table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+  }
 }
