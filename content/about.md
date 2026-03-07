@@ -1,6 +1,7 @@
 +++
 menu = "main"
-title = "About"
+title = "About Alexandria | San Francisco Exotic Pet Care Professional"
+shortTitle = "About Alexandria"
 description = "Meet Alexandria, San Francisco's exotic pet care professional. Veterinary assistant background at Bay Area Bird & Exotics Hospital. Specialized care for reptiles, birds and small mammals."
 type = "about"
 weight = 4
@@ -28,7 +29,7 @@ The first time I needed to leave home after adopting my adorable crew, panic set
 The occasional trip became a logistical hurdle – reliable and knowledgeable exotic pet sitters were scarce. This experience fueled my desire to create House of Guineas Pet Care: a professional, San Francisco pet care service offering specialized care for exotic pets, and peace of mind for both their owners and companions.
 
 ## My Exotic Veterinary Background: Expertise You Can Trust
-Place your trust in experienced, professional hands. I currently volunteer as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richimond, California, where I vaccinate bunnies as well as support the onsite veterinarian with pre and post-operation surgeries.
+Place your trust in experienced, professional hands. I currently volunteer as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richmond, California, where I vaccinate bunnies as well as support the onsite veterinarian with pre and post-operation surgeries.
 
 I also worked as an **Exotic Veterinary Assistant** at the local [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco provided me with a comprehensive understanding of the specialized care exotic pets require. My professional experience at the veterinary hospital involved providing care for a wide variety of animals – from reptiles like snakes, bearded dragons and geckos, to birds such as African greys and budgies, and small mammals including rabbits (ask about the baby Flemish Giant!) and guinea pigs. 
 

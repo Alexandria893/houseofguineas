@@ -1,6 +1,7 @@
 +++
 type = "services"
-title = "Exotic Pet Boarding San Francisco | Reptiles, Birds & Small Mammals"
+title = "Exotic Pet Boarding San Francisco | House of Guineas"
+shortTitle = "Exotic Pet Boarding"
 description = "Exotic pet boarding in San Francisco — reptile boarding, bird boarding and small mammal boarding. Your pet gets their own room with soothing music. $75/night."
 weight = 3
 [menu.main]
@@ -39,17 +40,32 @@ Whether you need reptile boarding, bird boarding, or small mammal boarding in Sa
 * **Daily updates** with photos and notes on your pet’s behavior, appetite, and well-being
 * **Medication administration** if needed (oral, topical, or other prescribed treatments)
 
-### Reptile & Amphibian Boarding
+<details class="care-details" style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
+<summary style="font-weight: bold; cursor: pointer; font-size: 1.17em;">Reptile & Amphibian Boarding</summary>
+<div style="padding-top: 0.75rem;">
 
 Reptiles and amphibians have precise environmental needs that most pet sitters aren’t trained to manage. I maintain proper temperature gradients, humidity levels, and UVB lighting schedules for every species I board. Whether it’s a bearded dragon that needs a 100-110°F basking spot, a ball python requiring 60-70% humidity, or an axolotl that must stay below 68°F, I monitor conditions with digital thermometers and hygrometers throughout the day. Read more about my species-specific approach in my [Reptile & Amphibian Care Guide](/reptile-amphibian-care-guide).
 
-### Bird Boarding
+</div>
+</details>
+
+<details class="care-details" style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
+<summary style="font-weight: bold; cursor: pointer; font-size: 1.17em;">Bird Boarding</summary>
+<div style="padding-top: 0.75rem;">
 
 Birds are highly social and sensitive to environmental changes. During their boarding stay, I maintain their regular feeding schedule, provide fresh water and enrichment, and monitor for stress indicators like feather plucking, stress bars, or changes in vocalization. Cage hygiene is maintained daily.
 
-### Small Mammal Boarding
+</div>
+</details>
+
+<details class="care-details" style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
+<summary style="font-weight: bold; cursor: pointer; font-size: 1.17em;">Small Mammal Boarding</summary>
+<div style="padding-top: 0.75rem;">
 
 Guinea pigs, rabbits, chinchillas, ferrets, and other small mammals receive unlimited fresh hay, species-appropriate pellets and vegetables, and daily enclosure cleaning. I watch for early signs of common issues like GI stasis, dental problems, and respiratory distress — skills honed during my [veterinary assistant training](/san-francisco-california-exotic-veterinary-experience).
+
+</div>
+</details>
 
 ### What Do I Need for Boarding?
 

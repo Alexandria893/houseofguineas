@@ -1,5 +1,6 @@
 +++
 title = "Guinea Pig Fleece Liners vs Disposable Bedding: Which Is Better?"
+shortTitle = "Fleece Liners vs Disposable Bedding"
 description = "Fleece cage liners vs paper bedding vs wood shavings for guinea pigs. Compare cost, hygiene, respiratory safety, and convenience to find the best guinea pig bedding."
 date = 2026-03-06
 tags = ["guinea pig care", "fleece liners", "bedding"]

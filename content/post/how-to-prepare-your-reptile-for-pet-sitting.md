@@ -1,5 +1,6 @@
 +++
 title = "How to Prepare Your Reptile for Pet Sitting in San Francisco"
+shortTitle = "Prepare Your Reptile for Pet Sitting"
 description = "A step-by-step guide to preparing your bearded dragon, snake, gecko, or turtle for a pet sitter. Written by a San Francisco exotic veterinary assistant."
 date = 2026-03-07
 tags = ["reptile care", "pet sitting", "san francisco"]

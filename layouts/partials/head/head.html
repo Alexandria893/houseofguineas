@@ -26,7 +26,13 @@
     "@type": "PostalAddress",
     "addressLocality": "San Francisco",
     "addressRegion": "CA",
+    "postalCode": "94122",
     "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "37.7625",
+    "longitude": "-122.4668"
   },
   "areaServed": [
     "Inner Sunset",
@@ -234,8 +240,8 @@
 </script>
 {{ end }}
 
-{{ if or (eq .RelPermalink "/small-mammal-resources/") (eq .RelPermalink "/clinical-series-guinea-pig-fleece-cage-liners/") }}
-<!-- Structured Data: FAQPage (Guinea Pig Liners) -->
+{{ if eq .RelPermalink "/clinical-series-guinea-pig-fleece-cage-liners/" }}
+<!-- Structured Data: FAQPage (Clinical Series Product Page — all 7 FAQs) -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -251,12 +257,64 @@
     },
     {
       "@type": "Question",
+      "name": "What size C&C cage do they fit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our liners are sized for standard C&C cage configurations — the most popular guinea pig housing recommended by rescue organizations. If you have a custom setup, contact us and we can discuss options."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "How often should I wash guinea pig fleece cage liners?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Wash fleece cage liners weekly. Spot clean daily by removing hay and droppings. Use warm water, gentle fragrance-free detergent, and tumble dry on low heat. Avoid fabric softener as it reduces wicking ability."
       }
     },
+    {
+      "@type": "Question",
+      "name": "Are fleece cage liners safe for baby guinea pigs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, fleece liners are actually safer for baby guinea pigs than loose bedding, which young pigs may accidentally ingest. Medical-grade fleece provides a soft, warm surface that is gentle on tiny feet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is silver ion antimicrobial technology?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Silver ions (Ag+) have natural antimicrobial properties that disrupt bacterial cell membranes. In our liners, silver ion technology is woven into the absorption layer to actively neutralize ammonia and inhibit bacterial growth between washes — keeping your guinea pig's enclosure cleaner and healthier for longer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use Clinical Series liners for rabbits or chinchillas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While designed for guinea pigs, the Clinical Series liners work well for rabbits and chinchillas too. The antimicrobial properties and absorption capacity benefit any small mammal. Just ensure the sizing works for your enclosure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are Clinical Series liners different from GuineaDad liners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clinical Series liners feature patent-pending antimicrobial silver ion technology that actively neutralizes ammonia — a feature not found in standard fleece liners. They also come pre-activated (no prep washes needed), use medical-grade materials for maximum durability, and are handmade in San Francisco by an exotic pet professional with an engineering background."
+      }
+    }
+  ]
+}
+</script>
+{{ end }}
+
+{{ if eq .RelPermalink "/small-mammal-resources/" }}
+<!-- Structured Data: FAQPage (Small Mammal Resources) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
     {
       "@type": "Question",
       "name": "Are fleece liners better than disposable bedding for guinea pigs?",
@@ -267,10 +325,10 @@
     },
     {
       "@type": "Question",
-      "name": "Are fleece cage liners safe for baby guinea pigs?",
+      "name": "What is the best hay for guinea pigs, rabbits and chinchillas?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, fleece liners are actually safer for baby guinea pigs than loose bedding, which young pigs may accidentally ingest. Medical-grade fleece provides a soft, warm surface that is gentle on tiny feet."
+        "text": "Fresh timothy hay should make up about 80% of a guinea pig, rabbit, or chinchilla's diet. It is essential for proper digestion, dental health (their teeth grow continuously), and preventing boredom. Choose a reputable source like Small Pet Select to ensure the hay is free from dust and mold."
       }
     }
   ]
@@ -291,10 +349,15 @@
     "name": "Alexandria Brown",
     "url": "{{ .Site.BaseURL }}about/"
   },
+  "image": "{{ with .Params.og_image }}{{ $.Site.BaseURL }}{{ . }}{{ else }}{{ .Site.BaseURL }}prof.jpeg{{ end }}",
   "publisher": {
     "@type": "Organization",
     "name": "House of Guineas Pet Care",
-    "url": "{{ .Site.BaseURL }}"
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}prof.jpeg"
+    }
   },
   "datePublished": "{{ .Date.Format "2006-01-02" }}",
   "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",

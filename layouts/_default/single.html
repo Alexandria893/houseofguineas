@@ -8,7 +8,7 @@
 
  				<article class="post">
 					<header class="entry-header">
- 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
+ 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</a></h1>
 					</header>
 					<div class="entry-content">
 						{{ .Content }}

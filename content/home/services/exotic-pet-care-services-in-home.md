@@ -1,6 +1,7 @@
 +++
 type = "services"
 title = "Reptile & Exotic Pet Sitting in San Francisco | In-Home Care"
+shortTitle = "In-Home Pet Sitting"
 description = "Professional reptile pet sitting and exotic pet care in San Francisco. Species-specific feeding, medication, enrichment and home care for reptiles, birds and small mammals. Starting at $85/visit."
 weight = 2
 [menu.main]

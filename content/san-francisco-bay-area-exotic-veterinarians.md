@@ -1,5 +1,6 @@
 +++
 title = "Exotic Pet Veterinarians in San Francisco & the Bay Area"
+shortTitle = "Exotic Pet Veterinarians"
 description = "Find exotic pet veterinarians and emergency hospitals in San Francisco, the Peninsula, South Bay, and East Bay. Vets for reptiles, birds, guinea pigs, rabbits and more — recommended by House of Guineas Pet Care."
 [menu.main]
   parent = "resources"

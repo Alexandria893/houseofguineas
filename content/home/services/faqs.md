@@ -1,5 +1,6 @@
 +++
-title = "FAQs"
+title = "Exotic Pet Care FAQs | San Francisco | House of Guineas"
+shortTitle = "Exotic Pet Care FAQs"
 description = "Frequently asked questions about House of Guineas exotic pet care services in San Francisco. Service areas, boarding, rates, insurance and more."
 menu = "main"
 summary = "Have a question about San Francisco's House of Guineas Pet Care services? Take a look at some answers to common questions!"
