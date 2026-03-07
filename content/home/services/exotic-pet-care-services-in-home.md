@@ -7,6 +7,7 @@ weight = 2
 [menu.main]
   parent = "rates"
 [params]
+  og_image = "milo.jpeg"
   serviceType = "Reptile & Exotic Pet Sitting"
   price = "$85"
   priceUnit = "/visit"
@@ -43,9 +44,10 @@ From precise [reptile habitat management](/reptile-amphibian-care-guide) and avi
 
 ***Peace of Mind:*** You'll receive updates including snapshots and details of their well-being and activities, so you can enjoy your time away without worry.
 
-## Location Surcharges
-I want to make sure I can provide the best care for you and your pet, whether you're here or there. 
-* Additional travel rates **starts at $15/visit** if you're outside of the [travel area.](/home/services/faqs/#service-areas)
+## Location & Service Areas
+I provide in-home exotic pet sitting across San Francisco — from the Inner Sunset, Outer Sunset and Parkside to Pacific Heights, the Marina and SOMA. Whether you're in Cole Valley, Noe Valley, the Castro, the Mission District, Haight-Ashbury, the Richmond District or Forest Hill, I'll come to your pet's home.
+
+* Additional travel rates **starts at $15/visit** if you're outside of the [primary travel area.](/home/services/faqs/#service-areas)
 
 <!-- Include a map that shows a client's rate depending on their area within the city. It would ideally be interactive so a client can input their address and check what their rate would be. Can start with a static picture.-->
 

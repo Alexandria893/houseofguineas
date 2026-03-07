@@ -3,7 +3,10 @@ title = "How to Prepare Your Reptile for Pet Sitting in San Francisco"
 shortTitle = "Prepare Your Reptile for Pet Sitting"
 description = "A step-by-step guide to preparing your bearded dragon, snake, gecko, or turtle for a pet sitter. Written by a San Francisco exotic veterinary assistant."
 date = 2026-03-07
+og_image = "Coco.jpg"
 tags = ["reptile care", "pet sitting", "san francisco"]
+[sitemap]
+  priority = 0.6
 +++
 
 Leaving your reptile with a pet sitter — whether for a weekend trip or a longer vacation — takes preparation. Reptiles can't tell their sitter what they need, and even small environmental changes can cause stress. As an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and professional [reptile pet sitter in San Francisco](/home/services/exotic-pet-care-services-in-home), here's exactly how I recommend preparing your reptile for care.

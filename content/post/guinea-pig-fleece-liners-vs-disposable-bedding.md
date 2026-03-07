@@ -3,7 +3,10 @@ title = "Guinea Pig Fleece Liners vs Disposable Bedding: Which Is Better?"
 shortTitle = "Fleece Liners vs Disposable Bedding"
 description = "Fleece cage liners vs paper bedding vs wood shavings for guinea pigs. Compare cost, hygiene, respiratory safety, and convenience to find the best guinea pig bedding."
 date = 2026-03-06
+og_image = "Luca.jpg"
 tags = ["guinea pig care", "fleece liners", "bedding"]
+[sitemap]
+  priority = 0.6
 +++
 
 Choosing the right bedding for your guinea pig is one of the most important decisions you'll make as a pet parent. The bedding your guinea pig sits on 24/7 directly affects their respiratory health, skin health, and overall comfort. After years of caring for guinea pigs and designing [medical-grade fleece cage liners](/clinical-series-guinea-pig-fleece-cage-liners), here's my honest comparison of the main options.

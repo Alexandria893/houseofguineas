@@ -4,6 +4,8 @@ shortTitle = "Exotic Pet Veterinarians"
 description = "Find exotic pet veterinarians and emergency hospitals in San Francisco, the Peninsula, South Bay, and East Bay. Vets for reptiles, birds, guinea pigs, rabbits and more — recommended by House of Guineas Pet Care."
 [menu.main]
   parent = "resources"
+[sitemap]
+  priority = 0.8
 +++
 Finding a veterinarian who specializes in exotic animals — reptiles, birds, guinea pigs, rabbits, and other small mammals — can be challenging. Below is a curated list of exotic pet veterinarians and emergency hospitals across San Francisco and the greater Bay Area.
 

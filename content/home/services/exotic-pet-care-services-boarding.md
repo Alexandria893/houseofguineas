@@ -7,6 +7,7 @@ weight = 3
 [menu.main]
   parent = "rates"
 [params]
+  og_image = "2ChungusPuppyDog.jpg"
   serviceType = "Exotic Pet Boarding"
   price = "$75"
   priceUnit = "/night"
@@ -28,7 +29,7 @@ Your pet gets their own room with soothing music — **$75/night** for **Reptile
 
 Changes in your pet’s environment can cause discomfort and stress. With that said, I understand that there are times where their home may not be the best option while you are away. As a trained [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), I will work with you to make sure their home-away-from-home is the next best thing.
 
-Whether you need reptile boarding, bird boarding, or small mammal boarding in San Francisco, your pet will receive the same species-specific, professional care I provide during [in-home visits](/home/services/exotic-pet-care-services-in-home).
+Whether you need reptile boarding, bird boarding, or small mammal boarding in San Francisco, your pet will receive the same species-specific, professional care I provide during [in-home visits](/home/services/exotic-pet-care-services-in-home). I serve pet owners across the city — from the Inner Sunset and Richmond District to Noe Valley, the Castro, Pacific Heights, the Marina, SOMA, and beyond.
 
 * **Nightly Rate**: $75/night <!-- previously $65 per night as of 12/25 change to clients before 1/1/26 on 9/26-->
 
