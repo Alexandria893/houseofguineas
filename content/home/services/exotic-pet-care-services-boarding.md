@@ -39,7 +39,7 @@ Whether you need reptile boarding, bird boarding, or small mammal boarding in Sa
 * **Species-specific feeding** on your pet’s regular schedule, including live insects, fresh greens, hay, pellets, and supplements as needed
 * **Habitat monitoring** — I check temperatures, humidity, UVB lighting, and water quality throughout the day to match your pet’s home environment
 * **Daily updates** with photos and notes on your pet’s behavior, appetite, and well-being
-* **Medication administration** if needed (oral, topical, or other prescribed treatments)
+* **Medication administration** if needed — oral, topical, or subcutaneous injections as prescribed by your veterinarian
 
 <details class="care-details" style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
 <summary style="font-weight: bold; cursor: pointer; font-size: 1.17em;">Reptile & Amphibian Boarding</summary>

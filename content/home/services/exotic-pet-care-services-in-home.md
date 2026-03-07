@@ -2,7 +2,7 @@
 type = "services"
 title = "Reptile & Exotic Pet Sitting in San Francisco | In-Home Care"
 shortTitle = "In-Home Pet Sitting"
-description = "Professional reptile pet sitting and exotic pet care in San Francisco. Species-specific feeding, medication, enrichment and home care for reptiles, birds and small mammals. Starting at $85/visit."
+description = "Professional exotic pet sitting in San Francisco. Species-specific feeding, medication and enrichment for reptiles, birds and small mammals. From $85/visit."
 weight = 2
 [menu.main]
   parent = "rates"
@@ -38,7 +38,7 @@ From precise [reptile habitat management](/reptile-amphibian-care-guide) and avi
 * **30 minutes:** $85/visit 
 * **60 minutes:** $115/visit
 
-***Pet Care:*** Your pet will receive dedicated love and attention, including species-specific feeding, fresh water, medication administration (if needed) and enrichment.
+***Pet Care:*** Your pet will receive dedicated love and attention, including species-specific feeding, fresh water, medication administration — oral, topical, or subcutaneous injections if needed — and enrichment.
 
 ***Home Care:*** Visits include general home upkeep such as tidying pet areas, plant care, and mail/package retrieval. I can also alternate lights and blinds upon request to maintain a lived-in appearance.
 

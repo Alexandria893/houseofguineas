@@ -26,13 +26,13 @@ Exotic pets have specialized needs that differ significantly from traditional pe
 * **Professional Handling:** Incorrect handling can cause injury to your exotic pet. Knowing and being able to assess your pet’s comfort with handling mitigates unnecessary stress, while respecting your pet’s boundaries.
 
 ## My Exotic Veterinary Background: Expertise You Can Trust
-Place your trust in experienced, professional hands. I currently volunteer as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richmond, California, where I vaccinate bunnies as well as support the onsite veterinarian with pre and post-operation surgeries.
+Place your trust in experienced, professional hands. I currently volunteer as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richmond, California, where I administer RHDV (Rabbit Hemorrhagic Disease Virus) vaccinations and support the onsite veterinarian with pre and post-operation surgeries.
 
 I also worked as an **Exotic Veterinary Assistant** at the local [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco, which provided me with a comprehensive understanding of the specialized care exotic pets require. My professional experience at the veterinary hospital involved providing care for a wide variety of animals — from reptiles like snakes, bearded dragons and geckos, to birds such as African greys and budgies, and small mammals including rabbits and guinea pigs.
 
 I’m proficient in essential skills learned in a clinical setting, including:
 
-* Administering medications (oral and topical) and treatments as prescribed by veterinarians
+* Administering medications — including oral, topical, and subcutaneous injections (such as RHDV vaccinations) — as prescribed by veterinarians
 * Safe handling and species-specific care routines, along with gentle restraint techniques
 * Detailed knowledge of normal vs. abnormal behaviors and subtle signs of illness across a wide range of exotic species
 * Post-procedure monitoring and recovery support

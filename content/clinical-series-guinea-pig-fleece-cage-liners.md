@@ -1,7 +1,7 @@
 +++
 title = "Clinical Series Guinea Pig Fleece Cage Liners | House of Guineas"
 shortTitle = "Clinical Series Fleece Liners"
-description = "Patent-pending medical-grade guinea pig fleece cage liners with 10x absorption and antimicrobial silver ion technology. Pre-activated, washable, reusable C&C cage liners handmade in San Francisco."
+description = "Patent-pending guinea pig fleece cage liners with 10x absorption and antimicrobial silver ion technology. Pre-activated, reusable. Handmade in San Francisco."
 type = "product"
 [menu.main]
   parent = "resources"

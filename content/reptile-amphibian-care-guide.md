@@ -1,7 +1,7 @@
 +++
 title = "Reptile & Amphibian Care Guide | San Francisco Exotic Pet Care"
 shortTitle = "Reptile & Amphibian Care Guide"
-description = "Expert reptile and amphibian care in San Francisco. Species-specific guidance for bearded dragons, snakes, turtles, geckos, axolotls and frogs from a trained exotic veterinary assistant."
+description = "Reptile and amphibian care guide from a San Francisco exotic vet assistant. Species-specific care for bearded dragons, snakes, geckos, turtles and axolotls."
 [menu.main]
   parent = "resources"
 weight = 4

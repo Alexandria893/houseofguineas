@@ -1,0 +1,17 @@
+{{ if not .IsHome }}
+<nav class="breadcrumb-nav" aria-label="Breadcrumb">
+  <ol class="breadcrumb-list">
+    <li><a href="/">Home</a></li>
+    {{- $parent := false -}}
+    {{- range .Site.Menus.main -}}
+      {{- if $.HasMenuCurrent "main" . -}}
+        {{- $parent = . -}}
+      {{- end -}}
+    {{- end -}}
+    {{- with $parent }}
+    <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+    {{- end }}
+    <li aria-current="page">{{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</li>
+  </ol>
+</nav>
+{{ end }}

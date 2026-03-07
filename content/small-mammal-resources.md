@@ -1,7 +1,7 @@
 +++
 title = "Guinea Pig Fleece Cage Liners & Small Pet Resources"
 shortTitle = "Small Pet Resources"
-description = "Shop House of Guineas Clinical Series fleece cage liners — patent pending guinea pig bedding with 10x absorption and antimicrobial silver ion technology. Plus top resources for food and housing from Small Pet Select and Critter Colony."
+description = "Guinea pig fleece cage liners, C&C cages and premium hay. Shop Clinical Series liners and trusted small pet resources from House of Guineas."
 [menu.main]
   parent = "resources"
 [sitemap]
@@ -75,7 +75,7 @@ Discover House of Guinea's patent pending Clinical Series fleece cage liners —
   <p>
     We love them so much that we use them in our home - and we want you and your pets to have them as well! Use our affiliate link below to check out their cages!
   </p>
-  <a href="https://www.crittercolonyclub.com?sca_ref=9634584.UDhVqGSA2PC" class="resource-link-button" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.crittercolonyclub.com?sca_ref=9634584.UDhVqGSA2PC" class="resource-link-button" target="_blank" rel="noopener noreferrer nofollow sponsored">
     Shop Critter Colony
   </a>
 </div>
@@ -90,7 +90,7 @@ Discover House of Guinea's patent pending Clinical Series fleece cage liners —
   <p>
     Fresh hay should make up about 80% of your pet's diet. It's essential for proper digestion, dental health (they need a healthy outlet to wear down their always-growing teeth!), and preventing boredom. Choosing a reputable source like Small Pet Select ensures the hay is free from dust and mold, providing the best diet for your pet.
   </p>
-  <a href="https://smallpetselect.com/" class="resource-link-button" target="_blank" rel="noopener noreferrer">
+  <a href="https://smallpetselect.com/" class="resource-link-button" target="_blank" rel="noopener noreferrer nofollow sponsored">
     Shop Small Pet Select
   </a>
 </div>
