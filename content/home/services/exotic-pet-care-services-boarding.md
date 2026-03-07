@@ -16,6 +16,8 @@ weight = 3
     "Client provides enclosure & supplies",
     "Meet & greet required for first visit"
   ]
+[sitemap]
+  priority = 0.8
 +++
 
 Your pet gets their own room with soothing music — **$75/night** for **Reptiles, Birds and Small Mammals**.

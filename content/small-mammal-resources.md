@@ -112,6 +112,8 @@ Invest in your pet's health and pre-order their clinical cage liners!
   </details>
 </div>
 
+*Want the full breakdown? Read [Guinea Pig Fleece Liners vs Disposable Bedding](/post/guinea-pig-fleece-liners-vs-disposable-bedding) or explore our [dedicated Clinical Series product page](/clinical-series-guinea-pig-fleece-cage-liners).*
+
 <!-- PARTNERS BELOW -->
 <div class="resource-section">
   <h2>Spacious & Safe Habitat for Your Guinea Pigs</h2>

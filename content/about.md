@@ -39,7 +39,7 @@ I'm proficient in essential skills learned in a clinical setting, including:
 * Detailed knowledge of normal vs. abnormal behaviors and subtle signs of illness across a wide range of exotic species
 * Post-procedure monitoring and recovery support
 
-This isn’t just pet sitting; it’s specialized care grounded in real-world veterinary experience. You can relax knowing your pet will receive attentive, knowledgeable, and compassionate care, informed by professional standards and a genuine understanding of their specific needs. Learn more about my species-specific approach in my [Reptile & Amphibian Care Guide](/reptile-amphibian-care-guide) and browse my [Clinical Series fleece cage liners](/small-mammal-resources) — patent-pending guinea pig bedding designed with the same clinical mindset.
+This isn’t just pet sitting; it’s specialized care grounded in real-world veterinary experience. You can relax knowing your pet will receive attentive, knowledgeable, and compassionate care, informed by professional standards and a genuine understanding of their specific needs. Learn more about my species-specific approach in my [Reptile & Amphibian Care Guide](/reptile-amphibian-care-guide) and browse my [Clinical Series fleece cage liners](/clinical-series-guinea-pig-fleece-cage-liners) — patent-pending guinea pig bedding designed with the same clinical mindset.
 
 *Animals I will happily care for:*
 

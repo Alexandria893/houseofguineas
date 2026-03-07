@@ -16,6 +16,8 @@ weight = 2
     "Enrichment & photo/video updates",
     "Home care: tidying, plants, mail"
   ]
+[sitemap]
+  priority = 0.8
 +++
 
 Visits in the comfort of your pet's home for **Reptiles, Birds and Small Mammals** — starting at **$85/visit**.

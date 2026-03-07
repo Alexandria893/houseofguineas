@@ -129,7 +129,7 @@ Below you'll find species-specific care essentials that inform my [in-home care]
 
 ---
 
-*Looking for more about my veterinary background with exotic animals? Read about [why specialized care matters](/san-francisco-california-exotic-veterinary-experience).*
+*Going on a trip? Read our guide on [how to prepare your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting). Looking for more about my veterinary background? Read about [why specialized care matters](/san-francisco-california-exotic-veterinary-experience).*
 
 <div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
   <p style="font-size: 1.1em;"><strong>Need professional care for your reptile or amphibian?</strong></p>

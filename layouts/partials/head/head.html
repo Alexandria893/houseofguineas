@@ -278,6 +278,31 @@
 </script>
 {{ end }}
 
+{{ if eq .Section "post" }}
+<!-- Structured Data: Article -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | jsonify | safeJS }},
+  "description": {{ with .Description }}{{ . | jsonify | safeJS }}{{ else }}{{ $.Site.Params.description | jsonify | safeJS }}{{ end }},
+  "author": {
+    "@type": "Person",
+    "name": "Alexandria Brown",
+    "url": "{{ .Site.BaseURL }}about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "House of Guineas Pet Care",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "mainEntityOfPage": "{{ .Permalink }}"
+}
+</script>
+{{ end }}
+
 <link rel="shortcut icon" href="{{ .Site.BaseURL }}{{ .Site.Params.favicon }}">
 
 <!-- Bootstrap -->

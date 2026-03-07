@@ -226,6 +226,8 @@ With proper care, each liner pair lasts **6+ years**.
 
 ---
 
+*Read our full comparison: [Guinea Pig Fleece Liners vs Disposable Bedding](/post/guinea-pig-fleece-liners-vs-disposable-bedding).*
+
 *Designed by an exotic pet professional with an engineering background. Handmade in San Francisco, California.*
 
 <div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
