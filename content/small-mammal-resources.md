@@ -39,7 +39,7 @@ Discover House of Guinea's patent pending Clinical Series fleece cage liners —
   <p>
    I want to make sure our little guineas stay as healthy as they can be, and this starts with the right guinea pig bedding in their main housing.
 
-   My Clinical Series fleece liners prevent our guineas from sitting in their own waste, while neutralizing ammonia buildup for superior odor control and healthier air quality in their enclosure. These absorbent cage liners keep your pets dry and healthy, while protecting against respiratory issues and bumblefoot (plus, the fleece feels soft like a baby chinchilla!).
+   My Clinical Series **guinea pig fleece liners** prevent our guineas from sitting in their own waste, while neutralizing ammonia buildup for superior odor control and healthier air quality in their enclosure. These absorbent **fleece cage liners** keep your pets dry and healthy, while protecting against respiratory issues and bumblefoot — a safer, more cost-effective alternative to disposable **guinea pig bedding** (plus, the fleece feels soft like a baby chinchilla!).
   </p>
   <ul>
     <li><strong>Pre-activated:</strong> Absorbs 10x its weight — no prep washes needed</li>

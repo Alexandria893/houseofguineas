@@ -35,7 +35,7 @@
         {{/* ── Simple card (FAQs) ── */}}
         <div class="service-card service-card--simple">
           <h3 class="text-center">{{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</h3>
-          <p>{{ .Summary }}</p>
+          <p>{{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary }}{{ end }}</p>
           <p class="text-center service-card__cta">
             <a href="{{ .Permalink }}" class="btn btn-action">Read more</a>
           </p>
