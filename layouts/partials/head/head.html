@@ -6,7 +6,7 @@
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:image" content="{{ .Site.BaseURL }}prof.jpeg">
+<meta property="og:image" content="{{ with .Params.og_image }}{{ $.Site.BaseURL }}{{ . }}{{ else }}{{ .Site.BaseURL }}prof.jpeg{{ end }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta name="twitter:card" content="summary_large_image">
 
@@ -29,9 +29,18 @@
   },
   "areaServed": [
     "Inner Sunset",
+    "Outer Sunset",
     "Richmond District",
     "Cole Valley",
-    "Haight-Ashbury"
+    "Haight-Ashbury",
+    "Noe Valley",
+    "Castro",
+    "Mission District",
+    "Pacific Heights",
+    "Marina District",
+    "SOMA",
+    "Parkside",
+    "Forest Hill"
   ],
   "priceRange": "$$",
   "image": "{{ .Site.BaseURL }}prof.jpeg",
@@ -156,6 +165,110 @@
     "ratingValue": "5.0",
     "reviewCount": "3"
   }
+}
+</script>
+{{ end }}
+
+{{ if eq .RelPermalink "/reptile-amphibian-care-guide/" }}
+<!-- Structured Data: FAQPage (Reptile & Amphibian) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do you care for a bearded dragon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bearded dragons require a basking spot of 100-110°F on the warm side and 80-85°F on the cool side. Full-spectrum UVB lighting is essential for calcium metabolism. Juveniles need 70-80% insects and 20-30% greens; adults shift to 80% greens and 20% insects. Watch for lethargy, black beard stress marks, sunken eyes, and rubbery jaw."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What do leopard geckos and crested geckos need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Leopard geckos require belly heat with a warm side of 88-92°F, low humidity (30-40%), and an insect diet. Crested geckos thrive at room temperature (72-78°F) with moderate humidity (60-80%), misting 1-2 times daily, and primarily eat prepared crested gecko diet. Check regularly for incomplete sheds, especially on toes and tail tips."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you care for pet snakes like ball pythons?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Snakes need a warm side of 88-92°F and a cool side of 75-80°F. Ball pythons need 60-70% humidity (higher during shedding). Juveniles eat every 5-7 days; adults every 10-14 days. Wait 48 hours after feeding before handling. Watch for wheezing, retained eye caps, scale rot, and prolonged food refusal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What care do turtles and tortoises need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aquatic turtles need clean filtered water, a basking platform with UVB lighting at 85-90°F, and water temperature of 75-80°F. Tortoises require appropriate substrate for burrowing, a basking area of 90-95°F, and UVB for shell health. Check for soft spots, discoloration, and pyramiding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you care for an axolotl?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Axolotls need water temperature between 60-68°F — they are cold-water animals. Ammonia and nitrites must be at 0 ppm with nitrates below 20 ppm. Feed primarily earthworms 2-3 times per week. Use fine sand or bare bottom only — gravel is a serious impaction risk. Watch for curled gills, floating, and fungal patches."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What do frogs and newts need as pets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most frogs and newts need 60-80% humidity. Tropical frogs prefer 75-82°F while temperate newts thrive at 65-72°F. All water must be dechlorinated. Feed primarily live insects dusted with calcium supplements. Minimize handling — amphibians absorb substances through their skin. Watch for skin lesions, bloating, and refusal to eat."
+      }
+    }
+  ]
+}
+</script>
+{{ end }}
+
+{{ if eq .RelPermalink "/small-mammal-resources/" }}
+<!-- Structured Data: FAQPage (Guinea Pig Liners) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do guinea pig fleece liners need to be prepped before first use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most fleece liners require 3-5 wash cycles before they start wicking properly. House of Guineas Clinical Series liners come pre-activated and are ready to absorb right out of the box."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I wash guinea pig fleece cage liners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wash fleece cage liners weekly. Spot clean daily by removing hay and droppings. Use warm water, gentle fragrance-free detergent, and tumble dry on low heat. Avoid fabric softener as it reduces wicking ability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are fleece liners better than disposable bedding for guinea pigs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fleece liners are healthier and more cost-effective than disposable bedding. They wick moisture away from your guinea pig's skin (reducing bumblefoot and UTI risk), produce zero dust (protecting respiratory health), and a pair lasts 1-2 years — saving money compared to monthly disposable bedding costs of $20-40."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are fleece cage liners safe for baby guinea pigs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, fleece liners are actually safer for baby guinea pigs than loose bedding, which young pigs may accidentally ingest. Medical-grade fleece provides a soft, warm surface that is gentle on tiny feet."
+      }
+    }
+  ]
 }
 </script>
 {{ end }}

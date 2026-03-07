@@ -1,10 +1,10 @@
 +++
-title = "Local Veterinarians and Emergency Hospitals"
-description = "Local exotic pet veterinarians and emergency hospitals in San Francisco and the East Bay. Recommended by House of Guineas Pet Care."
+title = "Exotic Pet Veterinarians in San Francisco & the Bay Area"
+description = "Find exotic pet veterinarians and emergency hospitals in San Francisco, the Peninsula, South Bay, and East Bay. Vets for reptiles, birds, guinea pigs, rabbits and more — recommended by House of Guineas Pet Care."
 [menu.main]
   parent = "resources"
 +++
-A list of local veterinarians and emergency hospitals that provide care for exotic pets.
+Finding a veterinarian who specializes in exotic animals — reptiles, birds, guinea pigs, rabbits, and other small mammals — can be challenging. Below is a curated list of exotic pet veterinarians and emergency hospitals across San Francisco and the greater Bay Area.
 
 ---
 <style>
@@ -64,6 +64,56 @@ A list of local veterinarians and emergency hospitals that provide care for exot
   </div>
 </details>
 
+<details class="list-item">
+  <summary class="list-summary">
+    <a href="https://balboapethospital.com/" target="_blank" rel="noopener noreferrer">Balboa Pet Hospital</a>
+  </summary>
+  <div class="list-info">
+    <p>
+      <strong>Specializes In:</strong> 🐹 Small Mammals, 🦎 Reptiles, 🦜 Birds (also accepts dogs and cats)<br>
+      <strong>Address:</strong> 3329 Balboa St, San Francisco, CA 94121<br>
+      <strong>Phone:</strong> <a href="tel:415-752-3300">(415) 752-3300</a> <br>
+      <strong>Hours:</strong> Monday - Friday, 7:30 AM - 6:00 PM (Wednesday closed 12:00 - 2:00 PM)<br>
+      <strong>Emergency:</strong> No; call for referral<br>
+      <strong>Notes:</strong> AAHA accredited. Located in the Outer Richmond neighborhood.
+    </p>
+  </div>
+</details>
+
+## Peninsula & South Bay
+
+<details class="list-item">
+  <summary class="list-summary">
+    <a href="https://wildwoodexoticanimalhospital.com/" target="_blank" rel="noopener noreferrer">Wildwood Veterinary Hospital</a>
+  </summary>
+  <div class="list-info">
+    <p>
+      <strong>Specializes In:</strong> 🦜 Birds, 🦎 Reptiles & Amphibians, 🐹 Small Mammals<br>
+      <strong>Veterinarian(s):</strong> Dr. Chris Sanders <br>
+      <strong>Address:</strong> 2900 Spring St, Suite 5, Redwood City, CA 94063<br>
+      <strong>Phone:</strong> <a href="tel:650-366-9453">(650) 366-9453</a> <br>
+      <strong>Hours:</strong> Monday & Friday, 9:00 AM - 2:00 PM; Tuesday, Thursday & Saturday, 10:00 AM - 5:00 PM<br>
+      <strong>Emergency:</strong> No<br>
+      <strong>Notes:</strong> Redwood City location treats avian and exotic pets exclusively.
+    </p>
+  </div>
+</details>
+
+<details class="list-item">
+  <summary class="list-summary">
+    <a href="https://oakridgevetclinic.com/" target="_blank" rel="noopener noreferrer">Oakridge Veterinary Clinic</a>
+  </summary>
+  <div class="list-info">
+    <p>
+      <strong>Specializes In:</strong> 🦎 Reptiles & Amphibians, 🦜 Birds, 🐹 Small Mammals (also accepts dogs and cats)<br>
+      <strong>Address:</strong> 5440 Thornwood Dr, Suite E, San Jose, CA 95123<br>
+      <strong>Phone:</strong> <a href="tel:408-419-9238">(408) 419-9238</a> <br>
+      <strong>Hours:</strong> Monday - Saturday, 8:00 AM - 6:00 PM<br>
+      <strong>Emergency:</strong> No; call for referral
+    </p>
+  </div>
+</details>
+
 ## East Bay
 
 <details class="list-item">
@@ -82,6 +132,71 @@ A list of local veterinarians and emergency hospitals that provide care for exot
   </div>
 </details>
 
+<details class="list-item">
+  <summary class="list-summary">
+    <a href="https://drsipvet.com/" target="_blank" rel="noopener noreferrer">Dr. Sip — Exotics Veterinary House Calls</a>
+  </summary>
+  <div class="list-info">
+    <p>
+      <strong>Specializes In:</strong> 🐹 Small Mammals, 🦎 Reptiles, 🦜 Birds<br>
+      <strong>Veterinarian(s):</strong> Dr. Sip <br>
+      <strong>Phone:</strong> <a href="tel:510-519-1040">(510) 519-1040</a> (call or text)<br>
+      <strong>Email:</strong> <a href="mailto:DrSip@DrSipVet.com">DrSip@DrSipVet.com</a> <br>
+      <strong>Hours:</strong> House calls Wednesday - Friday; messages checked Monday - Friday 8:00 AM - 5:00 PM<br>
+      <strong>Service Area:</strong> East Bay — Alameda, Albany, Berkeley, Concord, El Cerrito, Emeryville, Oakland, Piedmont, Richmond, Walnut Creek, and surrounding cities<br>
+      <strong>Notes:</strong> Mobile/house call practice — the vet comes to you. No physical office.
+    </p>
+  </div>
+</details>
+
+<details class="list-item">
+  <summary class="list-summary">
+    <a href="https://unipetclinic.com/" target="_blank" rel="noopener noreferrer">UNI Pet Clinic</a>
+  </summary>
+  <div class="list-info">
+    <p>
+      <strong>Specializes In:</strong> 🐹 Small Mammals, 🦎 Reptiles, 🦜 Birds (also accepts dogs and cats)<br>
+      <strong>Address:</strong> 32280 Alvarado Blvd, Union City, CA 94587<br>
+      <strong>Phone:</strong> <a href="tel:510-477-8887">(510) 477-8887</a> <br>
+      <strong>Hours:</strong> Monday - Friday, 9:00 AM - 6:00 PM<br>
+      <strong>Emergency:</strong> No<br>
+      <strong>Notes:</strong> Call ahead to confirm exotic vet availability. Also has a San Jose location.
+    </p>
+  </div>
+</details>
+
+<details class="list-item">
+  <summary class="list-summary">
+    <a href="https://www.theohanaanimalhospital.com/" target="_blank" rel="noopener noreferrer">Ohana Animal Hospital</a>
+  </summary>
+  <div class="list-info">
+    <p>
+      <strong>Specializes In:</strong> 🐹 Small Mammals, 🦎 Reptiles & Amphibians (also accepts dogs and cats)<br>
+      <strong>Veterinarian(s):</strong> Dr. Zachary Steffes <br>
+      <strong>Address:</strong> 2844 Las Positas Rd, Livermore, CA 94551<br>
+      <strong>Phone:</strong> <a href="tel:925-394-4990">(925) 394-4990</a> <br>
+      <strong>Hours:</strong> Monday - Friday, 8:00 AM - 5:30 PM<br>
+      <strong>Emergency:</strong> No<br>
+      <strong>Notes:</strong> Dr. Steffes co-designed the first approved reptile residency program in San Diego.
+    </p>
+  </div>
+</details>
+
+<details class="list-item">
+  <summary class="list-summary">
+    <a href="https://www.webvets.com/" target="_blank" rel="noopener noreferrer">Bishop Ranch Veterinary Center & Urgent Care</a>
+  </summary>
+  <div class="list-info">
+    <p>
+      <strong>Specializes In:</strong> 🐹 Small Mammals (chinchillas, guinea pigs, hamsters, rats) — also accepts dogs and cats<br>
+      <strong>Address:</strong> 2000 Bishop Dr, San Ramon, CA 94583<br>
+      <strong>Phone:</strong> <a href="tel:925-866-8387">(925) 866-8387</a> <br>
+      <strong>Hours:</strong> Monday - Friday, 6:30 AM - 9:00 PM; Saturday - Sunday, 7:30 AM - 6:00 PM<br>
+      <strong>Emergency:</strong> Yes; urgent care available during business hours
+    </p>
+  </div>
+</details>
+
 <div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
   <p style="font-size: 1.1em;"><strong>Ready to create your perfect care plan?</strong></p>
   <p>
@@ -89,10 +204,6 @@ A list of local veterinarians and emergency hospitals that provide care for exot
     <a href="/home/services/exotic-pet-care-services-boarding" class="btn btn-lg btn-cta-outline">Boarding</a>
   </p>
 </div>
-
-
-
-
 
 
 
