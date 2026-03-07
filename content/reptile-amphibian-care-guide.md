@@ -4,6 +4,8 @@ description = "Expert reptile and amphibian care in San Francisco. Species-speci
 [menu.main]
   parent = "resources"
 weight = 4
+[sitemap]
+  priority = 0.8
 +++
 
 Reptiles and amphibians have very specific environmental, dietary, and handling needs that differ dramatically from traditional pets and even from each other. As an exotic veterinary assistant, I've provided hands-on care for bearded dragons, snakes, and turtles — and through my clinical training at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com), I've gained working knowledge of geckos, axolotls, frogs, and other species as well.

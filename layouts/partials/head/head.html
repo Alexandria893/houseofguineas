@@ -1,4 +1,5 @@
 <title>{{ .Title }}</title>
+<meta name="robots" content="index, follow">
 <link rel="canonical" href="{{ .Permalink }}">
 
 <!-- Open Graph -->
@@ -126,6 +127,7 @@
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "{{ .Title }}",
+  "serviceType": "{{ with .Params.serviceType }}{{ . }}{{ else }}Exotic Pet Care{{ end }}",
   "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
   "provider": {
     "@type": "LocalBusiness",
@@ -135,7 +137,12 @@
     "@type": "City",
     "name": "San Francisco",
     "addressRegion": "CA"
-  }
+  }{{ with .Params.price }},
+  "offers": {
+    "@type": "Offer",
+    "price": "{{ . | replaceRE `[^0-9.]` `` }}",
+    "priceCurrency": "USD"
+  }{{ end }}
 }
 </script>
 {{ end }}
@@ -146,24 +153,22 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "name": "House of Guineas Clinical Series Liners",
-  "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}",
-  "image": "{{ .Site.BaseURL }}images/clinical-liners.jpg",
+  "name": "House of Guineas Clinical Series Fleece Cage Liners",
+  "description": "Patent-pending medical-grade guinea pig fleece cage liners with 10x absorption and antimicrobial silver ion technology. Pre-activated, washable, reusable. Handmade in San Francisco.",
+  "image": "{{ .Site.BaseURL }}prof.jpeg",
   "brand": {
     "@type": "Brand",
     "name": "House of Guineas"
   },
+  "material": "Medical-grade antimicrobial fleece with silver ion technology",
+  "category": "Pet Supplies > Small Animal Supplies > Bedding & Litter",
   "offers": {
     "@type": "Offer",
     "url": "https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners",
     "price": "315.00",
     "priceCurrency": "USD",
-    "availability": "https://schema.org/PreOrder"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": "3"
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition"
   }
 }
 </script>
@@ -229,7 +234,7 @@
 </script>
 {{ end }}
 
-{{ if eq .RelPermalink "/small-mammal-resources/" }}
+{{ if or (eq .RelPermalink "/small-mammal-resources/") (eq .RelPermalink "/clinical-series-guinea-pig-fleece-cage-liners/") }}
 <!-- Structured Data: FAQPage (Guinea Pig Liners) -->
 <script type="application/ld+json">
 {
@@ -257,7 +262,7 @@
       "name": "Are fleece liners better than disposable bedding for guinea pigs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Fleece liners are healthier and more cost-effective than disposable bedding. They wick moisture away from your guinea pig's skin (reducing bumblefoot and UTI risk), produce zero dust (protecting respiratory health), and a pair lasts 1-2 years — saving money compared to monthly disposable bedding costs of $20-40."
+        "text": "Fleece liners are healthier and more cost-effective than disposable bedding. They wick moisture away from your guinea pig's skin (reducing bumblefoot and UTI risk), produce zero dust (protecting respiratory health), and a pair lasts 6+ years — saving money compared to monthly disposable bedding costs of $20-40."
       }
     },
     {

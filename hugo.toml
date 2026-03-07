@@ -48,10 +48,10 @@ showFooterFormWidget = false
 name = "Home"
 url = "/"
 weight = 1
-# [[menu.main]]
-#  name = "blog"
-#  url = "/post/"
-# weight = 5
+[[menu.main]]
+  name = "Blog"
+  url = "/post/"
+  weight = 6
 # added to include sub menu for resources in bay area
 [[menu.main]]
   name = "Resources"

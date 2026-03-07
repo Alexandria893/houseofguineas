@@ -20,21 +20,21 @@ Exotic pets have specialized needs that differ significantly from traditional pe
 
 * **Mitigate Stress and Provide Enrichment:** Many exotic animals are particularly sensitive to changes in their routine and environment. An exotic pet specialist knows how to mitigate stress, while providing proper enrichment for your pet's mental and physical health.
 
-* **Professional Handling:** Incorrect handling can cause injury to your exotic pet. Knowing and being able to assess your pet's comfort with handling mitigates unnecessary stress, while respecting your pet's boundaries.
+* **Professional Handling:** Incorrect handling can cause injury to your exotic pet. Knowing and being able to assess your pet’s comfort with handling mitigates unnecessary stress, while respecting your pet’s boundaries.
 
-<!-- #### My Exotic Veterinary Background: Expertise You Can Trust
-Place your trust in experienced, professional hands. I currently volunteer as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richimond, California, where I vaccinate bunnies as well as support the onsite veterinarian with pre and post-operation surgeries.
+#### My Exotic Veterinary Background: Expertise You Can Trust
+Place your trust in experienced, professional hands. I currently volunteer as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richmond, California, where I vaccinate bunnies as well as support the onsite veterinarian with pre and post-operation surgeries.
 
-I also worked as an **Exotic Veterinary Assistant** at the local [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco provided me with a comprehensive understanding of the specialized care exotic pets require. My professional experience at the veterinary hospital involved providing care for a wide variety of animals – from reptiles like snakes, bearded dragons and geckos, to birds such as African greys and budgies, and small mammals including rabbits (ask about the baby Flemish Giant!) and guinea pigs. 
+I also worked as an **Exotic Veterinary Assistant** at the local [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco, which provided me with a comprehensive understanding of the specialized care exotic pets require. My professional experience at the veterinary hospital involved providing care for a wide variety of animals — from reptiles like snakes, bearded dragons and geckos, to birds such as African greys and budgies, and small mammals including rabbits and guinea pigs.
 
-I'm proficient in essential skills learned in a clinical setting, including:
+I’m proficient in essential skills learned in a clinical setting, including:
 
-* Proficiency in administering medications (such as oral and topical) and treatments as prescribed by veterinarians
+* Administering medications (oral and topical) and treatments as prescribed by veterinarians
 * Safe handling and species-specific care routines, along with gentle restraint techniques
 * Detailed knowledge of normal vs. abnormal behaviors and subtle signs of illness across a wide range of exotic species
 * Post-procedure monitoring and recovery support
 
-This isn’t just pet sitting; it’s specialized care grounded in real-world veterinary experience. You can relax knowing your pet will receive attentive, knowledgeable, and compassionate care, informed by professional standards and a genuine understanding of their specific needs. -->
+This isn’t just pet sitting; it’s specialized care grounded in real-world veterinary experience. You can relax knowing your pet will receive attentive, knowledgeable, and compassionate care, informed by professional standards and a genuine understanding of their specific needs. For species-specific care details, see my [Reptile & Amphibian Care Guide](/reptile-amphibian-care-guide) and [Small Pet Resources](/small-mammal-resources).
 
 ## What We Offer – Expert Care for Diverse Exotic Pets
 

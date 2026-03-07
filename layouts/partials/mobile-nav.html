@@ -9,10 +9,12 @@
       </div>
     </div>
     <a href="/about/" class="mobile-nav__link{{ if eq .RelPermalink "/about/" }} mobile-nav__link--active{{ end }}">About</a>
+    <a href="/post/" class="mobile-nav__link{{ if eq .Section "post" }} mobile-nav__link--active{{ end }}">Blog</a>
     <div class="mobile-nav__dropdown">
-      <button type="button" class="mobile-nav__link mobile-nav__link--parent{{ if or (eq .RelPermalink "/home/services/faqs/") (eq .RelPermalink "/small-mammal-resources/") (eq .RelPermalink "/san-francisco-bay-area-exotic-veterinarians/") (eq .RelPermalink "/san-francisco-california-exotic-veterinary-experience/") (eq .RelPermalink "/reptile-amphibian-care-guide/") }} mobile-nav__link--active{{ end }}" aria-expanded="false">Resources <i class="fa-solid fa-chevron-down mobile-nav__caret"></i></button>
+      <button type="button" class="mobile-nav__link mobile-nav__link--parent{{ if or (eq .RelPermalink "/home/services/faqs/") (eq .RelPermalink "/small-mammal-resources/") (eq .RelPermalink "/clinical-series-guinea-pig-fleece-cage-liners/") (eq .RelPermalink "/san-francisco-bay-area-exotic-veterinarians/") (eq .RelPermalink "/san-francisco-california-exotic-veterinary-experience/") (eq .RelPermalink "/reptile-amphibian-care-guide/") }} mobile-nav__link--active{{ end }}" aria-expanded="false">Resources <i class="fa-solid fa-chevron-down mobile-nav__caret"></i></button>
       <div class="mobile-nav__dropdown-menu">
         <a href="/home/services/faqs/" class="mobile-nav__dropdown-item">FAQs</a>
+        <a href="/clinical-series-guinea-pig-fleece-cage-liners/" class="mobile-nav__dropdown-item">Shop Liners</a>
         <a href="/small-mammal-resources/" class="mobile-nav__dropdown-item">Small Pet Resources</a>
         <a href="/reptile-amphibian-care-guide/" class="mobile-nav__dropdown-item">Reptile & Amphibian Care</a>
         <a href="/san-francisco-bay-area-exotic-veterinarians/" class="mobile-nav__dropdown-item">Local Vets</a>

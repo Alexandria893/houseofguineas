@@ -3,6 +3,8 @@ title = "Guinea Pig Fleece Cage Liners & Small Pet Resources"
 description = "Shop House of Guineas Clinical Series fleece cage liners — patent pending guinea pig bedding with 10x absorption and antimicrobial silver ion technology. Plus top resources for food and housing from Small Pet Select and Critter Colony."
 [menu.main]
   parent = "resources"
+[sitemap]
+  priority = 0.8
 +++
 
 Discover House of Guinea's patent pending Clinical Series fleece cage liners — the best guinea pig bedding for health-conscious pet parents — along with my favorite, trusted resources for high-quality housing and food for your small pets. Whether it's a popcorning guinea or a teleporting chinchilla, I recommend these products to ensure your companions live a happy, healthy and enriched life.
@@ -68,14 +70,14 @@ Invest in your pet's health and pre-order their clinical cage liners!
   <ul>
     <li><strong>Hygiene:</strong> Disposable bedding traps moisture against your guinea pig's skin, increasing the risk of bumblefoot and urinary tract infections. Fleece liners wick moisture away, keeping the surface dry.</li>
     <li><strong>Odor Control:</strong> Paper bedding saturates and begins smelling within 2-3 days. Our Clinical Series liners feature antimicrobial silver ion technology that actively neutralizes ammonia buildup.</li>
-    <li><strong>Cost:</strong> Disposable bedding costs $20-40 per month. A pair of fleece liners lasts 1-2 years with proper care — paying for themselves in just a few months.</li>
+    <li><strong>Cost:</strong> Disposable bedding costs $20-40 per month. A pair of fleece liners lasts several years with proper care — paying for themselves in just a few months.</li>
     <li><strong>Respiratory Health:</strong> Wood shavings (especially cedar and pine) release phenols that irritate guinea pig respiratory systems. Fleece produces zero dust and zero airborne irritants.</li>
     <li><strong>Environment:</strong> Disposable bedding fills landfills monthly. Reusable fleece liners dramatically reduce waste.</li>
   </ul>
 
   <h3>Care Instructions</h3>
   <p>
-    Maintaining your Clinical Series fleece cage liners is simple: spot clean daily by removing hay and droppings, then machine wash weekly on a warm cycle with a gentle, fragrance-free detergent. Tumble dry on low heat. Avoid fabric softener — it reduces the liner's wicking ability. With proper care, each liner pair lasts 1-2 years.
+    Maintaining your Clinical Series fleece cage liners is simple: spot clean daily by removing hay and droppings, then machine wash weekly on a warm cycle with a gentle, fragrance-free detergent. Tumble dry on low heat. Avoid fabric softener — it reduces the liner's wicking ability. With proper care, each liner pair lasts several years.
   </p>
 
   <h3>Sizing</h3>
