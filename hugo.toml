@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'House of Guineas: San Francisco Exotic Pet Care'
 theme = 'hugo-initio'
 style = 'default'
+enableGitInfo = true
+
+[frontmatter]
+  lastmod = [':git', 'lastmod', 'date']
 
 [sitemap]
   changefreq = 'weekly'
