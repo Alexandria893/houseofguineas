@@ -39,13 +39,13 @@ Discover House of Guinea's patent pending Clinical Series fleece cage liners —
   <p>
    I want to make sure our little guineas stay as healthy as they can be, and this starts with the right guinea pig bedding in their main housing.
 
-   My Clinical Series **guinea pig fleece liners** prevent our guineas from sitting in their own waste, while neutralizing ammonia buildup for superior odor control and healthier air quality in their enclosure. These absorbent **fleece cage liners** keep your pets dry and healthy, while protecting against respiratory issues and bumblefoot — a safer, more cost-effective alternative to disposable **guinea pig bedding** (plus, the fleece feels soft like a baby chinchilla!).
+   Stop buying separate fleece liners, pee pads, and waterproof bases. The Clinical Series is the only **all-in-one guinea pig fleece liner** — every layer is built into a single product. The entire fabric is medical-grade and antimicrobial, with silver ion technology throughout that neutralizes ammonia and wicks moisture away from your pet's skin. A safer, more cost-effective alternative to disposable **guinea pig bedding** and multi-piece fleece setups.
   </p>
   <ul>
-    <li><strong>Pre-activated:</strong> Absorbs 10x its weight — no prep washes needed</li>
+    <li><strong>All-in-one:</strong> Waterproof base, absorption core, and fleece top — entirely antimicrobial throughout, nothing else to buy</li>
+    <li><strong>Pre-activated:</strong> Absorbs 10x its weight from day one — no prep washes needed</li>
     <li><strong>Antimicrobial:</strong> Silver ion technology neutralizes ammonia and bacteria</li>
-    <li><strong>Medical-grade:</strong> Industrial materials built to last 6+ years</li>
-    <li><strong>Includes two liners:</strong> Swap while washing</li>
+    <li><strong>$315 for two liners:</strong> Swap while washing, last 6+ years</li>
   </ul>
   <p>
     Handmade here in San Francisco by an Exotic Pet Professional with an engineering background. Sized for standard C&C cage setups.

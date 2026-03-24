@@ -189,14 +189,18 @@
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "House of Guineas Clinical Series Fleece Cage Liners",
-  "description": "Patent-pending medical-grade guinea pig fleece cage liners with 10x absorption and antimicrobial silver ion technology. Pre-activated, washable, reusable. Handmade in San Francisco.",
-  "image": "{{ .Site.BaseURL }}prof.jpeg",
+  "description": "The only all-in-one guinea pig fleece liner — waterproof base, absorption core, and fleece top in a single product. Entirely medical-grade, antimicrobial fabric with silver ion technology throughout. Pre-activated with 10x absorption, no prep washes needed. Includes two liners. Handmade in San Francisco.",
+  "image": [
+    "{{ .Site.BaseURL }}clinical-series-inuse.jpg",
+    "{{ .Site.BaseURL }}clinical-series-liner.jpg",
+    "{{ .Site.BaseURL }}clinical-series-brand.jpg"
+  ],
   "brand": {
     "@type": "Brand",
     "name": "House of Guineas"
   },
   "sku": "HOG-CS-001",
-  "material": "Medical-grade antimicrobial fleece with silver ion technology",
+  "material": "Entirely medical-grade antimicrobial fabric with silver ion technology throughout",
   "category": "Pet Supplies > Small Animal Supplies > Bedding & Litter",
   "url": "{{ .Permalink }}",
   "offers": {
@@ -205,7 +209,29 @@
     "price": "315.00",
     "priceCurrency": "USD",
     "availability": "https://schema.org/InStock",
-    "itemCondition": "https://schema.org/NewCondition"
+    "itemCondition": "https://schema.org/NewCondition",
+    "shippingDetails": {
+      "@type": "OfferShippingDetails",
+      "shippingDestination": {
+        "@type": "DefinedRegion",
+        "addressCountry": "US"
+      },
+      "deliveryTime": {
+        "@type": "ShippingDeliveryTime",
+        "handlingTime": {
+          "@type": "QuantitativeValue",
+          "minValue": "3",
+          "maxValue": "5",
+          "unitCode": "d"
+        },
+        "transitTime": {
+          "@type": "QuantitativeValue",
+          "minValue": "3",
+          "maxValue": "7",
+          "unitCode": "d"
+        }
+      }
+    }
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -362,7 +388,7 @@
       "name": "What is silver ion antimicrobial technology?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Silver ions (Ag+) have natural antimicrobial properties that disrupt bacterial cell membranes. In our liners, silver ion technology is woven into the absorption layer to actively neutralize ammonia and inhibit bacterial growth between washes — keeping your guinea pig's enclosure cleaner and healthier for longer."
+        "text": "Silver ions (Ag+) have natural antimicrobial properties that disrupt bacterial cell membranes. In our liners, silver ion technology is integrated throughout the entire fabric — not just a single layer — to actively neutralize ammonia and inhibit bacterial growth between washes. This keeps your guinea pig's enclosure cleaner and healthier for longer."
       }
     },
     {
@@ -375,10 +401,18 @@
     },
     {
       "@type": "Question",
+      "name": "Do I need to buy separate pee pads or waterproof bases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Unlike most fleece liner setups where you need to buy a fleece liner, separate absorbent pads, and a waterproof base layer, the Clinical Series is an all-in-one design. The waterproof base, absorption core, and fleece top are all built into a single product, and the entire liner is antimicrobial with silver ion technology throughout. Just place it in your cage and you're done."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "How are Clinical Series liners different from GuineaDad liners?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Clinical Series liners feature patent-pending antimicrobial silver ion technology that actively neutralizes ammonia — a feature not found in standard fleece liners. They also come pre-activated (no prep washes needed), use medical-grade materials for maximum durability, and are handmade in San Francisco by an exotic pet professional with an engineering background."
+        "text": "The Clinical Series is a complete all-in-one liner — you don't need to buy separate pee pads or accessories. The entire fabric is medical-grade with antimicrobial silver ion technology throughout (not just one layer), actively neutralizing ammonia — a feature not found in GuineaDad or other standard fleece liners. Our liners also come pre-activated (no 3-5 prep washes), last 6+ years, and are handmade in San Francisco by an exotic veterinary assistant with an engineering background."
       }
     }
   ]

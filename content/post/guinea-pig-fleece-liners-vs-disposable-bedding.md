@@ -5,6 +5,7 @@ description = "Fleece cage liners vs paper bedding vs wood shavings for guinea p
 date = 2026-03-06
 og_image = "Luca.jpg"
 tags = ["guinea pig care", "fleece liners", "bedding"]
+lastmod = 2026-03-24
 [sitemap]
   priority = 0.6
 +++
@@ -68,14 +69,70 @@ Fleece liners are reusable fabric pads that sit on top of an absorbent layer ins
 
 Let's do the math over 2 years for a standard 2x4 C&C cage:
 
-| Bedding Type | Year 1 | Year 2 | 2-Year Total |
-|---|---|---|---|
-| Paper bedding | $360-480 | $360-480 | $720-960 |
-| Wood shavings | $240-360 | $240-360 | $480-720 |
-| Fleece liners (basic) | $50-80 | $50-80 | $100-160 |
-| Clinical Series liners | $315 | $0 | $315 |
+<style>
+  .cost-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+  }
+  .cost-table th, .cost-table td {
+    padding: 10px 14px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  .cost-table th {
+    background-color: #f8f4ef;
+    font-weight: bold;
+  }
+  .cost-table td:first-child {
+    text-align: left;
+    font-weight: bold;
+  }
+  .cost-table tr.highlight-row td {
+    background-color: #f0f7f1;
+  }
+</style>
 
-Even at the premium end, fleece liners save you hundreds of dollars over two years.
+<table class="cost-table">
+  <tr>
+    <th>Bedding Type</th>
+    <th>Year 1</th>
+    <th>Year 2</th>
+    <th>2-Year Total</th>
+  </tr>
+  <tr>
+    <td>Paper bedding</td>
+    <td>$360-480</td>
+    <td>$360-480</td>
+    <td><strong>$720-960</strong></td>
+  </tr>
+  <tr>
+    <td>Wood shavings</td>
+    <td>$240-360</td>
+    <td>$240-360</td>
+    <td><strong>$480-720</strong></td>
+  </tr>
+  <tr>
+    <td>Fleece liners (basic)*</td>
+    <td>$50-80</td>
+    <td>$50-80</td>
+    <td><strong>$100-160</strong></td>
+  </tr>
+  <tr class="highlight-row">
+    <td>Clinical Series liners</td>
+    <td>$315</td>
+    <td>$0</td>
+    <td><strong>$315</strong></td>
+  </tr>
+</table>
+
+*Basic fleece liners are not waterproof or breathable on their own — most owners need to buy separate waterproof bases and absorbent pads underneath, adding to the real cost.*
+
+Paper and wood bedding cost **$240-480 per year**, recurring. The Clinical Series is a one-time purchase that pays for itself within the first year — and it's a complete all-in-one system with no extra parts needed.
+
+![Guinea pig on Clinical Series fleece cage liner with enrichment toys](/clinical-series-inuse.jpg)
+
+![Clinical Series fleece cage liner showing the all-in-one layered construction](/clinical-series-liner.jpg)
 
 ## What About Health?
 

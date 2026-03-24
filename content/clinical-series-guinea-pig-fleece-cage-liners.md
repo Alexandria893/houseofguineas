@@ -1,8 +1,10 @@
 +++
-title = "Clinical Series Guinea Pig Fleece Cage Liners | House of Guineas"
+title = "Clinical Series Guinea Pig Fleece Liners — All-in-One, Pre-Activated & Antimicrobial | House of Guineas"
 shortTitle = "Clinical Series Fleece Liners"
-description = "Patent-pending guinea pig fleece cage liners with 10x absorption and antimicrobial silver ion technology. Pre-activated, reusable. Handmade in San Francisco."
+description = "The only all-in-one guinea pig fleece liner — entirely medical-grade, antimicrobial fabric with silver ion technology throughout. Pre-activated, no prep washes. $315 for two liners that last 6+ years. Handmade in SF."
 type = "product"
+[params]
+  og_image = "clinical-series-inuse.jpg"
 [menu.main]
   parent = "resources"
 weight = 3
@@ -51,13 +53,18 @@ weight = 3
   }
 </style>
 
-## The Best Guinea Pig Fleece Cage Liners for Health-Conscious Pet Parents
+## The Only All-in-One Guinea Pig Fleece Liner
 
-Looking for the best **guinea pig fleece liners** that actually work from day one? The House of Guineas Clinical Series is the first **patent-pending, medical-grade guinea pig bedding** designed specifically to protect your pet's health. Engineered with antimicrobial silver ion technology and pre-activated 10x absorption, these reusable **fleece cage liners** keep your guinea pig dry, healthy, and comfortable — right out of the box. No more disposable bedding, no more prep washes.
+**Stop buying separate fleece liners, pee pads, and waterproof bases.** The House of Guineas Clinical Series is a single, all-in-one guinea pig fleece liner with every layer built in — waterproof base, medical-grade absorption core, and soft fleece top. The entire liner is antimicrobial, with silver ion technology throughout that neutralizes ammonia and inhibits bacteria. Pre-activated and ready to use from day one. No prep washes, no piecing together parts from different brands.
+
+**$315 for two complete liners** — swap while washing, last 6+ years. Designed by an exotic veterinary assistant with an engineering background. Handmade in San Francisco.
 
 <div class="text-center" style="margin: 1.5rem 0;">
-  <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="btn btn-lg btn-cta-primary" target="_blank" rel="noopener noreferrer">Shop on Etsy</a>
+  <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="btn btn-lg btn-cta-primary" target="_blank" rel="noopener noreferrer">Order Your Liners</a>
+  <p style="font-size: 13px; color: #6B5E52; margin-top: 6px;">Ships from our Etsy shop</p>
 </div>
+
+![Guinea pig on Clinical Series fleece cage liner in a C&C cage with enrichment toys](/clinical-series-inuse.jpg)
 
 ---
 
@@ -71,6 +78,10 @@ Looking for the best **guinea pig fleece liners** that actually work from day on
     <th>Details</th>
   </tr>
   <tr>
+    <td>All-in-One Design</td>
+    <td>Waterproof base, absorption core, and fleece top — fully antimicrobial throughout. <strong>No separate pads or bases to buy</strong></td>
+  </tr>
+  <tr>
     <td>Absorption</td>
     <td>Pre-activated to absorb <strong>10x its weight</strong> — no 3-5 wash prep cycles needed</td>
   </tr>
@@ -80,7 +91,7 @@ Looking for the best **guinea pig fleece liners** that actually work from day on
   </tr>
   <tr>
     <td>Material</td>
-    <td>Medical-grade fleece top layer with industrial absorption core</td>
+    <td>Entirely medical-grade fabric — antimicrobial silver ion technology throughout</td>
   </tr>
   <tr>
     <td>Sizing</td>
@@ -102,16 +113,21 @@ Looking for the best **guinea pig fleece liners** that actually work from day on
 
 ### Why Clinical Series Liners?
 
-Most guinea pig fleece liners on the market require 3-5 wash cycles before they begin wicking moisture. Our Clinical Series liners come **pre-activated** — they're ready to absorb from day one. This isn't just convenient; it means your guinea pig is protected from the very first use.
+Most guinea pig fleece setups require you to buy separate pieces — a fleece liner, absorbent pads underneath, and a waterproof base layer — often from different brands that don't fit together well. The Clinical Series is an **all-in-one solution**: every layer is engineered into a single product that's ready to drop into your C&C cage.
 
-The antimicrobial silver ion layer actively neutralizes ammonia buildup — the primary cause of respiratory irritation in guinea pigs. Combined with the medical-grade fleece surface that wicks moisture away from your pet's skin, these liners help prevent two of the most common guinea pig health issues: **bumblefoot** (pododermatitis) and **upper respiratory infections**.
+Our liners come **pre-activated** — they absorb from day one with no prep washes required. The entire liner is antimicrobial — silver ion technology is integrated throughout, not just in one layer. This actively neutralizes ammonia buildup, the primary cause of respiratory irritation in guinea pigs. Combined with the medical-grade fleece surface that wicks moisture away from your pet's skin, these liners help prevent two of the most common guinea pig health issues: **bumblefoot** (pododermatitis) and **upper respiratory infections**.
 
 ### How They Work
 
-1. **Top fleece layer** — Soft, warm surface that wicks moisture downward and away from your guinea pig's feet
-2. **Antimicrobial silver ion layer** — Neutralizes ammonia and inhibits bacteria between washes
-3. **Absorption core** — Medical-grade material absorbs 10x its weight in liquid
-4. **Waterproof bottom** — Prevents leaks and protects your cage floor
+The entire liner is built from medical-grade, antimicrobial fabric with silver ion technology throughout — not just in one layer.
+
+1. **Top fleece surface** — Soft, warm, wicks moisture downward and away from your guinea pig's feet
+2. **Absorption core** — Absorbs 10x its weight in liquid
+3. **Waterproof base** — Prevents leaks and protects your cage floor
+
+Every layer is medical-grade. Every layer is antimicrobial.
+
+![Clinical Series fleece cage liner showing the all-in-one layered construction](/clinical-series-liner.jpg)
 
 ### Guinea Pig Fleece Liners vs Disposable Bedding
 
@@ -147,14 +163,29 @@ The antimicrobial silver ion layer actively neutralizes ammonia buildup — the 
     <td>$20-40/month</td>
   </tr>
   <tr>
+    <td>Annual Cost</td>
+    <td>$315 one-time (includes 2 liners)</td>
+    <td>$240-480/year, recurring</td>
+  </tr>
+  <tr>
     <td>Prep Required</td>
     <td>None — pre-activated</td>
     <td>N/A</td>
   </tr>
   <tr>
+    <td>What You Need to Buy</td>
+    <td>Nothing else — all-in-one design</td>
+    <td>Just bedding (but frequent restocking)</td>
+  </tr>
+  <tr>
     <td>Environmental Impact</td>
     <td>Reusable 6+ years</td>
     <td>Weekly landfill waste</td>
+  </tr>
+  <tr>
+    <td><strong>Best for Your Guinea Pig?</strong></td>
+    <td><strong>Yes — dry, dust-free, antimicrobial</strong></td>
+    <td>Higher risk of bumblefoot and URIs</td>
   </tr>
 </table>
 
@@ -207,7 +238,7 @@ With proper care, each liner pair lasts **6+ years**.
 <details style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
   <summary style="font-weight: bold; cursor: pointer;">What is silver ion antimicrobial technology?</summary>
   <div style="padding-top: 0.75rem;">
-    <p>Silver ions (Ag+) have natural antimicrobial properties that disrupt bacterial cell membranes. In our liners, silver ion technology is woven into the absorption layer to actively neutralize ammonia and inhibit bacterial growth between washes — keeping your guinea pig's enclosure cleaner and healthier for longer.</p>
+    <p>Silver ions (Ag+) have natural antimicrobial properties that disrupt bacterial cell membranes. In our liners, silver ion technology is integrated throughout the entire fabric — not just a single layer — to actively neutralize ammonia and inhibit bacterial growth between washes. This keeps your guinea pig's enclosure cleaner and healthier for longer.</p>
   </div>
 </details>
 
@@ -219,22 +250,30 @@ With proper care, each liner pair lasts **6+ years**.
 </details>
 
 <details style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
-  <summary style="font-weight: bold; cursor: pointer;">How are these different from GuineaDad liners?</summary>
+  <summary style="font-weight: bold; cursor: pointer;">Do I need to buy separate pee pads or waterproof bases?</summary>
   <div style="padding-top: 0.75rem;">
-    <p>Our Clinical Series liners feature patent-pending antimicrobial silver ion technology that actively neutralizes ammonia — a feature not found in standard fleece liners. They also come pre-activated (no prep washes needed), use medical-grade materials for maximum durability, and are handmade in San Francisco by an exotic pet professional with an engineering background.</p>
+    <p>No. Unlike most fleece liner setups where you need to buy a fleece liner, separate absorbent pads, and a waterproof base layer — often from different brands — the Clinical Series is an all-in-one design. The waterproof base, absorption core, and fleece top are all built into a single product, and the entire liner is antimicrobial with silver ion technology throughout. Just place it in your cage and you're done.</p>
   </div>
 </details>
 
----
+<details style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
+  <summary style="font-weight: bold; cursor: pointer;">How are these different from GuineaDad liners?</summary>
+  <div style="padding-top: 0.75rem;">
+    <p>The Clinical Series is a complete all-in-one liner — you don't need to buy separate pee pads or accessories. The entire fabric is medical-grade with antimicrobial silver ion technology throughout (not just one layer), actively neutralizing ammonia — a feature not found in GuineaDad or other standard fleece liners. Our liners also come pre-activated (no 3-5 prep washes), last 6+ years, and are handmade in San Francisco by an exotic veterinary assistant with an engineering background.</p>
+  </div>
+</details>
 
 *Read our full comparison: [Guinea Pig Fleece Liners vs Disposable Bedding](/post/guinea-pig-fleece-liners-vs-disposable-bedding).*
 
-*Designed by an exotic pet professional with an engineering background. The best guinea pig cage liners — handmade in San Francisco, California.*
+![House of Guineas — SF Engineered, Silver-Ion Technology](/clinical-series-brand.jpg)
+
+*The only all-in-one, pre-activated, antimicrobial guinea pig fleece liner — handmade in San Francisco, California.*
 
 <div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
-  <p style="font-size: 1.1em;"><strong>Ready to upgrade your guinea pig's bedding?</strong></p>
+  <p style="font-size: 1.1em;"><strong>Ready to stop piecing together bedding from different brands?</strong></p>
   <p>
-    <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="btn btn-lg btn-cta-primary" target="_blank" rel="noopener noreferrer">Shop Clinical Series Liners</a>
+    <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="btn btn-lg btn-cta-primary" target="_blank" rel="noopener noreferrer">Order Your Liners — $315 for Two</a>
     <a href="/small-mammal-resources" class="btn btn-lg btn-cta-outline">More Small Pet Resources</a>
   </p>
+  <p style="font-size: 13px; color: #6B5E52; margin-top: 6px;">Ships from our Etsy shop</p>
 </div>
