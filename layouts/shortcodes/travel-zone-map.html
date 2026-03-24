@@ -137,6 +137,17 @@
     font-weight: 600;
   }
 
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+  }
+
   @media (max-width: 768px) {
     .travel-zone-checker__input-row {
       flex-direction: column;
@@ -152,14 +163,15 @@
   <h3>Check Your Travel Rate</h3>
   <p class="travel-zone-checker__subtitle">Enter your address to see which service zone you're in and any applicable travel surcharges.</p>
   <div class="travel-zone-checker__input-row">
+    <label for="tz-address" class="sr-only">Street address</label>
     <input type="text" id="tz-address" autocomplete="street-address" placeholder="Enter your San Francisco address..." />
     <button id="tz-search" class="btn btn-primary travel-zone-checker__btn">Check Rate</button>
   </div>
   <div id="tz-map" class="travel-zone-checker__map"></div>
-  <div id="tz-result" class="travel-zone-checker__result" style="display:none;">
+  <div id="tz-result" class="travel-zone-checker__result" style="display:none;" aria-live="polite">
     <div id="tz-result-inner"></div>
   </div>
-  <div id="tz-error" class="travel-zone-checker__error" style="display:none;"></div>
+  <div id="tz-error" class="travel-zone-checker__error" style="display:none;" role="alert"></div>
 </div>
 
 <script>
