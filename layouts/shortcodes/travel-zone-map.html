@@ -282,6 +282,7 @@
   /* Home marker */
   L.marker(CENTER).addTo(map).bindPopup('House of Guineas<br>Inner Sunset, SF');
 
+  var lastRequestTime = 0;
   var userMarker = null;
   var btn = document.getElementById('tz-search');
   var input = document.getElementById('tz-address');
@@ -300,6 +301,12 @@
       query = query + ', San Francisco, CA';
     }
 
+    var now = Date.now();
+    if (now - lastRequestTime < 1000) {
+      return;
+    }
+    lastRequestTime = now;
+
     btn.disabled = true;
     btn.textContent = 'Searching...';
 
@@ -316,6 +323,12 @@
 
         var lat = parseFloat(data[0].lat);
         var lon = parseFloat(data[0].lon);
+
+        if (isNaN(lat) || isNaN(lon)) {
+          showError('Could not determine coordinates for that address.');
+          return;
+        }
+
         var miles = haversine(CENTER[0], CENTER[1], lat, lon);
         var zone = classifyZone(miles);
 
