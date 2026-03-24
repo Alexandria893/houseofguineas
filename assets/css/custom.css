@@ -201,12 +201,20 @@ a:hover, a:focus {
 /* --- Section Alternating Backgrounds --- */
 .section.featured:nth-child(even) {
   background-color: var(--color-bg-alt);
-  margin-left: -9999px;
-  margin-right: -9999px;
-  padding-left: 9999px;
-  padding-right: 9999px;
+  position: relative;
   padding-top: 40px;
   padding-bottom: 40px;
+}
+.section.featured:nth-child(even)::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100vw;
+  background-color: var(--color-bg-alt);
+  z-index: -1;
 }
 
 /* --- Featured Section (services/reviews/etc) --- */
@@ -730,7 +738,8 @@ html {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
-  margin: 25px 0;
+  margin: 25px auto;
+  max-width: 620px;
 }
 
 .product-showcase__feature {
