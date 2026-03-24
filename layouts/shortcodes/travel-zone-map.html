@@ -176,7 +176,9 @@
 
 <script>
 (function () {
-  var CENTER = [37.7599, -122.4648];
+  var CENTER = [37.7620, -122.4743];
+  /* Multiplier to approximate worst-case driving distance from straight-line */
+  var DRIVING_FACTOR = 1.5;
   var ZONES = [
     { radius: 3, color: '#6B8F71', fillOpacity: 0.15, dash: null, label: 'Primary (0-3 mi)' },
     { radius: 6, color: '#D4A843', fillOpacity: 0.10, dash: null, label: 'Secondary (3-6 mi)' },
@@ -202,12 +204,12 @@
   /* Classify zone */
   function classifyZone(miles) {
     if (miles <= 3) {
-      return { name: 'Primary Service Area', miles: miles, surcharge: null, cssClass: 'tz-zone-primary', noteText: "No travel surcharge \u2014 you\u2019re in the primary service area!" };
+      return { name: 'Primary Service Area', miles: miles, surcharge: null, cssClass: 'tz-zone-primary', markerColor: '#6B8F71', noteText: "No travel surcharge \u2014 you\u2019re in the primary service area!" };
     }
     if (miles <= 6) {
-      return { name: 'Secondary Service Area', miles: miles, surcharge: 15, cssClass: 'tz-zone-secondary', noteText: 'A $15/visit travel surcharge applies.' };
+      return { name: 'Secondary Service Area', miles: miles, surcharge: 15, cssClass: 'tz-zone-secondary', markerColor: '#D4A843', noteText: 'A $15/visit travel surcharge applies.' };
     }
-    return { name: 'Tertiary Service Area', miles: miles, surcharge: 25, cssClass: 'tz-zone-tertiary', noteText: 'A minimum $25/visit travel surcharge applies.', noteLink: '/home/services/faqs/#service-areas', noteLinkText: 'Contact us for custom arrangements.' };
+    return { name: 'Tertiary Service Area', miles: miles, surcharge: 25, cssClass: 'tz-zone-tertiary', markerColor: '#C4704B', noteText: 'A minimum $25/visit travel surcharge applies.', noteLink: '/home/services/faqs/#service-areas', noteLinkText: 'Call to discuss next steps.' };
   }
 
   /* Show result card using safe DOM construction */
@@ -227,7 +229,7 @@
     var strong = document.createElement('strong');
     strong.textContent = zone.surcharge ? '+$' + zone.surcharge + '/visit' : 'No surcharge';
     p1.appendChild(strong);
-    p1.appendChild(document.createTextNode(' \u2014 ' + zone.miles.toFixed(1) + ' miles from Inner Sunset'));
+    p1.appendChild(document.createTextNode(' \u2014 ~' + zone.miles.toFixed(1) + ' miles estimated driving distance'));
     inner.appendChild(p1);
 
     var p2 = document.createElement('p');
@@ -259,37 +261,6 @@
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     maxZoom: 18
   }).addTo(map);
-
-  /* Draw zone circles (largest first so smallest is on top) */
-  for (var i = ZONES.length - 1; i >= 0; i--) {
-    var z = ZONES[i];
-    var opts = {
-      color: z.color,
-      weight: 2,
-      fillColor: z.color,
-      fillOpacity: z.fillOpacity
-    };
-    if (z.dash) {
-      opts.dashArray = z.dash;
-    }
-    L.circle(CENTER, { radius: milesToMeters(z.radius) }).setStyle(opts).addTo(map);
-  }
-
-  /* Zone labels as divIcon markers */
-  var labelOffsets = [
-    { lat: 37.7599 + 0.018, lng: -122.4648 },
-    { lat: 37.7599 + 0.042, lng: -122.4648 },
-    { lat: 37.7599 + 0.072, lng: -122.4648 }
-  ];
-  for (var j = 0; j < ZONES.length; j++) {
-    var icon = L.divIcon({
-      className: '',
-      html: '<span class="tz-zone-label">' + ZONES[j].label + '</span>',
-      iconSize: null,
-      iconAnchor: [0, 0]
-    });
-    L.marker([labelOffsets[j].lat, labelOffsets[j].lng], { icon: icon, interactive: false }).addTo(map);
-  }
 
   /* Home marker */
   L.marker(CENTER).addTo(map).bindPopup('House of Guineas<br>Inner Sunset, SF');
@@ -341,13 +312,25 @@
           return;
         }
 
-        var miles = haversine(CENTER[0], CENTER[1], lat, lon);
+        var straightMiles = haversine(CENTER[0], CENTER[1], lat, lon);
+        var miles = straightMiles * DRIVING_FACTOR;
         var zone = classifyZone(miles);
 
         if (userMarker) {
           map.removeLayer(userMarker);
         }
-        userMarker = L.marker([lat, lon]).addTo(map);
+        var pinSvg = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="41" viewBox="0 0 25 41">'
+          + '<path d="M12.5 0C5.6 0 0 5.6 0 12.5C0 21.9 12.5 41 12.5 41S25 21.9 25 12.5C25 5.6 19.4 0 12.5 0Z" fill="' + zone.markerColor + '" stroke="#fff" stroke-width="1.5"/>'
+          + '<circle cx="12.5" cy="12.5" r="5" fill="#fff"/>'
+          + '</svg>';
+        var pinIcon = L.divIcon({
+          className: '',
+          html: pinSvg,
+          iconSize: [25, 41],
+          iconAnchor: [12, 41],
+          popupAnchor: [0, -34]
+        });
+        userMarker = L.marker([lat, lon], { icon: pinIcon }).addTo(map);
         userMarker.bindPopup(zone.name).openPopup();
 
         map.fitBounds(L.latLngBounds([CENTER, [lat, lon]]).pad(0.3));
