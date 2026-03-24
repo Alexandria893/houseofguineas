@@ -1,0 +1,343 @@
+{{/* travel-zone-map: Interactive travel zone checker with Leaflet map */}}
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+  crossorigin="anonymous" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+  crossorigin="anonymous"></script>
+
+<style>
+  .travel-zone-checker {
+    max-width: 720px;
+    margin: 2rem auto;
+    font-family: var(--font-body, 'Nunito', 'Open Sans', sans-serif);
+  }
+
+  .travel-zone-checker h3 {
+    font-family: var(--font-heading, 'Lora', Georgia, serif);
+    color: var(--color-text, #3D3228);
+    margin-bottom: 4px;
+  }
+
+  .travel-zone-checker__subtitle {
+    color: var(--color-text-light, #6B5E52);
+    font-size: 15px;
+    margin-bottom: 16px;
+  }
+
+  .travel-zone-checker__input-row {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+
+  .travel-zone-checker__input-row input {
+    flex: 1;
+    padding: 10px 14px;
+    border: 1px solid var(--color-border, #E2D9CE);
+    border-radius: var(--radius-sm, 8px);
+    font-size: 15px;
+    font-family: var(--font-body, 'Nunito', 'Open Sans', sans-serif);
+    color: var(--color-text, #3D3228);
+    background: var(--color-card, #FFFFFF);
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .travel-zone-checker__input-row input:focus {
+    border-color: var(--color-primary, #6B8F71);
+    box-shadow: 0 0 0 2px rgba(107, 143, 113, 0.15);
+  }
+
+  .travel-zone-checker__btn {
+    white-space: nowrap;
+    padding: 10px 20px;
+    border: none;
+    border-radius: var(--radius-sm, 8px);
+    background: var(--color-primary, #6B8F71);
+    color: #fff;
+    font-size: 15px;
+    font-family: var(--font-body, 'Nunito', 'Open Sans', sans-serif);
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+
+  .travel-zone-checker__btn:hover {
+    background: #5a7d60;
+  }
+
+  .travel-zone-checker__btn:disabled {
+    opacity: 0.65;
+    cursor: not-allowed;
+  }
+
+  .travel-zone-checker__map {
+    height: 400px;
+    border-radius: var(--radius, 10px);
+    border: 1px solid var(--color-border, #E2D9CE);
+    box-shadow: var(--shadow, 0 2px 12px rgba(61, 50, 40, 0.08));
+    margin-bottom: 16px;
+  }
+
+  .travel-zone-checker__result {
+    padding: 16px 20px;
+    border-radius: var(--radius-sm, 8px);
+    border-left: 4px solid var(--color-primary, #6B8F71);
+    background: var(--color-bg, #FAF8F5);
+    margin-bottom: 12px;
+  }
+
+  .travel-zone-checker__result h4 {
+    font-family: var(--font-heading, 'Lora', Georgia, serif);
+    color: var(--color-text, #3D3228);
+    margin: 0 0 6px 0;
+  }
+
+  .travel-zone-checker__result p {
+    margin: 0;
+    color: var(--color-text, #3D3228);
+  }
+
+  .travel-zone-checker__result a {
+    color: var(--color-primary, #6B8F71);
+  }
+
+  .tz-zone-primary {
+    border-left-color: var(--color-primary, #6B8F71);
+  }
+
+  .tz-zone-secondary {
+    border-left-color: #D4A843;
+  }
+
+  .tz-zone-tertiary {
+    border-left-color: var(--color-accent, #C4704B);
+  }
+
+  .travel-zone-checker__error {
+    padding: 12px 16px;
+    border-radius: var(--radius-sm, 8px);
+    background: #fdf0ec;
+    color: var(--color-accent, #C4704B);
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+
+  .tz-zone-label {
+    background: rgba(255, 255, 255, 0.92);
+    border: 1px solid var(--color-border, #E2D9CE);
+    border-radius: 4px;
+    padding: 2px 7px;
+    font-size: 11px;
+    font-family: var(--font-body, 'Nunito', 'Open Sans', sans-serif);
+    color: var(--color-text-light, #6B5E52);
+    white-space: nowrap;
+    font-weight: 600;
+  }
+
+  @media (max-width: 768px) {
+    .travel-zone-checker__input-row {
+      flex-direction: column;
+    }
+
+    .travel-zone-checker__map {
+      height: 300px;
+    }
+  }
+</style>
+
+<div class="travel-zone-checker">
+  <h3>Check Your Travel Rate</h3>
+  <p class="travel-zone-checker__subtitle">Enter your address to see which service zone you're in and any applicable travel surcharges.</p>
+  <div class="travel-zone-checker__input-row">
+    <input type="text" id="tz-address" autocomplete="street-address" placeholder="Enter your San Francisco address..." />
+    <button id="tz-search" class="btn btn-primary travel-zone-checker__btn">Check Rate</button>
+  </div>
+  <div id="tz-map" class="travel-zone-checker__map"></div>
+  <div id="tz-result" class="travel-zone-checker__result" style="display:none;">
+    <div id="tz-result-inner"></div>
+  </div>
+  <div id="tz-error" class="travel-zone-checker__error" style="display:none;"></div>
+</div>
+
+<script>
+(function () {
+  var CENTER = [37.7599, -122.4648];
+  var ZONES = [
+    { radius: 3, color: '#6B8F71', fillOpacity: 0.15, dash: null, label: 'Primary (0-3 mi)' },
+    { radius: 6, color: '#D4A843', fillOpacity: 0.10, dash: null, label: 'Secondary (3-6 mi)' },
+    { radius: 10, color: '#C4704B', fillOpacity: 0.08, dash: '8 6', label: 'Tertiary (6+ mi)' }
+  ];
+
+  /* Miles to meters */
+  function milesToMeters(mi) {
+    return mi * 1609.344;
+  }
+
+  /* Haversine distance in miles */
+  function haversine(lat1, lon1, lat2, lon2) {
+    var R = 3958.8;
+    var dLat = (lat2 - lat1) * Math.PI / 180;
+    var dLon = (lon2 - lon1) * Math.PI / 180;
+    var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+            Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+            Math.sin(dLon / 2) * Math.sin(dLon / 2);
+    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  }
+
+  /* Classify zone */
+  function classifyZone(miles) {
+    if (miles <= 3) {
+      return { name: 'Primary Service Area', miles: miles, surcharge: null, cssClass: 'tz-zone-primary', noteText: "No travel surcharge \u2014 you\u2019re in the primary service area!" };
+    }
+    if (miles <= 6) {
+      return { name: 'Secondary Service Area', miles: miles, surcharge: 15, cssClass: 'tz-zone-secondary', noteText: 'A $15/visit travel surcharge applies.' };
+    }
+    return { name: 'Tertiary Service Area', miles: miles, surcharge: 25, cssClass: 'tz-zone-tertiary', noteText: 'A minimum $25/visit travel surcharge applies.', noteLink: '/home/services/faqs/#service-areas', noteLinkText: 'Contact us for custom arrangements.' };
+  }
+
+  /* Show result card using safe DOM construction */
+  function showResult(zone) {
+    var el = document.getElementById('tz-result');
+    var inner = document.getElementById('tz-result-inner');
+    while (inner.firstChild) inner.removeChild(inner.firstChild);
+    el.style.display = 'block';
+    el.className = 'travel-zone-checker__result ' + zone.cssClass;
+    document.getElementById('tz-error').style.display = 'none';
+
+    var h4 = document.createElement('h4');
+    h4.textContent = zone.name;
+    inner.appendChild(h4);
+
+    var p1 = document.createElement('p');
+    var strong = document.createElement('strong');
+    strong.textContent = zone.surcharge ? '+$' + zone.surcharge + '/visit' : 'No surcharge';
+    p1.appendChild(strong);
+    p1.appendChild(document.createTextNode(' \u2014 ' + zone.miles.toFixed(1) + ' miles from Inner Sunset'));
+    inner.appendChild(p1);
+
+    var p2 = document.createElement('p');
+    p2.style.marginTop = '8px';
+    p2.style.fontSize = '14px';
+    p2.style.color = '#6B5E52';
+    p2.textContent = zone.noteText;
+    if (zone.noteLink) {
+      p2.appendChild(document.createTextNode(' '));
+      var a = document.createElement('a');
+      a.href = zone.noteLink;
+      a.textContent = zone.noteLinkText;
+      p2.appendChild(a);
+    }
+    inner.appendChild(p2);
+  }
+
+  /* Show error using textContent only */
+  function showError(msg) {
+    var el = document.getElementById('tz-error');
+    el.textContent = msg;
+    el.style.display = 'block';
+    document.getElementById('tz-result').style.display = 'none';
+  }
+
+  /* Initialize map */
+  var map = L.map('tz-map', { scrollWheelZoom: false }).setView(CENTER, 12);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    maxZoom: 18
+  }).addTo(map);
+
+  /* Draw zone circles (largest first so smallest is on top) */
+  for (var i = ZONES.length - 1; i >= 0; i--) {
+    var z = ZONES[i];
+    var opts = {
+      color: z.color,
+      weight: 2,
+      fillColor: z.color,
+      fillOpacity: z.fillOpacity
+    };
+    if (z.dash) {
+      opts.dashArray = z.dash;
+    }
+    L.circle(CENTER, { radius: milesToMeters(z.radius) }).setStyle(opts).addTo(map);
+  }
+
+  /* Zone labels as divIcon markers */
+  var labelOffsets = [
+    { lat: 37.7599 + 0.018, lng: -122.4648 },
+    { lat: 37.7599 + 0.042, lng: -122.4648 },
+    { lat: 37.7599 + 0.072, lng: -122.4648 }
+  ];
+  for (var j = 0; j < ZONES.length; j++) {
+    var icon = L.divIcon({
+      className: '',
+      html: '<span class="tz-zone-label">' + ZONES[j].label + '</span>',
+      iconSize: null,
+      iconAnchor: [0, 0]
+    });
+    L.marker([labelOffsets[j].lat, labelOffsets[j].lng], { icon: icon, interactive: false }).addTo(map);
+  }
+
+  /* Home marker */
+  L.marker(CENTER).addTo(map).bindPopup('House of Guineas<br>Inner Sunset, SF');
+
+  var userMarker = null;
+  var btn = document.getElementById('tz-search');
+  var input = document.getElementById('tz-address');
+
+  function doSearch() {
+    var query = input.value.trim();
+    if (!query) {
+      showError('Please enter an address to check.');
+      return;
+    }
+
+    /* Auto-append San Francisco context if not present */
+    var lower = query.toLowerCase();
+    if (lower.indexOf('san francisco') === -1 && lower.indexOf('sf') === -1 &&
+        lower.indexOf(', ca') === -1 && lower.indexOf('california') === -1) {
+      query = query + ', San Francisco, CA';
+    }
+
+    btn.disabled = true;
+    btn.textContent = 'Searching...';
+
+    fetch('https://nominatim.openstreetmap.org/search?format=json&limit=1&q=' + encodeURIComponent(query))
+      .then(function (res) { return res.json(); })
+      .then(function (data) {
+        btn.disabled = false;
+        btn.textContent = 'Check Rate';
+
+        if (!data || data.length === 0) {
+          showError('Address not found. Please try a more specific San Francisco address.');
+          return;
+        }
+
+        var lat = parseFloat(data[0].lat);
+        var lon = parseFloat(data[0].lon);
+        var miles = haversine(CENTER[0], CENTER[1], lat, lon);
+        var zone = classifyZone(miles);
+
+        if (userMarker) {
+          map.removeLayer(userMarker);
+        }
+        userMarker = L.marker([lat, lon]).addTo(map);
+        userMarker.bindPopup(zone.name).openPopup();
+
+        map.fitBounds(L.latLngBounds([CENTER, [lat, lon]]).pad(0.3));
+        showResult(zone);
+      })
+      .catch(function () {
+        btn.disabled = false;
+        btn.textContent = 'Check Rate';
+        showError('Unable to look up that address. Please check your connection and try again.');
+      });
+  }
+
+  btn.addEventListener('click', doSearch);
+  input.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter') doSearch();
+  });
+})();
+</script>
