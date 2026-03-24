@@ -10,7 +10,7 @@ lastmod = 2026-03-24
   priority = 0.6
 +++
 
-Choosing the right bedding for your guinea pig is one of the most important decisions you'll make as a pet parent. The bedding your guinea pig sits on 24/7 directly affects their respiratory health, skin health, and overall comfort. After years of caring for guinea pigs and designing [medical-grade fleece cage liners](/clinical-series-guinea-pig-fleece-cage-liners), here's my honest comparison of the main options.
+When I spotted Milo and Luca on the SFACC website, I immediately started buying supplies before I even adopted them (I called the shelter multiple times to make sure they were still there!). I rushed to bring them home so fast that my supplies hadn't even arrived yet — so they started out in a makeshift cage. But one thing I got right early on was taking bedding seriously. Your guinea pig sits on it all day, every day — it touches their feet, their belly, and they're breathing in whatever it gives off. After years of trying different options with all four of my pigs (Milo, Luca, Coco, and Kai), working as an exotic vet assistant where I see bedding-related health issues constantly, and ultimately designing my own [medical-grade fleece cage liners](/clinical-series-guinea-pig-fleece-cage-liners) from scratch — I have a lot of opinions on this topic.
 
 <!--more-->
 
@@ -18,7 +18,7 @@ Choosing the right bedding for your guinea pig is one of the most important deci
 
 ### Paper Bedding (Carefresh, Kaytee Clean & Cozy)
 
-Paper bedding is what most guinea pig owners start with. It's widely available at pet stores and easy to use.
+Paper bedding is where most of us start. I did too — it's on every pet store shelf and seems like the obvious choice.
 
 **Pros:**
 * Easy to find at any pet store
@@ -32,9 +32,11 @@ Paper bedding is what most guinea pig owners start with. It's widely available a
 * Costs $20-40 per month depending on cage size
 * Creates significant landfill waste
 
+Here's what frustrated me about paper bedding: it would look fine on the surface but be soaked underneath. I'd peel it back and realize my pigs had been sitting on damp bedding for who knows how long. That's not something you can easily monitor, and it bothered me.
+
 ### Wood Shavings (Aspen, Pine, Cedar)
 
-Wood shavings are the traditional small animal bedding, but they come with serious health concerns.
+Wood shavings are the traditional small animal bedding, but they come with serious health concerns — ones I've seen firsthand at the vet clinic.
 
 **Pros:**
 * Inexpensive upfront
@@ -49,9 +51,11 @@ Wood shavings are the traditional small animal bedding, but they come with serio
 
 **Important:** Most exotic veterinarians recommend against cedar and untreated pine shavings entirely. If you must use wood shavings, kiln-dried aspen is the only acceptable option.
 
+I can't tell you how many clients I've seen at the clinic bring in guinea pigs with respiratory issues, and the first question we always ask is what bedding they're using. It's that directly connected.
+
 ### Fleece Cage Liners
 
-Fleece liners are reusable fabric pads that sit on top of an absorbent layer inside your guinea pig's C&C cage or enclosure.
+Fleece liners are reusable fabric pads that sit on top of an absorbent layer inside your guinea pig's C&C cage or enclosure. This is the category I eventually fell in love with — and then spent a frankly unreasonable amount of time engineering a better version of.
 
 **Pros:**
 * Zero dust — best option for respiratory health
@@ -130,23 +134,29 @@ Let's do the math over 2 years for a standard 2x4 C&C cage:
 
 Paper and wood bedding cost **$240-480 per year**, recurring. The Clinical Series is a one-time purchase that pays for itself within the first year — and it's a complete all-in-one system with no extra parts needed.
 
+When I sat down to design the Clinical Series, this was honestly one of my biggest motivations. I kept buying bedding month after month, watching those costs add up, and thinking — there has to be a smarter way. My engineering brain wouldn't let it go.
+
 ![Guinea pig on Clinical Series fleece cage liner with enrichment toys](/clinical-series-inuse.jpg)
 
 ![Clinical Series fleece cage liner showing the all-in-one layered construction](/clinical-series-liner.jpg)
 
 ## What About Health?
 
-This is where the choice becomes clear. The two most common guinea pig health issues directly linked to bedding are:
+This is where the choice becomes clear — and where I get the most passionate, because I've seen these issues up close at the clinic. The two most common guinea pig health issues directly linked to bedding are:
 
 ### Bumblefoot (Pododermatitis)
-Bumblefoot is a bacterial infection of the foot pad caused by prolonged contact with damp, rough, or dirty surfaces. Guinea pigs standing on wet paper bedding or rough wood shavings are at significantly higher risk. Fleece liners wick moisture away from the surface, keeping feet dry.
+Bumblefoot is a bacterial infection of the foot pad caused by prolonged contact with damp, rough, or dirty surfaces. Guinea pigs standing on wet paper bedding or rough wood shavings are at significantly higher risk. Fleece liners wick moisture away from the surface, keeping feet dry. I check my pigs' feet regularly (a habit I picked up from the clinic), and the difference since switching to fleece has been night and day.
 
 ### Upper Respiratory Infections (URIs)
-Guinea pigs have sensitive respiratory systems. Dust from wood shavings, phenols from cedar/pine, and ammonia buildup from saturated bedding all contribute to URIs. Fleece liners produce zero dust. Our Clinical Series liners go further with antimicrobial silver ion technology that actively neutralizes ammonia between washes.
+Guinea pigs have incredibly sensitive respiratory systems. Dust from wood shavings, phenols from cedar/pine, and ammonia buildup from saturated bedding all contribute to URIs. Fleece liners produce zero dust. Our Clinical Series liners go further with antimicrobial silver ion technology that actively neutralizes ammonia between washes.
+
+URIs are one of the most common reasons guinea pig owners end up at the exotic vet. If there's one change you can make to reduce that risk, it's switching away from dusty or chemical-heavy bedding.
 
 ## My Recommendation
 
-After caring for guinea pigs for years and designing bedding from an engineering perspective, I strongly recommend fleece cage liners for any guinea pig owner who wants to prioritize their pet's health. The upfront cost pays for itself within months, and the health benefits — zero dust, dry surface, no phenols — are measurable.
+I'll be honest — I'm biased here, because I designed the Clinical Series specifically to solve the problems I kept running into. But even setting my own product aside, I genuinely believe fleece cage liners are the best choice for any guinea pig owner who wants to prioritize their pet's health. The upfront cost pays for itself within months, and the health benefits — zero dust, dry surface, no phenols — are measurable.
+
+Milo, Luca, Coco, and Kai have been my test crew through every prototype and iteration. They've given me very honest feedback (guinea pigs are not subtle about what they don't like). The result is a liner I feel genuinely proud of.
 
 If you're ready to make the switch, check out our [Clinical Series Fleece Cage Liners](/clinical-series-guinea-pig-fleece-cage-liners) — the only pre-activated, antimicrobial guinea pig bedding on the market.
 

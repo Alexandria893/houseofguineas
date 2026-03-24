@@ -9,13 +9,13 @@ tags = ["reptile care", "bearded dragons", "san francisco"]
   priority = 0.6
 +++
 
-San Francisco's naturally cool, foggy climate presents unique challenges for bearded dragon owners. Getting the temperature and humidity right in your bearded dragon's enclosure is the single most important thing you can do for their health. As an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who has cared for many bearded dragons, here's what you need to know.
+If you're keeping a bearded dragon in San Francisco, I need you to hear this: getting the temperature and humidity right is the single most important thing you can do for your beardie. Our cool, foggy city is basically the opposite of the Australian outback these guys come from, and I've seen firsthand what happens when their environment is off. When I worked at Bay Area Bird & Exotics Hospital, some of the bearded dragons that came in with digestion problems or impaction just needed their setup dialed in — not medication. So let me walk you through exactly what your enclosure should look like.
 
 <!--more-->
 
 ## The Right Temperature Ranges
 
-Bearded dragons are desert reptiles from central Australia. They need a clear temperature gradient — a hot basking spot on one side and a cooler retreat on the other.
+Bearded dragons are desert reptiles from central Australia, and they need a clear temperature gradient in their enclosure — a hot basking spot on one end and a cooler retreat on the other. Here's what you're aiming for:
 
 | Zone | Temperature |
 |---|---|
@@ -31,18 +31,20 @@ Bearded dragons are ectotherms — they regulate their body temperature by movin
 * **Too hot:** Overheating, stress, and dehydration
 * **No gradient:** The dragon can't thermoregulate, causing chronic stress
 
+Trust me on the digestion piece. At Bay Area Bird & Exotics, I helped bearded dragons that were constipated and wouldn't defecate — and more often than not, the root cause traced back to temperatures that were too low. A cold beardie is a beardie whose gut has essentially shut down. It's not fun for anyone involved (especially the dragon, and honestly, especially me).
+
 ### San Francisco-Specific Considerations
 
-San Francisco's average indoor temperature hovers around 60-68°F, which is well below what bearded dragons need. This means:
+I live in the Inner Sunset, so I know exactly how cold our homes get. San Francisco's average indoor temperature hovers around 60-68°F, which is well below what bearded dragons need. Here's what that means for you:
 
-* You'll likely need a **ceramic heat emitter (CHE)** for nighttime warmth, especially in the foggy Outer Sunset, Richmond, and Parkside districts
-* Your basking bulb may need to be higher wattage than guides recommend for warmer climates
-* Monitor with a **digital thermometer with probe** (not stick-on strips — they're inaccurate by 10-20°F)
-* Consider a **thermostat** to prevent overheating if your home warms up during rare heat waves
+* You'll likely need a **ceramic heat emitter (CHE)** for nighttime warmth, especially if you're in the foggy Outer Sunset, Richmond, or Parkside districts
+* Your basking bulb may need to be higher wattage than guides written for warmer climates suggest
+* Monitor with a **digital thermometer with probe** — not those stick-on strips. They're inaccurate by 10-20°F, and I've seen clients think their setup was fine when it absolutely was not
+* Consider a **thermostat** to prevent overheating if your home warms up during our rare heat waves
 
 ## Humidity Levels
 
-Bearded dragons need **low humidity**: 30-40% relative humidity is ideal. San Francisco's natural humidity averages 70-80%, so you'll need to actively manage it.
+Here's where San Francisco really works against you. Bearded dragons need **low humidity**: 30-40% relative humidity is ideal. Our natural humidity averages 70-80%. You'll need to actively manage this.
 
 **Tips for controlling humidity:**
 * Use a **screen-top enclosure** for maximum ventilation
@@ -56,9 +58,11 @@ Bearded dragons need **low humidity**: 30-40% relative humidity is ideal. San Fr
 * Skin infections and abnormal shedding
 * Fungal growth in the enclosure
 
+I've seen respiratory infections sneak up on bearded dragons in the Bay Area specifically because of our humidity levels. If your beardie starts wheezing or you notice bubbles around their nostrils, get to an exotic vet — don't wait on that one.
+
 ## UVB Lighting
 
-Bearded dragons require **10-12 hours of full-spectrum UVB lighting daily** to metabolize calcium. Without it, they develop metabolic bone disease (MBD), which causes soft bones, tremors, and eventually paralysis.
+Bearded dragons require **10-12 hours of full-spectrum UVB lighting daily** to metabolize calcium. Without it, they develop metabolic bone disease (MBD), which causes soft bones, tremors, and eventually paralysis. This is one of the most heartbreaking things I've seen in practice, and it's entirely preventable.
 
 **Setup tips:**
 * Use a **tube-style UVB bulb** (T5 or T8) that spans 2/3 of the enclosure length
@@ -80,13 +84,15 @@ For a complete guide to reptile environmental needs, see my [Reptile & Amphibian
 
 ## When Something Looks Wrong
 
-If your bearded dragon shows any of these signs, check their environment first — and if temps and humidity are fine, see an [exotic vet](/san-francisco-bay-area-exotic-veterinarians):
+If your bearded dragon shows any of these signs, check their environment first — temperature and humidity problems cause the majority of issues I've seen with clients' beardies. If the setup looks fine, get to an [exotic vet](/san-francisco-bay-area-exotic-veterinarians):
 
 * **Black beard stress marks** that persist all day
 * Lethargy or sleeping on the cool side
 * Refusing food for more than a few days
 * Sunken eyes (dehydration)
 * Rubbery jaw or trembling limbs (MBD)
+
+You know your dragon. If something feels off, it probably is. Don't second-guess yourself — these guys are tough but they're also good at hiding when they're struggling.
 
 ---
 

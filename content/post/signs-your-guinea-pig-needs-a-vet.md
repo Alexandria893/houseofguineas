@@ -1,10 +1,11 @@
 +++
-title = "5 Signs Your Guinea Pig Needs a Vet — From an Exotic Vet Assistant"
+title = "5 Warning Signs Your Guinea Pig Needs a Vet"
 shortTitle = "Signs Your Guinea Pig Needs a Vet"
 description = "Learn the 5 warning signs that mean your guinea pig needs veterinary care. Spotting URI, GI stasis, bumblefoot and dental issues early can save your pet's life."
 date = 2026-03-07
 og_image = "Luca.jpg"
 tags = ["guinea pig care", "exotic vet", "small mammals"]
+lastmod = 2026-03-24
 [sitemap]
   priority = 0.6
 +++

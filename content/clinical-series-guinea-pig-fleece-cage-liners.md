@@ -1,5 +1,5 @@
 +++
-title = "Clinical Series Guinea Pig Fleece Liners — All-in-One, Pre-Activated & Antimicrobial | House of Guineas"
+title = "Clinical Series Fleece Liners — All-in-One & Antimicrobial"
 shortTitle = "Clinical Series Fleece Liners"
 description = "The only all-in-one guinea pig fleece liner — entirely medical-grade, antimicrobial fabric with silver ion technology throughout. Pre-activated, no prep washes. $315 for two liners that last 6+ years. Handmade in SF."
 type = "product"

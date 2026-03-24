@@ -9,11 +9,11 @@ tags = ["guinea pig care", "small mammals", "pet comparison"]
   priority = 0.7
 +++
 
-If you're trying to decide between a guinea pig, a rabbit, or a hamster, you're not alone. These are the three most popular small mammals kept as pets, and they all have real appeal. But they're also very different animals with different needs, lifespans, and personalities. I'm Alexandria — an exotic veterinary assistant in San Francisco and the proud owner of guinea pigs and rabbits. I've cared for all three species professionally, and I want to help you pick the right one for your household.
+So you're thinking about getting a small pet and you've narrowed it down to the big three: guinea pigs, rabbits, or hamsters. I get it — they're all adorable, they all fit in an apartment, and they all seem "easy." But having lived with guinea pigs and rabbits at the same time (and cared for plenty of hamsters as an exotic veterinary assistant), I can tell you these are three very different animals. I'm Alexandria, and I share my San Francisco home with four guinea pigs — Milo, Luca, Coco, and Kai — and two rabbits: Puppy Dog and (lovingly) Big Chungus. Let me tell you what it's actually like.
 
 <!--more-->
 
-Fair warning: I'm a guinea pig person at heart. But I'll give you the honest breakdown on all three so you can make the best choice for your life and your family.
+Full disclosure: I'm a guinea pig person at heart. But I genuinely love all three species, and I'll give you the honest breakdown so you can make the right call for your household.
 
 ## The Quick Comparison
 
@@ -46,43 +46,51 @@ Fair warning: I'm a guinea pig person at heart. But I'll give you the honest bre
 </tbody>
 </table>
 
-Now let's dig into what makes each of these animals unique.
+Now let's get into what it's actually like living with each of these animals — because numbers on a chart only tell you so much.
 
 ## Guinea Pigs: The Social Butterflies
 
-Guinea pigs are, in my experience, the most interactive small pet you can own. They recognize their owners by sight and sound, they vocalize constantly — wheeks when they hear the fridge, purrs when they're content, rumblestrutting when they're being dramatic — and they genuinely seek out human interaction.
+Guinea pigs are, hands down, the most interactive small pet I've ever worked with. They don't just tolerate you — they *want* you around. Milo, my oldest, starts wheeking the second he hears me open the fridge. It doesn't matter if I'm grabbing lettuce or leftover pizza — he's convinced it's for him. That pig is purely driven by food, and honestly, I respect it.
 
-The biggest thing to know about guinea pigs is that **they must be kept in pairs or groups**. A single guinea pig is a lonely guinea pig, and loneliness causes real health problems in this species. Same-sex pairs or small groups are the standard. This means double the food, double the cage cleaning, and double the vet bills — but also double the entertainment.
+![Milo the guinea pig](/milo.jpeg)
+*Milo, mid-wheek, almost certainly convinced I have bell peppers.*
 
-Guinea pigs are crepuscular, meaning they're most active during the day with bursts at dawn and dusk. That makes them ideal if you want a pet you can actually interact with during waking hours. They're gentle and rarely bite, which makes them one of the better small pets for families with supervised children.
+The biggest thing to know about guinea pigs is that **they must be kept in pairs or groups**. A single guinea pig is a lonely guinea pig, and loneliness causes real health problems in this species. I keep mine in a group of four, and watching them interact is half the fun. Coco is the boss. Kai is the baby who tries to steal everyone's hay. Luca just wants to nap in peace. They have real dynamics and genuine personalities — it's like a little soap opera in a C&C cage.
 
-One unique quirk: guinea pigs cannot manufacture their own vitamin C, so they need daily supplementation through fresh vegetables and sometimes a liquid supplement. It's an extra step, but it becomes routine quickly.
+Guinea pigs are crepuscular, meaning they're most active during the day with bursts at dawn and dusk. That makes them ideal if you want a pet you can actually hang out with during normal waking hours. They're gentle and rarely bite, which makes them one of the best small pets for families with supervised children.
+
+One unique quirk: guinea pigs cannot manufacture their own vitamin C, so they need daily supplementation through fresh vegetables (bell peppers are a favorite in my house) and sometimes a liquid supplement. It's an extra step, but it becomes routine fast.
 
 For a full deep dive, read our [complete guinea pig care guide](/post/guinea-pig-care-guide).
 
 ## Rabbits: The Independent Companions
 
-Rabbits are the longest-lived of the three, with many indoor rabbits reaching 10 to 12 years. That's a serious commitment — closer to a cat than a hamster in terms of the time you're signing up for.
+Rabbits are the longest-lived of the three, with many indoor rabbits reaching 10 to 12 years. That's a serious commitment — closer to a cat than a hamster in terms of the time you're signing up for. I knew this going in with Chungus and Puppy Dog, and it's part of why I love having them. The bond you build over years is something special.
 
-The upside of that long lifespan is a deep bond. Rabbits can be **litter-trained**, and many owners let them free-roam in their homes like cats. They're intelligent, curious, and full of personality. But rabbits bond on their own terms. They're more independent than guinea pigs and can be standoffish until they trust you.
+![Chungus and Puppy Dog](/2ChungusPuppyDog.jpg)
+*Chungus (the big one, obviously) and Puppy Dog, doing their best "we weren't chewing on the baseboard" impression.*
+
+But I'll be honest — rabbits are a different vibe from guinea pigs. Chungus will flop next to me on the floor and let me pet him for twenty minutes, but only when *he* decides it's time. Puppy Dog still thumps at me if I rearrange anything in their space. Rabbits bond on their own terms. They're more independent and can be standoffish until they fully trust you, which can take weeks or months.
 
 **Spaying or neutering is essentially required.** Unaltered rabbits spray, show aggression, and female rabbits have an extremely high rate of uterine cancer if left intact. Budget $200 to $500 for the surgery, depending on your area.
 
 Rabbits also have the most fragile digestive system of the three. GI stasis — where the gut stops moving — is the number one emergency I see in rabbits at the clinic. It can become life-threatening within hours. A rabbit-savvy exotic vet is non-negotiable.
 
-Space requirements are the highest of the group. The House Rabbit Society recommends a minimum of 12 square feet of enclosure space plus daily free-roam time. Many experienced rabbit owners dedicate an entire room or rabbit-proof their living space.
+Space requirements are the highest of the group. The House Rabbit Society recommends a minimum of 12 square feet of enclosure space plus daily free-roam time. Many experienced rabbit owners dedicate an entire room or rabbit-proof their living space. Chungus and Puppy Dog free-roam in my apartment, which means I've had to rabbit-proof every cord, baseboard, and houseplant in the place. Worth it, but it's a lifestyle adjustment.
 
 For more details, check out our [rabbit care guide](/post/rabbit-care-guide-bay-area).
 
 ## Hamsters: The Low-Maintenance Option
 
-Hamsters are the smallest, cheapest, and shortest-lived of the three. With a lifespan of just 2 to 3 years, a hamster is a much shorter commitment — which can be a pro or a con depending on your perspective. For families with young children, the short lifespan means the loss conversation may come sooner than expected.
+I don't currently keep hamsters, but I've cared for dozens professionally at the clinic, and they have their own charm. They're tiny engineers — give a hamster a pile of bedding and they'll construct an elaborate burrow system overnight. It's genuinely impressive.
 
-The most important thing to understand about hamsters is that they are **nocturnal**. They sleep during the day and run on their wheel at night. If you work a typical schedule and want a pet to interact with in the evenings, a hamster will just be waking up when you're winding down. This mismatch is the number one reason hamsters get rehomed.
+With a lifespan of just 2 to 3 years, a hamster is a much shorter commitment — which can be a pro or a con depending on your perspective. For families with young children, the short lifespan means the loss conversation may come sooner than expected.
+
+The most important thing to understand about hamsters is that they are **nocturnal**. They sleep during the day and run on their wheel at night. If you work a typical schedule and want a pet to interact with in the evenings, a hamster will just be waking up when you're winding down. This mismatch is the number one reason hamsters get rehomed. I've seen it over and over at the clinic.
 
 Most hamster species are **solitary** and should never be housed together. Dwarf hamsters are sometimes kept in pairs, but even that frequently leads to fighting and injuries. A single hamster in an appropriately sized enclosure is the safest setup.
 
-Hamsters are small and fast, which makes them fragile and easy to drop. They're not an ideal pet for young children. They can also nip when startled, especially if woken during the day.
+Hamsters are small and fast, which makes them fragile and easy to drop. They're not an ideal pet for young children. They can also nip when startled, especially if woken during the day — and trust me, they do not appreciate being woken during the day.
 
 On the plus side, hamsters have the lowest space and cost requirements of the three. A proper hamster enclosure needs at least 600 square inches of unbroken floor space, and monthly costs for bedding, food, and chews run around $20 to $30.
 

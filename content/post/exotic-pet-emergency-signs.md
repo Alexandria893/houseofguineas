@@ -9,11 +9,13 @@ tags = ["exotic vet", "reptile care", "small mammals", "san francisco"]
   priority = 0.6
 +++
 
-When an exotic pet has a medical emergency, time is critical. Unlike dogs and cats, exotic animals hide illness until they're in serious trouble — and most emergency animal hospitals aren't equipped to treat them. As an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) in San Francisco, here are the emergency signs every exotic pet owner should recognize.
+Working at Bay Area Bird & Exotics Hospital taught me something that still shapes how I care for animals today: exotic pets don't tell you they're sick until they really can't hide it anymore. By the time you notice something is off, the situation is often already serious. I've seen owners rush in with a pet they thought was "just a little quiet this morning," only for us to find out the animal had been declining for days. As an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) in San Francisco, I put together the emergency signs I wish every exotic pet owner had pinned to their fridge.
 
 <!--more-->
 
 ## Reptile Emergencies
+
+At the clinic, reptile emergencies were some of the most common cases we saw — and so many of them were preventable with the right knowledge. I've helped bearded dragons through impaction and administered oral and topical medications for a Tegu, so trust me when I say: knowing what to look for makes all the difference.
 
 ### Bearded Dragons
 * **Mouth gaping with mucus** — respiratory infection, needs antibiotics immediately
@@ -42,6 +44,8 @@ For species-specific temperature and care requirements, see my [Reptile & Amphib
 
 ## Bird Emergencies
 
+If there's one thing I want you to take away from this section, it's this: birds crash fast. I've seen it happen at the clinic more times than I'd like to remember — a bird comes in looking a little off, and within hours it's a completely different situation. Don't second-guess yourself with birds. If something feels wrong, act on it.
+
 * **Sitting on the bottom of the cage, fluffed up** — birds hide illness until they physically can't perch. This is always urgent
 * **Labored or tail-bobbing breathing** — respiratory distress
 * **Bleeding** — birds have limited blood volume. Even small amounts of bleeding need attention
@@ -51,6 +55,8 @@ For species-specific temperature and care requirements, see my [Reptile & Amphib
 **Important:** Birds deteriorate extremely fast. If your bird looks sick, don't wait until morning — seek emergency care the same day.
 
 ## Small Mammal Emergencies
+
+This is the section closest to my heart. I share my home with four guinea pigs — Milo, Luca, Coco, and Kai — and three rabbits: Puppy Dog, Big Chungus, and Johnny Wohnny. So I'm not just speaking as someone who worked in a clinic. I'm speaking as someone who has personally sat on the floor at midnight checking for droppings and listening for wheezing. These animals are small, and things can go downhill quickly.
 
 ### Guinea Pigs
 * **Not eating for 12+ hours** — GI stasis is life-threatening
@@ -65,6 +71,8 @@ For species-specific temperature and care requirements, see my [Reptile & Amphib
 * **Fly strike** (maggots in soiled fur) — life-threatening, immediate vet care required
 * **Sudden head tilt** — E. cuniculi or inner ear infection
 * **Labored breathing** — pasteurella or other respiratory infection
+
+I also administer subcutaneous RHDV vaccines at House Rabbit Society because protecting rabbits from this virus matters to me on a personal level. Prevention is always better than emergency care.
 
 ### Chinchillas
 * **Heat stroke** (over 80°F) — chinchillas can't tolerate warm temperatures. Cool them with a fan (not water) and get to a vet
@@ -81,7 +89,7 @@ For species-specific temperature and care requirements, see my [Reptile & Amphib
 
 ## Find an Exotic Vet Before You Need One
 
-The worst time to search for an exotic vet is during an emergency. I maintain a [directory of exotic pet veterinarians in San Francisco and the Bay Area](/san-francisco-bay-area-exotic-veterinarians) — save it now so you're prepared.
+Please, please do this before you need to. The worst time to search for an exotic vet is when your pet is already in trouble and you're panicking. I maintain a [directory of exotic pet veterinarians in San Francisco and the Bay Area](/san-francisco-bay-area-exotic-veterinarians) — bookmark it now so you're ready when it counts.
 
 ---
 

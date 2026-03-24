@@ -9,15 +9,13 @@ tags = ["guinea pig care", "guinea pig diet", "guinea pig food", "small mammals"
   priority = 0.7
 +++
 
-One of the most common questions I get from new guinea pig owners is "what should I actually feed them?" Pet stores are full of colorful bags of treats, seed mixes, and yogurt drops — almost none of which belong anywhere near your guinea pig. As an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and owner of four guinea pigs, I've seen firsthand how much a proper diet matters. The right food prevents dental disease, digestive emergencies, and scurvy. The wrong food causes them.
+"What do I actually feed this thing?" — it's the first question every new guinea pig owner asks me, and I get it. Pet stores are full of brightly colored bags promising "gourmet guinea pig food" with dried corn, yogurt drops, and seed mixes. Let me save you some money and some vet bills: almost none of that belongs near your guinea pig. As an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who feeds four very opinionated guinea pigs every day, here's what actually works.
 
 <!--more-->
 
-Here's everything you need to know about feeding your guinea pig well.
-
 ## The Guinea Pig Diet at a Glance
 
-A healthy guinea pig diet is simpler than most people expect:
+A guinea pig diet is way simpler than the pet industry wants you to believe:
 
 * **80% unlimited timothy hay** — always available, never restricted
 * **Guinea pig pellets** — vitamin C fortified, plain (no colorful bits)
@@ -25,17 +23,20 @@ A healthy guinea pig diet is simpler than most people expect:
 * **Fresh water** always available
 * **NO sugary treats** marketed for guinea pigs — yogurt drops, seed sticks, and treat mixes are all junk food
 
-If you get the hay right, you're already most of the way there.
+If you get the hay right, you're already most of the way there. Everything else is fine-tuning.
 
 ## Hay: The Foundation (80% of Diet)
 
-Timothy hay is the single most important food in your guinea pig's life. It should be available 24/7, in unlimited quantities. I refill my pigs' hay racks multiple times a day, and they go through an astonishing amount.
+Timothy hay is the single most important food in your guinea pig's life. It should be available 24/7, unlimited. I refill my pigs' hay racks multiple times a day, and they demolish it. Luca treats his hay rack like an all-you-can-eat buffet — the second I top it off, he's face-first in it.
 
-Hay serves two critical functions. First, guinea pig digestive systems require constant fiber intake to keep moving. A guinea pig that stops eating hay is a guinea pig headed for GI stasis — a life-threatening shutdown of the gut. Second, guinea pig teeth never stop growing. The chewing motion required to grind through hay is what naturally files their teeth down. Without enough hay, teeth overgrow and develop painful spurs that make eating impossible.
+![Luca](/Luca.jpg)
+*Luca, mid-snack. This is his default state.*
 
-**Choosing the right cut:** Second-cut timothy hay is softer and leafier, which makes it a great choice for picky eaters. First-cut has thicker stems and more fiber, which is better for dental wear. I offer both.
+Hay does two critical things. First, guinea pig digestive systems need constant fiber to keep moving. A pig that stops eating hay is headed for GI stasis — a life-threatening shutdown of the gut. I've seen it at the clinic, and it is scary. Second, guinea pig teeth never stop growing. The grinding motion from chewing hay files them down naturally. Without enough hay, teeth overgrow and develop painful spurs that make eating impossible.
 
-**Orchard grass** makes a good supplement or alternative for pigs who turn their nose up at timothy. It's slightly sweeter and softer.
+**Choosing the right cut:** Second-cut timothy hay is softer and leafier — great for picky eaters (looking at you, Coco). First-cut has thicker stems and more fiber, which is better for dental wear. I offer both and let them sort it out.
+
+**Orchard grass** is a good supplement for pigs who turn their nose up at timothy. It's slightly sweeter and softer, and Kai seems to prefer it on his more discerning days.
 
 **A note on alfalfa:** Alfalfa hay is higher in calcium and calories. It's appropriate for baby guinea pigs under 6 months and pregnant or nursing sows, but it should not be fed to healthy adults — excess calcium can contribute to bladder stones.
 
@@ -43,19 +44,24 @@ For high-quality hay delivered to your door, I recommend Small Pet Select on our
 
 ## Pellets: Choose Wisely
 
-Pellets are a supplement, not a main course. Each guinea pig needs about **1/8 cup of pellets per day** — that's it. Overfeeding pellets is one of the most common mistakes I see.
+Pellets are a supplement, not a main course — even though my pigs act like pellets are the main event. Each guinea pig needs about **1/8 cup per day**, and that's it. Overfeeding pellets is one of the most common mistakes I see, and trust me, your pigs will try to convince you they're starving.
 
-Choose **plain, timothy-based pellets** with no added seeds, dried fruit, or colorful bits. My go-to brands are Oxbow Essentials Adult Guinea Pig Food and KMS Hayloft pellets. The muesli-style mixes you see at pet stores (the ones that look like trail mix) are a problem — guinea pigs will pick out the sugary, fatty pieces and leave the nutritious parts behind. It's the equivalent of letting a toddler eat only the marshmallows from a cereal box.
+Choose **plain, timothy-based pellets** with no added seeds, dried fruit, or colorful bits. My go-to brands are Oxbow Essentials Adult Guinea Pig Food and KMS Hayloft pellets. Those muesli-style mixes you see at pet stores — the ones that look like trail mix — are a problem. Guinea pigs will pick out the sugary, fatty pieces and leave the nutritious parts behind. It's the equivalent of letting a toddler eat only the marshmallows from a cereal box.
 
-Pellets should be **fortified with vitamin C**, but be aware that vitamin C degrades over time. Buy small bags and use them within a few months of opening. Check the manufacturing or best-by date.
+Pellets should be **fortified with vitamin C**, but vitamin C degrades over time. Buy small bags and use them within a few months of opening. Check the manufacturing or best-by date.
 
 ## Fresh Vegetables: Daily Essentials
 
-Every guinea pig should get approximately **1 cup of fresh vegetables per day**, offered as a mix of high-vitamin-C options and staple greens.
+This is where my pigs' personalities really come out. Every guinea pig should get approximately **1 cup of fresh vegetables per day**, offered as a mix of high-vitamin-C options and staple greens.
+
+![Milo the guinea pig](/milo.jpeg)
+*Milo hears the vegetable drawer open from two rooms away. Every. Single. Time.*
+
+Milo is obsessed with vegetables in a way that borders on unreasonable. The fridge door opens, the wheeking starts — full volume, no shame. He'd eat bell peppers for every meal if I let him. Luca is right behind him, ready to steal whatever Milo drops. Coco, meanwhile, sniffs everything suspiciously and sometimes decides that today she doesn't like cilantro, even though she devoured it yesterday.
 
 ### High Vitamin C (feed daily)
 
-* **Bell peppers** — red, yellow, and orange varieties have the highest vitamin C content of any common vegetable. A single slice of red bell pepper delivers more vitamin C than most supplements. This is the single best vegetable you can feed.
+* **Bell peppers** — red, yellow, and orange varieties have the highest vitamin C content of any common vegetable. A single slice of red bell pepper delivers more vitamin C than most supplements. This is the single best vegetable you can feed, and it's Milo's reason for living.
 * **Parsley and cilantro** — excellent vitamin C sources and most pigs love them
 * **Kale** — high in vitamin C but also high in calcium, so feed in moderation
 
@@ -69,11 +75,11 @@ Every guinea pig should get approximately **1 cup of fresh vegetables per day**,
 
 * **Cucumber and zucchini** — hydrating but low in nutrition
 * **Carrot** — small amounts only, as carrots are high in sugar
-* **Blueberries and strawberries** — tiny pieces as a rare treat
+* **Blueberries and strawberries** — tiny pieces as a rare treat (Luca will sell his soul for a blueberry, but he gets maybe two a week)
 
 ### Foods to AVOID
 
-Some common foods are dangerous or toxic to guinea pigs:
+This is the non-negotiable list. Some common foods are dangerous or straight-up toxic to guinea pigs:
 
 * **Iceberg lettuce** — causes bloating and diarrhea
 * **Potatoes** — toxic to guinea pigs
@@ -82,11 +88,11 @@ Some common foods are dangerous or toxic to guinea pigs:
 * **Chocolate, dairy, bread, pasta** — guinea pigs are strict herbivores
 * **Any processed human food** — if it came from a box or a bag with a barcode, it's not guinea pig food
 
-When in doubt, don't feed it. Stick with the safe list above and you'll be fine.
+When in doubt, don't feed it. Stick with the safe list above and your pigs will be just fine.
 
 ## Vitamin C: The Critical Nutrient
 
-This is the one nutritional fact every guinea pig owner must understand: **guinea pigs cannot produce their own vitamin C.** They're one of the only mammals that share this trait with humans. Without adequate dietary vitamin C, guinea pigs develop scurvy — and it happens faster than you'd think.
+**Guinea pigs cannot produce their own vitamin C.** They're one of the only mammals that share this trait with humans. Without enough vitamin C, they develop scurvy — and it happens faster than you'd think. I've seen it at the clinic, and it's heartbreaking because it's entirely preventable.
 
 **Signs of vitamin C deficiency include:**
 
@@ -103,25 +109,25 @@ This is the one nutritional fact every guinea pig owner must understand: **guine
 
 **The best sources** are fresh bell peppers and a varied vegetable rotation, supported by vitamin C-fortified pellets. If your pig is a picky eater or recovering from illness, you can supplement directly with Oxbow Natural Science Vitamin C tablets.
 
-**Do NOT add vitamin C drops to their water.** Vitamin C degrades rapidly in water (especially in light), so your pig gets almost none of it. Worse, it changes the taste of the water, and some guinea pigs will drink less as a result — creating a dehydration risk on top of the deficiency.
+**Do NOT add vitamin C drops to their water.** Vitamin C degrades rapidly in water (especially in light), so your pig gets almost none of it. Worse, it changes the taste of the water, and some guinea pigs will drink less as a result — creating a dehydration risk on top of the deficiency. It's a lose-lose.
 
 ## Water
 
-Fresh water should be available at all times via a **water bottle** — not a bowl. Bowls get contaminated with bedding, hay, and droppings within minutes. Guinea pigs typically drink **80-100ml per day**, though this varies with temperature and vegetable intake.
+Fresh water should be available at all times via a **water bottle** — not a bowl. Bowls get contaminated with bedding, hay, and droppings within minutes (ask me how I know). Guinea pigs typically drink **80-100ml per day**, though this varies with temperature and vegetable intake.
 
 Clean the water bottle thoroughly at least once a week, and **check the sipper tip daily** to make sure it's dispensing properly. A stuck sipper is a silent emergency — your pig can't tell you the water isn't coming out.
 
 ## Feeding Schedule
 
-Keeping a consistent routine helps your pigs know what to expect:
+My pigs thrive on routine, and yours will too. Here's what our daily schedule looks like:
 
-* **Hay:** Always available — replenish throughout the day as needed
-* **Pellets:** Once daily, in the morning
-* **Vegetables:** Once or twice daily — I do a morning and evening veggie service
-* **Cleanup:** Remove uneaten fresh vegetables after a few hours to prevent spoilage
+* **Hay:** Always available — I replenish throughout the day as needed
+* **Pellets:** Once daily, in the morning (cue the collective meltdown of excitement)
+* **Vegetables:** Twice daily — morning veggie service and an evening round
+* **Cleanup:** I remove uneaten fresh vegetables after a few hours to prevent spoilage
 
 ## Getting the Diet Right Makes Everything Easier
 
-A proper diet prevents the vast majority of health problems I see in guinea pigs — dental disease, GI stasis, scurvy, obesity, and bladder stones all trace back to nutrition. If you're feeding unlimited hay, measured pellets, a daily cup of varied vegetables, and keeping the water flowing, you're giving your guinea pig the foundation for a long, healthy life.
+A proper diet prevents the vast majority of health problems I see in guinea pigs. Dental disease, GI stasis, scurvy, obesity, bladder stones — they all trace back to nutrition. Unlimited hay, measured pellets, a daily cup of varied vegetables, and fresh water. That's the foundation for a long, healthy life.
 
 For more on guinea pig health, read our [complete guinea pig care guide](/post/guinea-pig-care-guide) and learn to recognize the [signs your guinea pig needs a vet](/post/signs-your-guinea-pig-needs-a-vet). You'll find our recommended hay, pellet, and supply brands on the [small mammal resources page](/small-mammal-resources), and if you're in the San Francisco Bay Area, check out our [exotic pet care services](/services).
