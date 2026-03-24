@@ -35,14 +35,14 @@ For a pair of guinea pigs, you need a minimum of **10.5 square feet** of continu
 **C&C (cubes and coroplast) cages** are the gold standard in the guinea pig world. They're affordable, endlessly customizable, and give your pigs enough room to run, popcorn, and claim their own little territories. You can find quality cage options on our [small mammal resources page](/small-mammal-resources), including Critter Colony cages.
 
 **Inside the cage, you'll want:**
-* At least two hides (one per pig, plus an extra — Coco is a hide hog and will claim two if she can)
+* At least two hides (one per pig, plus an extra — Coco is a hide hog and will claim two if he can)
 * A hay rack or hay bag to keep timothy hay off the floor
 * A water bottle with a sipper tube (check it daily for clogs)
 * A heavy ceramic food bowl for pellets and veggies
 * Fleece tunnels or bridges for enrichment
 
 ![Coco](/Coco.jpg)
-*Coco in her favorite hide. Yes, she has three. No, she doesn't share.*
+*Coco in his favorite hide. Yes, he has three. No, he doesn't share.*
 
 For a complete walkthrough of setting up your first cage, see our [cage setup guide](/post/guinea-pig-cage-setup).
 

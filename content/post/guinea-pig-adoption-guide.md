@@ -17,7 +17,7 @@ I still remember spotting Milo and Luca on the SFACC website and immediately dec
 
 Okay, I'm biased, but guinea pigs are hands-down the most underrated pets out there. These aren't the "starter pets" people make them out to be — they're genuinely affectionate, hilarious little animals who will absolutely steal your heart.
 
-Milo wheeks like a fire alarm the second he hears the refrigerator door open. Luca does this dramatic slow-blink thing when he's content in my lap. Coco is the diva of the group — she has strong opinions about which vegetables are acceptable and will literally turn her back on you if you offer the wrong lettuce. And Kai? He's the gentle giant, the peacemaker, always snuggled up against whoever seems to need it most.
+Milo wheeks like a fire alarm the second he hears the refrigerator door open. Luca does this dramatic slow-blink thing when he's content in my lap. Coco is the diva of the group — he has strong opinions about which vegetables are acceptable and will literally turn his back on you if you offer the wrong lettuce. And Kai? He's the gentle giant, the peacemaker, always snuggled up against whoever seems to need it most.
 
 ![Milo the guinea pig](/milo.jpeg)
 *Milo on the day I brought him home — already judging my vegetable choices.*
@@ -76,7 +76,7 @@ I'm going to be honest with you: your new guinea pigs will be absolutely terrifi
 **Days 5-7:** Try gentle hand-feeding inside the cage. If they approach you, let them sniff your hand. Whatever you do, don't grab from above — that mimics a predator and will set your trust-building way back.
 
 ![Coco](/Coco.jpg)
-*Coco being her fabulous self. She did NOT trust me for the first two weeks and now she falls asleep in my lap.*
+*Coco being his fabulous self. He did NOT trust me for the first two weeks and now he falls asleep in my lap.*
 
 And if you see your guinea pig suddenly launch into the air, twist, and kick — don't panic! That's called "popcorning," and it means they're genuinely happy. The first time Milo popcorned, I almost cried. It's the most joyful thing you'll ever see a pet do.
 

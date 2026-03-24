@@ -9,7 +9,7 @@
 			<div class="col-sm-8 col-sm-offset-2">
 
         {{ range .Paginator.Pages }}
-				<article class="post">
+				<article class="post blog-card">
 					<header class="entry-header">
 						<div class="entry-meta">
                <span class="posted-on">
@@ -18,13 +18,16 @@
                   </time>
                </span>
 						</div>
-						<h1 class="entry-title">
+						<h2 class="entry-title">
 						  <a href="{{ .Permalink }}" rel="bookmark">{{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</a>
-						</h1>
+						</h2>
 					</header>
 					<div class="entry-content">
-						{{ .Content }}
+						<p>{{ .Summary | plainify | truncate 200 }}</p>
 					</div>
+					<footer class="entry-footer">
+						<a href="{{ .Permalink }}" class="btn btn-primary btn-sm">Read More</a>
+					</footer>
 				</article>
         {{ end }}
 			</div>

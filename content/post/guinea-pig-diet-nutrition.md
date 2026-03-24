@@ -57,7 +57,7 @@ This is where my pigs' personalities really come out. Every guinea pig should ge
 ![Milo the guinea pig](/milo.jpeg)
 *Milo hears the vegetable drawer open from two rooms away. Every. Single. Time.*
 
-Milo is obsessed with vegetables in a way that borders on unreasonable. The fridge door opens, the wheeking starts — full volume, no shame. He'd eat bell peppers for every meal if I let him. Luca is right behind him, ready to steal whatever Milo drops. Coco, meanwhile, sniffs everything suspiciously and sometimes decides that today she doesn't like cilantro, even though she devoured it yesterday.
+Milo is obsessed with vegetables in a way that borders on unreasonable. The fridge door opens, the wheeking starts — full volume, no shame. He'd eat bell peppers for every meal if I let him. Luca is right behind him, ready to steal whatever Milo drops. Coco, meanwhile, sniffs everything suspiciously and sometimes decides that today he doesn't like cilantro, even though he devoured it yesterday.
 
 ### High Vitamin C (feed daily)
 

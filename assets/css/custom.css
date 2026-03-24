@@ -289,6 +289,44 @@ details summary:hover {
   color: var(--color-primary-dark) !important;
 }
 
+/* --- Blog Listing Cards --- */
+.blog-card {
+  background: var(--color-card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 24px 28px;
+  margin-bottom: 24px;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.blog-card:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-2px);
+}
+
+.blog-card .entry-title {
+  font-size: 22px !important;
+  margin-bottom: 8px !important;
+  margin-top: 4px !important;
+}
+
+.blog-card .entry-meta {
+  font-size: 13px;
+  color: var(--color-text-light);
+  margin-bottom: 4px;
+}
+
+.blog-card .entry-content p {
+  font-size: 15px !important;
+  color: var(--color-text-light) !important;
+  margin-bottom: 12px !important;
+  line-height: 1.6 !important;
+}
+
+.blog-card .entry-footer {
+  margin-top: 8px;
+}
+
 details[open] summary {
   margin-bottom: 10px;
 }
