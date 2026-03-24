@@ -23,7 +23,7 @@
 						</h2>
 					</header>
 					<div class="entry-content">
-						<p>{{ .Summary | plainify | truncate 200 }}</p>
+						<p>{{ .Summary | plainify | htmlUnescape | truncate 200 }}</p>
 					</div>
 					<footer class="entry-footer">
 						<a href="{{ .Permalink }}" class="btn btn-primary btn-sm">Read More</a>
