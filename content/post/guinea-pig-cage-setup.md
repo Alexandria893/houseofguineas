@@ -62,7 +62,7 @@ Every guinea pig cage needs these basics, and I learned some of them the messy w
 - **Tunnel or bridge** — A simple cardboard tunnel or wooden bridge gives your pigs something to explore, hide in, and sprint through at top speed. Enrichment matters more than people realize.
 
 ![Kai](/Kai.jpg)
-*Kai showing off the setup — and yes, she has opinions about where everything goes.*
+*Kai showing off the setup — and yes, he has opinions about where everything goes.*
 
 ### Nice-to-Have Extras
 
