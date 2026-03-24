@@ -144,6 +144,20 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
   </div>
 </details>
 
+<details class="faq-details">
+  <summary class="faq-summary">Do you board guinea pigs? What does guinea pig boarding include?</summary>
+  <div class="faq-answer">
+    <p>Yes! Guinea pig boarding is $75/night and includes unlimited fresh hay, species-appropriate pellets and vegetables, daily enclosure cleaning, and health monitoring. As a guinea pig owner myself and a trained <a href="/san-francisco-california-exotic-veterinary-experience">exotic veterinary assistant</a>, I watch for early signs of GI stasis, respiratory distress, bumblefoot, and dental issues. Your guinea pig gets their own room with soothing music. Please bring their enclosure, bedding (or try our <a href="/clinical-series-guinea-pig-fleece-cage-liners">Clinical Series fleece liners</a>), food, and supplies.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">I just adopted a guinea pig — do you have care resources?</summary>
+  <div class="faq-answer">
+    <p>Congratulations! Guinea pigs are wonderful companions. I recommend starting with our <a href="/post/guinea-pig-care-guide">Complete Guinea Pig Care Guide</a> which covers housing, diet, health, and bedding. For bedding specifically, check out our <a href="/clinical-series-guinea-pig-fleece-cage-liners">Clinical Series fleece cage liners</a> — the healthiest, most cost-effective bedding option. You can also browse our <a href="/small-mammal-resources">Small Pet Resources</a> page for recommended cages, hay, and supplies. And if you ever need a guinea pig sitter in San Francisco, that's what we do best!</p>
+  </div>
+</details>
+
 <div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
   <p style="font-size: 1.1em;"><strong>Ready to create your perfect care plan?</strong></p>
   <p>
@@ -251,6 +265,22 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Pet care over a holiday is 1.5x the regular rate. Any sits scheduled within 7 days of the needed care over a holiday include a non-refundable $150 holiday surcharge in addition to applicable service fees. Holiday care is often booked months in advance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you board guinea pigs? What does guinea pig boarding include?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! Guinea pig boarding is $75/night and includes unlimited fresh hay, species-appropriate pellets and vegetables, daily enclosure cleaning, and health monitoring. As a guinea pig owner and trained exotic veterinary assistant, we watch for early signs of GI stasis, respiratory distress, bumblefoot, and dental issues. Your guinea pig gets their own room with soothing music."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I just adopted a guinea pig — do you have care resources?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! Start with our Complete Guinea Pig Care Guide which covers housing, diet, health, and bedding. For bedding, check out our Clinical Series fleece cage liners — the healthiest, most cost-effective option. Browse our Small Pet Resources page for recommended cages, hay, and supplies. And if you ever need a guinea pig sitter in San Francisco, that's what we do best."
       }
     }
   ]

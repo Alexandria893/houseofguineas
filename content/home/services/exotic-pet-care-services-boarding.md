@@ -2,7 +2,7 @@
 type = "services"
 title = "Exotic Pet Boarding San Francisco | House of Guineas"
 shortTitle = "Exotic Pet Boarding"
-description = "Exotic pet boarding in San Francisco — reptile boarding, bird boarding and small mammal boarding. Your pet gets their own room with soothing music. $75/night."
+description = "Exotic pet boarding in San Francisco — guinea pig boarding, rabbit boarding, reptile boarding, bird boarding and small mammal boarding. Your pet gets their own room with soothing music. $75/night."
 weight = 3
 [menu.main]
   parent = "rates"

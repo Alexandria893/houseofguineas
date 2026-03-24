@@ -76,4 +76,4 @@ Guinea pigs decline quickly. If something feels off, don't wait — call an [exo
 
 ---
 
-*Need someone who understands guinea pig health to care for your pets while you're away? Learn about our [in-home exotic pet sitting](/home/services/exotic-pet-care-services-in-home) and [boarding services](/home/services/exotic-pet-care-services-boarding) in San Francisco. Browse our [Small Pet Resources](/small-mammal-resources) for more care recommendations.*
+*Need someone who understands guinea pig health to care for your pets while you're away? Learn about our [in-home exotic pet sitting](/home/services/exotic-pet-care-services-in-home) and [boarding services](/home/services/exotic-pet-care-services-boarding) in San Francisco. New to guinea pigs? Read our [Complete Guinea Pig Care Guide](/post/guinea-pig-care-guide). Compare bedding options in [Fleece Liners vs Disposable Bedding](/post/guinea-pig-fleece-liners-vs-disposable-bedding). Browse our [Small Pet Resources](/small-mammal-resources) for more care recommendations.*

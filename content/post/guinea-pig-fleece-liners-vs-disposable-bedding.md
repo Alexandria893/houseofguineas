@@ -152,4 +152,4 @@ If you're ready to make the switch, check out our [Clinical Series Fleece Cage L
 
 ---
 
-*Have questions about guinea pig bedding or care? Browse our [Small Pet Resources](/small-mammal-resources) for more recommendations on housing, hay, and supplies. Need a guinea pig sitter in San Francisco? Learn about our [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home).*
+*Have questions about guinea pig bedding or care? Read our [Complete Guinea Pig Care Guide](/post/guinea-pig-care-guide) for everything from housing to diet. Learn the [5 warning signs your guinea pig needs a vet](/post/signs-your-guinea-pig-needs-a-vet). Browse our [Small Pet Resources](/small-mammal-resources) for recommended cages, hay, and supplies. Need a guinea pig sitter in San Francisco? Learn about our [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home).*
