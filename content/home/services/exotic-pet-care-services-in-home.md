@@ -47,6 +47,8 @@ From precise [reptile habitat management](/reptile-amphibian-care-guide) and avi
 ## Location & Service Areas
 We provide in-home exotic pet sitting across San Francisco and the Peninsula (Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City, and surrounding areas) — from the Inner Sunset, Outer Sunset and Parkside to Pacific Heights, the Marina and SOMA. Whether you're in Cole Valley, Noe Valley, the Castro, the Mission District, Haight-Ashbury, the Richmond District or Forest Hill, we'll come to your pet's home.
 
+Peninsula residents — see our dedicated pages for [Burlingame](/burlingame-exotic-pet-sitter/), [San Mateo](/san-mateo-exotic-pet-sitter/), and [Foster City](/foster-city-exotic-pet-sitter/) exotic pet care.
+
 * Additional travel rates **start at $15/visit** (rates depend on our specialists' availability and your location) if you're outside the [primary travel area.](/home/services/faqs/#service-areas)
 
 {{< travel-zone-map >}}

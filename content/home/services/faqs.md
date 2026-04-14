@@ -189,6 +189,14 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
     },
     {
       "@type": "Question",
+      "name": "Do you serve the Peninsula — Burlingame, San Mateo, Foster City, or Millbrae?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Our team of exotic pet specialists provides in-home care throughout the Peninsula, including Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City, Belmont, and San Carlos. We care for rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles (bearded dragons, geckos, snakes, turtles), and birds (parrots, cockatiels, conures, budgies). Travel rates vary depending on location and specialist availability — contact us at 415-484-6493 for a custom quote. Peninsula clients are also welcome to drop off pets for boarding at our San Francisco location."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Do you offer boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
