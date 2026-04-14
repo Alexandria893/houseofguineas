@@ -55,6 +55,15 @@
     "longitude": "-122.4668"
   },
   "areaServed": [
+    {"@type": "City", "name": "San Francisco", "containedInPlace": {"@type": "AdministrativeArea", "name": "San Francisco County, CA"}},
+    {"@type": "City", "name": "Burlingame", "containedInPlace": {"@type": "AdministrativeArea", "name": "San Mateo County, CA"}},
+    {"@type": "City", "name": "San Mateo", "containedInPlace": {"@type": "AdministrativeArea", "name": "San Mateo County, CA"}},
+    {"@type": "City", "name": "Millbrae", "containedInPlace": {"@type": "AdministrativeArea", "name": "San Mateo County, CA"}},
+    {"@type": "City", "name": "Hillsborough", "containedInPlace": {"@type": "AdministrativeArea", "name": "San Mateo County, CA"}},
+    {"@type": "City", "name": "Foster City", "containedInPlace": {"@type": "AdministrativeArea", "name": "San Mateo County, CA"}},
+    {"@type": "City", "name": "Redwood City", "containedInPlace": {"@type": "AdministrativeArea", "name": "San Mateo County, CA"}},
+    {"@type": "City", "name": "Belmont", "containedInPlace": {"@type": "AdministrativeArea", "name": "San Mateo County, CA"}},
+    {"@type": "City", "name": "San Carlos", "containedInPlace": {"@type": "AdministrativeArea", "name": "San Mateo County, CA"}},
     "Inner Sunset",
     "Outer Sunset",
     "Richmond District",
@@ -168,11 +177,16 @@
     "@type": "LocalBusiness",
     "@id": "{{ .Site.BaseURL }}#localbusiness"
   },
-  "areaServed": {
-    "@type": "City",
-    "name": "San Francisco",
-    "addressRegion": "CA"
-  }{{ with .Params.price }},
+  "areaServed": [
+    {"@type": "City", "name": "San Francisco", "addressRegion": "CA"},
+    {"@type": "City", "name": "Burlingame", "addressRegion": "CA"},
+    {"@type": "City", "name": "San Mateo", "addressRegion": "CA"},
+    {"@type": "City", "name": "Millbrae", "addressRegion": "CA"},
+    {"@type": "City", "name": "Hillsborough", "addressRegion": "CA"},
+    {"@type": "City", "name": "Foster City", "addressRegion": "CA"},
+    {"@type": "City", "name": "Redwood City", "addressRegion": "CA"},
+    {"@type": "AdministrativeArea", "name": "San Mateo County, CA"}
+  ]{{ with .Params.price }},
   "offers": {
     "@type": "Offer",
     "price": "{{ . | replaceRE `[^0-9.]` `` }}",

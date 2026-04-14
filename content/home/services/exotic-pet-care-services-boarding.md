@@ -1,8 +1,8 @@
 +++
 type = "services"
-title = "Exotic Pet Boarding San Francisco | House of Guineas"
+title = "Exotic Pet Boarding San Francisco & Peninsula | House of Guineas"
 shortTitle = "Exotic Pet Boarding"
-description = "Exotic pet boarding in San Francisco — guinea pig boarding, rabbit boarding, reptile boarding, bird boarding and small mammal boarding. Your pet gets their own room with soothing music. $75/night."
+description = "Exotic pet boarding in San Francisco — guinea pig boarding, rabbit boarding, chinchilla boarding, reptile boarding, bird boarding and small mammal boarding. Welcoming clients across the Bay Area and Peninsula. Your pet gets their own room with soothing music. $75/night."
 weight = 3
 [menu.main]
   parent = "rates"
@@ -27,18 +27,20 @@ Your pet gets their own room with soothing music — **$75/night** for **Reptile
 
 ## Exotic Pet Boarding in San Francisco
 
-Changes in your pet’s environment can cause discomfort and stress. With that said, I understand that there are times where their home may not be the best option while you are away. As a trained [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), I will work with you to make sure their home-away-from-home is the next best thing.
+Changes in your pet's environment can cause discomfort and stress. With that said, I understand that there are times where their home may not be the best option while you are away. As a trained [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), I will work with you to make sure their home-away-from-home is the next best thing.
 
-Whether you need reptile boarding, bird boarding, or small mammal boarding in San Francisco, your pet will receive the same species-specific, professional care I provide during [in-home visits](/home/services/exotic-pet-care-services-in-home). I serve pet owners across the city — from the Inner Sunset and Richmond District to Noe Valley, the Castro, Pacific Heights, the Marina, SOMA, and beyond.
+I welcome clients from across the Bay Area — whether you're local to San Francisco or traveling in from the Peninsula (Burlingame, San Mateo, and beyond), you can drop your pet off with me for dedicated, professional boarding.
+
+Whether you need rabbit boarding, guinea pig boarding, chinchilla boarding, ferret boarding, hamster boarding, reptile boarding (bearded dragons, geckos, snakes, turtles, tortoises), bird boarding (parrots, cockatiels, conures, budgies), or small mammal boarding, your pet will receive the same species-specific, professional care I provide during [in-home visits](/home/services/exotic-pet-care-services-in-home). Boarding is hosted at my San Francisco location and I welcome drop-offs from clients across the city and the Peninsula — from the Inner Sunset and Richmond District to Noe Valley, the Castro, Pacific Heights, the Marina, SOMA, Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, and beyond.
 
 * **Nightly Rate**: $75/night <!-- previously $65 per night as of 12/25 change to clients before 1/1/26 on 9/26-->
 
-### What’s Included
+### What's Included
 
 * **Their own room** with soothing music played as they become acclimated during their stay
-* **Species-specific feeding** on your pet’s regular schedule, including live insects, fresh greens, hay, pellets, and supplements as needed
-* **Habitat monitoring** — I check temperatures, humidity, UVB lighting, and water quality throughout the day to match your pet’s home environment
-* **Daily updates** with photos and notes on your pet’s behavior, appetite, and well-being
+* **Species-specific feeding** on your pet's regular schedule, including live insects, fresh greens, hay, pellets, and supplements as needed
+* **Habitat monitoring** — I check temperatures, humidity, UVB lighting, and water quality throughout the day to match your pet's home environment
+* **Daily updates** with photos and notes on your pet's behavior, appetite, and well-being
 * **Medication administration** if needed — oral, topical, or subcutaneous injections as prescribed by your veterinarian
 
 <details class="care-details" style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
@@ -70,7 +72,7 @@ Guinea pigs, rabbits, chinchillas, ferrets, and other small mammals receive unli
 
 ### What Do I Need for Boarding?
 
-We will discuss a plan together to make sure your pet(s) feel as safe and comfortable as possible.
+I'll discuss a plan with you to make sure your pet(s) feel as safe and comfortable as possible.
 
 * Please bring any **enclosures, bedding, food and supplies** your pet needs to feel at home when you drop them off
 * A meet and greet is **required for first-time clients** and your pet must be up-to-date with all vaccinations by the first visit

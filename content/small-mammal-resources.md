@@ -8,7 +8,7 @@ description = "Guinea pig fleece cage liners, C&C cages and premium hay. Shop Cl
   priority = 0.8
 +++
 
-Discover House of Guinea's patent pending Clinical Series fleece cage liners — the best guinea pig bedding for health-conscious pet parents — along with my favorite, trusted resources for high-quality housing and food for your small pets. Whether it's a popcorning guinea or a teleporting chinchilla, I recommend these products to ensure your companions live a happy, healthy and enriched life.
+Discover House of Guinea's patent pending Clinical Series fleece cage liners — the best guinea pig bedding for health-conscious pet parents — along with our favorite, trusted resources for high-quality housing and food for your small pets. Whether it's a popcorning guinea or a teleporting chinchilla, we recommend these products to ensure your companions live a happy, healthy and enriched life.
 
 ---
 <style>
@@ -37,7 +37,7 @@ Discover House of Guinea's patent pending Clinical Series fleece cage liners —
   <h2>Invest in Your Guinea Pig's Health</h2>
   <h3>House of Guineas Clinical Series Fleece Cage Liners (Patent Pending)</h3>
   <p>
-   I want to make sure our little guineas stay as healthy as they can be, and this starts with the right guinea pig bedding in their main housing.
+   We want to make sure our little guineas stay as healthy as they can be, and this starts with the right guinea pig bedding in their main housing.
 
    Stop buying separate fleece liners, pee pads, and waterproof bases. The Clinical Series is the only **all-in-one guinea pig fleece liner** — every layer is built into a single product. The entire fabric is medical-grade and antimicrobial, with silver ion technology throughout that neutralizes ammonia and wicks moisture away from your pet's skin. A safer, more cost-effective alternative to disposable **guinea pig bedding** and multi-piece fleece setups.
   </p>

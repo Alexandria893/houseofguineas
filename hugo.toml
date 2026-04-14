@@ -1,6 +1,6 @@
 baseURL = 'https://houseofguineas.com'
 languageCode = 'en-us'
-title = 'House of Guineas: San Francisco Exotic Pet Care'
+title = 'House of Guineas: San Francisco & Peninsula Exotic Pet Care'
 theme = 'hugo-initio'
 style = 'default'
 enableGitInfo = true
@@ -21,11 +21,11 @@ enableGitInfo = true
       
 [params]
 name = "House of Guineas Pet Care"
-description = "San Francisco's Exotic Pet Professional"
+description = "San Francisco & Peninsula's Exotic Pet Professionals"
 email = "houseofguineas@gmail.com"
 phone = "415-484-6493"
 # address = "San Francisco, CA"
-address = "San Francisco's Exotic Pet Professional serving Inner Sunset, Richmond District, Cole Valley, Haight-Ashbury, and surrounding neighborhoods."
+address = "San Francisco & Peninsula's exotic pet specialists — in-home care across SF, Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City and surrounding areas. Boarding hosted in San Francisco."
 avatar = "prof.jpeg"
 avatarclass = "circle"
 background = ""
