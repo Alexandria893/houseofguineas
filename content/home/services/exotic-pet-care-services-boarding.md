@@ -1,5 +1,6 @@
 +++
 type = "services"
+aliases = ["/home/services/service2/"]
 title = "Exotic Pet Boarding San Francisco & Peninsula | House of Guineas"
 shortTitle = "Exotic Pet Boarding"
 description = "Exotic pet boarding in San Francisco — guinea pig boarding, rabbit boarding, chinchilla boarding, reptile boarding, bird boarding and small mammal boarding. Welcoming clients across the Bay Area and Peninsula. Your pet gets their own room with soothing music. $75/night."

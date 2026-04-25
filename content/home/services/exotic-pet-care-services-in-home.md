@@ -1,5 +1,6 @@
 +++
 type = "services"
+aliases = ["/home/services/service1/"]
 title = "Reptile & Exotic Pet Sitting in San Francisco & Peninsula | In-Home Care"
 shortTitle = "In-Home Pet Sitting"
 description = "In-home exotic pet care in San Francisco & the Peninsula — guinea pig, rabbit, chinchilla, reptile, bird, and small mammal visits. Our team of exotic pet specialists comes to your home."
