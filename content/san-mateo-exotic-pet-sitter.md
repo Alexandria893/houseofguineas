@@ -100,7 +100,7 @@ If you'd prefer drop-off boarding instead of in-home visits, our [boarding servi
 <details class="faq-details">
   <summary class="faq-summary">Do you travel to San Mateo for exotic pet visits?</summary>
   <div class="faq-answer">
-    <p>Yes. San Mateo is part of our active Peninsula service area — our team of exotic pet specialists travels down from San Francisco via the 101 and 280 corridors to cover neighborhoods from Aragon and Baywood Park through Hillsdale, Bay Meadows, Hayward Park, and Shoreview. Travel surcharge varies depending on our specialists' availability and your specific location within San Mateo. <a href="tel:415-484-6493">Text or call us at 415-484-6493</a> for a custom quote.</p>
+    <p>Yes. Our team travels from San Francisco to San Mateo via the 101 and 280 corridors. We serve neighborhoods across San Mateo including Aragon, Baywood Park, Hillsdale, Bay Meadows, Hayward Park, and Shoreview. Travel surcharge varies depending on our specialists' availability and your specific location within San Mateo. <a href="tel:415-484-6493">Text or call us at 415-484-6493</a> for a custom quote.</p>
   </div>
 </details>
 
@@ -114,14 +114,14 @@ If you'd prefer drop-off boarding instead of in-home visits, our [boarding servi
 <details class="faq-details">
   <summary class="faq-summary">How do you coordinate with local exotic vets in San Mateo?</summary>
   <div class="faq-answer">
-    <p>We know the Peninsula's exotic vet landscape well. Many of our San Mateo clients are established with <strong>All Pets Hospital</strong> in San Mateo, <strong>Peninsula Pet Hospital</strong> in Burlingame, or <strong>Adobe Animal Hospital</strong> in Los Altos. During the meet-and-greet we record your preferred vet, authorization preferences, and emergency contacts. If something comes up mid-trip, we communicate directly with the clinic and keep you in the loop. More on the broader regional network is on our <a href="/san-francisco-bay-area-exotic-veterinarians">Bay Area exotic veterinarians</a> page.</p>
+    <p>We know the Peninsula's exotic vet landscape well. San Mateo exotic pet owners are often established with <strong>All Pets Hospital</strong> in San Mateo, <strong>Peninsula Pet Hospital</strong> in Burlingame, or <strong>Adobe Animal Hospital</strong> in Los Altos. During the meet-and-greet we record your preferred vet, authorization preferences, and emergency contacts. If something comes up mid-trip, we communicate directly with the clinic and keep you in the loop. More on the broader regional network is on our <a href="/san-francisco-bay-area-exotic-veterinarians">Bay Area exotic veterinarians</a> page.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What species of exotic pets have you cared for in San Mateo?</summary>
   <div class="faq-answer">
-    <p>Across San Mateo clients we've cared for rabbits (single and bonded pairs), guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, leopard and crested geckos, ball pythons, corn snakes, turtles, tortoises, parrots, cockatiels, conures, and budgies. If you'd like to see more detail on what species-specific care looks like, our <a href="/post/guinea-pig-care-guide">guinea pig care guide</a> and <a href="/post/rabbit-care-guide-bay-area">Bay Area rabbit care guide</a> are good starting points.</p>
+    <p>Our team has experience caring for rabbits (single and bonded pairs), guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, leopard and crested geckos, ball pythons, corn snakes, turtles, tortoises, parrots, cockatiels, conures, and budgies. If you'd like to see more detail on what species-specific care looks like, our <a href="/post/guinea-pig-care-guide">guinea pig care guide</a> and <a href="/post/rabbit-care-guide-bay-area">Bay Area rabbit care guide</a> are good starting points.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to set up care? [Call or text us at 415-484-6493](tel:415-484-6493) and we
       "name": "Do you travel to San Mateo for exotic pet visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. San Mateo is part of our active Peninsula service area — our team of exotic pet specialists travels down from San Francisco via the 101 and 280 corridors to cover neighborhoods from Aragon and Baywood Park through Hillsdale, Bay Meadows, Hayward Park, and Shoreview. Travel surcharge varies depending on our specialists' availability and your specific location within San Mateo. Text or call us at 415-484-6493 for a custom quote."
+        "text": "Yes. Our team travels from San Francisco to San Mateo via the 101 and 280 corridors. We serve neighborhoods across San Mateo including Aragon, Baywood Park, Hillsdale, Bay Meadows, Hayward Park, and Shoreview. Travel surcharge varies depending on our specialists' availability and your specific location within San Mateo. Text or call us at 415-484-6493 for a custom quote."
       }
     },
     {
@@ -162,7 +162,7 @@ Ready to set up care? [Call or text us at 415-484-6493](tel:415-484-6493) and we
       "name": "How do you coordinate with local exotic vets in San Mateo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We know the Peninsula's exotic vet landscape well. Many of our San Mateo clients are established with All Pets Hospital in San Mateo, Peninsula Pet Hospital in Burlingame, or Adobe Animal Hospital in Los Altos. During the meet-and-greet we record your preferred vet, authorization preferences, and emergency contacts. If something comes up mid-trip, we communicate directly with the clinic and keep you in the loop."
+        "text": "We know the Peninsula's exotic vet landscape well. San Mateo exotic pet owners are often established with All Pets Hospital in San Mateo, Peninsula Pet Hospital in Burlingame, or Adobe Animal Hospital in Los Altos. During the meet-and-greet we record your preferred vet, authorization preferences, and emergency contacts. If something comes up mid-trip, we communicate directly with the clinic and keep you in the loop."
       }
     },
     {
@@ -170,7 +170,7 @@ Ready to set up care? [Call or text us at 415-484-6493](tel:415-484-6493) and we
       "name": "What species of exotic pets have you cared for in San Mateo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Across San Mateo clients we've cared for rabbits (single and bonded pairs), guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, leopard and crested geckos, ball pythons, corn snakes, turtles, tortoises, parrots, cockatiels, conures, and budgies."
+        "text": "Our team has experience caring for rabbits (single and bonded pairs), guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, leopard and crested geckos, ball pythons, corn snakes, turtles, tortoises, parrots, cockatiels, conures, and budgies."
       }
     },
     {

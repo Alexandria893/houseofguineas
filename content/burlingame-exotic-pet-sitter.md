@@ -15,7 +15,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team
 
 ## Why Burlingame Exotic Pet Owners Choose Our Team
 
-Burlingame is a town full of people who sweat the details — tech professionals, clinicians, educators, designers — and the feedback we hear is that they want a sitter who approaches exotic pet care with the same rigor they bring to their own work. Here is what sets us apart:
+Burlingame is a town full of people who sweat the details — tech professionals, clinicians, educators, designers — and what exotic pet owners tell us they need is a sitter who approaches exotic pet care with the same rigor they bring to their own work. Here is what sets us apart:
 
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society in Richmond, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
 - **Species specialization.** We do not sit dogs and cats. This is all we do — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
@@ -32,7 +32,7 @@ If your species is not listed, [call or text us](tel:415-484-6493) — if we hav
 
 ## How It Works in Burlingame
 
-We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For Burlingame clients, this usually happens on a weekend or after-work window that fits Caltrain schedules and the walk-home-from-Burlingame-Avenue-dinner rhythm most of our clients run on.
+We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For Burlingame pet owners, this usually happens on a weekend or after-work window that fits Caltrain schedules and the walk-home-from-Burlingame-Avenue-dinner rhythm most residents run on.
 
 Once you book, we schedule visits around your travel itinerary. Most exotic pets do well with twice-daily visits — morning and evening — so you can get a fresh salad into the rabbits before work and a proper lights-out check on the reptile enclosure after dinner. We send photo and video updates from every visit, plus written notes on appetite, output, and behavior. If something seems off, we reach out before you land.
 
@@ -84,7 +84,7 @@ Burlingame falls within our Peninsula service tier, which means a travel surchar
 <details class="faq-details">
   <summary class="faq-summary">Do you really travel to Burlingame for exotic pet care?</summary>
   <div class="faq-answer">
-    <p>Yes. Our team of exotic pet specialists is based in San Francisco, and Burlingame is one of our regular Peninsula stops. We are on the 101 and 280 corridors several times a week covering clients from Millbrae down through Redwood City, and Burlingame — thanks to its proximity to SFO — is one of our highest-demand neighborhoods.</p>
+    <p>Yes. Our team travels from San Francisco to Burlingame via the 101 and 280 corridors. Burlingame's proximity to SFO makes it one of the most common Peninsula requests we receive.</p>
   </div>
 </details>
 
@@ -130,7 +130,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you really travel to Burlingame for exotic pet care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Our team of exotic pet specialists is based in San Francisco, and Burlingame is one of our regular Peninsula stops. We are on the 101 and 280 corridors several times a week covering clients from Millbrae down through Redwood City, and Burlingame — thanks to its proximity to SFO — is one of our highest-demand neighborhoods."
+        "text": "Yes. Our team travels from San Francisco to Burlingame via the 101 and 280 corridors. Burlingame's proximity to SFO makes it one of the most common Peninsula requests we receive."
       }
     },
     {
