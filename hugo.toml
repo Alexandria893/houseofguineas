@@ -22,7 +22,7 @@ enableGitInfo = true
 [params]
 name = "House of Guineas Pet Care"
 description = "San Francisco & Peninsula's Exotic Pet Professionals"
-email = "petcare.houseofguineas@gmail.com"
+email = "petcare@houseofguineas.com"
 phone = "415-484-6493"
 # address = "San Francisco, CA"
 address = "San Francisco & Peninsula's exotic pet specialists — in-home care across SF, Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City and surrounding areas. Boarding hosted in San Francisco."
@@ -113,7 +113,7 @@ network = "linkedin"
 
 [[params.social]]
 title = "email"
-url = "mailto:petcare.houseofguineas@gmail.com"
+url = "mailto:petcare@houseofguineas.com"
 icon = "fa-regular fa-envelope"
 footer = false
 sharethis = false

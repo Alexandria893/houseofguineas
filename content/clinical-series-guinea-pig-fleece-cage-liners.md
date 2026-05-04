@@ -217,7 +217,7 @@ With proper care, each liner pair lasts **6+ years**.
 <details style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
   <summary style="font-weight: bold; cursor: pointer;">What size C&C cage do they fit?</summary>
   <div style="padding-top: 0.75rem;">
-    <p>Our liners are sized for standard C&C cage configurations — the most popular guinea pig housing recommended by rescue organizations. If you have a custom setup, <a href="mailto:petcare.houseofguineas@gmail.com">contact us</a> and we can discuss options.</p>
+    <p>Our liners are sized for standard C&C cage configurations — the most popular guinea pig housing recommended by rescue organizations. If you have a custom setup, <a href="mailto:petcare@houseofguineas.com">contact us</a> and we can discuss options.</p>
   </div>
 </details>
 
