@@ -7,83 +7,71 @@ og_image = "milo.jpeg"
   priority = 0.9
 +++
 
-Specialized care for the pets most sitters won't touch — rabbits, guinea pigs, chinchillas, reptiles, and birds. Veterinary-trained, exotic-only, and built around the rhythms of how these animals actually live.
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin: 40px 0;">
-
-<div style="background: #fff; border-radius: 12px; padding: 32px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-
-### In-Home Pet Sitting
-
-Our team travels to your home — across San Francisco and the Peninsula. Your pet stays in their own space, on their own schedule, with someone trained to actually understand them.
-
-<p style="font-size: 28px; font-weight: 700; color: #6B8F71; margin: 24px 0 4px;">From $85<span style="font-size: 18px; font-weight: 400; color: #999;"> / visit</span></p>
-<p style="font-size: 14px; color: #666; margin: 0 0 24px;">30-min visits start at $85 · 60-min from $115 · Daily routines $140–$190</p>
-
-**Includes:** species-specific feeding, medication administration (oral, topical, subcutaneous), enrichment, habitat checks, photo/video updates, light home care.
-
-<p style="margin-top: 24px;"><a href="/home/services/exotic-pet-care-services-in-home/" class="btn btn-cta-primary">View In-Home Details →</a></p>
-
-</div>
-
-<div style="background: #fff; border-radius: 12px; padding: 32px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-
-### Boarding
-
-Hosted personally by our founder Alexandria at our San Francisco location. Your pet gets their own room with soothing music. Drop-offs welcomed from across the Bay Area and Peninsula.
-
-<p style="font-size: 28px; font-weight: 700; color: #6B8F71; margin: 24px 0 4px;">$75<span style="font-size: 18px; font-weight: 400; color: #999;"> / night</span></p>
-<p style="font-size: 14px; color: #666; margin: 0 0 24px;">Meet-and-greet required for first-time clients · Bring your pet's own supplies</p>
-
-**Includes:** dedicated supervision, species-specific care, medication administration, daily updates, and the same clinical standards as our in-home visits.
-
-<p style="margin-top: 24px;"><a href="/home/services/exotic-pet-care-services-boarding/" class="btn btn-cta-primary">View Boarding Details →</a></p>
-
-</div>
-
-</div>
+House of Guineas provides specialized care for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds** — across San Francisco and the Peninsula. Veterinary-trained, exotic-only.
 
 ---
 
-## Where We Serve
+## In-Home Pet Sitting
 
-Our specialists travel to client homes across San Francisco and the Peninsula. Boarding is hosted at our SF location — Peninsula and Bay Area clients are welcome to drop off.
+Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds** — starting at **$85/visit**.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin: 24px 0;">
-  <div style="background: #f5f3ee; border-radius: 8px; padding: 16px;"><strong>San Francisco</strong><br><small>All neighborhoods</small></div>
-  <div style="background: #f5f3ee; border-radius: 8px; padding: 16px;"><a href="/burlingame-exotic-pet-sitter/" style="font-weight: 700;">Burlingame →</a></div>
-  <div style="background: #f5f3ee; border-radius: 8px; padding: 16px;"><a href="/san-mateo-exotic-pet-sitter/" style="font-weight: 700;">San Mateo →</a></div>
-  <div style="background: #f5f3ee; border-radius: 8px; padding: 16px;"><a href="/foster-city-exotic-pet-sitter/" style="font-weight: 700;">Foster City →</a></div>
-  <div style="background: #f5f3ee; border-radius: 8px; padding: 16px;"><strong>Millbrae</strong></div>
-  <div style="background: #f5f3ee; border-radius: 8px; padding: 16px;"><strong>Hillsborough</strong></div>
-  <div style="background: #f5f3ee; border-radius: 8px; padding: 16px;"><strong>Redwood City</strong></div>
-  <div style="background: #f5f3ee; border-radius: 8px; padding: 16px;"><strong>+ surrounding</strong><br><small>Custom quote</small></div>
-</div>
+From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals — including rabbits, guinea pigs, chinchillas, ferrets, and hamsters — we help prevent stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; as [exotic veterinary assistants](/san-francisco-california-exotic-veterinary-experience), our team keeps your pet's world consistent while you're away.
 
-Travel surcharges start from $15/visit for clients outside the primary area, depending on location and our specialists' availability.
+### Routine Visits (2x/day)
+* **30 minutes:** $140/day ($70/visit)
+* **30 minute & 60 minute visit combo:** $165/day
+* **60 minutes:** $190/day ($95/visit)
 
----
+### Individual Visits (1x/day)
+* **30 minutes:** $85/visit
+* **60 minutes:** $115/visit
 
-## Why Exotic-Only
+***Pet Care:*** Your pet will receive dedicated love and attention, including species-specific feeding, fresh water, medication administration — oral, topical, or subcutaneous injections if needed — and enrichment.
 
-Most pet sitters take exotics as a side service — a rabbit between dog walks, a bearded dragon as a favor. We took the opposite approach: exotic-only is the entire practice. Founded by Alexandria Brown, an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience/) who trained at Bay Area Bird & Exotics Hospital and currently volunteers with the House Rabbit Society administering RHDV2 vaccinations.
+***Home Care:*** Visits include general home upkeep such as tidying pet areas, plant care, and mail/package retrieval. We can also alternate lights and blinds upon request to maintain a lived-in appearance.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin: 24px 0;">
-  <div style="text-align: center; padding: 16px;"><strong style="display: block; font-size: 16px; margin-bottom: 4px;">🩺 Clinical Training</strong><small>Specialists trained in species-specific handling, observation, and medication.</small></div>
-  <div style="text-align: center; padding: 16px;"><strong style="display: block; font-size: 16px; margin-bottom: 4px;">🛡️ Bonded & Insured</strong><small>Pet CPR + First Aid certified. Member of Pet Sitters International.</small></div>
-  <div style="text-align: center; padding: 16px;"><strong style="display: block; font-size: 16px; margin-bottom: 4px;">📋 Daily Updates</strong><small>Photo and text updates with every visit, plus weight tracking when relevant.</small></div>
-  <div style="text-align: center; padding: 16px;"><strong style="display: block; font-size: 16px; margin-bottom: 4px;">🚨 Vet Coordination</strong><small>Direct communication with your exotic vet if anything changes.</small></div>
-</div>
+***Peace of Mind:*** You'll receive updates including snapshots and details of their well-being and activities, so you can enjoy your time away without worry.
+
+[See full in-home care details →](/home/services/exotic-pet-care-services-in-home/)
 
 ---
 
-<div style="text-align: center; background: #f5f3ee; border-radius: 12px; padding: 40px 20px; margin: 40px 0;">
-  <p style="font-size: 20px; margin-bottom: 8px;"><strong>Ready to book?</strong></p>
-  <p style="margin-bottom: 24px; color: #666;">Meet-and-greets are free. Most are scheduled within a week.</p>
-  <p>
-    <a href="tel:415-484-6493" class="btn btn-lg btn-cta-primary">Call or Text 415-484-6493</a>
-  </p>
-  <p style="margin-top: 24px; font-size: 14px;">
-    Questions first? See our <a href="/home/services/faqs/">full FAQs</a>.
-  </p>
-</div>
+## Exotic Pet Boarding
+
+Your pet gets their own room with soothing music — **$75/night** for rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles, and birds.
+
+Changes in your pet's environment can cause discomfort and stress. With that said, I understand that there are times where their home may not be the best option while you are away. As a trained [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), I will work with you to make sure their home-away-from-home is the next best thing.
+
+I welcome clients from across the Bay Area — whether you're local to San Francisco or traveling in from the Peninsula (Burlingame, San Mateo, and beyond), you can drop your pet off with me for dedicated, professional boarding.
+
+* **Nightly Rate**: $75/night
+
+### What's Included
+
+* **Their own room** with soothing music played as they become acclimated during their stay
+* **Species-specific feeding** on your pet's regular schedule, including live insects, fresh greens, hay, pellets, and supplements as needed
+* **Habitat monitoring** — I check temperatures, humidity, UVB lighting, and water quality throughout the day to match your pet's home environment
+* **Daily updates** with photos and notes on your pet's behavior, appetite, and well-being
+* **Medication administration** if needed — oral, topical, or subcutaneous injections as prescribed by your veterinarian
+
+### What Do I Need for Boarding?
+
+* Please bring any **enclosures, bedding, food and supplies** your pet needs to feel at home when you drop them off
+* A meet and greet is **required for first-time clients** and your pet must be up-to-date with all vaccinations by the first visit
+* Boarding can book quickly — please [contact me](tel:415-484-6493) as soon as possible to make sure your pet(s) have the care they need!
+
+[See full boarding details →](/home/services/exotic-pet-care-services-boarding/)
+
+---
+
+## Service Areas
+
+We provide in-home exotic pet sitting across San Francisco and the Peninsula — Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City, and surrounding areas. Boarding is hosted at our San Francisco location and welcomes drop-offs from clients across the Bay Area and Peninsula.
+
+Peninsula residents — see our dedicated pages for [Burlingame](/burlingame-exotic-pet-sitter/), [San Mateo](/san-mateo-exotic-pet-sitter/), and [Foster City](/foster-city-exotic-pet-sitter/).
+
+* Additional travel rates **start at $15/visit** (rates depend on our specialists' availability and your location) if you're outside the [primary travel area](/home/services/faqs/#service-areas).
+
+---
+
+Have questions? See our [full FAQs](/home/services/faqs/) or call/text **[415-484-6493](tel:415-484-6493)** to book.
