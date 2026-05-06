@@ -72,6 +72,8 @@ Peninsula residents — see our dedicated pages for [Burlingame](/burlingame-exo
 
 * Additional travel rates **start at $15/visit** (rates depend on our specialists' availability and your location) if you're outside the [primary travel area](/home/services/faqs/#service-areas).
 
+Households with both exotic pets and a cat in San Francisco can also book combined care — see [cat and exotic pet sitting in San Francisco](/cat-and-exotic-pet-sitter-san-francisco/) for details.
+
 ---
 
 Have questions? See our [full FAQs](/home/services/faqs/) or call/text **[415-484-6493](tel:415-484-6493)** to book.

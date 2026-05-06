@@ -158,6 +158,20 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
   </div>
 </details>
 
+<details class="faq-details">
+  <summary class="faq-summary">Do you take care of birds?</summary>
+  <div class="faq-answer">
+    <p>Yes — birds are a core part of our service, not a stretch. Alexandria spent years at Bay Area Bird and Exotics Hospital, and our team is trained to handle cockatiels, parakeets, conures, parrotlets, lovebirds, finches, and most companion parrots. We do daily fresh chop preparation, pellet measurement, full cage cleaning, and out-of-cage time for birds with established free-flight routines. See our <a href="/bird-care-guide/">bird care guide</a> and <a href="/bird-sitter-san-francisco-peninsula/">bird sitter page</a> for more.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">Do you accept cats?</summary>
+  <div class="faq-answer">
+    <p>Yes, with a specific framing: we accept cats in households where we already provide exotic pet care. We are not a cat-only sitter — our specialty is exotics — but if you have a guinea pig and a cat, or a rabbit and a cat, the cat is part of the household and we look after them too. See our <a href="/cat-and-exotic-pet-sitter-san-francisco/">cat and exotic pet sitting in San Francisco</a> page for details.</p>
+  </div>
+</details>
+
 <div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
   <p style="font-size: 1.1em;"><strong>Ready to create your perfect care plan?</strong></p>
   <p>
@@ -289,6 +303,22 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes! Start with our Complete Guinea Pig Care Guide which covers housing, diet, health, and bedding. For bedding, check out our Clinical Series fleece cage liners — the healthiest, most cost-effective option. Browse our Small Pet Resources page for recommended cages, hay, and supplies. And if you ever need a guinea pig sitter in San Francisco, that's what we do best."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you take care of birds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — birds are a core part of our service, not a stretch. Alexandria spent years at Bay Area Bird and Exotics Hospital, and our team is trained to handle cockatiels, parakeets, conures, parrotlets, lovebirds, finches, and most companion parrots. We do daily fresh chop preparation, pellet measurement, full cage cleaning, and out-of-cage time for birds with established free-flight routines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you accept cats?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with a specific framing: we accept cats in households where we already provide exotic pet care. We are not a cat-only sitter — our specialty is exotics — but if you have a guinea pig and a cat, or a rabbit and a cat, the cat is part of the household and we look after them too."
       }
     }
   ]
