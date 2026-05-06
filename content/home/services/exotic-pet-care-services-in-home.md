@@ -8,7 +8,7 @@ weight = 2
 [menu.main]
   parent = "rates"
 [params]
-  og_image = "milo.jpeg"
+  og_image = "Coco.jpg"
   serviceType = "Reptile & Exotic Pet Sitting"
   price = "$85"
   priceUnit = "/visit"
@@ -28,6 +28,9 @@ Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas
  
 ## Benefits of In-Home Reptile & Exotic Pet Sitting
 From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals — including rabbits, guinea pigs, chinchillas, ferrets, and hamsters — we help prevent stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; as [exotic veterinary assistants](/san-francisco-california-exotic-veterinary-experience), our team keeps your pet's world consistent while you're away. 
+
+### Bird Care
+Cockatiels, parakeets, conures, parrotlets, lovebirds, finches and most companion parrots — birds are a core part of what we do, not a stretch service. We handle daily fresh chop preparation, pellet measurement, water tower changes, full cage and grate cleaning, and out-of-cage time for birds with established free-flight routines. Our team is trained to recognize the early signs of crop issues, respiratory infections, and egg binding. Alexandria spent years at [Bay Area Bird & Exotics Hospital](https://www.birdandexoticsvet.com), so avian care is rooted in clinical experience. See our [bird care guide](/bird-care-guide/) for species-specific guidance.
 
 ### Routine Visits (2x/day)
 * **30 minutes:** $140/day ($70/visit) <!-- prev 60/120 for 30 and  155 for 30/+60/165 -->

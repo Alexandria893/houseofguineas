@@ -4,7 +4,7 @@ shortTitle = "Clinical Series Fleece Liners"
 description = "The only all-in-one guinea pig fleece liner — entirely medical-grade, antimicrobial fabric with silver ion technology throughout. Pre-activated, no prep washes. $315 for two liners that last 6+ years. Handmade in SF."
 type = "product"
 [params]
-  og_image = "clinical-series-inuse.jpg"
+  og_image = "clinical-series-brand.jpg"
 [menu.main]
   parent = "resources"
 weight = 3

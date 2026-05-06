@@ -2,6 +2,7 @@
 title = "Exotic Pet Veterinarians in San Francisco & the Bay Area"
 shortTitle = "Exotic Pet Veterinarians"
 description = "Exotic pet veterinarians and emergency hospitals in San Francisco and the Bay Area. Vets for reptiles, birds, guinea pigs and rabbits."
+og_image = "tortoiseEatingGreens.jpg"
 [menu.main]
   parent = "resources"
 [sitemap]

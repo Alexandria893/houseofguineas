@@ -2,6 +2,7 @@
 title = "Guinea Pig Fleece Cage Liners & Small Pet Resources"
 shortTitle = "Small Pet Resources"
 description = "Guinea pig fleece cage liners, C&C cages and premium hay. Shop Clinical Series liners and trusted small pet resources from House of Guineas."
+og_image = "happyRat.jpg"
 [menu.main]
   parent = "resources"
 [sitemap]

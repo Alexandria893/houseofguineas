@@ -2,6 +2,7 @@
 title = "Exotic Vet Assistant San Francisco | House of Guineas"
 shortTitle = "Why Choose an Exotic Vet Assistant?"
 description = "Why hire an exotic vet assistant for your pet? Specialized reptile, bird and small mammal care in San Francisco from a trained veterinary professional."
+og_image = "Kai.jpg"
 [menu.main]
   parent = "resources"
 weight = 1

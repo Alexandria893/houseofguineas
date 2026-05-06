@@ -2,7 +2,7 @@
 title = "Peninsula Exotic Pet Veterinarians | San Mateo County Directory"
 shortTitle = "Peninsula Exotic Vets"
 description = "Exotic pet veterinarians in San Mateo County and the Peninsula — Burlingame, San Mateo, Redwood City, Los Altos. Vets for rabbits, guinea pigs, chinchillas, reptiles, and birds."
-og_image = "milo.jpeg"
+og_image = "2ChungusPuppyDog.jpg"
 [menu.main]
   parent = "resources"
 [sitemap]

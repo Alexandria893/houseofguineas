@@ -8,7 +8,7 @@ weight = 3
 [menu.main]
   parent = "rates"
 [params]
-  og_image = "2ChungusPuppyDog.jpg"
+  og_image = "Luca.jpg"
   serviceType = "Exotic Pet Boarding"
   price = "$75"
   priceUnit = "/night"
