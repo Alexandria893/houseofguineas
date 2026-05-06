@@ -9,9 +9,9 @@ title = ""
 <!-- 🐾 [As an exotic pet parent,](\about), I understand the unique and thorough care of exotic pets. the love and care they deserve. Explore my care services below and contact me to discuss how I can best meet you and your pet's needs! -->
 <!-- *Serving San Francisco, California* -->
 
-Welcome to House of Guineas — **San Francisco & the Peninsula's premier exotic pet care**. Our team of exotic pet specialists provides in-home visits for rabbits, guinea pigs, chinchillas, reptiles, and birds across SF, Burlingame, San Mateo, and surrounding Peninsula cities. House of Guineas founder Alexandria, personally hosts boarding at our San Francisco location and welcomes clients from across the Bay Area.
+**Vet-trained exotic pet care in San Francisco and the Peninsula** — Burlingame, San Mateo, Foster City, and beyond. In-home visits for rabbits, guinea pigs, chinchillas, reptiles, and birds, plus founder-hosted boarding for clients across the Bay Area.
 
-Your extraordinary pet deserves the best — [contact us](tel:415-484-6493) to get started!
+[Contact us](tel:415-484-6493) to get started.
 <!-- As an experienced exotic veterinary assistant, I provide specialized in-home care, ensuring your cherished companions receive not just attention, but knowledgeable support tailored to their specific needs. From precise habitat management to recognizing subtle health cues, your pet's well-being is my top priority.  -->
 
 <!-- Ready for peace of mind for your reptile, bird, or unique small mammal? [Contact me](tel:415-484-6493) to discuss your pet's care! -->
