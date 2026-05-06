@@ -55,9 +55,6 @@
 {{ $js := (slice $template $html5shiv | resources.Concat "js/bundle.js") | resources.Minify }}
 <script src="{{ $js.Permalink }}"></script>
 
-{{ if .Site.Params.disqus -}}
-<script id="dsq-count-scr" src="//{{ .Site.Params.disqus.site }}/count.js" async></script>
-{{ end -}}
 {{ if .Site.Params.google.analytics -}}
 {{ partial "footer/analyticstracking.html" . }}
 {{ end -}}

@@ -69,9 +69,6 @@ weight = 1
   identifier = "rates"
   weight = 2
 
-[params.disqus]
-site = "hugo-initio-site.disqus.com"
-
 [params.sharethis]
 property = "123456789012345678901234"
 custom = true
