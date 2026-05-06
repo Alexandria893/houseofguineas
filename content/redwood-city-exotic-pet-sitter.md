@@ -3,8 +3,6 @@ title = "Redwood City Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds
 shortTitle = "Redwood City Exotic Pet Sitter"
 description = "In-home exotic pet sitting in Redwood City — rabbits, guinea pigs, chinchillas, reptiles, birds and small mammals. Vet-trained specialists serving Roosevelt, Mt. Carmel, Farm Hill, Emerald Hills."
 og_image = "chinchillaChewingOnTreat.jpg"
-[menu.main]
-  parent = "rates"
 [sitemap]
   priority = 0.8
 +++

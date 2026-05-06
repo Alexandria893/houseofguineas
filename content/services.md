@@ -13,24 +13,30 @@ House of Guineas provides specialized care for **rabbits, guinea pigs, chinchill
 
 ## In-Home Pet Sitting
 
-Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds** — starting at **$85/visit**.
+Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds**.
 
-From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals — including rabbits, guinea pigs, chinchillas, ferrets, and hamsters — we help prevent stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; as [exotic veterinary assistants](/san-francisco-california-exotic-veterinary-experience), our team keeps your pet's world consistent while you're away.
+**From $85/visit. Twice-daily routine care from $140/day.**
 
-### Routine Visits (2x/day)
-* **30 minutes:** $140/day ($70/visit)
-* **30 minute & 60 minute visit combo:** $165/day
-* **60 minutes:** $190/day ($95/visit)
+From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals, we help prevent the stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; as [exotic veterinary assistants](/san-francisco-california-exotic-veterinary-experience), our team keeps your pet's world consistent while you're away.
 
-### Individual Visits (1x/day)
-* **30 minutes:** $85/visit
-* **60 minutes:** $115/visit
+Every visit includes species-specific feeding, fresh water, medication administration if needed, enrichment, and photo updates. Light home care (tidying, plants, mail) is included on request.
 
-***Pet Care:*** Your pet will receive dedicated love and attention, including species-specific feeding, fresh water, medication administration — oral, topical, or subcutaneous injections if needed — and enrichment.
-
-***Home Care:*** Visits include general home upkeep such as tidying pet areas, plant care, and mail/package retrieval. We can also alternate lights and blinds upon request to maintain a lived-in appearance.
-
-***Peace of Mind:*** You'll receive updates including snapshots and details of their well-being and activities, so you can enjoy your time away without worry.
+<details style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #eee; border-radius: 8px; background: #fafaf8;">
+  <summary style="font-weight: 600; cursor: pointer; font-size: 1.05em;">See all in-home rates</summary>
+  <div style="padding-top: 1rem;">
+    <p><strong>Routine Visits (2x/day)</strong></p>
+    <ul>
+      <li>30 minutes — $140/day ($70/visit)</li>
+      <li>30 + 60 minute combo — $165/day</li>
+      <li>60 minutes — $190/day ($95/visit)</li>
+    </ul>
+    <p style="margin-top: 1rem;"><strong>Individual Visits (1x/day)</strong></p>
+    <ul>
+      <li>30 minutes — $85/visit</li>
+      <li>60 minutes — $115/visit</li>
+    </ul>
+  </div>
+</details>
 
 [See full in-home care details →](/home/services/exotic-pet-care-services-in-home/)
 
@@ -40,25 +46,27 @@ From precise [reptile habitat management](/reptile-amphibian-care-guide) and avi
 
 Your pet gets their own room with soothing music — **$75/night** for rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles, and birds.
 
-Changes in your pet's environment can cause discomfort and stress. With that said, I understand that there are times where their home may not be the best option while you are away. As a trained [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), I will work with you to make sure their home-away-from-home is the next best thing.
+Boarding is hosted by Alexandria personally at her San Francisco home, and clients are welcome from across the Bay Area — local SF, the Peninsula, and beyond. Every stay includes species-specific feeding, habitat monitoring, daily photo updates, and medication administration if needed.
 
-I welcome clients from across the Bay Area — whether you're local to San Francisco or traveling in from the Peninsula (Burlingame, San Mateo, and beyond), you can drop your pet off with me for dedicated, professional boarding.
-
-* **Nightly Rate**: $75/night
-
-### What's Included
-
-* **Their own room** with soothing music played as they become acclimated during their stay
-* **Species-specific feeding** on your pet's regular schedule, including live insects, fresh greens, hay, pellets, and supplements as needed
-* **Habitat monitoring** — I check temperatures, humidity, UVB lighting, and water quality throughout the day to match your pet's home environment
-* **Daily updates** with photos and notes on your pet's behavior, appetite, and well-being
-* **Medication administration** if needed — oral, topical, or subcutaneous injections as prescribed by your veterinarian
-
-### What Do I Need for Boarding?
-
-* Please bring any **enclosures, bedding, food and supplies** your pet needs to feel at home when you drop them off
-* A meet and greet is **required for first-time clients** and your pet must be up-to-date with all vaccinations by the first visit
-* Boarding can book quickly — please [contact me](tel:415-484-6493) as soon as possible to make sure your pet(s) have the care they need!
+<details style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #eee; border-radius: 8px; background: #fafaf8;">
+  <summary style="font-weight: 600; cursor: pointer; font-size: 1.05em;">What's included & what to bring</summary>
+  <div style="padding-top: 1rem;">
+    <p><strong>What's included</strong></p>
+    <ul>
+      <li><strong>Their own room</strong> with soothing music as they acclimate</li>
+      <li><strong>Species-specific feeding</strong> on your pet's regular schedule — live insects, fresh greens, hay, pellets, supplements</li>
+      <li><strong>Habitat monitoring</strong> — temperatures, humidity, UVB lighting, and water quality checked throughout the day</li>
+      <li><strong>Daily updates</strong> with photos and notes</li>
+      <li><strong>Medication administration</strong> if needed — oral, topical, or subcutaneous</li>
+    </ul>
+    <p style="margin-top: 1rem;"><strong>What to bring</strong></p>
+    <ul>
+      <li>Enclosure, bedding, food, and supplies your pet is used to</li>
+      <li>A meet-and-greet is required for first-time clients; your pet must be up-to-date on vaccinations</li>
+      <li>Boarding books up quickly — <a href="tel:415-484-6493">contact us</a> as soon as you have dates</li>
+    </ul>
+  </div>
+</details>
 
 [See full boarding details →](/home/services/exotic-pet-care-services-boarding/)
 

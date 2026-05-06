@@ -4,8 +4,6 @@ shortTitle = "Bird Sitter SF & Peninsula"
 description = "In-home bird sitting in San Francisco and Peninsula. Cockatiels, parakeets, conures, parrotlets and parrots — vet-trained handling, cage cleaning, diet prep."
 og_image = "birdSayingHello.jpg"
 serviceType = "Bird Pet Sitting"
-[menu.main]
-  parent = "rates"
 [sitemap]
   priority = 0.8
 +++

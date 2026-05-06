@@ -4,8 +4,6 @@ shortTitle = "Rabbit Sitter Burlingame"
 description = "In-home rabbit sitting in Burlingame from a House Rabbit Society volunteer and exotic vet assistant. RHDV-vaccinated bunnies welcome. Perfect for SFO travelers."
 og_image = "ChungusPuppyDog.jpg"
 serviceType = "Rabbit Pet Sitting"
-[menu.main]
-  parent = "rates"
 [sitemap]
   priority = 0.8
 +++

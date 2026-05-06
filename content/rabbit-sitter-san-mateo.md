@@ -4,8 +4,6 @@ shortTitle = "Rabbit Sitter San Mateo"
 description = "In-home rabbit sitting across San Mateo — Hillsdale, Aragon, Baywood Park, Bay Meadows. RHDV-vaccinated bunnies, bonded pairs, vet-trained handling."
 og_image = "lionheadBunnyWithTreats.jpg"
 serviceType = "Rabbit Pet Sitting"
-[menu.main]
-  parent = "rates"
 [sitemap]
   priority = 0.8
 +++

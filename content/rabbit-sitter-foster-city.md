@@ -4,8 +4,6 @@ shortTitle = "Rabbit Sitter Foster City"
 description = "In-home rabbit sitting in Foster City — waterfront and biotech families served. RHDV-vaccinated bunnies welcome. House Rabbit Society volunteer founder."
 og_image = "BunnyReceivingPets.jpg"
 serviceType = "Rabbit Pet Sitting"
-[menu.main]
-  parent = "rates"
 [sitemap]
   priority = 0.8
 +++

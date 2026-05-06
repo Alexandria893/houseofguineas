@@ -3,8 +3,6 @@ title = "Hillsborough Exotic Pet Sitter | Premium In-Home Exotic Pet Care"
 shortTitle = "Hillsborough Exotic Pet Sitter"
 description = "Premium in-home exotic pet care in Hillsborough — rabbits, guinea pigs, reptiles, chinchillas, and birds. Vet-trained specialists who understand the standards of Hillsborough's estate homes."
 og_image = "HappilyHoldingSnake.jpg"
-[menu.main]
-  parent = "rates"
 [sitemap]
   priority = 0.8
 +++
