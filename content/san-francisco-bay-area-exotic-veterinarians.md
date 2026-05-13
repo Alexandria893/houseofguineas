@@ -1,7 +1,7 @@
 +++
 title = "Exotic Pet Veterinarians in San Francisco & the Bay Area"
 shortTitle = "Exotic Pet Veterinarians"
-description = "Exotic pet veterinarians and emergency hospitals in San Francisco and the Bay Area. Vets for reptiles, birds, guinea pigs and rabbits."
+description = "Bay Area exotic pet vets and emergency hospitals — including a board-certified bird-only avian hospital. Veterinarians for reptiles, birds, guinea pigs, rabbits, and other small mammals across San Francisco, the Peninsula, and the East Bay."
 og_image = "tortoiseEatingGreens.jpg"
 [menu.main]
   parent = "resources"
@@ -197,6 +197,24 @@ Finding a veterinarian who specializes in exotic animals — reptiles, birds, gu
       <strong>Phone:</strong> <a href="tel:925-866-8387">(925) 866-8387</a> <br>
       <strong>Hours:</strong> Monday - Friday, 6:30 AM - 9:00 PM; Saturday - Sunday, 7:30 AM - 6:00 PM<br>
       <strong>Emergency:</strong> Yes; urgent care available during business hours
+    </p>
+  </div>
+</details>
+
+<details class="list-item">
+  <summary class="list-summary">
+    <a href="https://www.medicalcenterforbirds.com" target="_blank" rel="noopener noreferrer">Medical Center for Birds — Bird-Only Avian Hospital</a>
+  </summary>
+  <div class="list-info">
+    <p>
+      <strong>Specializes In:</strong> 🦜 Birds exclusively — parrots, cockatiels, conures, parakeets, lovebirds, finches, chickens, raptors, and other avian species. Bird-only hospital; no dogs, cats, reptiles, or small mammals.<br>
+      <strong>Veterinarian(s):</strong> Dr. Brian Speer (DABVP-Avian, ECZM Avian — owner and director, internationally recognized avian specialist), Dr. Rachel Baden (DVM, DABVP-Avian — board-certified avian specialist), Dr. Timothy Beichner (DVM, completed avian residency at MCFB in 2025), Dr. Tirragen Vixie, Dr. Dylan Conradson<br>
+      <strong>Address:</strong> 3807 Main Street, Oakley, CA 94561 (Contra Costa County, far East Bay)<br>
+      <strong>Phone:</strong> <a href="tel:925-625-1878">(925) 625-1878</a><br>
+      <strong>Hours:</strong> Monday - Saturday, 9:00 AM - 5:00 PM; closed Sunday<br>
+      <strong>Emergency:</strong> Yes, during business hours (call ahead). After-hours emergencies referred out.<br>
+      <strong>Services:</strong> Avian-specific surgery, advanced diagnostic imaging, in-house laboratory, bird boarding, and routine wellness exams.<br>
+      <strong>Notes:</strong> One of the few bird-only veterinary hospitals in the United States and a national reference center for avian medicine. Founded by Dr. Brian Speer, who is among the most-cited avian veterinary specialists in the U.S. and a past president of the Association of Avian Veterinarians. Multiple board-certified avian specialists (DABVP-Avian) on staff — a rarity even among "exotic-friendly" practices that see birds occasionally. State-of-the-art bird-only facility opened October 2022. Roughly a 90-minute drive from San Francisco; worth the trip for complex avian cases, second opinions, or birds whose owners want a true avian specialist rather than a general exotic vet.
     </p>
   </div>
 </details>
