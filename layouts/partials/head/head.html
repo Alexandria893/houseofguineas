@@ -399,6 +399,7 @@
   "description": {{ with .Description }}{{ . | jsonify | safeJS }}{{ else }}{{ $.Site.Params.description | jsonify | safeJS }}{{ end }},
   "author": {
     "@type": "Person",
+    "@id": "{{ .Site.BaseURL }}about/#alexandria",
     "name": "Alexandria Brown",
     "url": "{{ .Site.BaseURL }}about/"
   },
@@ -415,6 +416,62 @@
   "datePublished": "{{ .Date.Format "2006-01-02" }}",
   "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
   "mainEntityOfPage": "{{ .Permalink }}"
+}
+</script>
+{{ end }}
+
+{{ if eq .RelPermalink "/about/" }}
+<!-- Structured Data: ProfilePage + Person (author authority / E-E-A-T) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "{{ .Site.BaseURL }}about/#alexandria",
+    "name": "Alexandria Brown",
+    "jobTitle": "Exotic Pet Care Professional",
+    "description": "Founder of House of Guineas Pet Care in San Francisco. Former Exotic Veterinary Assistant at Bay Area Bird & Exotics Hospital, and a volunteer Medical Assistant at the House Rabbit Society, where she administers RHDV vaccinations and supports exotic surgeries. Background in engineering.",
+    "image": "{{ .Site.BaseURL }}engineer.jpg",
+    "url": "{{ .Site.BaseURL }}about/",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "House of Guineas Pet Care",
+      "url": "{{ .Site.BaseURL }}"
+    },
+    "affiliation": [
+      {
+        "@type": "Organization",
+        "name": "House Rabbit Society",
+        "url": "https://houserabbit.org/veterinaryinitiative"
+      },
+      {
+        "@type": "Organization",
+        "name": "Bay Area Bird & Exotics Hospital",
+        "url": "https://www.birdandexoticsvet.com"
+      }
+    ],
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "University of California, Santa Cruz"
+    },
+    "knowsAbout": [
+      "Exotic pet care",
+      "Guinea pig care",
+      "Rabbit care",
+      "Reptile and amphibian husbandry",
+      "Avian care",
+      "Small mammal care",
+      "RHDV vaccination",
+      "Exotic veterinary assisting"
+    ],
+    "sameAs": [
+      "https://www.instagram.com/houseofguineas",
+      "https://www.tiktok.com/@houseofguineas",
+      "https://www.youtube.com/@houseofguineas",
+      "https://www.linkedin.com/in/alexandria-b-65b845100/"
+    ]
+  }
 }
 </script>
 {{ end }}
