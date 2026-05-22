@@ -80,32 +80,6 @@
   ],
   "priceRange": "$$",
   "image": "{{ .Site.BaseURL }}prof.jpeg",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": "3"
-  },
-  "review": [
-    {{- $reviews := $.Site.GetPage "home/testimonials" -}}
-    {{- with $reviews -}}
-      {{- range $i, $p := .Pages.ByWeight -}}
-        {{- if $i }},{{ end }}
-    {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": {{ $p.Title | jsonify | safeJS }}
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      },
-      "reviewBody": {{ $p.Summary | plainify | htmlUnescape | jsonify | safeJS }}
-    }
-      {{- end -}}
-    {{- end }}
-  ],
   "sameAs": [
     "https://www.instagram.com/houseofguineas",
     "https://www.tiktok.com/@houseofguineas",
@@ -220,7 +194,7 @@
   "offers": {
     "@type": "Offer",
     "url": "https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners",
-    "price": "315.00",
+    "price": "400.00",
     "priceCurrency": "USD",
     "availability": "https://schema.org/InStock",
     "itemCondition": "https://schema.org/NewCondition",
@@ -246,54 +220,7 @@
         }
       }
     }
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": "3",
-    "bestRating": "5"
-  },
-  "review": [
-    {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Izzy S."
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      },
-      "reviewBody": "Alexandria took the very best care of my 4 guinea pigs, and I'm thrilled & relieved to have finally found a reliable and trustworthy guinea-sitter! She is kind & warm, followed all instructions, and went above-and-beyond to make sure my girls were happy & healthy while I was away."
-    },
-    {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Robyn J."
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      },
-      "reviewBody": "We could not have asked for a better pet sitter! Her level of care, attention to detail, and professionalism were beyond exceptional. What truly sets Alexandria apart is her deep knowledge of exotic pets."
-    },
-    {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Alessandra V."
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      },
-      "reviewBody": "Alexandria was great to work with! She's super friendly and communicative and passionate about animals! She truly went above and beyond for us, and I came back to a very clean house and a happy, healthy kitty!"
-    }
-  ]
+  }
 }
 </script>
 {{ end }}
@@ -426,7 +353,7 @@
       "name": "How are Clinical Series liners different from GuineaDad liners?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Clinical Series is a complete all-in-one liner — you don't need to buy separate pee pads or accessories. The entire fabric is medical-grade with antimicrobial silver ion technology throughout (not just one layer), actively neutralizing ammonia — a feature not found in GuineaDad or other standard fleece liners. Our liners also come pre-activated (no 3-5 prep washes), last 6+ years, and are handmade in San Francisco by an exotic veterinary assistant with an engineering background."
+        "text": "The Clinical Series is a complete all-in-one liner — you don't need to buy separate pee pads or accessories. The entire fabric is medical-grade, with silver ion antimicrobial technology built into every layer that actively neutralizes ammonia. GuineaDad's antimicrobial protection comes from bamboo in its top fleece layer only; our silver-ion technology runs through the whole liner — base, core, and top. Our liners also come pre-activated (no 3-5 prep washes), last 6+ years, and are handmade in San Francisco by an exotic veterinary assistant with an engineering background."
       }
     }
   ]

@@ -1,12 +1,13 @@
 +++
 title = "About Alexandria | San Francisco Exotic Pet Care Professional"
 shortTitle = "About Alexandria"
+description = "Meet Alexandria, San Francisco exotic pet care professional. Veterinary assistant at Bay Area Bird & Exotics Hospital. Care for reptiles, birds and small mammals."
+[params]
+  og_image = "engineer.jpg"
 [menu.main]
   name = "About"
-description = "Meet Alexandria, San Francisco exotic pet care professional. Veterinary assistant at Bay Area Bird & Exotics Hospital. Care for reptiles, birds and small mammals."
-og_image = "engineer.jpg"
-type = "about"
-weight = 4
+  identifier = "about"
+  weight = 4
 [sitemap]
   priority = 0.7
 +++

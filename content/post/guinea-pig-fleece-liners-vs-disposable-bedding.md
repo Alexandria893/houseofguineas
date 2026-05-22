@@ -65,7 +65,7 @@ Fleece liners are reusable fabric pads that sit on top of an absorbent layer ins
 * Environmentally friendly
 
 **Cons:**
-* Higher upfront cost ($50-315 depending on brand and features)
+* Higher upfront cost ($50-400 depending on brand and features)
 * Requires weekly washing
 * Most brands require 3-5 prep washes before they start wicking (our [Clinical Series liners](/clinical-series-guinea-pig-fleece-cage-liners) are pre-activated — no prep needed)
 
@@ -124,9 +124,9 @@ Let's do the math over 2 years for a standard 2x4 C&C cage:
   </tr>
   <tr class="highlight-row">
     <td>Clinical Series liners</td>
-    <td>$315</td>
+    <td>$400</td>
     <td>$0</td>
-    <td><strong>$315</strong></td>
+    <td><strong>$400</strong></td>
   </tr>
 </table>
 
