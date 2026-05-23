@@ -69,7 +69,7 @@ weight = 3
   <p style="font-size: 13px; color: #6B5E52; margin-top: 6px;">$400 once — about $67/year over 6+ years — versus $240–480 <em>every</em> year for disposable bedding.</p>
 </div>
 
-![Guinea pig on Clinical Series fleece cage liner in a C&C cage with enrichment toys](/clinical-series-inuse.jpg)
+![Guinea pig on a Clinical Series fleece cage liner in a 2x4 C&C cage with enrichment toys](/clinical-series-inuse.jpg)
 
 ---
 
@@ -100,7 +100,7 @@ weight = 3
   </tr>
   <tr>
     <td>Sizing</td>
-    <td>Designed for standard C&C cage setups</td>
+    <td>Sized for a standard <strong>2x4 C&C cage</strong> — 56" × 24"</td>
   </tr>
   <tr>
     <td>Includes</td>
@@ -222,7 +222,7 @@ With proper care, each liner pair lasts **6+ years**.
 <details style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
   <summary style="font-weight: bold; cursor: pointer;">What size C&C cage do they fit?</summary>
   <div style="padding-top: 0.75rem;">
-    <p>Our liners are sized for standard C&C cage configurations — the most popular guinea pig housing recommended by rescue organizations. If you have a custom setup, <a href="mailto:petcare@houseofguineas.com">contact us</a> and we can discuss options.</p>
+    <p>Our liners are sized for a standard 2x4 C&C cage (56 by 24 inches) — the most popular guinea pig housing recommended by rescue organizations. If you have a custom setup, <a href="mailto:petcare@houseofguineas.com">contact us</a> and we can discuss options.</p>
   </div>
 </details>
 
