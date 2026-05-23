@@ -76,6 +76,8 @@ Boarding is hosted by Alexandria personally at her San Francisco home, and clien
 
 We provide in-home exotic pet sitting across San Francisco and the Peninsula — Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City, and surrounding areas. Boarding is hosted at our San Francisco location and welcomes drop-offs from clients across the Bay Area and Peninsula.
 
+San Francisco residents — see our dedicated [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) page for citywide in-home care and boarding.
+
 Peninsula residents — see our dedicated pages for [Burlingame](/burlingame-exotic-pet-sitter/), [San Mateo](/san-mateo-exotic-pet-sitter/), [Foster City](/foster-city-exotic-pet-sitter/), [Redwood City](/redwood-city-exotic-pet-sitter/), and [Hillsborough](/hillsborough-exotic-pet-sitter/).
 
 * Additional travel rates **start at $15/visit** (rates depend on our specialists' availability and your location) if you're outside the [primary travel area](/home/services/faqs/#service-areas).

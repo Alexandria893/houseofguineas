@@ -51,6 +51,8 @@ Cockatiels, parakeets, conures, parrotlets, lovebirds, finches and most companio
 ## Location & Service Areas
 We provide in-home exotic pet sitting across San Francisco and the Peninsula (Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City, and surrounding areas) — from the Inner Sunset, Outer Sunset and Parkside to Pacific Heights, the Marina and SOMA. Whether you're in Cole Valley, Noe Valley, the Castro, the Mission District, Haight-Ashbury, the Richmond District or Forest Hill, we'll come to your pet's home.
 
+San Francisco residents — see our dedicated [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) page for citywide in-home care and boarding.
+
 Peninsula residents — see our dedicated pages for [Burlingame](/burlingame-exotic-pet-sitter/), [San Mateo](/san-mateo-exotic-pet-sitter/), [Foster City](/foster-city-exotic-pet-sitter/), [Redwood City](/redwood-city-exotic-pet-sitter/), and [Hillsborough](/hillsborough-exotic-pet-sitter/) exotic pet care.
 
 Rabbit owners — we have species-specific pages for [San Francisco](/rabbit-sitter-san-francisco/), [Burlingame](/rabbit-sitter-burlingame/), [San Mateo](/rabbit-sitter-san-mateo/), and [Foster City](/rabbit-sitter-foster-city/) rabbit sitting.
