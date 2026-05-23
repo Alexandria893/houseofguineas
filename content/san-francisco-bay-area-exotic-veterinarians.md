@@ -227,6 +227,64 @@ Finding a veterinarian who specializes in exotic animals — reptiles, birds, gu
   </p>
 </div>
 
+## Frequently Asked Questions
+
+<style>
+  .faq-details { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
+  .faq-summary { font-weight: bold; font-size: 1.2em; cursor: pointer; list-style: none; }
+  .faq-summary::-webkit-details-marker { display: none; }
+  .faq-answer { padding-top: 1rem; }
+</style>
+
+<details class="faq-details">
+  <summary class="faq-summary">Which San Francisco vets treat exotic pets like guinea pigs, reptiles, and birds?</summary>
+  <div class="faq-answer">
+    <p>In San Francisco, Bay Area Bird & Exotics Hospital, SoMa Animal Hospital, and Balboa Pet Hospital all treat small mammals (such as guinea pigs), reptiles, and birds. Bay Area Bird & Exotics Hospital focuses on exotics, while SoMa Animal Hospital and Balboa Pet Hospital also accept dogs and cats. Balboa Pet Hospital is in the Outer Richmond neighborhood.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">Is there a 24/7 exotic emergency vet in the Bay Area?</summary>
+  <div class="faq-answer">
+    <p>Yes. PETS Referral Center in Berkeley is open 24 hours a day, 7 days a week and handles emergencies for small mammals, reptiles, amphibians, and birds. In San Francisco, Bay Area Bird & Exotics Hospital and SoMa Animal Hospital offer emergency care during business hours; call for availability.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">Is there a bird-only avian specialist hospital near the Bay Area?</summary>
+  <div class="faq-answer">
+    <p>Yes. Medical Center for Birds in Oakley is a bird-only avian hospital with multiple board-certified avian specialists on staff, including Dr. Brian Speer. It treats birds exclusively — parrots, cockatiels, conures, finches, chickens, raptors, and more — and offers avian surgery, imaging, and bird boarding. It is roughly a 90-minute drive from San Francisco.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">What exotic pet vets are in the East Bay?</summary>
+  <div class="faq-answer">
+    <p>East Bay options include PETS Referral Center in Berkeley (24/7 emergency exotics), Dr. Sip mobile house calls serving cities like Oakland and Berkeley, UNI Pet Clinic in Union City, Ohana Animal Hospital in Livermore, Bishop Ranch Veterinary Center & Urgent Care in San Ramon, and Medical Center for Birds, the bird-only avian hospital in Oakley.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">What exotic vets are on the Peninsula or in the South Bay?</summary>
+  <div class="faq-answer">
+    <p>On the Peninsula, Wildwood Veterinary Hospital in Redwood City treats avian and exotic pets exclusively. In the South Bay, Oakridge Veterinary Clinic in San Jose sees reptiles, amphibians, birds, and small mammals, and also accepts dogs and cats. UNI Pet Clinic notes it has a San Jose location in addition to its Union City clinic.</p>
+  </div>
+</details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "Which San Francisco vets treat exotic pets like guinea pigs, reptiles, and birds?", "acceptedAnswer": { "@type": "Answer", "text": "In San Francisco, Bay Area Bird & Exotics Hospital, SoMa Animal Hospital, and Balboa Pet Hospital all treat small mammals (such as guinea pigs), reptiles, and birds. Bay Area Bird & Exotics Hospital focuses on exotics, while SoMa Animal Hospital and Balboa Pet Hospital also accept dogs and cats. Balboa Pet Hospital is in the Outer Richmond neighborhood." } },
+    { "@type": "Question", "name": "Is there a 24/7 exotic emergency vet in the Bay Area?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. PETS Referral Center in Berkeley is open 24 hours a day, 7 days a week and handles emergencies for small mammals, reptiles, amphibians, and birds. In San Francisco, Bay Area Bird & Exotics Hospital and SoMa Animal Hospital offer emergency care during business hours; call for availability." } },
+    { "@type": "Question", "name": "Is there a bird-only avian specialist hospital near the Bay Area?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Medical Center for Birds in Oakley is a bird-only avian hospital with multiple board-certified avian specialists on staff, including Dr. Brian Speer. It treats birds exclusively — parrots, cockatiels, conures, finches, chickens, raptors, and more — and offers avian surgery, imaging, and bird boarding. It is roughly a 90-minute drive from San Francisco." } },
+    { "@type": "Question", "name": "What exotic pet vets are in the East Bay?", "acceptedAnswer": { "@type": "Answer", "text": "East Bay options include PETS Referral Center in Berkeley (24/7 emergency exotics), Dr. Sip mobile house calls serving cities like Oakland and Berkeley, UNI Pet Clinic in Union City, Ohana Animal Hospital in Livermore, Bishop Ranch Veterinary Center & Urgent Care in San Ramon, and Medical Center for Birds, the bird-only avian hospital in Oakley." } },
+    { "@type": "Question", "name": "What exotic vets are on the Peninsula or in the South Bay?", "acceptedAnswer": { "@type": "Answer", "text": "On the Peninsula, Wildwood Veterinary Hospital in Redwood City treats avian and exotic pets exclusively. In the South Bay, Oakridge Veterinary Clinic in San Jose sees reptiles, amphibians, birds, and small mammals, and also accepts dogs and cats. UNI Pet Clinic notes it has a San Jose location in addition to its Union City clinic." } }
+  ]
+}
+</script>
+
 
 
 
