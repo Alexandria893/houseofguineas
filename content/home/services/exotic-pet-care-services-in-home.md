@@ -53,7 +53,7 @@ We provide in-home exotic pet sitting across San Francisco and the Peninsula (Bu
 
 San Francisco residents — see our dedicated [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) page for citywide in-home care and boarding.
 
-Peninsula residents — see our dedicated pages for [Burlingame](/burlingame-exotic-pet-sitter/), [San Mateo](/san-mateo-exotic-pet-sitter/), [Foster City](/foster-city-exotic-pet-sitter/), [Redwood City](/redwood-city-exotic-pet-sitter/), and [Hillsborough](/hillsborough-exotic-pet-sitter/) exotic pet care.
+Peninsula residents — see our dedicated pages for [Burlingame](/burlingame-exotic-pet-sitter/), [Millbrae](/millbrae-exotic-pet-sitter/), [San Mateo](/san-mateo-exotic-pet-sitter/), [Hillsborough](/hillsborough-exotic-pet-sitter/), [Belmont](/belmont-exotic-pet-sitter/), [San Carlos](/san-carlos-exotic-pet-sitter/), [Foster City](/foster-city-exotic-pet-sitter/), and [Redwood City](/redwood-city-exotic-pet-sitter/) exotic pet care.
 
 Rabbit owners — we have species-specific pages for [San Francisco](/rabbit-sitter-san-francisco/), [Burlingame](/rabbit-sitter-burlingame/), [San Mateo](/rabbit-sitter-san-mateo/), and [Foster City](/rabbit-sitter-foster-city/) rabbit sitting.
 

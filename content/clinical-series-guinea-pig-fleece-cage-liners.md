@@ -194,6 +194,55 @@ Every layer is medical-grade. Every layer is antimicrobial.
   </tr>
 </table>
 
+### Clinical Series vs GuineaDad
+
+GuineaDad makes a popular, affordable bamboo fleece liner, and it's a genuinely good product — it has a ripstop waterproof bottom, naturally antibacterial bamboo, and a signature burrowing pocket many guinea pigs love. The Clinical Series takes a different, more clinical approach. Here's an honest side-by-side:
+
+<table class="comparison-table">
+  <tr>
+    <th>Feature</th>
+    <th>Clinical Series</th>
+    <th>GuineaDad Liner</th>
+  </tr>
+  <tr>
+    <td>Antimicrobial</td>
+    <td>Medical-grade silver ion, woven through <strong>every layer</strong></td>
+    <td>Naturally antibacterial bamboo fiber</td>
+  </tr>
+  <tr>
+    <td>Layers</td>
+    <td>Waterproof base, absorption core, fleece top — all medical-grade</td>
+    <td>Fleece top, absorbent core, ripstop waterproof bottom, burrowing pocket</td>
+  </tr>
+  <tr>
+    <td>Absorption (each brand's stated figure)</td>
+    <td>Up to 10x its weight</td>
+    <td>Up to 3x its weight</td>
+  </tr>
+  <tr>
+    <td>Prep before first use</td>
+    <td>None — pre-activated, absorbs from day one</td>
+    <td>Prewashing recommended; liner shrinks to fit over the first few washes</td>
+  </tr>
+  <tr>
+    <td>Lifespan</td>
+    <td>6+ years</td>
+    <td>Varies with use</td>
+  </tr>
+  <tr>
+    <td>Made</td>
+    <td>Handmade in San Francisco by an exotic veterinary assistant</td>
+    <td>Brand-manufactured</td>
+  </tr>
+  <tr>
+    <td>Price</td>
+    <td>Premium — a one-time investment</td>
+    <td>Budget-friendly</td>
+  </tr>
+</table>
+
+**The honest summary:** if your guinea pig loves a burrowing pocket and you want a budget-friendly liner, GuineaDad is a great pick. The Clinical Series is the premium, fully medical-grade alternative — silver-ion antimicrobial in every layer, higher absorption, no prep washes, and built to last 6+ years. It costs more up front because it's made to clinical standards and handmade to last.
+
 ### Care Instructions
 
 Maintaining your Clinical Series fleece cage liners is simple:
