@@ -1,1 +1,6 @@
-<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async">
+{{- $d := .Destination -}}
+{{- if findRE `(?i)\.(jpe?g|png)$` $d -}}
+<picture><source srcset="{{ printf "%s.webp" $d | safeURL }}" type="image/webp"><img src="{{ $d | safeURL }}" alt="{{ .Text | safeHTML }}"{{ with .Title }} title="{{ . | safeHTML }}"{{ end }} loading="lazy" decoding="async"></picture>
+{{- else -}}
+<img src="{{ $d | safeURL }}" alt="{{ .Text | safeHTML }}"{{ with .Title }} title="{{ . | safeHTML }}"{{ end }} loading="lazy" decoding="async">
+{{- end -}}
