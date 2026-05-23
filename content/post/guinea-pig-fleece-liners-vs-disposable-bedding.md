@@ -65,7 +65,7 @@ Fleece liners are reusable fabric pads that sit on top of an absorbent layer ins
 * Environmentally friendly
 
 **Cons:**
-* Higher upfront cost ($50-315 depending on brand and features)
+* Higher upfront cost ($50-400 depending on brand and features)
 * Requires weekly washing
 * Most brands require 3-5 prep washes before they start wicking (our [Clinical Series liners](/clinical-series-guinea-pig-fleece-cage-liners) are pre-activated — no prep needed)
 
@@ -124,9 +124,9 @@ Let's do the math over 2 years for a standard 2x4 C&C cage:
   </tr>
   <tr class="highlight-row">
     <td>Clinical Series liners</td>
-    <td>$315</td>
+    <td>$400</td>
     <td>$0</td>
-    <td><strong>$315</strong></td>
+    <td><strong>$400</strong></td>
   </tr>
 </table>
 
@@ -163,3 +163,61 @@ If you're ready to make the switch, check out our [Clinical Series Fleece Cage L
 ---
 
 *Have questions about guinea pig bedding or care? Read our [Complete Guinea Pig Care Guide](/post/guinea-pig-care-guide) for everything from housing to diet. Learn the [5 warning signs your guinea pig needs a vet](/post/signs-your-guinea-pig-needs-a-vet). Browse our [Small Pet Resources](/small-mammal-resources) for recommended cages, hay, and supplies. Need a guinea pig sitter in San Francisco? Learn about our [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home).*
+
+## Frequently Asked Questions
+
+<style>
+  .faq-details { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
+  .faq-summary { font-weight: bold; font-size: 1.2em; cursor: pointer; list-style: none; }
+  .faq-summary::-webkit-details-marker { display: none; }
+  .faq-answer { padding-top: 1rem; }
+</style>
+
+<details class="faq-details">
+  <summary class="faq-summary">Are fleece liners cheaper than disposable bedding?</summary>
+  <div class="faq-answer">
+    <p>Yes, over time. Paper and wood bedding cost $240-480 per year, recurring. Over 2 years for a standard 2x4 C&C cage, paper runs $720-960 and wood shavings $480-720. Basic fleece liners total $100-160, and the Clinical Series is a one-time $400 purchase. The upfront cost of fleece pays for itself within months.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">Are fleece liners better for guinea pig respiratory health?</summary>
+  <div class="faq-answer">
+    <p>Yes. Guinea pigs have incredibly sensitive respiratory systems, and dust from wood shavings, phenols from cedar and pine, and ammonia buildup from saturated bedding all contribute to upper respiratory infections. Fleece liners produce zero dust, making them the best option for respiratory health. The Clinical Series goes further with antimicrobial silver ion technology that neutralizes ammonia between washes.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">How long do fleece cage liners last?</summary>
+  <div class="faq-answer">
+    <p>Fleece liners are reusable for 6 or more years, which is what makes their long-term cost dramatically lower than disposable bedding. Paper bedding needs full replacement 1-2 times per week, and the recurring expense adds up month after month. A reusable fleece liner replaces all of that with a single purchase.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">Do fleece liners help prevent bumblefoot?</summary>
+  <div class="faq-answer">
+    <p>Yes. Bumblefoot is a bacterial infection of the foot pad caused by prolonged contact with damp, rough, or dirty surfaces. Guinea pigs standing on wet paper bedding or rough wood shavings are at significantly higher risk. Fleece liners offer a soft surface with the lowest bumblefoot risk and wick moisture away from the surface, keeping feet dry.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">Do fleece liners need to be washed, and do they require prep before use?</summary>
+  <div class="faq-answer">
+    <p>Fleece liners require weekly washing. Most brands also need 3-5 prep washes before they start wicking moisture properly. Our Clinical Series liners are pre-activated, so no prep is needed. By contrast, paper bedding saturates and begins smelling within 2-3 days and needs full replacement 1-2 times per week.</p>
+  </div>
+</details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "Are fleece liners cheaper than disposable bedding?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, over time. Paper and wood bedding cost $240-480 per year, recurring. Over 2 years for a standard 2x4 C&C cage, paper runs $720-960 and wood shavings $480-720. Basic fleece liners total $100-160, and the Clinical Series is a one-time $400 purchase. The upfront cost of fleece pays for itself within months." } },
+    { "@type": "Question", "name": "Are fleece liners better for guinea pig respiratory health?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Guinea pigs have incredibly sensitive respiratory systems, and dust from wood shavings, phenols from cedar and pine, and ammonia buildup from saturated bedding all contribute to upper respiratory infections. Fleece liners produce zero dust, making them the best option for respiratory health. The Clinical Series goes further with antimicrobial silver ion technology that neutralizes ammonia between washes." } },
+    { "@type": "Question", "name": "How long do fleece cage liners last?", "acceptedAnswer": { "@type": "Answer", "text": "Fleece liners are reusable for 6 or more years, which is what makes their long-term cost dramatically lower than disposable bedding. Paper bedding needs full replacement 1-2 times per week, and the recurring expense adds up month after month. A reusable fleece liner replaces all of that with a single purchase." } },
+    { "@type": "Question", "name": "Do fleece liners help prevent bumblefoot?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Bumblefoot is a bacterial infection of the foot pad caused by prolonged contact with damp, rough, or dirty surfaces. Guinea pigs standing on wet paper bedding or rough wood shavings are at significantly higher risk. Fleece liners offer a soft surface with the lowest bumblefoot risk and wick moisture away from the surface, keeping feet dry." } },
+    { "@type": "Question", "name": "Do fleece liners need to be washed, and do they require prep before use?", "acceptedAnswer": { "@type": "Answer", "text": "Fleece liners require weekly washing. Most brands also need 3-5 prep washes before they start wicking moisture properly. Our Clinical Series liners are pre-activated, so no prep is needed. By contrast, paper bedding saturates and begins smelling within 2-3 days and needs full replacement 1-2 times per week." } }
+  ]
+}
+</script>

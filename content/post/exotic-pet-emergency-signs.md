@@ -94,3 +94,61 @@ Please, please do this before you need to. The worst time to search for an exoti
 ---
 
 *Need an experienced exotic pet sitter who can recognize these warning signs? I provide [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home) and [boarding](/home/services/exotic-pet-care-services-boarding) in San Francisco with veterinary-level attention. My background as an [exotic vet assistant](/san-francisco-california-exotic-veterinary-experience) means I know what to watch for — and when to act.*
+
+## Frequently Asked Questions
+
+<style>
+  .faq-details { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
+  .faq-summary { font-weight: bold; font-size: 1.2em; cursor: pointer; list-style: none; }
+  .faq-summary::-webkit-details-marker { display: none; }
+  .faq-answer { padding-top: 1rem; }
+</style>
+
+<details class="faq-details">
+  <summary class="faq-summary">When is a guinea pig not eating an emergency?</summary>
+  <div class="faq-answer">
+    <p>If a guinea pig has not eaten for 12 or more hours, treat it as an emergency. This can indicate GI stasis, which is life-threatening. Other urgent guinea pig signs include audible wheezing or clicking from an upper respiratory infection, bloody urine, a head tilt, and sudden paralysis of the hind legs.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">What is the number one rabbit emergency?</summary>
+  <div class="faq-answer">
+    <p>The number one rabbit emergency is GI stasis, signaled by no droppings for 12 or more hours. Other emergency signs in rabbits include grinding teeth loudly, which indicates severe pain, fly strike (maggots in soiled fur) requiring immediate vet care, sudden head tilt, and labored breathing from a respiratory infection.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">What are emergency warning signs in pet birds?</summary>
+  <div class="faq-answer">
+    <p>Birds hide illness until they physically cannot perch, so a bird sitting on the bottom of the cage and fluffed up is always urgent. Other emergency signs include labored or tail-bobbing breathing, any bleeding, regurgitation onto surfaces, and sudden feather loss or self-mutilation. Birds deteriorate extremely fast, so seek emergency care the same day.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">When should I rush a reptile to the vet?</summary>
+  <div class="faq-answer">
+    <p>Go immediately for a bearded dragon gaping with mucus or showing paralysis or trembling limbs, a snake wheezing or open-mouth breathing, or a turtle bubbling from the nose while swimming. A prolapse, shell fractures, sudden weight loss in geckos, or a soft shell from calcium deficiency also need veterinary attention.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">What should I do in an exotic pet emergency?</summary>
+  <div class="faq-answer">
+    <p>Stay calm, since your stress will stress your pet further. Assess whether the animal is breathing, conscious, or bleeding, then contact an exotic vet, as not all vets see exotics. Keep the animal warm and quiet during transport, unless it is heat stroke. Do not attempt home remedies without vet guidance, as treatments for dogs and cats can be deadly for exotics.</p>
+  </div>
+</details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "When is a guinea pig not eating an emergency?", "acceptedAnswer": { "@type": "Answer", "text": "If a guinea pig has not eaten for 12 or more hours, treat it as an emergency. This can indicate GI stasis, which is life-threatening. Other urgent guinea pig signs include audible wheezing or clicking from an upper respiratory infection, bloody urine, a head tilt, and sudden paralysis of the hind legs." } },
+    { "@type": "Question", "name": "What is the number one rabbit emergency?", "acceptedAnswer": { "@type": "Answer", "text": "The number one rabbit emergency is GI stasis, signaled by no droppings for 12 or more hours. Other emergency signs in rabbits include grinding teeth loudly, which indicates severe pain, fly strike (maggots in soiled fur) requiring immediate vet care, sudden head tilt, and labored breathing from a respiratory infection." } },
+    { "@type": "Question", "name": "What are emergency warning signs in pet birds?", "acceptedAnswer": { "@type": "Answer", "text": "Birds hide illness until they physically cannot perch, so a bird sitting on the bottom of the cage and fluffed up is always urgent. Other emergency signs include labored or tail-bobbing breathing, any bleeding, regurgitation onto surfaces, and sudden feather loss or self-mutilation. Birds deteriorate extremely fast, so seek emergency care the same day." } },
+    { "@type": "Question", "name": "When should I rush a reptile to the vet?", "acceptedAnswer": { "@type": "Answer", "text": "Go immediately for a bearded dragon gaping with mucus or showing paralysis or trembling limbs, a snake wheezing or open-mouth breathing, or a turtle bubbling from the nose while swimming. A prolapse, shell fractures, sudden weight loss in geckos, or a soft shell from calcium deficiency also need veterinary attention." } },
+    { "@type": "Question", "name": "What should I do in an exotic pet emergency?", "acceptedAnswer": { "@type": "Answer", "text": "Stay calm, since your stress will stress your pet further. Assess whether the animal is breathing, conscious, or bleeding, then contact an exotic vet, as not all vets see exotics. Keep the animal warm and quiet during transport, unless it is heat stroke. Do not attempt home remedies without vet guidance, as treatments for dogs and cats can be deadly for exotics." } }
+  ]
+}
+</script>

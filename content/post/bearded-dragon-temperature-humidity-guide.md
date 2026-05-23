@@ -97,3 +97,61 @@ You know your dragon. If something feels off, it probably is. Don't second-guess
 ---
 
 *Going on a trip? I maintain precise temperature gradients, humidity levels, and UVB schedules for every reptile I care for. Learn about my [in-home reptile care](/home/services/exotic-pet-care-services-in-home) and [reptile boarding](/home/services/exotic-pet-care-services-boarding) in San Francisco. Read more: [How to Prepare Your Reptile for Pet Sitting](/post/how-to-prepare-your-reptile-for-pet-sitting).*
+
+## Frequently Asked Questions
+
+<style>
+  .faq-details { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
+  .faq-summary { font-weight: bold; font-size: 1.2em; cursor: pointer; list-style: none; }
+  .faq-summary::-webkit-details-marker { display: none; }
+  .faq-answer { padding-top: 1rem; }
+</style>
+
+<details class="faq-details">
+  <summary class="faq-summary">What basking temperature does a bearded dragon need?</summary>
+  <div class="faq-answer">
+    <p>A bearded dragon needs a basking spot of 100-110°F (38-43°C) at the hot end of the enclosure. They are desert reptiles that require a clear temperature gradient, so the warm side ambient should sit around 90-95°F (32-35°C) and the cool side around 80-85°F (27-29°C), letting the dragon thermoregulate by moving between zones.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">What temperature should a bearded dragon tank be at night?</summary>
+  <div class="faq-answer">
+    <p>At night the entire tank can drop to 65-75°F (18-24°C). In San Francisco, where indoor temperatures hover around 60-68°F, you will likely need a ceramic heat emitter for nighttime warmth, especially in foggier districts like the Outer Sunset, Richmond, or Parkside, to keep the enclosure within that range.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">What humidity level is ideal for a bearded dragon?</summary>
+  <div class="faq-answer">
+    <p>Bearded dragons need low humidity, with 30-40% relative humidity being ideal. San Francisco's natural humidity averages 70-80%, so you must actively manage it. Use a screen-top enclosure for ventilation, avoid bathrooms and kitchens, run a dehumidifier if needed, and do not mist the enclosure, since high humidity causes respiratory and skin infections.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">Do bearded dragons need UVB lighting?</summary>
+  <div class="faq-answer">
+    <p>Yes. Bearded dragons require 10-12 hours of full-spectrum UVB lighting daily to metabolize calcium. Without it they develop metabolic bone disease, causing soft bones, tremors, and eventually paralysis. Use a tube-style T5 or T8 UVB bulb spanning two-thirds of the enclosure, replace it every 6 months, and remember UVB does not pass through glass.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">How does San Francisco's climate affect a bearded dragon setup?</summary>
+  <div class="faq-answer">
+    <p>San Francisco's cool, foggy climate works against bearded dragons. Indoor temperatures around 60-68°F are well below what they need, so you may need a ceramic heat emitter and a higher-wattage basking bulb. Local humidity averages 70-80% versus the ideal 30-40%, so you must actively dehumidify, and respiratory infections are a known Bay Area risk.</p>
+  </div>
+</details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "What basking temperature does a bearded dragon need?", "acceptedAnswer": { "@type": "Answer", "text": "A bearded dragon needs a basking spot of 100-110°F (38-43°C) at the hot end of the enclosure. They are desert reptiles that require a clear temperature gradient, so the warm side ambient should sit around 90-95°F (32-35°C) and the cool side around 80-85°F (27-29°C), letting the dragon thermoregulate by moving between zones." } },
+    { "@type": "Question", "name": "What temperature should a bearded dragon tank be at night?", "acceptedAnswer": { "@type": "Answer", "text": "At night the entire tank can drop to 65-75°F (18-24°C). In San Francisco, where indoor temperatures hover around 60-68°F, you will likely need a ceramic heat emitter for nighttime warmth, especially in foggier districts like the Outer Sunset, Richmond, or Parkside, to keep the enclosure within that range." } },
+    { "@type": "Question", "name": "What humidity level is ideal for a bearded dragon?", "acceptedAnswer": { "@type": "Answer", "text": "Bearded dragons need low humidity, with 30-40% relative humidity being ideal. San Francisco's natural humidity averages 70-80%, so you must actively manage it. Use a screen-top enclosure for ventilation, avoid bathrooms and kitchens, run a dehumidifier if needed, and do not mist the enclosure, since high humidity causes respiratory and skin infections." } },
+    { "@type": "Question", "name": "Do bearded dragons need UVB lighting?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Bearded dragons require 10-12 hours of full-spectrum UVB lighting daily to metabolize calcium. Without it they develop metabolic bone disease, causing soft bones, tremors, and eventually paralysis. Use a tube-style T5 or T8 UVB bulb spanning two-thirds of the enclosure, replace it every 6 months, and remember UVB does not pass through glass." } },
+    { "@type": "Question", "name": "How does San Francisco's climate affect a bearded dragon setup?", "acceptedAnswer": { "@type": "Answer", "text": "San Francisco's cool, foggy climate works against bearded dragons. Indoor temperatures around 60-68°F are well below what they need, so you may need a ceramic heat emitter and a higher-wattage basking bulb. Local humidity averages 70-80% versus the ideal 30-40%, so you must actively dehumidify, and respiratory infections are a known Bay Area risk." } }
+  ]
+}
+</script>

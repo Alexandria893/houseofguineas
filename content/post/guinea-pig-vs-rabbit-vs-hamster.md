@@ -128,3 +128,61 @@ If you're leaning toward a guinea pig, our [guinea pig adoption guide](/post/gui
 ## Ready to Learn More?
 
 If you're leaning toward a guinea pig (and honestly, I hope you are), start with our [complete guinea pig care guide](/post/guinea-pig-care-guide). You can also browse our [small mammal resources page](/small-mammal-resources) for recommended products, enclosures, and supplies. And if you're in the San Francisco Bay Area, check out our [pet care services](/services) — we offer in-home visits for guinea pigs, rabbits, and other exotic pets.
+
+## Frequently Asked Questions
+
+<style>
+  .faq-details { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
+  .faq-summary { font-weight: bold; font-size: 1.2em; cursor: pointer; list-style: none; }
+  .faq-summary::-webkit-details-marker { display: none; }
+  .faq-answer { padding-top: 1rem; }
+</style>
+
+<details class="faq-details">
+  <summary class="faq-summary">Which small pet is best for families with kids?</summary>
+  <div class="faq-answer">
+    <p>Guinea pigs are one of the best small pets for families with supervised children. They are gentle and rarely bite, and they are active during the day so kids can actually interact with them. Hamsters are not ideal for young children because they are small, fast, fragile, easy to drop, and can nip when startled or woken during the day.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">Do guinea pigs need a companion?</summary>
+  <div class="faq-answer">
+    <p>Yes. Guinea pigs must be kept in pairs or groups. A single guinea pig is a lonely guinea pig, and loneliness causes real health problems in this species. If you adopt guinea pigs, plan to adopt in pairs because they truly need each other. By contrast, most hamster species are solitary and should never be housed together.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">How long do guinea pigs, rabbits, and hamsters live?</summary>
+  <div class="faq-answer">
+    <p>Lifespans differ quite a bit across the three. Guinea pigs typically live 5 to 7 years. Rabbits are the longest-lived, with many indoor rabbits reaching 10 to 12 years, which is a serious commitment closer to a cat. Hamsters have the shortest lifespan at just 2 to 3 years, making them a much shorter commitment.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">Are hamsters good first pets for young kids?</summary>
+  <div class="faq-answer">
+    <p>Not really. Hamsters are nocturnal, so they sleep during the day and run on their wheel at night, which means they will just be waking up when you are winding down in the evening. They are also small, fast, fragile, and easy to drop, and they can nip when startled. They suit an older kid or adult who enjoys observing rather than handling.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">Which small pet is the most work to care for?</summary>
+  <div class="faq-answer">
+    <p>Rabbits are the most demanding of the three. Spaying or neutering is essentially required, with surgery costing $200 to $500. They have the most fragile digestive system, where GI stasis can become life-threatening within hours. They also need the most space, a minimum of 12 square feet plus daily free-roam time. Hamsters have the lowest space and cost requirements.</p>
+  </div>
+</details>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "Which small pet is best for families with kids?", "acceptedAnswer": { "@type": "Answer", "text": "Guinea pigs are one of the best small pets for families with supervised children. They are gentle and rarely bite, and they are active during the day so kids can actually interact with them. Hamsters are not ideal for young children because they are small, fast, fragile, easy to drop, and can nip when startled or woken during the day." } },
+    { "@type": "Question", "name": "Do guinea pigs need a companion?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Guinea pigs must be kept in pairs or groups. A single guinea pig is a lonely guinea pig, and loneliness causes real health problems in this species. If you adopt guinea pigs, plan to adopt in pairs because they truly need each other. By contrast, most hamster species are solitary and should never be housed together." } },
+    { "@type": "Question", "name": "How long do guinea pigs, rabbits, and hamsters live?", "acceptedAnswer": { "@type": "Answer", "text": "Lifespans differ quite a bit across the three. Guinea pigs typically live 5 to 7 years. Rabbits are the longest-lived, with many indoor rabbits reaching 10 to 12 years, which is a serious commitment closer to a cat. Hamsters have the shortest lifespan at just 2 to 3 years, making them a much shorter commitment." } },
+    { "@type": "Question", "name": "Are hamsters good first pets for young kids?", "acceptedAnswer": { "@type": "Answer", "text": "Not really. Hamsters are nocturnal, so they sleep during the day and run on their wheel at night, which means they will just be waking up when you are winding down in the evening. They are also small, fast, fragile, and easy to drop, and they can nip when startled. They suit an older kid or adult who enjoys observing rather than handling." } },
+    { "@type": "Question", "name": "Which small pet is the most work to care for?", "acceptedAnswer": { "@type": "Answer", "text": "Rabbits are the most demanding of the three. Spaying or neutering is essentially required, with surgery costing $200 to $500. They have the most fragile digestive system, where GI stasis can become life-threatening within hours. They also need the most space, a minimum of 12 square feet plus daily free-roam time. Hamsters have the lowest space and cost requirements." } }
+  ]
+}
+</script>
