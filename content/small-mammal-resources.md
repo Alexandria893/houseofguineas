@@ -96,6 +96,29 @@ Discover House of Guinea's patent pending Clinical Series fleece cage liners —
   </a>
 </div>
 
+## Frequently Asked Questions
+
+<style>
+  .faq-details { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
+  .faq-summary { font-weight: bold; font-size: 1.2em; cursor: pointer; list-style: none; }
+  .faq-summary::-webkit-details-marker { display: none; }
+  .faq-answer { padding-top: 1rem; }
+</style>
+
+<details class="faq-details">
+  <summary class="faq-summary">Are fleece liners better than disposable bedding for guinea pigs?</summary>
+  <div class="faq-answer">
+    <p>Fleece liners are healthier and more cost-effective than disposable bedding. They wick moisture away from your guinea pig's skin (reducing bumblefoot and UTI risk), produce zero dust (protecting respiratory health), and a pair lasts 6+ years — saving money compared to monthly disposable bedding costs of $20-40.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">What is the best hay for guinea pigs, rabbits and chinchillas?</summary>
+  <div class="faq-answer">
+    <p>Fresh timothy hay should make up about 80% of a guinea pig, rabbit, or chinchilla's diet. It is essential for proper digestion, dental health (their teeth grow continuously), and preventing boredom. Choose a reputable source like Small Pet Select to ensure the hay is free from dust and mold.</p>
+  </div>
+</details>
+
 <div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
   <p style="font-size: 1.1em;"><strong>Ready to create your perfect care plan?</strong></p>
   <p>

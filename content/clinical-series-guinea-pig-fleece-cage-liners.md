@@ -168,7 +168,7 @@ Every layer is medical-grade. Every layer is antimicrobial.
     <td>$20-40/month</td>
   </tr>
   <tr>
-    <td>Annual Cost</td>
+    <td>First-Year Cost</td>
     <td>$400 one-time (includes 2 liners)</td>
     <td>$240-480/year, recurring</td>
   </tr>
