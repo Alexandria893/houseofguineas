@@ -4,7 +4,7 @@ shortTitle = "Why Choose an Exotic Vet Assistant?"
 description = "Why hire an exotic vet assistant for your pet? Specialized reptile, bird and small mammal care in San Francisco from a trained veterinary professional."
 og_image = "Kai.jpg"
 [menu.main]
-  parent = "resources"
+  parent = "about"
 weight = 1
 [sitemap]
   priority = 0.7

@@ -61,5 +61,9 @@ Rabbit owners — we have species-specific pages for [San Francisco](/rabbit-sit
 
 {{< travel-zone-map >}}
 
-*Leaving town with a reptile at home? Read our guide on [how to prepare your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting). Own guinea pigs? Learn why [fleece liners are better than disposable bedding](/post/guinea-pig-fleece-liners-vs-disposable-bedding).*
+## Ready to book in-home care for your pet?
+
+[Call or text us at 415-484-6493](tel:415-484-6493) and we will get a free meet-and-greet on the calendar — tell us your species, your neighborhood, and your travel dates, and we will quote you honestly. You can also browse the full [FAQ page](/home/services/faqs/) or, if you are still getting set up with a local vet, our [Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians/).
+
+*Leaving town with a reptile at home? Read our guide on [how to prepare your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting). Wondering about rates? See [how much exotic pet sitting costs in SF & the Peninsula](/post/exotic-pet-sitting-cost-san-francisco/). Own guinea pigs? Learn why [fleece liners are better than disposable bedding](/post/guinea-pig-fleece-liners-vs-disposable-bedding).*
 

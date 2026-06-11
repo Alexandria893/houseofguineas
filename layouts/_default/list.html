@@ -8,6 +8,12 @@
 		<div class="row topspace">
 			<div class="col-sm-8 col-sm-offset-2">
 
+        {{ if and .Content (eq .Paginator.PageNumber 1) }}
+        <div class="list-intro">
+          {{ .Content }}
+        </div>
+        {{ end }}
+
         {{ range .Paginator.Pages }}
 				<article class="post blog-card">
 					<header class="entry-header">
