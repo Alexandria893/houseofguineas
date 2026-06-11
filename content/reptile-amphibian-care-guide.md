@@ -3,9 +3,6 @@ title = "Reptile & Amphibian Care Guide | San Francisco Exotic Pet Care"
 shortTitle = "Reptile & Amphibian Care Guide"
 description = "Reptile and amphibian care guide from a San Francisco exotic vet assistant. Species-specific care for bearded dragons, snakes, geckos, turtles and axolotls."
 og_image = "HappilyHoldingSnake.jpg"
-[menu.main]
-  parent = "resources"
-weight = 4
 [sitemap]
   priority = 0.8
 +++
