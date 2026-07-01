@@ -158,7 +158,7 @@ I'll be honest — I'm biased here, because I designed the Clinical Series speci
 
 Milo, Luca, Coco, and Kai have been my test crew through every prototype and iteration. They've given me very honest feedback (guinea pigs are not subtle about what they don't like). The result is a liner I feel genuinely proud of.
 
-If you're ready to make the switch, check out our [Clinical Series Fleece Cage Liners](/clinical-series-guinea-pig-fleece-cage-liners) — a pre-activated, antimicrobial all-in-one guinea pig liner.
+If you're ready to make the switch, check out our [Clinical Series Fleece Cage Liners](/clinical-series-guinea-pig-fleece-cage-liners) — the only pre-activated, antimicrobial all-in-one guinea pig liner.
 
 ---
 

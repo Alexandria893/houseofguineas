@@ -1,7 +1,7 @@
 +++
 title = "Clinical Series Fleece Liners — All-in-One & Antimicrobial"
 shortTitle = "Clinical Series Fleece Liners"
-description = "The only all-in-one, washable guinea pig fleece liner for 2x4 C&C cages — entirely medical-grade, antimicrobial fabric with silver ion technology throughout. Pre-activated, no prep washes. $400 for two liners that last 6+ years. Handmade in SF."
+description = "The only pre-activated, all-in-one guinea pig fleece liner for 2x4 C&C cages — entirely medical-grade, antimicrobial fabric with silver ion technology throughout. Pre-activated, no prep washes. $400 for two liners that last 6+ years. Handmade in SF."
 type = "product"
 [params]
   og_image = "clinical-series-brand.jpg"
@@ -53,7 +53,7 @@ weight = 3
   }
 </style>
 
-## The Only All-in-One Guinea Pig Fleece Liner
+## The Only Pre-Activated, All-in-One Guinea Pig Liner
 
 **Stop buying separate fleece liners, pee pads, and waterproof bases.** The House of Guineas Clinical Series is a single, all-in-one, patent-pending guinea pig fleece liner with every layer built in — waterproof base, medical-grade absorption core, and soft fleece top. The entire liner is antimicrobial, with silver ion technology throughout that inhibits odor-causing bacteria. Pre-activated and ready to use from day one. No prep washes, no piecing together parts from different brands.
 

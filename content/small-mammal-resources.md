@@ -38,7 +38,7 @@ Discover House of Guinea's patent pending Clinical Series fleece cage liners —
   <p>
    We want to make sure our little guineas stay as healthy as they can be, and this starts with the right guinea pig bedding in their main housing.
 
-   Stop buying separate fleece liners, pee pads, and waterproof bases. The Clinical Series is an **all-in-one guinea pig fleece liner** — every layer is built into a single product. The entire fabric is medical-grade and antimicrobial, with silver ion technology throughout that inhibits odor-causing bacteria and wicks moisture away from your pet's skin. A safer, more cost-effective alternative to disposable **guinea pig bedding** and multi-piece fleece setups.
+   Stop buying separate fleece liners, pee pads, and waterproof bases. The Clinical Series is the only **pre-activated, all-in-one guinea pig fleece liner** — every layer is built into a single product. The entire fabric is medical-grade and antimicrobial, with silver ion technology throughout that inhibits odor-causing bacteria and wicks moisture away from your pet's skin. A safer, more cost-effective alternative to disposable **guinea pig bedding** and multi-piece fleece setups.
   </p>
   <ul>
     <li><strong>All-in-one:</strong> Waterproof base, absorption core, and fleece top — entirely antimicrobial throughout, nothing else to buy</li>
