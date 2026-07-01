@@ -66,7 +66,7 @@ Our base rates are straightforward:
 - **60-minute visits** start at **$115**
 - **Routine 2x/day care** ranges from **$140–$190/day** depending on species, number of pets, and visit length
 
-San Mateo falls within our Peninsula service tier. Travel surcharge varies depending on our specialists' availability and your specific location within San Mateo — clients near Hillsdale Mall or downtown off the 101/92 junction often see lower surcharges than more distant pockets. [Call or text us at 415-484-6493](tel:415-484-6493) for a quote specific to your address and pet lineup.
+San Mateo falls within our Peninsula service tier. A travel surcharge of $15–$25/visit applies, depending on distance — clients near Hillsdale Mall or downtown off the 101/92 junction often see lower surcharges than more distant pockets. [Call or text us at 415-484-6493](tel:415-484-6493) for a quote specific to your address and pet lineup.
 
 If you'd prefer drop-off boarding instead of in-home visits, our [boarding service](/home/services/exotic-pet-care-services-boarding) is hosted separately at Alexandria's San Francisco location — San Mateo clients are welcome to drop off any time.
 
@@ -98,7 +98,7 @@ If you'd prefer drop-off boarding instead of in-home visits, our [boarding servi
 <details class="faq-details">
   <summary class="faq-summary">Do you travel to San Mateo for exotic pet visits?</summary>
   <div class="faq-answer">
-    <p>Yes. Our team travels from San Francisco to San Mateo via the 101 and 280 corridors. We serve neighborhoods across San Mateo including Aragon, Baywood Park, Hillsdale, Bay Meadows, Hayward Park, and Shoreview. Travel surcharge varies depending on our specialists' availability and your specific location within San Mateo. <a href="tel:415-484-6493">Text or call us at 415-484-6493</a> for a custom quote.</p>
+    <p>Yes. Our team travels from San Francisco to San Mateo via the 101 and 280 corridors. We serve neighborhoods across San Mateo including Aragon, Baywood Park, Hillsdale, Bay Meadows, Hayward Park, and Shoreview. A travel surcharge of $15–$25/visit applies, depending on distance. <a href="tel:415-484-6493">Text or call us at 415-484-6493</a> to book.</p>
   </div>
 </details>
 
@@ -126,7 +126,7 @@ If you'd prefer drop-off boarding instead of in-home visits, our [boarding servi
 <details class="faq-details">
   <summary class="faq-summary">What does in-home exotic pet sitting in San Mateo cost?</summary>
   <div class="faq-answer">
-    <p>30-minute visits start at $85 and 60-minute visits start at $115. Most clients booking routine twice-daily care fall between $140 and $190 per day depending on species, number of pets, and visit length. San Mateo is in our Peninsula service tier, so travel surcharge varies depending on our specialists' availability and your specific location within San Mateo. <a href="tel:415-484-6493">Reach out</a> with your neighborhood and pet list for an exact quote.</p>
+    <p>30-minute visits start at $85 and 60-minute visits start at $115. Most clients booking routine twice-daily care fall between $140 and $190 per day depending on species, number of pets, and visit length. San Mateo is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. <a href="tel:415-484-6493">Reach out</a> with your neighborhood and pet list for an exact quote.</p>
   </div>
 </details>
 
@@ -144,7 +144,7 @@ Ready to set up care? [Call or text us at 415-484-6493](tel:415-484-6493) and we
       "name": "Do you travel to San Mateo for exotic pet visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Our team travels from San Francisco to San Mateo via the 101 and 280 corridors. We serve neighborhoods across San Mateo including Aragon, Baywood Park, Hillsdale, Bay Meadows, Hayward Park, and Shoreview. Travel surcharge varies depending on our specialists' availability and your specific location within San Mateo. Text or call us at 415-484-6493 for a custom quote."
+        "text": "Yes. Our team travels from San Francisco to San Mateo via the 101 and 280 corridors. We serve neighborhoods across San Mateo including Aragon, Baywood Park, Hillsdale, Bay Meadows, Hayward Park, and Shoreview. A travel surcharge of $15–$25/visit applies, depending on distance. Text or call us at 415-484-6493 to book."
       }
     },
     {
@@ -176,7 +176,7 @@ Ready to set up care? [Call or text us at 415-484-6493](tel:415-484-6493) and we
       "name": "What does in-home exotic pet sitting in San Mateo cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $85 and 60-minute visits start at $115. Most clients booking routine twice-daily care fall between $140 and $190 per day depending on species, number of pets, and visit length. San Mateo is in our Peninsula service tier, so travel surcharge varies depending on our specialists' availability and your specific location within San Mateo."
+        "text": "30-minute visits start at $85 and 60-minute visits start at $115. Most clients booking routine twice-daily care fall between $140 and $190 per day depending on species, number of pets, and visit length. San Mateo is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
       }
     }
   ]

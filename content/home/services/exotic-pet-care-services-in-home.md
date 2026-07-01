@@ -27,10 +27,10 @@ Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas
 <!--more-->
  
 ## Benefits of In-Home Reptile & Exotic Pet Sitting
-From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals — including rabbits, guinea pigs, chinchillas, ferrets, and hamsters — we help prevent stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; as [exotic veterinary assistants](/san-francisco-california-exotic-veterinary-experience), our team keeps your pet's world consistent while you're away. 
+From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals — including rabbits, guinea pigs, chinchillas, ferrets, and hamsters — we help prevent stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; led by an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), our team keeps your pet's world consistent while you're away. 
 
 ### Bird Care
-Cockatiels, parakeets, conures, parrotlets, lovebirds, finches and most companion parrots — birds are a core part of what we do, not a stretch service. We handle daily fresh chop preparation, pellet measurement, water tower changes, full cage and grate cleaning, and out-of-cage time for birds with established free-flight routines. Our team is trained to recognize the early signs of crop issues, respiratory infections, and egg binding. Alexandria worked as an exotic veterinary assistant at [Bay Area Bird & Exotics Hospital](https://www.birdandexoticsvet.com), and our staff bring veterinary assistant experience of their own — so avian care is rooted in clinical exposure, not guesswork. See our [bird care guide](/bird-care-guide/) for species-specific guidance.
+Cockatiels, parakeets, conures, parrotlets, lovebirds, finches and most companion parrots — birds are a core part of what we do, not a stretch service. We handle daily fresh chop preparation, pellet measurement, water tower changes, full cage and grate cleaning, and out-of-cage time for birds with established free-flight routines. Our team is trained to recognize the early signs of crop issues, respiratory infections, and egg binding. Alexandria worked as an exotic veterinary assistant at [Bay Area Bird & Exotics Hospital](https://www.birdandexoticsvet.com), and our specialists are trained to identify critical health issues in the animals they care for — so avian care is rooted in real preparation, not guesswork. See our [bird care guide](/bird-care-guide/) for species-specific guidance.
 
 ### Routine Visits (2x/day)
 * **30 minutes:** $140/day ($70/visit) <!-- prev 60/120 for 30 and  155 for 30/+60/165 -->
@@ -42,7 +42,7 @@ Cockatiels, parakeets, conures, parrotlets, lovebirds, finches and most companio
 * **30 minutes:** $85/visit 
 * **60 minutes:** $115/visit
 
-***Pet Care:*** Your pet will receive dedicated love and attention, including species-specific feeding, fresh water, medication administration — oral, topical, or subcutaneous injections if needed — and enrichment.
+***Pet Care:*** Your pet will receive dedicated love and attention, including species-specific feeding, fresh water, medication administration — oral or topical medication, coordinated with your vet — and enrichment.
 
 ***Home Care:*** Visits include general home upkeep such as tidying pet areas, plant care, and mail/package retrieval. We can also alternate lights and blinds upon request to maintain a lived-in appearance.
 
@@ -57,13 +57,13 @@ Peninsula residents — see our dedicated pages for [Burlingame](/burlingame-exo
 
 Rabbit owners — we have species-specific pages for [San Francisco](/rabbit-sitter-san-francisco/), [Burlingame](/rabbit-sitter-burlingame/), [San Mateo](/rabbit-sitter-san-mateo/), and [Foster City](/rabbit-sitter-foster-city/) rabbit sitting.
 
-* Additional travel rates **start at $15/visit** (rates depend on our specialists' availability and your location) if you're outside the [primary travel area.](/home/services/faqs/#service-areas)
+* Peninsula travel surcharge: **$15–$25/visit** depending on distance from our Inner Sunset base (no surcharge within San Francisco). See our [service areas](/home/services/faqs/#service-areas)
 
 {{< travel-zone-map >}}
 
 ## Ready to book in-home care for your pet?
 
-[Call or text us at 415-484-6493](tel:415-484-6493) and we will get a free meet-and-greet on the calendar — tell us your species, your neighborhood, and your travel dates, and we will quote you honestly. You can also browse the full [FAQ page](/home/services/faqs/) or, if you are still getting set up with a local vet, our [Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians/).
+[Call or text us at 415-484-6493](tel:415-484-6493) and we will get a free meet-and-greet on the calendar — tell us your species, your neighborhood, and your travel dates, and we will confirm your rate. You can also browse the full [FAQ page](/home/services/faqs/) or, if you are still getting set up with a local vet, our [Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians/).
 
 *Leaving town with a reptile at home? Read our guide on [how to prepare your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting). Wondering about rates? See [how much exotic pet sitting costs in SF & the Peninsula](/post/exotic-pet-sitting-cost-san-francisco/). Own guinea pigs? Learn why [fleece liners are better than disposable bedding](/post/guinea-pig-fleece-liners-vs-disposable-bedding).*
 

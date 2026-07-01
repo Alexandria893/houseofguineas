@@ -7,21 +7,21 @@ og_image = "milo.jpeg"
   priority = 0.9
 +++
 
-Finding someone to care for an exotic pet in San Francisco is harder than it should be. Most sitters are set up for dogs and cats — not a bonded pair of rabbits, a bearded dragon on a specific UVB schedule, or a parrot who only settles when someone whistles back. House of Guineas Pet Care exists to close that gap. We are San Francisco's exotic-only pet care service: rabbits, guinea pigs, chinchillas, ferrets, reptiles and birds are *all* we do.
+Finding someone to care for an exotic pet in San Francisco is harder than it should be. Most sitters are set up for dogs and cats — not a bonded pair of rabbits, a bearded dragon on a specific UVB schedule, or a parrot who only settles when someone whistles back. House of Guineas Pet Care exists to close that gap. We are the only professional pet care company on this side of the Bay that exclusively caters to, serves, and cares for exotic pets — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds.
 
 We are based in the Inner Sunset, and we offer San Francisco pet owners two ways to get care — **in-home visits** from our team of exotic specialists, or **overnight boarding** hosted personally by our founder, Alexandria, at her San Francisco home. Both are built around clinical experience, not guesswork.
 
 ## Why San Francisco Exotic Pet Owners Choose Us
 
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society in Richmond, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
-- **Species specialization.** We do not sit dogs and cats. This focus — rabbits, rodents, reptiles, and birds — is genuinely hard to find in San Francisco, where most pet sitters treat exotics as an afterthought.
+- **Species specialization.** Our focus on exotic pets and cats — rabbits, rodents, reptiles, and birds — is genuinely hard to find in San Francisco, where most pet sitters treat exotics as an afterthought.
 - **Clinical-grade care.** We can syringe-feed a GI-stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity and UVB, and recognize the early signs of a crop problem in a parrot. We also know the city's exotic-vet landscape — see our [San Francisco Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians) — so if something goes sideways while you are away, we know exactly where to go.
 - **Two service options, one standard of care.** Want your pet to stay in their own environment? Book in-home visits. Prefer hands-on overnight supervision? Board with Alexandria at her SF home. Either way you get the same species-specific attention.
 
 ## Exotic Species We Care For in San Francisco
 
 - **Small mammals** — rabbits (including bonded pairs and trios), guinea pigs, chinchillas, ferrets, hamsters, rats, degus, hedgehogs
-- **Reptiles** — bearded dragons, leopard geckos, crested geckos, ball pythons and other non-venomous snakes, turtles and tortoises
+- **Reptiles** — bearded dragons, leopard geckos, crested geckos, turtles and tortoises
 - **Birds** — parrots, cockatiels, conures, budgies, lovebirds, finches
 
 If your species is not listed, [call or text us](tel:415-484-6493) — if we have not handled it, we will tell you honestly and usually point you to someone who has.
@@ -39,11 +39,15 @@ Either way, if something seems off, we reach out before you are back.
 
 We provide in-home exotic pet care across the city, including:
 
-- Inner Sunset, Outer Sunset, and Parkside
+- The [Sunset District](/sunset-district-exotic-pet-sitter/) (Inner and Outer Sunset) and Parkside
 - Cole Valley and Haight-Ashbury
-- Richmond District and the Forest Hill area
-- Noe Valley, the Castro, and the Mission District
-- Pacific Heights, the Marina District, and SOMA
+- The [Richmond District](/richmond-district-exotic-pet-sitter/) and the Forest Hill area
+- [Noe Valley](/noe-valley-exotic-pet-sitter/), [the Castro](/castro-exotic-pet-sitter/), and [the Mission District](/mission-district-exotic-pet-sitter/)
+- Pacific Heights, the Marina District, and [SOMA](/soma-exotic-pet-sitter/)
+
+Just outside the city, we also serve [Daly City](/daly-city-exotic-pet-sitter/), [San Bruno](/san-bruno-exotic-pet-sitter/), and [Pacifica](/pacifica-exotic-pet-sitter/) to the south.
+
+Looking for a species specialist? See our [reptile sitter](/reptile-pet-sitter-san-francisco/) and [guinea pig & small-mammal sitter](/guinea-pig-sitter-san-francisco/) pages.
 
 If your neighborhood is not on the list, it is almost certainly still covered — [text us your address](tel:415-484-6493) and we will confirm.
 
@@ -54,7 +58,7 @@ If your neighborhood is not on the list, it is almost certainly still covered �
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 - **Boarding** at our SF home is **$75/night**
 
-San Francisco is our **primary service area, so no travel surcharge applies** — that is reserved for Peninsula visits. [Text us your dates](tel:415-484-6493) and we will quote you honestly.
+San Francisco is our **primary service area, so no travel surcharge applies** — that is reserved for Peninsula visits. [Text us your dates](tel:415-484-6493) and we will confirm your rate.
 
 ## Frequently Asked Questions
 
@@ -98,14 +102,14 @@ San Francisco is our **primary service area, so no travel surcharge applies** �
 <details class="faq-details">
   <summary class="faq-summary">What exotic species do you care for?</summary>
   <div class="faq-answer">
-    <p>Rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats and other small mammals; reptiles including bearded dragons, geckos, snakes, turtles and tortoises; and birds from budgies and cockatiels to parrots. We are exotic-only — we do not sit dogs or cats, except for households that also have exotics. Rabbit owners can also see our dedicated <a href="/rabbit-sitter-san-francisco/">San Francisco rabbit sitter</a> page.</p>
+    <p>Rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats and other small mammals; reptiles including bearded dragons, geckos, snakes, turtles and tortoises; and birds from budgies and cockatiels to parrots. Rabbit owners can also see our dedicated <a href="/rabbit-sitter-san-francisco/">San Francisco rabbit sitter</a> page.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, subcutaneous fluids (with vet direction), topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. Share the protocol at the meet-and-greet and we will match the schedule exactly. For warning signs, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
+    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. Share the protocol at the meet-and-greet and we will match the schedule exactly. For warning signs, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
   </div>
 </details>
 
@@ -146,7 +150,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What exotic species do you care for?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats and other small mammals; reptiles including bearded dragons, geckos, snakes, turtles and tortoises; and birds from budgies and cockatiels to parrots. We are exotic-only — we do not sit dogs or cats, except for households that also have exotics."
+        "text": "Rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats and other small mammals; reptiles including bearded dragons, geckos, snakes, turtles and tortoises; and birds from budgies and cockatiels to parrots."
       }
     },
     {
@@ -154,7 +158,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, subcutaneous fluids (with vet direction), topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. Share the protocol at the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. Share the protocol at the meet-and-greet and we will match the schedule exactly."
       }
     },
     {

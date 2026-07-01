@@ -1,7 +1,7 @@
 +++
 title = "Clinical Series Fleece Liners — All-in-One & Antimicrobial"
 shortTitle = "Clinical Series Fleece Liners"
-description = "The only all-in-one, washable guinea pig fleece liner for 2x4 C&C cages — entirely medical-grade, antimicrobial fabric with silver ion technology throughout. Pre-activated, no prep washes. $400 for two liners that last 6+ years. Handmade in SF."
+description = "The only pre-activated, all-in-one guinea pig fleece liner for 2x4 C&C cages — entirely medical-grade, antimicrobial fabric with silver ion technology throughout. Pre-activated, no prep washes. $465 for two liners that last 6+ years. Handmade in SF."
 type = "product"
 [params]
   og_image = "clinical-series-brand.jpg"
@@ -53,11 +53,11 @@ weight = 3
   }
 </style>
 
-## The Only All-in-One Guinea Pig Fleece Liner
+## The Only Pre-Activated, All-in-One Guinea Pig Liner
 
-**Stop buying separate fleece liners, pee pads, and waterproof bases.** The House of Guineas Clinical Series is a single, all-in-one, patent-pending guinea pig fleece liner with every layer built in — waterproof base, medical-grade absorption core, and soft fleece top. The entire liner is antimicrobial, with silver ion technology throughout that neutralizes ammonia and inhibits bacteria. Pre-activated and ready to use from day one. No prep washes, no piecing together parts from different brands.
+**Stop buying separate fleece liners, pee pads, and waterproof bases.** The House of Guineas Clinical Series is a single, all-in-one, patent-pending guinea pig fleece liner with every layer built in — waterproof base, medical-grade absorption core, and soft fleece top. The entire liner is antimicrobial, with silver ion technology throughout that inhibits odor-causing bacteria. Pre-activated and ready to use from day one. No prep washes, no piecing together parts from different brands.
 
-**$400 for two complete liners** — about **$67 a year** over their 6+ year lifespan, next to the **$240–480 you would spend on disposable bedding every single year**. Both liners are machine-washable and reusable, so one stays in the cage while the other is in the wash. Designed by an exotic veterinary assistant with an engineering background. Handmade in San Francisco.
+**$465 for two complete liners** — about **$78 a year** over their 6+ year lifespan, next to the **$240–480 you would spend on disposable bedding every single year**. Both liners are machine-washable and reusable, so one stays in the cage while the other is in the wash. Designed by an exotic veterinary assistant with an engineering background. Handmade in San Francisco.
 
 <div class="text-center" style="margin: 1.5rem 0;">
   <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="btn btn-lg btn-cta-primary" target="_blank" rel="noopener noreferrer">Order Your Liners</a>
@@ -65,8 +65,7 @@ weight = 3
 </div>
 
 <div class="text-center" style="margin: 1.5rem 0;">
-  <img src="/cost-comparison.svg" alt="Cost comparison: Clinical Series fleece liners are $400 once and last 6+ years, versus $240–480 every year for disposable bedding" style="max-width: 100%; height: auto;" loading="lazy" />
-  <p style="font-size: 13px; color: #6B5E52; margin-top: 6px;">$400 once — about $67/year over 6+ years — versus $240–480 <em>every</em> year for disposable bedding.</p>
+  <img src="/cost-comparison.svg?v=2" alt="Do the math: House of Guineas Clinical Series liners are $465 one time (about $78/year over 6+ years) versus $240–480 every year for disposable paper or wood bedding — pays for itself in about 1.5 years" style="max-width: 100%; height: auto;" loading="lazy" />
 </div>
 
 ![Guinea pig on a Clinical Series fleece cage liner in a 2x4 C&C cage with enrichment toys](/clinical-series-inuse.jpg)
@@ -92,7 +91,7 @@ weight = 3
   </tr>
   <tr>
     <td>Antimicrobial</td>
-    <td>Silver ion technology neutralizes ammonia and inhibits bacterial growth</td>
+    <td>Silver ion technology inhibits odor-causing bacterial growth</td>
   </tr>
   <tr>
     <td>Material</td>
@@ -120,7 +119,7 @@ weight = 3
 
 Most guinea pig fleece setups require you to buy separate pieces — a fleece liner, absorbent pads underneath, and a waterproof base layer — often from different brands that don't fit together well. The Clinical Series is an **all-in-one solution**: every layer is engineered into a single product that's ready to drop into your C&C cage.
 
-Our liners come **pre-activated** — they absorb from day one with no prep washes required. The entire liner is antimicrobial — silver ion technology is integrated throughout, not just in one layer. This actively neutralizes ammonia buildup, the primary cause of respiratory irritation in guinea pigs. Combined with the medical-grade fleece surface that wicks moisture away from your pet's skin, these liners help prevent two of the most common guinea pig health issues: **bumblefoot** (pododermatitis) and **upper respiratory infections**.
+Our liners come **pre-activated** — they absorb from day one with no prep washes required. The entire liner is antimicrobial — silver ion technology is integrated throughout, not just in one layer. This actively helps control the odor-causing bacteria that build up between washes. Combined with the medical-grade fleece surface that wicks moisture away from your pet's skin, these liners help prevent two of the most common guinea pig health issues: **bumblefoot** (pododermatitis) and **upper respiratory infections**.
 
 ### How They Work
 
@@ -169,7 +168,7 @@ Every layer is medical-grade. Every layer is antimicrobial.
   </tr>
   <tr>
     <td>First-Year Cost</td>
-    <td>$400 one-time (includes 2 liners)</td>
+    <td>$465 one-time (includes 2 liners)</td>
     <td>$240-480/year, recurring</td>
   </tr>
   <tr>
@@ -259,6 +258,14 @@ With proper care, each liner pair lasts **6+ years**.
 
 ---
 
+### Handmade in San Francisco
+
+Every Clinical Series liner is designed and sewn here in San Francisco by Alexandria, the exotic veterinary assistant behind House of Guineas — the same person who cares for guinea pigs in homes across the city through our [in-home guinea pig care](/guinea-pig-sitter-san-francisco/). It is not a mass-produced import; it is the liner she trusts for the animals in her own care.
+
+That local, clinical background is the whole point. The fabric, the absorption core, and the antimicrobial silver-ion treatment were chosen by someone who weighs guinea pigs on a gram scale for a living — not by a marketing team. Bay Area guinea pig owners often find the liner through our care service, because the two come from the same place. Orders ship nationwide from our Etsy shop.
+
+---
+
 ### Frequently Asked Questions
 
 <details style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
@@ -292,7 +299,7 @@ With proper care, each liner pair lasts **6+ years**.
 <details style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
   <summary style="font-weight: bold; cursor: pointer;">What is silver ion antimicrobial technology?</summary>
   <div style="padding-top: 0.75rem;">
-    <p>Silver ions (Ag+) have natural antimicrobial properties that disrupt bacterial cell membranes. In our liners, silver ion technology is integrated throughout the entire fabric — not just a single layer — to actively neutralize ammonia and inhibit bacterial growth between washes. This keeps your guinea pig's enclosure cleaner and healthier for longer.</p>
+    <p>Silver ions (Ag+) have natural antimicrobial properties that disrupt bacterial cell membranes. In our liners, silver ion technology is integrated throughout the entire fabric — not just a single layer — to actively inhibit odor-causing bacterial growth between washes. This keeps your guinea pig's enclosure cleaner and healthier for longer.</p>
   </div>
 </details>
 
@@ -313,7 +320,7 @@ With proper care, each liner pair lasts **6+ years**.
 <details style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
   <summary style="font-weight: bold; cursor: pointer;">How are these different from GuineaDad liners?</summary>
   <div style="padding-top: 0.75rem;">
-    <p>The Clinical Series is a complete all-in-one liner — you don't need to buy separate pee pads or accessories. The entire fabric is medical-grade, with silver ion antimicrobial technology built into every layer that actively neutralizes ammonia. GuineaDad's antimicrobial protection comes from bamboo in its top fleece layer only; our silver-ion technology runs through the whole liner — base, core, and top. Our liners also come pre-activated (no 3-5 prep washes), last 6+ years, and are handmade in San Francisco by an exotic veterinary assistant with an engineering background.</p>
+    <p>The Clinical Series is a complete all-in-one liner — you don't need to buy separate pee pads or accessories. The entire fabric is medical-grade, with silver ion antimicrobial technology built into every layer that actively controls odor-causing bacteria. GuineaDad's antimicrobial protection comes from bamboo in its top fleece layer only; our silver-ion technology runs through the whole liner — base, core, and top. Our liners also come pre-activated (no 3-5 prep washes), last 6+ years, and are handmade in San Francisco by an exotic veterinary assistant with an engineering background.</p>
   </div>
 </details>
 
@@ -326,7 +333,7 @@ With proper care, each liner pair lasts **6+ years**.
 <div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
   <p style="font-size: 1.1em;"><strong>Ready to stop piecing together bedding from different brands?</strong></p>
   <p>
-    <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="btn btn-lg btn-cta-primary" target="_blank" rel="noopener noreferrer">Order Your Liners — $400 for Two</a>
+    <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="btn btn-lg btn-cta-primary" target="_blank" rel="noopener noreferrer">Order Your Liners — $465 for Two</a>
     <a href="/small-mammal-resources" class="btn btn-lg btn-cta-outline">More Small Pet Resources</a>
   </p>
   <p style="font-size: 13px; color: #6B5E52; margin-top: 6px;">Ships from our Etsy shop</p>

@@ -10,7 +10,7 @@ serviceType = "Rabbit Pet Sitting"
 
 If you live in Burlingame and you have a rabbit, you already know the bind. SFO is a ten-minute drive away, your work or family or vacation calendar keeps pulling you to the airport, and the conventional pet-boarding world has nothing useful to say about a bonded pair of Holland Lops. Most kennels won't take rabbits at all. The ones that will often don't know what GI stasis looks like until it's too late. House of Guineas exists to close that gap for Burlingame's rabbit owners — vet-trained in-home visits from a team that genuinely understands what these animals need.
 
-Our founder, Alexandria, volunteers with the [House Rabbit Society](https://houserabbit.org) chapter in Richmond, where she administers subcutaneous RHDV2 vaccinations under veterinary direction. She lives with her own bonded pair, Chungus and Puppy Dog, plus Johnny Wohnny, who she fostered from HRS before adopting. Rabbits aren't a side service for us. They're the heart of what we do.
+Our founder, Alexandria, volunteers with the [House Rabbit Society](https://houserabbit.org) chapter in Richmond, where she administers subcutaneous RHDV2 vaccinations under veterinary direction. She lives with her own bonded pair, Chungus and Puppy Dog, plus Johnny Wohnny (fostered from HRS) and Princess Lady, who is bonded with Johnny. Rabbits aren't a side service for us. They're the heart of what we do.
 
 ## Why a Vet-Trained Rabbit Sitter Matters in Burlingame
 
@@ -56,7 +56,7 @@ We also cover the stretch between Washington Park and Ray Park, homes near Mercy
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of rabbits
 
-Burlingame is in our Peninsula service tier, which means a travel surcharge applies. The exact surcharge depends on our specialists' availability and your specific location within Burlingame. [Text us your address and dates](tel:415-484-6493) for a firm quote.
+Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. [Text us your address and dates](tel:415-484-6493) for a firm quote.
 
 ## Frequently Asked Questions
 
@@ -93,7 +93,7 @@ Burlingame is in our Peninsula service tier, which means a travel surcharge appl
 <details class="faq-details">
   <summary class="faq-summary">Can you administer my rabbit's medication?</summary>
   <div class="faq-answer">
-    <p>Yes. Oral syringe meds, topical applications, and subcutaneous injections (with vet direction) are all part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with — not something we have to figure out under pressure.</p>
+    <p>Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with — not something we have to figure out under pressure.</p>
   </div>
 </details>
 
@@ -107,7 +107,7 @@ Burlingame is in our Peninsula service tier, which means a travel surcharge appl
 <details class="faq-details">
   <summary class="faq-summary">How do I find a Burlingame-area rabbit vet?</summary>
   <div class="faq-answer">
-    <p>Our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic vet directory</a> lists every exotic-savvy vet in San Mateo County, plus the Bay Area emergency options. Peninsula Pet Hospital in Burlingame and Adobe Animal Hospital in Los Altos are the most convenient for Burlingame residents.</p>
+    <p>Our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic vet directory</a> lists the exotic-savvy vets we know of in San Mateo County, plus the Bay Area emergency options. Peninsula Pet Hospital in Burlingame and Adobe Animal Hospital in Los Altos are the most convenient for Burlingame residents.</p>
   </div>
 </details>
 
@@ -133,7 +133,7 @@ Ready to book in-home rabbit care for your next trip? [Call or text us at 415-48
       "name": "Can you administer my rabbit's medication?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Oral syringe meds, topical applications, and subcutaneous injections (with vet direction) are all part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with."
+        "text": "Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with."
       }
     },
     {
@@ -149,7 +149,7 @@ Ready to book in-home rabbit care for your next trip? [Call or text us at 415-48
       "name": "How do I find a Burlingame-area rabbit vet?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our Peninsula exotic vet directory lists every exotic-savvy vet in San Mateo County, plus the Bay Area emergency options. Peninsula Pet Hospital in Burlingame and Adobe Animal Hospital in Los Altos are the most convenient for Burlingame residents."
+        "text": "Our Peninsula exotic vet directory lists the exotic-savvy vets we know of in San Mateo County, plus the Bay Area emergency options. Peninsula Pet Hospital in Burlingame and Adobe Animal Hospital in Los Altos are the most convenient for Burlingame residents."
       }
     }
   ]

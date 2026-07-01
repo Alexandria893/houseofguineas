@@ -45,8 +45,8 @@ Trust your gut, too. When Milo walked right up to the edge of his enclosure to s
 Let's get honest about money, because guinea pigs are not as cheap as people assume. I learned some of these numbers the hard way!
 
 * **Adoption fee:** $25-75 from a rescue
-* **Cage:** $80-200 for a proper C&C (cubes and coroplast) cage — the minimum recommended size is 7.5 square feet for a pair
-* **Bedding:** $400 one-time investment for [Clinical Series fleece liners](/clinical-series-guinea-pig-fleece-cage-liners), which last years — versus $240-480 per year for disposable paper or wood bedding (I switched to fleece after my first month and never looked back)
+* **Cage:** $80-200 for a proper C&C (cubes and coroplast) cage — the minimum recommended size is 10.5 square feet for a pair
+* **Bedding:** $465 one-time investment for [Clinical Series fleece liners](/clinical-series-guinea-pig-fleece-cage-liners), which last years — versus $240-480 per year for disposable paper or wood bedding (I switched to fleece after my first month and never looked back)
 * **Hay, pellets, and fresh vegetables:** $40-60 per month
 * **Exotic vet visits:** $50-100 per wellness checkup — and you absolutely must find an [exotic vet](/san-francisco-bay-area-exotic-veterinarians), not a regular dog-and-cat vet
 
@@ -88,7 +88,7 @@ Adopt a same-sex pair, or have one pig neutered if you're pairing a male and fem
 
 ## Health Essentials for New Owners
 
-The single most important thing I can tell you — from my experience both as a pig parent and as someone who works in an exotic vet clinic — is to **find an exotic vet before you need one.** The first time I needed to rush Coco to the vet for a respiratory issue, I was so grateful I already had a vet I trusted. Don't wait until there's an emergency to discover that your regular vet doesn't treat guinea pigs. We maintain a list of [Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians) to help you get started.
+The single most important thing I can tell you — from my experience both as a pig parent and as someone who has worked in an exotic vet clinic — is to **find an exotic vet before you need one.** The first time I needed to rush Coco to the vet for a respiratory issue, I was so grateful I already had a vet I trusted. Don't wait until there's an emergency to discover that your regular vet doesn't treat guinea pigs. We maintain a list of [Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians) to help you get started.
 
 **Other health essentials:**
 * **Weekly weight checks** — buy a simple kitchen scale and weigh each pig at the same time every week. A drop of more than 2 ounces in a week is a red flag. I weigh mine every Sunday morning — it's part of our routine now.

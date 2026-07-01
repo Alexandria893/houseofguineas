@@ -16,7 +16,7 @@ Our team is based in San Francisco's Inner Sunset, and we travel to Hillsborough
 Hillsborough households often have larger and more complex setups than the rest of the Peninsula — climate-controlled reptile rooms, aviaries with multiple species, free-roam bunny suites, room-scale enclosures. They also tend to travel for longer stretches and expect a sitter who can handle the property as well as the animals. We bring:
 
 - **Vet-trained discretion.** Our founder's clinical background and our specialists' training mean we approach exotic care with proper protocols, not improvisation. We respect the household and the animals equally.
-- **Species specialization.** We don't sit dogs and cats as our primary service. Exotics are the focus — rabbits, rodents, reptiles, and birds. Hillsborough households often have unusual species combinations, and our team is comfortable with them.
+- **Species specialization.** Exotic pets and cats are our focus — rabbits, rodents, reptiles, and birds. Hillsborough households often have unusual species combinations, and our team is comfortable with them.
 - **Long-trip protocols.** Hillsborough clients often travel for two-plus weeks at a time. We're set up for it: hay restocks mid-trip, weight monitoring, consistent updates, and adjustment of visit cadence as needed.
 - **Property-aware service.** We respect the household — quiet entry and exit, secure gate handling, no unnecessary disruption, no chatter on social media about clients. What happens at your home stays there.
 - **Clinical-grade care.** Syringe-feeding a GI stasis rabbit, weighing a guinea pig on a gram scale, maintaining reptile humidity within a 5% range, recognizing crop issues in a parrot — everyday skills, not stretches.
@@ -55,7 +55,7 @@ We cover the full town of Hillsborough — the estates near the Crystal Springs 
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 - **Boarding** at our San Francisco home is also available at **$75/night** if your travel makes in-home logistics impractical
 
-Hillsborough is in our Peninsula service tier, which means a travel surcharge applies. The exact surcharge depends on our specialists' availability and your specific location within Hillsborough. For longer trips and complex setups, we typically quote a custom rate. [Text us your address and dates](tel:415-484-6493) for a firm quote.
+Hillsborough is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. For longer trips and complex setups, we typically quote a custom rate. [Text us your address and dates](tel:415-484-6493) for a firm quote.
 
 ## Frequently Asked Questions
 
@@ -103,7 +103,7 @@ Hillsborough is in our Peninsula service tier, which means a travel surcharge ap
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication or vet attention while I'm away?</summary>
   <div class="faq-answer">
-    <p>Medication administration — oral, topical, subcutaneous — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization. Our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic vet directory</a> lists Adobe Animal Hospital in Los Altos and All Pets Hospital in San Mateo as the closest specialty options.</p>
+    <p>Medication administration — oral and topical — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization. Our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic vet directory</a> lists Adobe Animal Hospital in Los Altos and All Pets Hospital in San Mateo as the closest specialty options.</p>
   </div>
 </details>
 
@@ -145,7 +145,7 @@ Ready to discuss in-home exotic pet care for your Hillsborough home? [Call or te
       "name": "What if my exotic pet needs medication or vet attention while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration — oral, topical, subcutaneous — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization."
+        "text": "Medication administration — oral and topical — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization."
       }
     }
   ]

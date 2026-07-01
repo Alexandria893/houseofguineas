@@ -10,7 +10,7 @@ serviceType = "Bird Pet Sitting"
 
 Finding a bird sitter in San Francisco who actually knows what they're doing is harder than it should be. Most pet sitters either don't take birds at all or take them and treat them like a fish — daily feed-and-fly, no real understanding of what's normal versus what's an emergency. Birds are subtle, and they hide illness until it's nearly too late. A sitter who can't read a bird is a liability. House of Guineas is here to fix that.
 
-Our founder, Alexandria, spent years at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com), where birds were a major part of her caseload — from cockatiel emergencies to large parrot wellness exams. Our team approaches bird care with that same clinical lens: every visit includes proper feeding, husbandry, and observation, not just "make sure the bird is alive."
+Our founder, Alexandria, worked as an exotic veterinary assistant at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com), where birds were a major part of the caseload — from cockatiel emergencies to large parrot wellness exams. Our team approaches bird care with that same clinical lens: every visit includes proper feeding, husbandry, and observation, not just "make sure the bird is alive."
 
 ## What's Included in a Bird Visit
 

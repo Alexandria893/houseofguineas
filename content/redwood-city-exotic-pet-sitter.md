@@ -16,7 +16,7 @@ We're based in San Francisco's Inner Sunset, and our team of exotic pet speciali
 Redwood City sits in a tricky spot for exotic pet owners — far enough from a 24/7 exotic ER that catching things early really matters, but close enough to multiple specialty hospitals (Adobe in Los Altos, All Pets in San Mateo) that good vet care is reachable when needed. A sitter who knows that landscape is a different category than one who doesn't. Here's what we bring:
 
 - **Veterinary background.** Alexandria's clinical training at [Bay Area Bird and Exotics Hospital](/san-francisco-california-exotic-veterinary-experience) and her ongoing House Rabbit Society work means we approach every visit with proper exotic protocols.
-- **Species specialization.** We don't sit dogs and cats as our primary service. Exotics are the focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
+- **Species specialization.** Exotic pets and cats are our focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
 - **Clinical-grade care.** Syringe-feeding a GI stasis rabbit, weighing a guinea pig on a gram scale, checking a reptile's enclosure humidity, recognizing crop issues in a bird — these are everyday skills, not stretches.
 - **Local vet awareness.** When something goes sideways, we know which Peninsula vets handle exotics and which to skip. See our [Peninsula exotic vet directory](/san-mateo-peninsula-exotic-veterinarians/) for the full list.
 - **Flexible scheduling.** Early-morning visits before a Caltrain commute, late-evening visits after a long day, mid-day medication windows — we build the schedule around your reality.
@@ -56,7 +56,7 @@ We also cover homes near Sequoia High School, the Caltrain corridor for commuter
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-Redwood City is in our Peninsula service tier, which means a travel surcharge applies. The exact surcharge depends on our specialists' availability and your specific location within Redwood City. [Text us your address and dates](tel:415-484-6493) for a firm quote.
+Redwood City is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. [Text us your address and dates](tel:415-484-6493) for a firm quote.
 
 ## Frequently Asked Questions
 
@@ -90,7 +90,7 @@ Redwood City is in our Peninsula service tier, which means a travel surcharge ap
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, subcutaneous fluids (with vet direction), topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet/">signs your guinea pig needs a vet</a> and our <a href="/post/exotic-pet-emergency-signs/">exotic pet emergency signs</a> resource.</p>
+    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet/">signs your guinea pig needs a vet</a> and our <a href="/post/exotic-pet-emergency-signs/">exotic pet emergency signs</a> resource.</p>
   </div>
 </details>
 
@@ -104,7 +104,7 @@ Redwood City is in our Peninsula service tier, which means a travel surcharge ap
 <details class="faq-details">
   <summary class="faq-summary">How much does a Redwood City exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and number of pets. Redwood City is in our Peninsula tier, so a travel surcharge applies — the exact amount varies depending on our specialists' availability and your location within Redwood City. <a href="tel:415-484-6493">Text us your address and dates</a> for a firm quote.</p>
+    <p>30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and number of pets. Redwood City is in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance. <a href="tel:415-484-6493">Text us your address and dates</a> for a firm quote.</p>
   </div>
 </details>
 
@@ -130,7 +130,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, subcutaneous fluids (with vet direction), topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly."
       }
     },
     {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Redwood City exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and number of pets. Redwood City is in our Peninsula tier, so a travel surcharge applies — the exact amount varies depending on our specialists' availability and your location within Redwood City."
+        "text": "30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and number of pets. Redwood City is in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
       }
     }
   ]

@@ -3,7 +3,7 @@ type = "services"
 aliases = ["/home/services/service2/"]
 title = "Exotic Pet Boarding San Francisco & Peninsula | House of Guineas"
 shortTitle = "Exotic Pet Boarding"
-description = "Exotic pet boarding in San Francisco — guinea pig boarding, rabbit boarding, chinchilla boarding, reptile boarding, bird boarding and small mammal boarding. Welcoming clients across the Bay Area and Peninsula. Your pet gets their own room with soothing music. $75/night."
+description = "Exotic pet boarding in San Francisco — guinea pig boarding, rabbit boarding, chinchilla boarding, reptile boarding, bird boarding and small mammal boarding. Welcoming clients across the Bay Area and Peninsula. Your pet gets their private room with soothing music. $75/night."
 weight = 3
 [menu.main]
   parent = "rates"
@@ -15,7 +15,7 @@ weight = 3
   priceNote = ""
   animals = ["Reptiles", "Birds", "Small Mammals"]
   highlights = [
-    "Own room with soothing music",
+    "Private room with soothing music",
     "Client provides enclosure & supplies",
     "Meet & greet required for first visit"
   ]
@@ -23,7 +23,7 @@ weight = 3
   priority = 0.8
 +++
 
-Your pet gets their own room with soothing music — **$75/night** for **Reptiles, Birds and Small Mammals**.
+Your pet gets their private room with soothing music — **$75/night** for **Reptiles, Birds and Small Mammals**.
 <!--more-->
 
 ## Exotic Pet Boarding in San Francisco
@@ -38,17 +38,17 @@ Whether you need rabbit boarding, guinea pig boarding, chinchilla boarding, ferr
 
 ### What's Included
 
-* **Their own room** with soothing music played as they become acclimated during their stay
+* **Their private room** with soothing music played as they become acclimated during their stay
 * **Species-specific feeding** on your pet's regular schedule, including live insects, fresh greens, hay, pellets, and supplements as needed
 * **Habitat monitoring** — I check temperatures, humidity, UVB lighting, and water quality throughout the day to match your pet's home environment
 * **Daily updates** with photos and notes on your pet's behavior, appetite, and well-being
-* **Medication administration** if needed — oral, topical, or subcutaneous injections as prescribed by your veterinarian
+* **Medication administration** if needed — oral or topical medication as prescribed by your veterinarian
 
 <details class="care-details" style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
 <summary style="font-weight: bold; cursor: pointer; font-size: 1.17em;">Reptile & Amphibian Boarding</summary>
 <div style="padding-top: 0.75rem;">
 
-Reptiles and amphibians have precise environmental needs that most pet sitters aren’t trained to manage. I maintain proper temperature gradients, humidity levels, and UVB lighting schedules for every species I board. Whether it’s a bearded dragon that needs a 100-110°F basking spot, a ball python requiring 60-70% humidity, or an axolotl that must stay below 68°F, I monitor conditions with digital thermometers and hygrometers throughout the day. Read more about my species-specific approach in my [Reptile & Amphibian Care Guide](/reptile-amphibian-care-guide).
+Reptiles and amphibians have precise environmental needs that most pet sitters aren’t trained to manage. I maintain proper temperature gradients, humidity levels, and UVB lighting schedules for every species I board. Whether it’s a bearded dragon that needs a 100-110°F basking spot, a crested gecko requiring 60-80% humidity, or an axolotl that must stay below 68°F, I monitor conditions with digital thermometers and hygrometers throughout the day. Read more about my species-specific approach in my [Reptile & Amphibian Care Guide](/reptile-amphibian-care-guide).
 
 </div>
 </details>

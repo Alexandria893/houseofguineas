@@ -16,7 +16,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team
 Burlingame is a town full of people who sweat the details — tech professionals, clinicians, educators, designers — and what exotic pet owners tell us they need is a sitter who approaches exotic pet care with the same rigor they bring to their own work. Here is what sets us apart:
 
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society in Richmond, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
-- **Species specialization.** We do not sit dogs and cats. This is all we do — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
+- **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape — Peninsula Pet Hospital right in Burlingame, Adobe Animal Hospital in Los Altos, and All Pets Hospital in San Mateo — so if something goes sideways while you are in Zurich, we know exactly where to go.
 - **Flexible scheduling.** Early-morning visits before an SFO departure, late-night visits after a redeye arrival, and mid-day medication timing — we build the schedule around your flight manifest, not the other way around.
 
@@ -52,7 +52,7 @@ We also cover the stretch between Washington Park and Ray Park, homes near Mercy
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-Burlingame falls within our Peninsula service tier, which means a travel surcharge applies. The exact surcharge varies depending on our specialists' availability and your specific location within Burlingame — a Lyon Hoag cottage two blocks off El Camino is different from a Burlingame Hills home tucked up near Hillsborough. Text us your address and dates and we will quote you honestly.
+Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from our Inner Sunset base. Text us your address and dates and we will confirm your rate.
 
 ## Frequently Asked Questions
 
@@ -96,7 +96,7 @@ Burlingame falls within our Peninsula service tier, which means a travel surchar
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, subcutaneous fluids (with vet direction), topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
+    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
   </div>
 </details>
 
@@ -110,7 +110,7 @@ Burlingame falls within our Peninsula service tier, which means a travel surchar
 <details class="faq-details">
   <summary class="faq-summary">How much does a Burlingame exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Burlingame sits in our Peninsula tier, so a travel surcharge applies — the exact amount varies depending on our specialists' availability and your specific location within Burlingame. <a href="tel:415-484-6493">Text us your address and dates</a> for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Burlingame sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance. <a href="tel:415-484-6493">Text us your address and dates</a> for a firm quote.</p>
   </div>
 </details>
 
@@ -144,7 +144,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, subcutaneous fluids (with vet direction), topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {
@@ -160,7 +160,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Burlingame exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Burlingame sits in our Peninsula tier, so a travel surcharge applies — the exact amount varies depending on our specialists' availability and your specific location within Burlingame."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Burlingame sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
       }
     }
   ]

@@ -10,7 +10,7 @@ serviceType = "Rabbit Pet Sitting"
 
 Foster City is a town built around the lagoon — and the people who live here tend to travel far and travel often. Biotech professionals heading to Boston or RTP, tech workers commuting up to SF or down to South Bay, families flying out of SFO for long stretches over school breaks. If you keep a rabbit (or two, or three) in a Foster City home, you already know the gap: the kennel down the road won't take her, and the friend-of-a-friend who said they'd "watch her" doesn't actually know what GI stasis is. House of Guineas exists to fix that.
 
-Our team comes from San Francisco down the Peninsula several days a week. Our founder, Alexandria, is an exotic veterinary assistant and a House Rabbit Society volunteer in Richmond, where she administers subcutaneous RHDV2 vaccines under vet direction. She lives with Chungus and Puppy Dog (a bonded pair) and Johnny Wohnny (her HRS foster turned forever rabbit). Rabbits aren't a side service. They are the heart of what we do.
+Our team comes from San Francisco down the Peninsula several days a week. Our founder, Alexandria, is an exotic veterinary assistant and a House Rabbit Society volunteer in Richmond, where she administers subcutaneous RHDV2 vaccines under vet direction. She lives with Chungus and Puppy Dog (a bonded pair), Johnny Wohnny (her HRS foster turned forever rabbit), and Princess Lady, who is bonded with Johnny. Rabbits aren't a side service. They are the heart of what we do.
 
 ## Why a Vet-Trained Rabbit Sitter Matters in Foster City
 
@@ -57,7 +57,7 @@ We cover the lagoon-adjacent stretches and the pockets along Edgewater, the home
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of rabbits
 
-Foster City is in our Peninsula service tier, which means a travel surcharge applies. The exact surcharge depends on our specialists' availability and your specific location within Foster City. [Text us your address and dates](tel:415-484-6493) for a firm quote.
+Foster City is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. [Text us your address and dates](tel:415-484-6493) for a firm quote.
 
 ## Frequently Asked Questions
 
@@ -101,14 +101,14 @@ Foster City is in our Peninsula service tier, which means a travel surcharge app
 <details class="faq-details">
   <summary class="faq-summary">Can you administer my rabbit's medication?</summary>
   <div class="faq-answer">
-    <p>Yes. Oral syringe meds, topical applications, and subcutaneous injections (with vet direction) are all part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with.</p>
+    <p>Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How do I find a Foster City-area rabbit vet?</summary>
   <div class="faq-answer">
-    <p>Foster City doesn't have an exotic-specialty vet within city limits — your nearest options are All Pets Hospital in San Mateo and Peninsula Pet Hospital in Burlingame. Our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic vet directory</a> lists every exotic-savvy vet in San Mateo County, plus the Bay Area emergency options.</p>
+    <p>Foster City doesn't have an exotic-specialty vet within city limits — your nearest options are All Pets Hospital in San Mateo and Peninsula Pet Hospital in Burlingame. Our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic vet directory</a> lists the exotic-savvy vets we know of in San Mateo County, plus the Bay Area emergency options.</p>
   </div>
 </details>
 
@@ -142,7 +142,7 @@ Ready to book in-home rabbit care? [Call or text us at 415-484-6493](tel:415-484
       "name": "Can you administer my rabbit's medication?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Oral syringe meds, topical applications, and subcutaneous injections (with vet direction) are all part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with."
+        "text": "Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with."
       }
     },
     {
@@ -150,7 +150,7 @@ Ready to book in-home rabbit care? [Call or text us at 415-484-6493](tel:415-484
       "name": "How do I find a Foster City-area rabbit vet?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Foster City doesn't have an exotic-specialty vet within city limits — your nearest options are All Pets Hospital in San Mateo and Peninsula Pet Hospital in Burlingame. Our Peninsula exotic vet directory lists every exotic-savvy vet in San Mateo County, plus the Bay Area emergency options."
+        "text": "Foster City doesn't have an exotic-specialty vet within city limits — your nearest options are All Pets Hospital in San Mateo and Peninsula Pet Hospital in Burlingame. Our Peninsula exotic vet directory lists the exotic-savvy vets we know of in San Mateo County, plus the Bay Area emergency options."
       }
     }
   ]

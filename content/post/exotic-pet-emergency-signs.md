@@ -56,7 +56,7 @@ If there's one thing I want you to take away from this section, it's this: birds
 
 ## Small Mammal Emergencies
 
-This is the section closest to my heart. I share my home with four guinea pigs — Milo, Luca, Coco, and Kai — and three rabbits: Puppy Dog, Big Chungus, and Johnny Wohnny. So I'm not just speaking as someone who worked in a clinic. I'm speaking as someone who has personally sat on the floor at midnight checking for droppings and listening for wheezing. These animals are small, and things can go downhill quickly.
+This is the section closest to my heart. I share my home with four guinea pigs — Milo, Luca, Coco, and Kai — and four rabbits: Puppy Dog, Big Chungus, Johnny Wohnny, and Princess Lady. So I'm not just speaking as someone who worked in a clinic. I'm speaking as someone who has personally sat on the floor at midnight checking for droppings and listening for wheezing. These animals are small, and things can go downhill quickly.
 
 ### Guinea Pigs
 * **Not eating for 12+ hours** — GI stasis is life-threatening

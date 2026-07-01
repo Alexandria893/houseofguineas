@@ -44,7 +44,7 @@ Every visit includes species-specific feeding, fresh water, medication administr
 
 ## Exotic Pet Boarding
 
-Your pet gets their own room with soothing music — **$75/night** for rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles, and birds.
+Your pet gets their private room with soothing music — **$75/night** for rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles, and birds.
 
 Boarding is hosted by Alexandria personally at her San Francisco home, and clients are welcome from across the Bay Area — local SF, the Peninsula, and beyond. Every stay includes species-specific feeding, habitat monitoring, daily photo updates, and medication administration if needed.
 
@@ -53,7 +53,7 @@ Boarding is hosted by Alexandria personally at her San Francisco home, and clien
   <div style="padding-top: 1rem;">
     <p><strong>What's included</strong></p>
     <ul>
-      <li><strong>Their own room</strong> with soothing music as they acclimate</li>
+      <li><strong>Their private room</strong> with soothing music as they acclimate</li>
       <li><strong>Species-specific feeding</strong> on your pet's regular schedule — live insects, fresh greens, hay, pellets, supplements</li>
       <li><strong>Habitat monitoring</strong> — temperatures, humidity, UVB lighting, and water quality checked throughout the day</li>
       <li><strong>Daily updates</strong> with photos and notes</li>
@@ -80,7 +80,7 @@ San Francisco residents — see our dedicated [San Francisco exotic pet sitter](
 
 Peninsula residents — see our dedicated pages for [Burlingame](/burlingame-exotic-pet-sitter/), [Millbrae](/millbrae-exotic-pet-sitter/), [San Mateo](/san-mateo-exotic-pet-sitter/), [Hillsborough](/hillsborough-exotic-pet-sitter/), [Belmont](/belmont-exotic-pet-sitter/), [San Carlos](/san-carlos-exotic-pet-sitter/), [Foster City](/foster-city-exotic-pet-sitter/), and [Redwood City](/redwood-city-exotic-pet-sitter/).
 
-* Additional travel rates **start at $15/visit** (rates depend on our specialists' availability and your location) if you're outside the [primary travel area](/home/services/faqs/#service-areas).
+* Peninsula travel surcharge: **$15–$25/visit** depending on distance from our Inner Sunset base (no surcharge within San Francisco). See our [service areas](/home/services/faqs/#service-areas).
 
 Households with both exotic pets and a cat in San Francisco can also book combined care — see [cat and exotic pet sitting in San Francisco](/cat-and-exotic-pet-sitter-san-francisco/) for details.
 
