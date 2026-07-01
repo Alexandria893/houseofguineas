@@ -1,105 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 1100" width="800" height="1100">
-  <defs>
-    <style>
-      .title { font-family: Georgia, serif; font-weight: 700; fill: #3D3228; }
-      .th { font-family: sans-serif; font-weight: 700; fill: #FFF; font-size: 16px; }
-      .rl { font-family: sans-serif; font-weight: 700; fill: #3D3228; font-size: 16px; }
-      .rs { font-family: sans-serif; font-weight: 400; fill: #6B5E52; font-size: 12px; }
-      .c { font-family: sans-serif; font-weight: 600; fill: #3D3228; font-size: 16px; }
-      .hl { font-family: sans-serif; font-weight: 800; fill: #3D3228; font-size: 17px; }
-      .hc { font-family: sans-serif; font-weight: 800; fill: #557259; font-size: 17px; }
-      .fn { font-family: sans-serif; font-weight: 400; fill: #6B5E52; font-size: 12px; }
-      .bt { font-family: sans-serif; font-weight: 800; font-size: 13px; }
-      .bn { font-family: Georgia, serif; font-weight: 700; font-size: 36px; }
-      .bl { font-family: sans-serif; font-weight: 700; font-size: 13px; }
-      .tl { font-family: sans-serif; font-weight: 700; font-size: 16px; }
-    </style>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="0 0 2000 2000" font-family="Helvetica, Arial, sans-serif">
+  <rect width="2000" height="2000" fill="#F4F8F7"/>
+  <!-- Header -->
+  <rect width="2000" height="360" fill="#164E4A"/>
+  <text x="1000" y="150" text-anchor="middle" fill="#8FD6CF" font-size="52" letter-spacing="14" font-weight="700">DO THE MATH</text>
+  <text x="1000" y="258" text-anchor="middle" fill="#FFFFFF" font-size="112" font-weight="800">One purchase. 6+ years.</text>
+  <text x="1000" y="322" text-anchor="middle" fill="#CDE7E3" font-size="40">The last guinea pig bedding you'll ever buy</text>
 
-  <rect width="800" height="1100" rx="16" fill="#FAF8F5"/>
+  <!-- Clinical Series card -->
+  <rect x="110" y="450" width="820" height="1140" rx="28" fill="#FFFFFF" stroke="#14807A" stroke-width="6"/>
+  <rect x="110" y="450" width="820" height="118" rx="28" fill="#14807A"/>
+  <rect x="110" y="510" width="820" height="58" fill="#14807A"/>
+  <text x="520" y="527" text-anchor="middle" fill="#FFFFFF" font-size="40" font-weight="700">HOUSE OF GUINEAS</text>
+  <text x="520" y="545" text-anchor="middle" fill="#B8E6E1" font-size="30" letter-spacing="6" dy="18">CLINICAL SERIES</text>
+  <text x="520" y="770" text-anchor="middle" fill="#0F3D3A" font-size="188" font-weight="800">$465</text>
+  <text x="520" y="835" text-anchor="middle" fill="#14807A" font-size="46" font-weight="700" letter-spacing="8">ONE TIME</text>
+  <text x="520" y="905" text-anchor="middle" fill="#3A5A57" font-size="42">≈ $78 / year over 6 years</text>
+  <line x1="200" y1="950" x2="840" y2="950" stroke="#D5E6E4" stroke-width="3"/>
+  <g fill="#26413F" font-size="40">
+    <text x="230" y="1035">✓  All-in-one system (2 liners)</text>
+    <text x="230" y="1120">✓  Antimicrobial silver-ion</text>
+    <text x="230" y="1205">✓  Waterproof &amp; dust-free</text>
+    <text x="230" y="1290">✓  Lasts 6+ years</text>
+    <text x="230" y="1375">✓  Never buy bedding again</text>
+    <text x="230" y="1460">✓  Handmade in San Francisco</text>
+  </g>
 
-  <!-- Logo as image -->
-  <image href="/transparent-logo.svg" x="75" y="10" width="650" height="220" preserveAspectRatio="xMidYMid meet"/>
-
-  <!-- Title -->
-  <text x="400" y="260" text-anchor="middle" class="title" font-size="26">UNDERSTAND THE REAL COST</text>
-  <text x="400" y="293" text-anchor="middle" class="title" font-size="26">OF YOUR CURRENT SETUP</text>
-
-  <!-- Table header -->
-  <rect x="50" y="320" width="700" height="44" rx="8" fill="#6B5E52"/>
-  <text x="200" y="347" text-anchor="middle" class="th">Bedding Type</text>
-  <line x1="350" y1="324" x2="350" y2="360" stroke="#FAF8F5" stroke-opacity="0.3"/>
-  <text x="430" y="347" text-anchor="middle" class="th">Year 1</text>
-  <line x1="500" y1="324" x2="500" y2="360" stroke="#FAF8F5" stroke-opacity="0.3"/>
-  <text x="570" y="347" text-anchor="middle" class="th">Year 2</text>
-  <line x1="640" y1="324" x2="640" y2="360" stroke="#FAF8F5" stroke-opacity="0.3"/>
-  <text x="710" y="347" text-anchor="middle" class="th">Year 5</text>
-
-  <!-- Row 1: Paper -->
-  <rect x="50" y="364" width="700" height="58" fill="#FFFFFF"/>
-  <rect x="50" y="364" width="700" height="58" fill="#3D3228" fill-opacity="0.02"/>
-  <text x="70" y="390" class="rl">Paper Bedding</text>
-  <text x="70" y="408" class="rs">est. $40/mo</text>
-  <text x="430" y="398" text-anchor="middle" class="c">$480</text>
-  <text x="570" y="398" text-anchor="middle" class="c">$960</text>
-  <text x="710" y="398" text-anchor="middle" font-family="sans-serif" font-weight="800" fill="#B91C1C" font-size="16">$2,400</text>
-  <line x1="50" y1="422" x2="750" y2="422" stroke="#E2D9CE"/>
-
-  <!-- Row 2: Wood -->
-  <rect x="50" y="422" width="700" height="58" fill="#FFFFFF"/>
-  <text x="70" y="448" class="rl">Wood Shavings</text>
-  <text x="70" y="466" class="rs">est. $25/mo</text>
-  <text x="430" y="456" text-anchor="middle" class="c">$300</text>
-  <text x="570" y="456" text-anchor="middle" class="c">$600</text>
-  <text x="710" y="456" text-anchor="middle" font-family="sans-serif" font-weight="800" fill="#B91C1C" font-size="16">$1,500</text>
-  <line x1="50" y1="480" x2="750" y2="480" stroke="#E2D9CE"/>
-
-  <!-- Row 3: Basic Fleece -->
-  <rect x="50" y="480" width="700" height="58" fill="#FFFFFF"/>
-  <rect x="50" y="480" width="700" height="58" fill="#3D3228" fill-opacity="0.02"/>
-  <text x="70" y="506" class="rl">Fleece Liners (Basic)*</text>
-  <text x="70" y="524" class="rs">est. $80/yr</text>
-  <text x="430" y="514" text-anchor="middle" class="c">$80</text>
-  <text x="570" y="514" text-anchor="middle" class="c">$160</text>
-  <text x="710" y="514" text-anchor="middle" class="c">$400</text>
-  <line x1="50" y1="538" x2="750" y2="538" stroke="#E2D9CE"/>
-
-  <!-- Row 4: Clinical Series -->
-  <rect x="50" y="538" width="700" height="58" fill="#EFF6F0"/>
-  <rect x="50" y="538" width="5" height="58" fill="#6B8F71"/>
-  <text x="75" y="573" class="hl">Clinical Series Liners</text>
-  <text x="430" y="573" text-anchor="middle" class="hc">$465</text>
-  <text x="570" y="573" text-anchor="middle" class="hc">$465</text>
-  <text x="710" y="573" text-anchor="middle" class="hc">$465</text>
-
-  <!-- Footnote -->
-  <text x="400" y="625" text-anchor="middle" class="fn">*Basic fleece liners require separate waterproof bases and absorbent pads,</text>
-  <text x="400" y="641" text-anchor="middle" class="fn">which adds hidden costs.</text>
-
-  <!-- Left box -->
-  <rect x="50" y="670" width="340" height="210" rx="12" fill="#FFFFFF" stroke="#E2D9CE" stroke-width="1.5"/>
-  <rect x="115" y="687" width="210" height="30" rx="15" fill="#FEF2F2" stroke="#B91C1C" stroke-width="1.5"/>
-  <text x="220" y="707" text-anchor="middle" class="bt" fill="#B91C1C">RECURRING ANNUAL COST ↑</text>
-  <text x="220" y="760" text-anchor="middle" class="bn" fill="#B91C1C">$2,400+</text>
-  <text x="220" y="785" text-anchor="middle" class="bl" fill="#3D3228">TOTAL COST OVER 5 YEARS</text>
-  <text x="220" y="805" text-anchor="middle" class="fn">(Paper bedding at $40/mo)</text>
-  <text x="220" y="855" text-anchor="middle" class="tl" fill="#B91C1C">Recurring monthly drain.</text>
-
-  <!-- Right box -->
-  <rect x="410" y="670" width="340" height="210" rx="12" fill="#FFFFFF" stroke="#6B8F71" stroke-width="1.5"/>
-  <rect x="475" y="687" width="210" height="30" rx="15" fill="#EFF6F0" stroke="#6B8F71" stroke-width="1.5"/>
-  <text x="580" y="707" text-anchor="middle" class="bt" fill="#557259">✓ LIFETIME INVESTMENT</text>
-  <text x="580" y="760" text-anchor="middle" class="bn" fill="#557259">$465</text>
-  <text x="580" y="785" text-anchor="middle" class="bl" fill="#3D3228">TOTAL COST — FOREVER</text>
-  <text x="580" y="805" text-anchor="middle" class="fn">(6+ year lifespan, includes 2 liners)</text>
-  <text x="580" y="855" text-anchor="middle" class="tl" fill="#557259">One-time investment.</text>
+  <!-- Disposable card -->
+  <rect x="1070" y="450" width="820" height="1140" rx="28" fill="#F7F2F0" stroke="#C9BEB9" stroke-width="6"/>
+  <rect x="1070" y="450" width="820" height="118" rx="28" fill="#7A6E68"/>
+  <rect x="1070" y="510" width="820" height="58" fill="#7A6E68"/>
+  <text x="1480" y="527" text-anchor="middle" fill="#FFFFFF" font-size="40" font-weight="700">PAPER / WOOD</text>
+  <text x="1480" y="545" text-anchor="middle" fill="#E4DAD5" font-size="30" letter-spacing="6" dy="18">DISPOSABLE BEDDING</text>
+  <text x="1480" y="765" text-anchor="middle" fill="#B23A2E" font-size="150" font-weight="800">$240–480</text>
+  <text x="1480" y="835" text-anchor="middle" fill="#B23A2E" font-size="46" font-weight="800" letter-spacing="6">EVERY YEAR</text>
+  <text x="1480" y="905" text-anchor="middle" fill="#6B5F59" font-size="42">…again next year, and the next</text>
+  <line x1="1160" y1="950" x2="1800" y2="950" stroke="#E2D8D3" stroke-width="3"/>
+  <g fill="#5C524D" font-size="40">
+    <text x="1190" y="1035">✕  Recurring cost forever</text>
+    <text x="1190" y="1120">✕  Dust &amp; ammonia buildup</text>
+    <text x="1190" y="1205">✕  Traps moisture on paws</text>
+    <text x="1190" y="1290">✕  Bumblefoot &amp; URI risk</text>
+    <text x="1190" y="1375">✕  Weekly landfill waste</text>
+    <text x="1190" y="1460">✕  Restock, restock, restock</text>
+  </g>
 
   <!-- Bottom banner -->
-  <rect x="50" y="915" width="700" height="100" rx="12" fill="#6B8F71"/>
-  <text x="400" y="953" text-anchor="middle" font-family="Georgia, serif" font-weight="700" font-size="20" fill="#FFFFFF">The Only Pre-Activated, All-in-One Guinea Pig Liner</text>
-  <text x="400" y="985" text-anchor="middle" font-family="sans-serif" font-weight="400" font-size="14" fill="#FFFFFFDD">Entirely medical-grade. Fully antimicrobial. Pre-activated. No separate pads or bases needed.</text>
+  <rect x="110" y="1660" width="1780" height="250" rx="28" fill="#164E4A"/>
+  <text x="1000" y="1770" text-anchor="middle" fill="#FFFFFF" font-size="66" font-weight="800">Pays for itself in ~1.5 years.</text>
+  <text x="1000" y="1850" text-anchor="middle" fill="#8FD6CF" font-size="52" font-weight="600">After that, your bedding is free.</text>
 
-  <!-- Footer -->
-  <text x="400" y="1060" text-anchor="middle" font-family="sans-serif" font-weight="600" font-size="14" fill="#6B5E52">houseofguineas.com</text>
-  <text x="400" y="1085" text-anchor="middle" font-family="sans-serif" font-weight="400" font-size="12" fill="#6B5E52">Handmade in San Francisco — SF Engineered | Silver-Ion Technology</text>
+  <text x="1000" y="1968" text-anchor="middle" fill="#3A5A57" font-size="38" letter-spacing="4">houseofguineas.com  ·  Vet-designed, medical-grade</text>
 </svg>
