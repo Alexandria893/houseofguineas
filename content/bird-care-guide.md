@@ -9,7 +9,7 @@ og_image = "perchedBird.jpg"
 
 Birds are different from other exotics in one fundamental way: they are profoundly social animals who form bonds, hold grudges, learn faces, mimic sounds, and remember things for decades. They are also extraordinarily sensitive to their environment — to the air they breathe, the people in the room, the schedule of the day. Most of what goes wrong with companion birds in San Francisco apartments comes down to either husbandry mistakes that are easy to fix once you know about them, or to the bird's social and intellectual needs going unmet.
 
-I worked at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) for years, and birds were a huge part of my caseload there. The patterns are remarkably consistent: people get the diet wrong, the cage wrong, or the social setup wrong, and the bird tells us about it through feather plucking, screaming, refusing food, or just becoming a quiet, withdrawn version of themselves. Below is what I wish every new bird owner in the Bay Area had read before bringing their bird home.
+I worked at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) as an exotic veterinary assistant, and birds were a big part of what I saw there. The patterns are remarkably consistent: people get the diet wrong, the cage wrong, or the social setup wrong, and the bird tells us about it through feather plucking, screaming, refusing food, or just becoming a quiet, withdrawn version of themselves. Below is what I wish every new bird owner in the Bay Area had read before bringing their bird home.
 
 ---
 

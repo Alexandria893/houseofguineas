@@ -21,7 +21,7 @@ We are based in the Inner Sunset, and we offer San Francisco pet owners two ways
 ## Exotic Species We Care For in San Francisco
 
 - **Small mammals** — rabbits (including bonded pairs and trios), guinea pigs, chinchillas, ferrets, hamsters, rats, degus, hedgehogs
-- **Reptiles** — bearded dragons, leopard geckos, crested geckos, ball pythons and other non-venomous snakes, turtles and tortoises
+- **Reptiles** — bearded dragons, leopard geckos, crested geckos, turtles and tortoises
 - **Birds** — parrots, cockatiels, conures, budgies, lovebirds, finches
 
 If your species is not listed, [call or text us](tel:415-484-6493) — if we have not handled it, we will tell you honestly and usually point you to someone who has.

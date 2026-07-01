@@ -7,7 +7,7 @@ og_image = "beardedDragonPostBath.jpg"
   priority = 0.8
 +++
 
-The Mission District is San Francisco at its most vibrant — a dense, historically Latino neighborhood where the murals of Balmy and Clarion alleys spill color onto the walls, the Valencia and Mission Street corridors hum from morning coffee to late-night taquerías, and Dolores Park fills with sunbathers the moment the fog burns off. And burn off it does: the Mission is the sunniest, warmest pocket of the city, which is part of why it draws so many young professionals, artists, and renters into its flats and converted buildings. Those apartments are increasingly home to exotic pets — and given the space constraints of city living, they skew reptile-friendly: a bearded dragon under a UVB lamp, a leopard gecko in a tidy tank, a ball python who barely needs a square foot. There are plenty of rabbits, guinea pigs, and birds here too. So when a trip comes up, the question that surfaces the night before is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never checked a reptile enclosure's humidity or weighed a guinea pig on a gram scale. That is the gap our team fills.
+The Mission District is San Francisco at its most vibrant — a dense, historically Latino neighborhood where the murals of Balmy and Clarion alleys spill color onto the walls, the Valencia and Mission Street corridors hum from morning coffee to late-night taquerías, and Dolores Park fills with sunbathers the moment the fog burns off. And burn off it does: the Mission is the sunniest, warmest pocket of the city, which is part of why it draws so many young professionals, artists, and renters into its flats and converted buildings. Those apartments are increasingly home to exotic pets — and given the space constraints of city living, they skew reptile-friendly: a bearded dragon under a UVB lamp, a leopard gecko in a tidy tank, a corn snake who barely needs a square foot. There are plenty of rabbits, guinea pigs, and birds here too. So when a trip comes up, the question that surfaces the night before is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never checked a reptile enclosure's humidity or weighed a guinea pig on a gram scale. That is the gap our team fills.
 
 House of Guineas Pet Care is based right here in San Francisco, in the Inner Sunset over the hill, which makes the Mission a quick, same-city trip for us. We come to your pets so they can stay in their own enclosures, on their own routines, in the home they already know — whether you are in a flat off Valencia Street, a converted building near 24th Street, or a walk-up a few blocks from Dolores Park.
 
@@ -22,7 +22,7 @@ The Mission is full of people who care about doing things thoughtfully — and w
 
 ## Exotic Species We Care For in the Mission
 
-- **Reptiles** — bearded dragons, leopard geckos, crested geckos, ball pythons and other non-venomous snakes, turtles and tortoises
+- **Reptiles** — bearded dragons, leopard geckos, crested geckos, turtles and tortoises
 - **Small mammals** — rabbits (including bonded pairs and trios), guinea pigs, chinchillas, ferrets, hamsters, rats
 - **Birds** — parrots, cockatiels, conures, budgies, lovebirds, finches
 
@@ -81,14 +81,14 @@ The Mission is within San Francisco, our home city, so there is no Peninsula tra
 <details class="faq-details">
   <summary class="faq-summary">Do you take care of reptiles in the Mission?</summary>
   <div class="faq-answer">
-    <p>Yes, and reptiles are a big part of what we do in the Mission's apartment-heavy homes. We care for bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises. We can confirm basking temps and temperature gradients, dial in UVB and heat setups, mist for humidity, and handle feedings on your pet's own schedule.</p>
+    <p>Yes, and reptiles are a big part of what we do in the Mission's apartment-heavy homes. We care for bearded dragons, leopard and crested geckos, and turtles and tortoises. We can confirm basking temps and temperature gradients, dial in UVB and heat setups, mist for humidity, and handle feedings on your pet's own schedule.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in the Mission?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
+    <p>We care for exotic pets and cats. That includes reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
   </div>
 </details>
 
@@ -128,7 +128,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you take care of reptiles in the Mission?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, and reptiles are a big part of what we do in the Mission's apartment-heavy homes. We care for bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises. We can confirm basking temps and temperature gradients, dial in UVB and heat setups, mist for humidity, and handle feedings on your pet's own schedule."
+        "text": "Yes, and reptiles are a big part of what we do in the Mission's apartment-heavy homes. We care for bearded dragons, leopard and crested geckos, and turtles and tortoises. We can confirm basking temps and temperature gradients, dial in UVB and heat setups, mist for humidity, and handle feedings on your pet's own schedule."
       }
     },
     {
@@ -136,7 +136,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in the Mission?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
+        "text": "We care for exotic pets and cats. That includes reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
       }
     },
     {

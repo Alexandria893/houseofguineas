@@ -25,7 +25,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team
 - **Turtles and tortoises** — aquatic, semi-aquatic, and terrestrial, each with their own water quality, basking, and UVB needs
 - We also care for many other lizards — [text us about your species](tel:415-484-6493) and we will tell you honestly whether it is in our wheelhouse
 
-A note on snakes, and one that reflects how closely we follow the animals we work with: San Francisco's municipal code prohibits keeping boas, pythons, and venomous snakes within the city. So in San Francisco we focus on the reptiles that are legal to keep here. For legal, non-venomous species kept outside the city — on the Peninsula or in Marin — we are happy to discuss snakes case by case. Knowing exactly which animals are and are not legal in the city is part of doing this professionally.
+A note on snakes, and one that reflects how closely we follow the animals we work with: San Francisco's municipal code prohibits keeping boas, pythons, and venomous snakes within the city. So in San Francisco we focus on the reptiles that are legal to keep here. For legal, non-venomous species kept outside the city — on the Peninsula — we are happy to discuss snakes case by case. Knowing exactly which animals are and are not legal in the city is part of doing this professionally.
 
 ## What In-Home Reptile Care Involves
 
@@ -71,7 +71,7 @@ Because this is in-city San Francisco, there is **no Peninsula travel surcharge*
 <details class="faq-details">
   <summary class="faq-summary">Do you care for snakes in San Francisco?</summary>
   <div class="faq-answer">
-    <p>San Francisco's municipal code prohibits keeping boas, pythons, and venomous snakes within the city, so in San Francisco we focus on the reptiles that are legal to keep here — bearded dragons, geckos, turtles, tortoises, and other lizards. For legal, non-venomous species kept outside the city, on the Peninsula or in Marin, we are happy to discuss snakes case by case. Text us at 415-484-6493 and we will tell you honestly what we can do.</p>
+    <p>San Francisco's municipal code prohibits keeping boas, pythons, and venomous snakes within the city, so in San Francisco we focus on the reptiles that are legal to keep here — bearded dragons, geckos, turtles, tortoises, and other lizards. For legal, non-venomous species kept outside the city, on the Peninsula, we are happy to discuss snakes case by case. Text us at 415-484-6493 and we will tell you honestly what we can do.</p>
   </div>
 </details>
 
@@ -117,7 +117,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "Do you care for snakes in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "San Francisco's municipal code prohibits keeping boas, pythons, and venomous snakes within the city, so in San Francisco we focus on the reptiles that are legal to keep here — bearded dragons, geckos, turtles, tortoises, and other lizards. For legal, non-venomous species kept outside the city, on the Peninsula or in Marin, we are happy to discuss snakes case by case. Text us at 415-484-6493 and we will tell you honestly what we can do."
+        "text": "San Francisco's municipal code prohibits keeping boas, pythons, and venomous snakes within the city, so in San Francisco we focus on the reptiles that are legal to keep here — bearded dragons, geckos, turtles, tortoises, and other lizards. For legal, non-venomous species kept outside the city, on the Peninsula, we are happy to discuss snakes case by case. Text us at 415-484-6493 and we will tell you honestly what we can do."
       }
     },
     {

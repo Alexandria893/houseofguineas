@@ -9,12 +9,12 @@ tags = ["peninsula", "exotic pet care", "SFO", "travel"]
   priority = 0.7
 +++
 
-If you live near SFO, you already know the drill. The boarding pass is loaded, the Uber is scheduled, the suitcase is by the door — and at 11 p.m. the night before, you are standing in your kitchen wondering who on earth is actually qualified to care for your bearded dragon while you are in Boston for a week. Most of the Peninsula families we meet are in this exact bind. They work in biotech or tech — Gilead in Foster City, Genentech in South SF, Visa in Foster City, Oracle down the road, the whole 101 corridor — and their travel is unpredictable. Exotic pets, unlike dogs, do not come along. And finding a sitter who knows the difference between a guinea pig's vitamin C needs and a rabbit's hay requirements is genuinely hard.
+If you live near SFO, you already know the drill. The boarding pass is loaded, the Uber is scheduled, the suitcase is by the door — and at 11 p.m. the night before, you are standing in your kitchen wondering who on earth is actually qualified to care for your bearded dragon while you are in Boston for a week. Most of the Peninsula families we meet are in this exact bind. They work in biotech or tech — Gilead in Foster City, Visa in Foster City, Oracle down the road, the whole 101 corridor — and their travel is unpredictable. Exotic pets, unlike dogs, do not come along. And finding a sitter who knows the difference between a guinea pig's vitamin C needs and a rabbit's hay requirements is genuinely hard.
 
 <!--more-->
 
 ![Milo the guinea pig](/milo.jpeg)
-*Milo, holding down the fort while I'm at the vet hospital. Peninsula guinea pigs deserve the same attentive care.*
+*Milo, holding down the fort while I'm out on house calls. Peninsula guinea pigs deserve the same attentive care.*
 
 ## The Peninsula + Exotic Pets: A Perfect Storm
 
@@ -24,7 +24,7 @@ So families end up with the animals that fit a busy Peninsula life: a pair of gu
 
 ## What Most Peninsula Pet Sitters Miss
 
-I spent years working as an exotic veterinary assistant at [Bay Area Bird & Exotics Hospital](/san-francisco-california-exotic-veterinary-experience), and I can tell you the single most common preventable emergency I saw was the result of a generalist pet sitter doing their best and still getting it wrong. Rover and Care.com sitters are often lovely people who are very good with dogs and cats. Exotic animals are a different discipline entirely, and the gaps show up fast:
+I worked as an exotic veterinary assistant at [Bay Area Bird & Exotics Hospital](/san-francisco-california-exotic-veterinary-experience), and the most common preventable emergency I saw was the result of a generalist pet sitter doing their best and still getting it wrong. Rover and Care.com sitters are often lovely people who are very good with dogs and cats. Exotic animals are a different discipline entirely, and the gaps show up fast:
 
 - **Ball pythons** need a specific humidity range (50–60% most of the time, bumped to 65–70% during shed). A sitter who does not know this will not notice when the hygrometer drifts and the snake goes into a bad shed.
 - **Guinea pigs** are often fed like rabbits — and they are not. Guinea pigs cannot synthesize vitamin C on their own and will develop scurvy without daily supplementation. I have seen this in the exam room more times than I can count. (If you want the full breakdown, see our [guinea pig diet guide](/post/guinea-pig-diet-nutrition).)
@@ -36,7 +36,7 @@ This is not a knock on generalist sitters. It is a recognition that exotic anima
 
 ## How We Built This Service for Peninsula Travelers
 
-I founded House of Guineas in San Francisco as a solo exotic veterinary assistant making house calls between hospital shifts. The demand from the Peninsula grew faster than I could keep up with on my own, so over the past few years I have hired and trained a team of specialists who now handle most of our in-home visits. Every specialist we bring on is trained under the same clinical standards I use at the vet hospital and at [House Rabbit Society](https://houserabbit.org/veterinaryinitiative), where I volunteer administering subcutaneous RHDV2 vaccinations.
+I founded House of Guineas in San Francisco as a solo exotic veterinary assistant making house calls. The demand from the Peninsula grew faster than I could keep up with on my own, so I hired and trained a team of specialists who now handle most of our in-home visits. Every specialist we bring on is held to the same clinical standards I learned as an exotic vet assistant and continue to apply at [House Rabbit Society](https://houserabbit.org/veterinaryinitiative), where I volunteer administering subcutaneous RHDV2 vaccinations.
 
 Here is what that looks like in practice for a Peninsula household:
 

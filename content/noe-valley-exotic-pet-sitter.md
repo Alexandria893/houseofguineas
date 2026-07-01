@@ -23,7 +23,7 @@ Noe Valley is full of people who think carefully and plan ahead — parents jugg
 ## Exotic Species We Care For in Noe Valley
 
 - **Small mammals** — rabbits (including bonded pairs and trios), guinea pigs, chinchillas, ferrets, hamsters, rats
-- **Reptiles** — bearded dragons, leopard geckos, crested geckos, ball pythons and other non-venomous snakes, turtles and tortoises
+- **Reptiles** — bearded dragons, leopard geckos, crested geckos, turtles and tortoises
 - **Birds** — parrots, cockatiels, conures, budgies, lovebirds, finches
 
 If your species is not listed, [call or text us](tel:415-484-6493) — if we have not handled it, we will tell you honestly and usually point you to someone who has.
@@ -81,7 +81,7 @@ Noe Valley is within San Francisco — our home city — so there is no Peninsul
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in Noe Valley?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
+    <p>We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
   </div>
 </details>
 
@@ -128,7 +128,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in Noe Valley?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
+        "text": "We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
       }
     },
     {

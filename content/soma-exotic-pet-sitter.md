@@ -22,7 +22,7 @@ SOMA runs on people who care about getting the details right — and with an exo
 
 ## Exotic Species We Care For in SOMA
 
-- **Reptiles** — bearded dragons, leopard geckos, crested geckos, ball pythons and other non-venomous snakes, turtles and tortoises
+- **Reptiles** — bearded dragons, leopard geckos, crested geckos, turtles and tortoises
 - **Small mammals** — guinea pigs, rabbits (including bonded pairs and trios), chinchillas, ferrets, hamsters, rats
 - **Birds** — parrots, cockatiels, conures, budgies, lovebirds, finches
 
@@ -81,14 +81,14 @@ SOMA is within San Francisco, our home city, so there is no Peninsula travel sur
 <details class="faq-details">
   <summary class="faq-summary">Do you specialize in reptiles for SOMA condo and loft dwellers?</summary>
   <div class="faq-answer">
-    <p>Yes. Reptiles are a core part of what we do, and they suit SOMA's condo and loft living especially well. We check basking temperatures and enclosure humidity, keep UVB schedules on track, and spot-feed on your species' schedule — for bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises. Share your setup at the meet-and-greet and we will match it exactly.</p>
+    <p>Yes. Reptiles are a core part of what we do, and they suit SOMA's condo and loft living especially well. We check basking temperatures and enclosure humidity, keep UVB schedules on track, and spot-feed on your species' schedule — for bearded dragons, leopard and crested geckos, and turtles and tortoises. Share your setup at the meet-and-greet and we will match it exactly.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in SOMA?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
+    <p>We care for exotic pets and cats. That includes reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
   </div>
 </details>
 
@@ -128,7 +128,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you specialize in reptiles for SOMA condo and loft dwellers?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Reptiles are a core part of what we do, and they suit SOMA's condo and loft living especially well. We check basking temperatures and enclosure humidity, keep UVB schedules on track, and spot-feed on your species' schedule — for bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises. Share your setup at the meet-and-greet and we will match it exactly."
+        "text": "Yes. Reptiles are a core part of what we do, and they suit SOMA's condo and loft living especially well. We check basking temperatures and enclosure humidity, keep UVB schedules on track, and spot-feed on your species' schedule — for bearded dragons, leopard and crested geckos, and turtles and tortoises. Share your setup at the meet-and-greet and we will match it exactly."
       }
     },
     {
@@ -136,7 +136,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in SOMA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
+        "text": "We care for exotic pets and cats. That includes reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
       }
     },
     {
