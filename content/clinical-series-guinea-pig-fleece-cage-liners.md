@@ -65,7 +65,7 @@ weight = 3
 </div>
 
 <div class="text-center" style="margin: 1.5rem 0;">
-  <img src="/cost-comparison.svg" alt="Do the math: House of Guineas Clinical Series liners are $465 one time (about $78/year over 6+ years) versus $240–480 every year for disposable paper or wood bedding — pays for itself in about 1.5 years" style="max-width: 100%; height: auto;" loading="lazy" />
+  <img src="/cost-comparison.svg?v=2" alt="Do the math: House of Guineas Clinical Series liners are $465 one time (about $78/year over 6+ years) versus $240–480 every year for disposable paper or wood bedding — pays for itself in about 1.5 years" style="max-width: 100%; height: auto;" loading="lazy" />
   <p style="font-size: 13px; color: #6B5E52; margin-top: 6px;">$465 once — about $78/year over 6+ years — versus $240–480 <em>every</em> year for disposable bedding.</p>
 </div>
 
