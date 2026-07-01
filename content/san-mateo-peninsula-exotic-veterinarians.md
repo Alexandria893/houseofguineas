@@ -40,22 +40,6 @@ For a broader Bay Area list (San Francisco, East Bay, South Bay), see our [San F
 
 <details class="list-item">
   <summary class="list-summary">
-    <a href="https://www.birdandexoticsvet.com" target="_blank" rel="noopener noreferrer">Bay Area Bird & Exotics Hospital (San Mateo)</a>
-  </summary>
-  <div class="list-info">
-    <p>
-      <strong>Specializes In:</strong> 🐹 Small Mammals, 🦎 Reptiles & Amphibians, 🦜 Birds<br>
-      <strong>Veterinarian(s):</strong> Dr. Leila Marcucci (Board-Certified Avian Specialist — the only ABVP Diplomate in avian medicine in San Francisco, San Mateo & Marin counties)<br>
-      <strong>Focus:</strong> Exotics only — no dogs or cats. This lets them maintain a low-stress environment for prey species and birds.<br>
-      <strong>Phone:</strong> <a href="tel:415-566-4359">(415) 566-4359</a> (main)<br>
-      <strong>Website:</strong> <a href="https://www.birdandexoticsvet.com" target="_blank" rel="noopener noreferrer">birdandexoticsvet.com</a><br>
-      <strong>Notes:</strong> Call to confirm which location (SF or San Mateo) your appointment is scheduled at. This is where our House of Guineas founder, Alexandria, previously worked as an exotic veterinary assistant — we work with this team's care standards.
-    </p>
-  </div>
-</details>
-
-<details class="list-item">
-  <summary class="list-summary">
     <a href="http://www.peninsulaavevet.com/" target="_blank" rel="noopener noreferrer">Peninsula Avenue Veterinary Clinic</a>
   </summary>
   <div class="list-info">
@@ -212,7 +196,7 @@ Exotic pets hide illness until they physically can't anymore. By the time you re
 2. A 24/7 emergency option that accepts your species
 
 For most Peninsula residents, the combination that works is:
-- **Primary exotic vet**: Wildwood (Redwood City), Bay Area Bird & Exotics (San Mateo), or Adobe (Los Altos)
+- **Primary exotic vet**: Wildwood (Redwood City) or Adobe (Los Altos)
 - **After-hours backup**: VEG Palo Alto or PETS Referral Center (Berkeley) — call first
 
 Learn more about early warning signs in [5 Signs Your Guinea Pig Needs a Vet](/post/signs-your-guinea-pig-needs-a-vet) and [Exotic Pet Emergency Signs](/post/exotic-pet-emergency-signs).
@@ -241,14 +225,14 @@ Learn more about early warning signs in [5 Signs Your Guinea Pig Needs a Vet](/p
 <details class="faq-details">
   <summary class="faq-summary">Which San Mateo County vets treat exotic pets?</summary>
   <div class="faq-answer">
-    <p>Several Peninsula clinics see exotics. Bay Area Bird & Exotics Hospital in San Mateo treats exotics only (small mammals, reptiles, and birds). Wildwood Veterinary Hospital in Redwood City is avian and exotic only. Adobe Animal Hospital in Los Altos sees small mammals, reptiles, and birds. Peninsula Avenue Veterinary Clinic, Mid-Peninsula Animal Hospital, and Burlingame Family Pet Hospital also have small mammal experience. Call ahead to confirm your species.</p>
+    <p>Several Peninsula clinics see exotics. Wildwood Veterinary Hospital in Redwood City is avian and exotic only. Adobe Animal Hospital in Los Altos sees small mammals, reptiles, and birds. Peninsula Avenue Veterinary Clinic, Mid-Peninsula Animal Hospital, and Burlingame Family Pet Hospital also have small mammal experience. Call ahead to confirm your species.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Is there an exotic vet in San Mateo?</summary>
   <div class="faq-answer">
-    <p>Yes. Bay Area Bird & Exotics Hospital in San Mateo treats exotics only (no dogs or cats) and includes Dr. Leila Marcucci, a board-certified avian specialist. Peninsula Avenue Veterinary Clinic, located between San Mateo and Burlingame, sees small mammals such as rabbits and guinea pigs. Mid-Peninsula Animal Hospital also sees small mammals, with Dr. Zunino noted for an interest in exotic animal medicine.</p>
+    <p>San Mateo County's options are limited. Peninsula Avenue Veterinary Clinic, located between San Mateo and Burlingame, sees small mammals such as rabbits and guinea pigs, and Mid-Peninsula Animal Hospital also sees small mammals, with Dr. Zunino noted for an interest in exotic animal medicine. The nearest exotics-only hospital is Bay Area Bird & Exotics Hospital in San Francisco, which includes Dr. Leila Marcucci, a board-certified avian specialist.</p>
   </div>
 </details>
 
@@ -269,7 +253,7 @@ Learn more about early warning signs in [5 Signs Your Guinea Pig Needs a Vet](/p
 <details class="faq-details">
   <summary class="faq-summary">Is there an exotic vet near Burlingame?</summary>
   <div class="faq-answer">
-    <p>Burlingame Family Pet Hospital is a general practice in Burlingame with some exotic experience for rabbits and guinea pigs; verify current exotic availability before scheduling. Peninsula Avenue Veterinary Clinic sits between San Mateo and Burlingame and sees small mammals. Nearby, Bay Area Bird & Exotics Hospital in San Mateo treats exotics exclusively. Call ahead to confirm which veterinarians see your specific species.</p>
+    <p>Burlingame Family Pet Hospital is a general practice in Burlingame with some exotic experience for rabbits and guinea pigs; verify current exotic availability before scheduling. Peninsula Avenue Veterinary Clinic sits between San Mateo and Burlingame and sees small mammals. The nearest dedicated exotics hospital is Bay Area Bird & Exotics Hospital in San Francisco. Call ahead to confirm which veterinarians see your specific species.</p>
   </div>
 </details>
 
@@ -278,11 +262,11 @@ Learn more about early warning signs in [5 Signs Your Guinea Pig Needs a Vet](/p
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    { "@type": "Question", "name": "Which San Mateo County vets treat exotic pets?", "acceptedAnswer": { "@type": "Answer", "text": "Several Peninsula clinics see exotics. Bay Area Bird & Exotics Hospital in San Mateo treats exotics only (small mammals, reptiles, and birds). Wildwood Veterinary Hospital in Redwood City is avian and exotic only. Adobe Animal Hospital in Los Altos sees small mammals, reptiles, and birds. Peninsula Avenue Veterinary Clinic, Mid-Peninsula Animal Hospital, and Burlingame Family Pet Hospital also have small mammal experience. Call ahead to confirm your species." } },
-    { "@type": "Question", "name": "Is there an exotic vet in San Mateo?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Bay Area Bird & Exotics Hospital in San Mateo treats exotics only (no dogs or cats) and includes Dr. Leila Marcucci, a board-certified avian specialist. Peninsula Avenue Veterinary Clinic, located between San Mateo and Burlingame, sees small mammals such as rabbits and guinea pigs. Mid-Peninsula Animal Hospital also sees small mammals, with Dr. Zunino noted for an interest in exotic animal medicine." } },
+    { "@type": "Question", "name": "Which San Mateo County vets treat exotic pets?", "acceptedAnswer": { "@type": "Answer", "text": "Several Peninsula clinics see exotics. Wildwood Veterinary Hospital in Redwood City is avian and exotic only. Adobe Animal Hospital in Los Altos sees small mammals, reptiles, and birds. Peninsula Avenue Veterinary Clinic, Mid-Peninsula Animal Hospital, and Burlingame Family Pet Hospital also have small mammal experience. Call ahead to confirm your species." } },
+    { "@type": "Question", "name": "Is there an exotic vet in San Mateo?", "acceptedAnswer": { "@type": "Answer", "text": "San Mateo County's options are limited. Peninsula Avenue Veterinary Clinic, located between San Mateo and Burlingame, sees small mammals such as rabbits and guinea pigs, and Mid-Peninsula Animal Hospital also sees small mammals, with Dr. Zunino noted for an interest in exotic animal medicine. The nearest exotics-only hospital is Bay Area Bird & Exotics Hospital in San Francisco, which includes Dr. Leila Marcucci, a board-certified avian specialist." } },
     { "@type": "Question", "name": "Is there an exotic vet in Redwood City?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Wildwood Veterinary Hospital at 2900 Spring St, Suite 5, Redwood City is avian and exotic only, treating birds, reptiles, and small mammals with Dr. Chris Sanders. It is one of the strongest options for Peninsula residents with rabbits, guinea pigs, reptiles, or birds. SAGE Veterinary Centers in Redwood City offers 24/7 emergency care but is primarily for dogs and cats, so call first." } },
     { "@type": "Question", "name": "Where is the nearest exotic emergency vet on the Peninsula?", "acceptedAnswer": { "@type": "Answer", "text": "Veterinary Emergency Group (VEG) Palo Alto offers 24/7 emergency care and does see exotics, though you should confirm your specific species when you call. SAGE Veterinary Centers in Redwood City is open 24/7 but does not specialize in exotics, so call first. For exotic emergencies, Bay Area Bird & Exotics Hospital during business hours is also a strong choice. Always call before driving in." } },
-    { "@type": "Question", "name": "Is there an exotic vet near Burlingame?", "acceptedAnswer": { "@type": "Answer", "text": "Burlingame Family Pet Hospital is a general practice in Burlingame with some exotic experience for rabbits and guinea pigs; verify current exotic availability before scheduling. Peninsula Avenue Veterinary Clinic sits between San Mateo and Burlingame and sees small mammals. Nearby, Bay Area Bird & Exotics Hospital in San Mateo treats exotics exclusively. Call ahead to confirm which veterinarians see your specific species." } }
+    { "@type": "Question", "name": "Is there an exotic vet near Burlingame?", "acceptedAnswer": { "@type": "Answer", "text": "Burlingame Family Pet Hospital is a general practice in Burlingame with some exotic experience for rabbits and guinea pigs; verify current exotic availability before scheduling. Peninsula Avenue Veterinary Clinic sits between San Mateo and Burlingame and sees small mammals. The nearest dedicated exotics hospital is Bay Area Bird & Exotics Hospital in San Francisco. Call ahead to confirm which veterinarians see your specific species." } }
   ]
 }
 </script>
