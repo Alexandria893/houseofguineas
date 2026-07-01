@@ -39,11 +39,15 @@ Either way, if something seems off, we reach out before you are back.
 
 We provide in-home exotic pet care across the city, including:
 
-- Inner Sunset, Outer Sunset, and Parkside
+- The [Sunset District](/sunset-district-exotic-pet-sitter/) (Inner and Outer Sunset) and Parkside
 - Cole Valley and Haight-Ashbury
-- Richmond District and the Forest Hill area
-- Noe Valley, the Castro, and the Mission District
-- Pacific Heights, the Marina District, and SOMA
+- The [Richmond District](/richmond-district-exotic-pet-sitter/) and the Forest Hill area
+- [Noe Valley](/noe-valley-exotic-pet-sitter/), [the Castro](/castro-exotic-pet-sitter/), and [the Mission District](/mission-district-exotic-pet-sitter/)
+- Pacific Heights, the Marina District, and [SOMA](/soma-exotic-pet-sitter/)
+
+Just outside the city, we also serve [Daly City](/daly-city-exotic-pet-sitter/), [South San Francisco](/south-san-francisco-exotic-pet-sitter/), [San Bruno](/san-bruno-exotic-pet-sitter/), and [Pacifica](/pacifica-exotic-pet-sitter/) to the south, and [Marin County](/marin-county-exotic-pet-sitter/) across the Golden Gate.
+
+Looking for a species specialist? See our [reptile sitter](/reptile-pet-sitter-san-francisco/) and [guinea pig & small-mammal sitter](/guinea-pig-sitter-san-francisco/) pages.
 
 If your neighborhood is not on the list, it is almost certainly still covered — [text us your address](tel:415-484-6493) and we will confirm.
 

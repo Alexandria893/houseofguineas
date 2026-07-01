@@ -259,6 +259,14 @@ With proper care, each liner pair lasts **6+ years**.
 
 ---
 
+### Handmade in San Francisco
+
+Every Clinical Series liner is designed and sewn here in San Francisco by Alexandria, the exotic veterinary assistant behind House of Guineas — the same person who cares for guinea pigs in homes across the city through our [in-home guinea pig care](/guinea-pig-sitter-san-francisco/). It is not a mass-produced import; it is the liner she trusts for the animals in her own care.
+
+That local, clinical background is the whole point. The fabric, the absorption core, and the antimicrobial silver-ion treatment were chosen by someone who weighs guinea pigs on a gram scale for a living — not by a marketing team. Bay Area guinea pig owners often find the liner through our care service, because the two come from the same place. Orders ship nationwide from our Etsy shop.
+
+---
+
 ### Frequently Asked Questions
 
 <details style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
