@@ -124,9 +124,9 @@ Let's do the math over 2 years for a standard 2x4 C&C cage:
   </tr>
   <tr class="highlight-row">
     <td>Clinical Series liners</td>
-    <td>$400</td>
+    <td>$465</td>
     <td>$0</td>
-    <td><strong>$400</strong></td>
+    <td><strong>$465</strong></td>
   </tr>
 </table>
 
@@ -176,7 +176,7 @@ If you're ready to make the switch, check out our [Clinical Series Fleece Cage L
 <details class="faq-details">
   <summary class="faq-summary">Are fleece liners cheaper than disposable bedding?</summary>
   <div class="faq-answer">
-    <p>Yes, over time. Paper and wood bedding cost $240-480 per year, recurring. Over 2 years for a standard 2x4 C&C cage, paper runs $720-960 and wood shavings $480-720. Basic fleece liners total $100-160, and the Clinical Series is a one-time $400 purchase. The upfront cost of fleece pays for itself within months.</p>
+    <p>Yes, over time. Paper and wood bedding cost $240-480 per year, recurring. Over 2 years for a standard 2x4 C&C cage, paper runs $720-960 and wood shavings $480-720. Basic fleece liners total $100-160, and the Clinical Series is a one-time $465 purchase. The upfront cost of fleece pays for itself within months.</p>
   </div>
 </details>
 
@@ -213,7 +213,7 @@ If you're ready to make the switch, check out our [Clinical Series Fleece Cage L
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    { "@type": "Question", "name": "Are fleece liners cheaper than disposable bedding?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, over time. Paper and wood bedding cost $240-480 per year, recurring. Over 2 years for a standard 2x4 C&C cage, paper runs $720-960 and wood shavings $480-720. Basic fleece liners total $100-160, and the Clinical Series is a one-time $400 purchase. The upfront cost of fleece pays for itself within months." } },
+    { "@type": "Question", "name": "Are fleece liners cheaper than disposable bedding?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, over time. Paper and wood bedding cost $240-480 per year, recurring. Over 2 years for a standard 2x4 C&C cage, paper runs $720-960 and wood shavings $480-720. Basic fleece liners total $100-160, and the Clinical Series is a one-time $465 purchase. The upfront cost of fleece pays for itself within months." } },
     { "@type": "Question", "name": "Are fleece liners better for guinea pig respiratory health?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Guinea pigs have incredibly sensitive respiratory systems, and dust from wood shavings, phenols from cedar and pine, and ammonia buildup from saturated bedding all contribute to upper respiratory infections. Fleece liners produce zero dust, making them the best option for respiratory health. The Clinical Series goes further with antimicrobial silver ion technology that controls odor-causing bacteria between washes." } },
     { "@type": "Question", "name": "How long do fleece cage liners last?", "acceptedAnswer": { "@type": "Answer", "text": "Fleece liners are reusable for 6 or more years, which is what makes their long-term cost dramatically lower than disposable bedding. Paper bedding needs full replacement 1-2 times per week, and the recurring expense adds up month after month. A reusable fleece liner replaces all of that with a single purchase." } },
     { "@type": "Question", "name": "Do fleece liners help prevent bumblefoot?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Bumblefoot is a bacterial infection of the foot pad caused by prolonged contact with damp, rough, or dirty surfaces. Guinea pigs standing on wet paper bedding or rough wood shavings are at significantly higher risk. Fleece liners offer a soft surface with the lowest bumblefoot risk and wick moisture away from the surface, keeping feet dry." } },
