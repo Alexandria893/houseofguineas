@@ -57,7 +57,7 @@ weight = 3
 
 **Stop buying separate fleece liners, pee pads, and waterproof bases.** The House of Guineas Clinical Series is a single, all-in-one, patent-pending guinea pig fleece liner with every layer built in — waterproof base, medical-grade absorption core, and soft fleece top. The entire liner is antimicrobial, with silver ion technology throughout that inhibits odor-causing bacteria. Pre-activated and ready to use from day one. No prep washes, no piecing together parts from different brands.
 
-**$465 for two complete liners** — about **$67 a year** over their 6+ year lifespan, next to the **$240–480 you would spend on disposable bedding every single year**. Both liners are machine-washable and reusable, so one stays in the cage while the other is in the wash. Designed by an exotic veterinary assistant with an engineering background. Handmade in San Francisco.
+**$465 for two complete liners** — about **$78 a year** over their 6+ year lifespan, next to the **$240–480 you would spend on disposable bedding every single year**. Both liners are machine-washable and reusable, so one stays in the cage while the other is in the wash. Designed by an exotic veterinary assistant with an engineering background. Handmade in San Francisco.
 
 <div class="text-center" style="margin: 1.5rem 0;">
   <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="btn btn-lg btn-cta-primary" target="_blank" rel="noopener noreferrer">Order Your Liners</a>
