@@ -9,7 +9,7 @@ tags = ["rabbit care", "small mammals", "san francisco"]
   priority = 0.6
 +++
 
-If you've been around me for more than five minutes, you probably already know — I am absolutely in love with my rabbits. I share my home with Chungus and Puppy Dog, my bonded pair who are genuinely inseparable, and my newest addition Johnny Wohnny, who I adopted from the [House Rabbit Society](https://houserabbit.org/veterinaryinitiative) after fostering him. I also volunteer at HRS in Richmond, where I administer subcutaneous RHDV vaccinations. Rabbits have completely taken over my life, and I wouldn't have it any other way. Here's everything I wish someone had told me when I first started out.
+If you've been around me for more than five minutes, you probably already know — I am absolutely in love with my rabbits. I share my home with Chungus and Puppy Dog, my bonded pair who are genuinely inseparable, Johnny Wohnny, who I adopted from the [House Rabbit Society](https://houserabbit.org/veterinaryinitiative) after fostering him, and my newest, Princess Lady, who's bonded with Johnny. I also volunteer at HRS in Richmond, where I administer subcutaneous RHDV vaccinations. Rabbits have completely taken over my life, and I wouldn't have it any other way. Here's everything I wish someone had told me when I first started out.
 
 <!--more-->
 
@@ -79,7 +79,7 @@ A sudden head tilt can indicate an inner ear infection or E. cuniculi (a parasit
 
 Rabbits are social animals and thrive with a bonded companion. A single rabbit can become lonely and depressed. Bonding takes patience — it should be done in neutral territory and supervised until the rabbits are comfortable together.
 
-Chungus and Puppy Dog are bonded and completely inseparable — they groom each other, sleep smooshed together, and Chungus literally bows his head down asking Puppy Dog for pets. He's so animated with his emotions, you always know exactly how he's feeling. And then there's Johnny Wohnny, my newest boy. I fostered him through HRS and just couldn't let him go. He's the sweetest — after you give him pets, he licks your hands like he's saying thank you. My heart is so full with these three.
+Chungus and Puppy Dog are bonded and completely inseparable — they groom each other, sleep smooshed together, and Chungus literally bows his head down asking Puppy Dog for pets. He's so animated with his emotions, you always know exactly how he's feeling. And then there's Johnny Wohnny, who I fostered through HRS and just couldn't let go. He's the sweetest — after you give him pets, he licks your hands like he's saying thank you. My newest is Princess Lady, who's bonded with Johnny. My heart is so full with these four.
 
 If you're thinking about getting a second rabbit, I highly recommend it — but do your research on proper bonding technique first, or consult a rabbit-savvy rescue for guidance.
 

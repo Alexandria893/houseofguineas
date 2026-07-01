@@ -9,7 +9,7 @@ tags = ["guinea pig care", "small mammals", "pet comparison"]
   priority = 0.7
 +++
 
-So you're thinking about getting a small pet and you've narrowed it down to the big three: guinea pigs, rabbits, or hamsters. I get it — they're all adorable, they all fit in an apartment, and they all seem "easy." But having lived with guinea pigs and rabbits at the same time (and cared for plenty of hamsters as an exotic veterinary assistant), I can tell you these are three very different animals. I'm Alexandria, and I share my San Francisco home with four guinea pigs — Milo, Luca, Coco, and Kai — and two rabbits: Puppy Dog and (lovingly) Big Chungus. Let me tell you what it's actually like.
+So you're thinking about getting a small pet and you've narrowed it down to the big three: guinea pigs, rabbits, or hamsters. I get it — they're all adorable, they all fit in an apartment, and they all seem "easy." But having lived with guinea pigs and rabbits at the same time (and cared for plenty of hamsters as an exotic veterinary assistant), I can tell you these are three very different animals. I'm Alexandria, and I share my San Francisco home with four guinea pigs — Milo, Luca, Coco, and Kai — and four rabbits: Puppy Dog, Big Chungus, Johnny Wohnny, and Princess Lady. Let me tell you what it's actually like.
 
 <!--more-->
 

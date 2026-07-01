@@ -103,7 +103,7 @@ Hillsborough is in our Peninsula service tier, which means a travel surcharge ap
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication or vet attention while I'm away?</summary>
   <div class="faq-answer">
-    <p>Medication administration — oral, topical, subcutaneous — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization. Our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic vet directory</a> lists Adobe Animal Hospital in Los Altos and All Pets Hospital in San Mateo as the closest specialty options.</p>
+    <p>Medication administration — oral and topical — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization. Our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic vet directory</a> lists Adobe Animal Hospital in Los Altos and All Pets Hospital in San Mateo as the closest specialty options.</p>
   </div>
 </details>
 
@@ -145,7 +145,7 @@ Ready to discuss in-home exotic pet care for your Hillsborough home? [Call or te
       "name": "What if my exotic pet needs medication or vet attention while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration — oral, topical, subcutaneous — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization."
+        "text": "Medication administration — oral and topical — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization."
       }
     }
   ]

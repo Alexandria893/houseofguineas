@@ -56,7 +56,7 @@ The three main bedding options are paper bedding, wood shavings, and fleece line
 * **Wood shavings** — cheap but risky; pine and cedar contain phenols that damage respiratory tissue; only kiln-dried aspen is considered safe
 * **Fleece liners** — reusable, dust-free, and dry on the surface when properly designed
 
-After years of testing every bedding type with my own pigs and working alongside veterinary teams, I developed the [Clinical Series fleece cage liners](/clinical-series-guinea-pig-fleece-cage-liners). They use a medical-grade antimicrobial topsheet, a bamboo absorbent core, and a waterproof base — no layering separate components, no shifting pads, no dust. Just one piece, done.
+After years of testing every bedding type with my own pigs and working alongside veterinary teams, I developed the [Clinical Series fleece cage liners](/clinical-series-guinea-pig-fleece-cage-liners). They use a medical-grade antimicrobial topsheet, a medical-grade absorbent core, and a waterproof base — no layering separate components, no shifting pads, no dust. Just one piece, done.
 
 ![Guinea pig on Clinical Series fleece liner](/clinical-series-inuse.jpg)
 

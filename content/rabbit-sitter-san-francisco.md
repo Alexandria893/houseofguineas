@@ -10,7 +10,7 @@ serviceType = "Rabbit Pet Sitting"
 
 If you live in San Francisco and you have a rabbit, your situation is specific. Your bunny probably has the run of an apartment or a Victorian flat — not a yard. The kennel down the street isn't an option. Most boarding facilities won't take rabbits at all, and the ones that will rarely know what GI stasis looks like until it's an emergency. House of Guineas exists to close that gap for SF's rabbit owners — vet-trained in-home visits from a team that genuinely understands what these animals need, in the kind of dense, walk-up-heavy neighborhoods you actually live in.
 
-Our founder, Alexandria, volunteers with the [House Rabbit Society](https://houserabbit.org) chapter right here in the Richmond District, where she administers subcutaneous RHDV2 vaccinations under veterinary direction. She lives in San Francisco with her own bonded pair, Chungus and Puppy Dog, plus Johnny Wohnny, who she fostered from HRS before adopting. Rabbits aren't a side service for us. They're the heart of what we do.
+Our founder, Alexandria, volunteers with the [House Rabbit Society](https://houserabbit.org) in Richmond, California, where she administers subcutaneous RHDV2 vaccinations under veterinary direction. She lives in San Francisco with her own bonded pair, Chungus and Puppy Dog, plus Johnny Wohnny (fostered from HRS) and Princess Lady, who is bonded with Johnny. Rabbits aren't a side service for us. They're the heart of what we do.
 
 ## Why a Vet-Trained Rabbit Sitter Matters in San Francisco
 
@@ -105,21 +105,21 @@ San Francisco is in our primary service tier — no Peninsula travel surcharge. 
 <details class="faq-details">
   <summary class="faq-summary">Can you administer my rabbit's medication?</summary>
   <div class="faq-answer">
-    <p>Yes. Oral syringe meds, topical applications, and subcutaneous injections (with vet direction) are all part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with — not something we have to figure out under pressure.</p>
+    <p>Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with — not something we have to figure out under pressure.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What if my rabbit shows signs of GI stasis while I'm away?</summary>
   <div class="faq-answer">
-    <p>We watch for the early signs at every visit — reduced fecal output, refusing favorite greens, hunched posture, teeth grinding. If we see something concerning, we'll reach out immediately and recommend whether your rabbit needs to be seen. Our <a href="/san-francisco-bay-area-exotic-veterinarians/">San Francisco exotic vet directory</a> covers every rabbit-savvy clinic in the city plus the Bay Area emergency options. If you've authorized us in advance, we can transport.</p>
+    <p>We watch for the early signs at every visit — reduced fecal output, refusing favorite greens, hunched posture, teeth grinding. If we see something concerning, we'll reach out immediately and recommend whether your rabbit needs to be seen. Our <a href="/san-francisco-bay-area-exotic-veterinarians/">San Francisco exotic vet directory</a> covers the rabbit-savvy clinics we know of in the city plus the Bay Area emergency options. If you've authorized us in advance, we can transport.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How do I find a San Francisco exotic rabbit vet?</summary>
   <div class="faq-answer">
-    <p>Our <a href="/san-francisco-bay-area-exotic-veterinarians/">San Francisco exotic vet directory</a> lists every exotic-savvy vet in the city, including emergency options. Bay Area Bird and Exotics Hospital — where our founder worked as an exotic veterinary assistant — is one of the most established options for rabbits in SF.</p>
+    <p>Our <a href="/san-francisco-bay-area-exotic-veterinarians/">San Francisco exotic vet directory</a> lists the exotic-savvy vets we know of in the city, including emergency options. Bay Area Bird and Exotics Hospital — where our founder worked as an exotic veterinary assistant — is a long-standing option for rabbits in SF.</p>
   </div>
 </details>
 
@@ -153,7 +153,7 @@ Ready to book in-home rabbit care for your next trip? [Call or text us at 415-48
       "name": "Can you administer my rabbit's medication?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Oral syringe meds, topical applications, and subcutaneous injections (with vet direction) are all part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with."
+        "text": "Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with."
       }
     },
     {
@@ -161,7 +161,7 @@ Ready to book in-home rabbit care for your next trip? [Call or text us at 415-48
       "name": "What if my rabbit shows signs of GI stasis while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We watch for the early signs at every visit — reduced fecal output, refusing favorite greens, hunched posture, teeth grinding. If we see something concerning, we'll reach out immediately and recommend whether your rabbit needs to be seen. Our San Francisco exotic vet directory covers every rabbit-savvy clinic in the city plus the Bay Area emergency options. If you've authorized us in advance, we can transport."
+        "text": "We watch for the early signs at every visit — reduced fecal output, refusing favorite greens, hunched posture, teeth grinding. If we see something concerning, we'll reach out immediately and recommend whether your rabbit needs to be seen. Our San Francisco exotic vet directory covers the rabbit-savvy clinics we know of in the city plus the Bay Area emergency options. If you've authorized us in advance, we can transport."
       }
     },
     {
@@ -169,7 +169,7 @@ Ready to book in-home rabbit care for your next trip? [Call or text us at 415-48
       "name": "How do I find a San Francisco exotic rabbit vet?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our San Francisco exotic vet directory lists every exotic-savvy vet in the city, including emergency options. Bay Area Bird and Exotics Hospital — where our founder worked as an exotic veterinary assistant — is one of the most established options for rabbits in SF."
+        "text": "Our San Francisco exotic vet directory lists the exotic-savvy vets we know of in the city, including emergency options. Bay Area Bird and Exotics Hospital — where our founder worked as an exotic veterinary assistant — is a long-standing option for rabbits in SF."
       }
     }
   ]

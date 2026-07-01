@@ -20,7 +20,7 @@ Bring veterinary-level care directly to your home with House of Guineas' special
   <div class="quick-facts__grid">
     <div class="qf">
       <span class="qf__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="4" r="2"/><circle cx="18" cy="8" r="2"/><circle cx="20" cy="16" r="2"/><path d="M9 10a5 5 0 0 1 5 5v3.5a3.5 3.5 0 0 1-6.84 1.05Q6.52 17.48 4.46 16.84A3.5 3.5 0 0 1 5.5 10Z"/></svg></span>
-      <div class="qf__body"><span class="qf__label">Animals we care for</span><span class="qf__value">Rabbits, guinea pigs and other small mammals, reptiles, birds, and cats.</span></div>
+      <div class="qf__body"><span class="qf__label">Animals we care for</span><span class="qf__value">Rabbits, guinea pigs and other small mammals, reptiles, and birds.</span></div>
     </div>
     <div class="qf">
       <span class="qf__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg></span>

@@ -30,7 +30,7 @@ Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas
 From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals — including rabbits, guinea pigs, chinchillas, ferrets, and hamsters — we help prevent stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; as [exotic veterinary assistants](/san-francisco-california-exotic-veterinary-experience), our team keeps your pet's world consistent while you're away. 
 
 ### Bird Care
-Cockatiels, parakeets, conures, parrotlets, lovebirds, finches and most companion parrots — birds are a core part of what we do, not a stretch service. We handle daily fresh chop preparation, pellet measurement, water tower changes, full cage and grate cleaning, and out-of-cage time for birds with established free-flight routines. Our team is trained to recognize the early signs of crop issues, respiratory infections, and egg binding. Alexandria worked as an exotic veterinary assistant at [Bay Area Bird & Exotics Hospital](https://www.birdandexoticsvet.com), and our staff bring veterinary assistant experience of their own — so avian care is rooted in clinical exposure, not guesswork. See our [bird care guide](/bird-care-guide/) for species-specific guidance.
+Cockatiels, parakeets, conures, parrotlets, lovebirds, finches and most companion parrots — birds are a core part of what we do, not a stretch service. We handle daily fresh chop preparation, pellet measurement, water tower changes, full cage and grate cleaning, and out-of-cage time for birds with established free-flight routines. Our team is trained to recognize the early signs of crop issues, respiratory infections, and egg binding. Alexandria worked as an exotic veterinary assistant at [Bay Area Bird & Exotics Hospital](https://www.birdandexoticsvet.com), and our specialists are trained to identify critical health issues in the animals they care for — so avian care is rooted in real preparation, not guesswork. See our [bird care guide](/bird-care-guide/) for species-specific guidance.
 
 ### Routine Visits (2x/day)
 * **30 minutes:** $140/day ($70/visit) <!-- prev 60/120 for 30 and  155 for 30/+60/165 -->
@@ -42,7 +42,7 @@ Cockatiels, parakeets, conures, parrotlets, lovebirds, finches and most companio
 * **30 minutes:** $85/visit 
 * **60 minutes:** $115/visit
 
-***Pet Care:*** Your pet will receive dedicated love and attention, including species-specific feeding, fresh water, medication administration — oral, topical, or subcutaneous injections if needed — and enrichment.
+***Pet Care:*** Your pet will receive dedicated love and attention, including species-specific feeding, fresh water, medication administration — oral or topical medication, coordinated with your vet — and enrichment.
 
 ***Home Care:*** Visits include general home upkeep such as tidying pet areas, plant care, and mail/package retrieval. We can also alternate lights and blinds upon request to maintain a lived-in appearance.
 

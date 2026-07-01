@@ -102,14 +102,14 @@ San Francisco is our **primary service area, so no travel surcharge applies** �
 <details class="faq-details">
   <summary class="faq-summary">What exotic species do you care for?</summary>
   <div class="faq-answer">
-    <p>Rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats and other small mammals; reptiles including bearded dragons, geckos, snakes, turtles and tortoises; and birds from budgies and cockatiels to parrots. We are exotic-only — we do not sit dogs or cats, except for households that also have exotics. Rabbit owners can also see our dedicated <a href="/rabbit-sitter-san-francisco/">San Francisco rabbit sitter</a> page.</p>
+    <p>Rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats and other small mammals; reptiles including bearded dragons, geckos, snakes, turtles and tortoises; and birds from budgies and cockatiels to parrots. Rabbit owners can also see our dedicated <a href="/rabbit-sitter-san-francisco/">San Francisco rabbit sitter</a> page.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, subcutaneous fluids (with vet direction), topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. Share the protocol at the meet-and-greet and we will match the schedule exactly. For warning signs, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
+    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. Share the protocol at the meet-and-greet and we will match the schedule exactly. For warning signs, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
   </div>
 </details>
 
@@ -150,7 +150,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What exotic species do you care for?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats and other small mammals; reptiles including bearded dragons, geckos, snakes, turtles and tortoises; and birds from budgies and cockatiels to parrots. We are exotic-only — we do not sit dogs or cats, except for households that also have exotics."
+        "text": "Rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats and other small mammals; reptiles including bearded dragons, geckos, snakes, turtles and tortoises; and birds from budgies and cockatiels to parrots."
       }
     },
     {
@@ -158,7 +158,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, subcutaneous fluids (with vet direction), topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. Share the protocol at the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. Share the protocol at the meet-and-greet and we will match the schedule exactly."
       }
     },
     {

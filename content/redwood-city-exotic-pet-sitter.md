@@ -90,7 +90,7 @@ Redwood City is in our Peninsula service tier, which means a travel surcharge ap
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, subcutaneous fluids (with vet direction), topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet/">signs your guinea pig needs a vet</a> and our <a href="/post/exotic-pet-emergency-signs/">exotic pet emergency signs</a> resource.</p>
+    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet/">signs your guinea pig needs a vet</a> and our <a href="/post/exotic-pet-emergency-signs/">exotic pet emergency signs</a> resource.</p>
   </div>
 </details>
 
@@ -130,7 +130,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, subcutaneous fluids (with vet direction), topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly."
       }
     },
     {

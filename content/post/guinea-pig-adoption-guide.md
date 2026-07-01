@@ -45,7 +45,7 @@ Trust your gut, too. When Milo walked right up to the edge of his enclosure to s
 Let's get honest about money, because guinea pigs are not as cheap as people assume. I learned some of these numbers the hard way!
 
 * **Adoption fee:** $25-75 from a rescue
-* **Cage:** $80-200 for a proper C&C (cubes and coroplast) cage — the minimum recommended size is 7.5 square feet for a pair
+* **Cage:** $80-200 for a proper C&C (cubes and coroplast) cage — the minimum recommended size is 10.5 square feet for a pair
 * **Bedding:** $400 one-time investment for [Clinical Series fleece liners](/clinical-series-guinea-pig-fleece-cage-liners), which last years — versus $240-480 per year for disposable paper or wood bedding (I switched to fleece after my first month and never looked back)
 * **Hay, pellets, and fresh vegetables:** $40-60 per month
 * **Exotic vet visits:** $50-100 per wellness checkup — and you absolutely must find an [exotic vet](/san-francisco-bay-area-exotic-veterinarians), not a regular dog-and-cat vet

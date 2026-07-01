@@ -41,7 +41,7 @@ I founded House of Guineas in San Francisco as a solo exotic veterinary assistan
 Here is what that looks like in practice for a Peninsula household:
 
 - **Species-specific feeding** — timothy hay portions, vitamin C dosing, gut-loaded insects, chop prep, UVB-appropriate greens. Nothing by eyeball.
-- **Medication administration** — oral syringes, topical treatments, nebulizer sessions, and yes, subcutaneous injections when prescribed. This is not something most generalist sitters can offer.
+- **Medication administration** — oral syringes, topical treatments, and nebulizer sessions. This is not something most generalist sitters can offer.
 - **Habitat monitoring** — we check temperature gradients, humidity, substrate condition, and water quality on every visit, and we know what to adjust.
 - **Daily photo and written updates** — sent through the visit, so you can actually relax on the plane.
 - **Emergency escalation** — our team knows the Peninsula and Bay Area [exotic vet landscape](/san-francisco-bay-area-exotic-veterinarians) and has protocols for getting your pet seen quickly.
@@ -72,7 +72,7 @@ Whether you end up hiring our team or someone else, here is the checklist I wish
 
 ## Boarding Alternative for Longer Trips
 
-For trips longer than about ten days — or for families who would rather have their pet stay somewhere staffed around the clock — I personally host boarding at our San Francisco location. It is a quiet, species-appropriate setup in my own home, where the pet gets the same hands-on care I give my own crew (Milo, Luca, Coco, and Kai on the guinea pig side; Chungus, Puppy Dog, and Johnny Wohnny on the rabbit side). Peninsula clients are absolutely welcome to drop off on the way to SFO and pick up on the way home. Details are on our [exotic pet boarding page](/home/services/exotic-pet-care-services-boarding).
+For trips longer than about ten days — or for families who would rather have their pet stay somewhere staffed around the clock — I personally host boarding at our San Francisco location. It is a quiet, species-appropriate setup in my own home, where the pet gets the same hands-on care I give my own crew (Milo, Luca, Coco, and Kai on the guinea pig side; Chungus, Puppy Dog, Johnny Wohnny, and Princess Lady on the rabbit side). Peninsula clients are absolutely welcome to drop off on the way to SFO and pick up on the way home. Details are on our [exotic pet boarding page](/home/services/exotic-pet-care-services-boarding).
 
 ## Ready to Fly Without the 11 p.m. Panic?
 

@@ -10,7 +10,7 @@ serviceType = "Rabbit Pet Sitting"
 
 San Mateo has a quietly serious rabbit community. Between the families in Hillsdale, the longtime residents around Aragon and Baywood Park, and the newer Bay Meadows crowd, rabbits show up in more San Mateo homes than people realize — often as second pets after a cat or dog, often adopted from Peninsula Humane Society right up the road in Burlingame. What's harder to find is a rabbit sitter who knows what they're doing. House of Guineas is here to fix that.
 
-Our team is based in San Francisco and we travel down the Peninsula several days a week. Our founder, Alexandria, is an exotic veterinary assistant and a House Rabbit Society volunteer in Richmond, where she administers subcutaneous RHDV2 vaccines under vet direction. She lives with Chungus and Puppy Dog (a bonded pair) and Johnny Wohnny (an HRS foster turned forever rabbit). Rabbits are not a side service. They are the center of what we do.
+Our team is based in San Francisco and we travel down the Peninsula several days a week. Our founder, Alexandria, is an exotic veterinary assistant and a House Rabbit Society volunteer in Richmond, where she administers subcutaneous RHDV2 vaccines under vet direction. She lives with Chungus and Puppy Dog (a bonded pair), Johnny Wohnny (an HRS foster turned forever rabbit), and Princess Lady, who is bonded with Johnny. Rabbits are not a side service. They are the center of what we do.
 
 ## Why a Vet-Trained Rabbit Sitter Matters in San Mateo
 
@@ -94,7 +94,7 @@ San Mateo is in our Peninsula service tier, which means a travel surcharge appli
 <details class="faq-details">
   <summary class="faq-summary">Can you administer my rabbit's medication?</summary>
   <div class="faq-answer">
-    <p>Yes. Oral syringe meds, topical applications, and subcutaneous injections (with vet direction) are all part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with.</p>
+    <p>Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with.</p>
   </div>
 </details>
 
@@ -108,7 +108,7 @@ San Mateo is in our Peninsula service tier, which means a travel surcharge appli
 <details class="faq-details">
   <summary class="faq-summary">How do I find a San Mateo-area rabbit vet?</summary>
   <div class="faq-answer">
-    <p>Our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic vet directory</a> lists every exotic-savvy vet in San Mateo County. All Pets Hospital in San Mateo and Peninsula Pet Hospital in Burlingame are both convenient options for San Mateo residents.</p>
+    <p>Our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic vet directory</a> lists the exotic-savvy vets we know of in San Mateo County. All Pets Hospital in San Mateo and Peninsula Pet Hospital in Burlingame are both convenient options for San Mateo residents.</p>
   </div>
 </details>
 
@@ -134,7 +134,7 @@ Ready to book in-home rabbit care? [Call or text us at 415-484-6493](tel:415-484
       "name": "Can you administer my rabbit's medication?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Oral syringe meds, topical applications, and subcutaneous injections (with vet direction) are all part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with."
+        "text": "Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with."
       }
     },
     {
@@ -150,7 +150,7 @@ Ready to book in-home rabbit care? [Call or text us at 415-484-6493](tel:415-484
       "name": "How do I find a San Mateo-area rabbit vet?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our Peninsula exotic vet directory lists every exotic-savvy vet in San Mateo County. All Pets Hospital in San Mateo and Peninsula Pet Hospital in Burlingame are both convenient options for San Mateo residents."
+        "text": "Our Peninsula exotic vet directory lists the exotic-savvy vets we know of in San Mateo County. All Pets Hospital in San Mateo and Peninsula Pet Hospital in Burlingame are both convenient options for San Mateo residents."
       }
     }
   ]
