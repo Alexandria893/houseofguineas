@@ -42,7 +42,7 @@ For owners who prefer overnight supervision, Alexandria hosts a small number of 
 
 ## Travel Surcharges
 
-San Francisco is our primary service area, so **there is no travel surcharge for in-home visits within the city**. For the Peninsula — Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Belmont, San Carlos, Redwood City — a travel surcharge applies, **starting at $15 per visit**. The exact amount depends on your specific location and our specialists' availability, so the honest answer is that we quote it per household. Text us your address and dates and we will give you a firm number.
+San Francisco is our primary service area, so **there is no travel surcharge for in-home visits within the city**. For the Peninsula — Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Belmont, San Carlos, Redwood City — a travel surcharge of **$15–$25 per visit** applies, depending on distance — roughly $15 for closer areas and $25+ farther out. Text us your address and dates to book.
 
 ## Why Exotic Pet Sitting Costs More Than Dog or Cat Sitting
 
@@ -67,7 +67,7 @@ If you are not sure which fits, that is exactly what the free meet-and-greet is 
 
 ## Getting an Exact Quote
 
-Every household is a little different — species, number of pets, medication, location, and dates all factor in. [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a free meet-and-greet on the calendar and quote you honestly. You can also see our full [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home/) details, the dedicated [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) page, or the [full FAQ](/home/services/faqs/).
+Every household is a little different — species, number of pets, medication, location, and dates all factor in. [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a free meet-and-greet on the calendar and confirm your rate. You can also see our full [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home/) details, the dedicated [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) page, or the [full FAQ](/home/services/faqs/).
 
 ## Frequently Asked Questions
 
@@ -102,7 +102,7 @@ Every household is a little different — species, number of pets, medication, l
 <details class="faq-details">
   <summary class="faq-summary">Do you charge a travel fee on the Peninsula?</summary>
   <div class="faq-answer">
-    <p>There is no travel surcharge for in-home visits within San Francisco, our primary service area. For Peninsula cities — Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Belmont, San Carlos, and Redwood City — a surcharge applies, starting at $15 per visit. The exact amount depends on your location and our specialists' availability, so we quote it per household.</p>
+    <p>There is no travel surcharge for in-home visits within San Francisco, our primary service area. For Peninsula cities — Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Belmont, San Carlos, and Redwood City — a surcharge of $15–$25/visit applies, depending on distance — roughly $15 for closer areas and $25+ farther out.</p>
   </div>
 </details>
 
@@ -121,7 +121,7 @@ Every household is a little different — species, number of pets, medication, l
     { "@type": "Question", "name": "How much does exotic pet sitting cost in San Francisco?", "acceptedAnswer": { "@type": "Answer", "text": "In-home visits start at $85 for a 30-minute visit and $115 for a 60-minute visit. Twice-daily routine care ranges from $140 to $190 per day depending on visit length. Boarding at our San Francisco home starts at $75 per night. San Francisco has no travel surcharge; Peninsula visits add a surcharge starting at $15 per visit." } },
     { "@type": "Question", "name": "Why does exotic pet sitting cost more than dog or cat sitting?", "acceptedAnswer": { "@type": "Answer", "text": "Exotic animals are a veterinary subspecialty. Our specialists are trained as exotic veterinary assistants and can administer medication — including oral syringes, topical treatments, and nebulizer sessions — which most general pet sitters cannot. They also recognize species-specific warning signs early, like a rabbit in GI stasis or a guinea pig with a respiratory infection. You are paying for clinical training, not general pet care." } },
     { "@type": "Question", "name": "Is in-home sitting or boarding more affordable for exotic pets?", "acceptedAnswer": { "@type": "Answer", "text": "For short trips and most pets, a single daily in-home visit at $85 is usually the most affordable and least stressful option. For pets needing twice-daily care, in-home visits run $140 to $190 per day. For longer trips or owners who want overnight supervision, boarding at $75 per night can be the better value. A free meet-and-greet is the best way to decide which fits your pet and dates." } },
-    { "@type": "Question", "name": "Do you charge a travel fee on the Peninsula?", "acceptedAnswer": { "@type": "Answer", "text": "There is no travel surcharge for in-home visits within San Francisco, our primary service area. For Peninsula cities — Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Belmont, San Carlos, and Redwood City — a surcharge applies, starting at $15 per visit. The exact amount depends on your location and our specialists' availability, so we quote it per household." } },
+    { "@type": "Question", "name": "Do you charge a travel fee on the Peninsula?", "acceptedAnswer": { "@type": "Answer", "text": "There is no travel surcharge for in-home visits within San Francisco, our primary service area. For Peninsula cities — Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Belmont, San Carlos, and Redwood City — a surcharge of $15–$25/visit applies, depending on distance — roughly $15 for closer areas and $25+ farther out." } },
     { "@type": "Question", "name": "How do I get an exact quote for my pets?", "acceptedAnswer": { "@type": "Answer", "text": "Call or text us at 415-484-6493 with your species, number of pets, location, and travel dates. We will schedule a free meet-and-greet at your home, walk through your pet's routine and any medication needs, and give you a firm quote. There is no charge or obligation for the meet-and-greet." } }
   ]
 }

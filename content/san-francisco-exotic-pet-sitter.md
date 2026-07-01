@@ -58,7 +58,7 @@ If your neighborhood is not on the list, it is almost certainly still covered �
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 - **Boarding** at our SF home is **$75/night**
 
-San Francisco is our **primary service area, so no travel surcharge applies** — that is reserved for Peninsula visits. [Text us your dates](tel:415-484-6493) and we will quote you honestly.
+San Francisco is our **primary service area, so no travel surcharge applies** — that is reserved for Peninsula visits. [Text us your dates](tel:415-484-6493) and we will confirm your rate.
 
 ## Frequently Asked Questions
 

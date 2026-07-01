@@ -44,7 +44,7 @@ The Richmond stretches from Golden Gate Park in the south up to the Presidio and
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-The Richmond is within San Francisco — our home city — just across Golden Gate Park from our Inner Sunset base, so there is no Peninsula travel surcharge. Pricing here is simple and in-city. Boarding at the founder's San Francisco home is a short trip away too. Text us your address and dates and we will quote you honestly. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+The Richmond is within San Francisco — our home city — just across Golden Gate Park from our Inner Sunset base, so there is no Peninsula travel surcharge. Pricing here is simple and in-city. Boarding at the founder's San Francisco home is a short trip away too. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 ## Frequently Asked Questions
 

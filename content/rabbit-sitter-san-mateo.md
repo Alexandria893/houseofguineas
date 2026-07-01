@@ -57,7 +57,7 @@ We also cover homes near the San Mateo Public Library, the Caltrain corridor for
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of rabbits
 
-San Mateo is in our Peninsula service tier, which means a travel surcharge applies. The exact surcharge depends on our specialists' availability and your location within San Mateo. [Text us your address and dates](tel:415-484-6493) for a firm quote.
+San Mateo is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. [Text us your address and dates](tel:415-484-6493) for a firm quote.
 
 ## Frequently Asked Questions
 

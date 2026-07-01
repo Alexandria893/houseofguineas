@@ -44,7 +44,7 @@ Noe Valley's hills are part of the charm and part of the logistics — the sunny
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-Noe Valley is within San Francisco — our home city — so there is no Peninsula travel surcharge. Pricing stays simple and in-city. Text us your address and dates and we will quote you honestly. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+Noe Valley is within San Francisco — our home city — so there is no Peninsula travel surcharge. Pricing stays simple and in-city. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 ## Frequently Asked Questions
 

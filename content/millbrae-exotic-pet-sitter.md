@@ -44,7 +44,7 @@ Millbrae is compact and easy to navigate, and our team covers all of it — from
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-Millbrae falls within our Peninsula service tier, which means a travel surcharge applies. The exact surcharge varies depending on our specialists' availability and your specific location within Millbrae. [Text us](tel:415-484-6493) your address and dates and we will quote you honestly.
+Millbrae falls within our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. [Text us](tel:415-484-6493) your address and dates and we will confirm your rate.
 
 ## Frequently Asked Questions
 
@@ -102,7 +102,7 @@ Millbrae falls within our Peninsula service tier, which means a travel surcharge
 <details class="faq-details">
   <summary class="faq-summary">How much does a Millbrae exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Millbrae sits in our Peninsula tier, so a travel surcharge applies — the exact amount varies depending on our specialists' availability and your specific location within Millbrae.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Millbrae sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance.</p>
   </div>
 </details>
 
@@ -152,7 +152,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Millbrae exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Millbrae sits in our Peninsula tier, so a travel surcharge applies — the exact amount varies depending on our specialists' availability and your specific location within Millbrae."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Millbrae sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
       }
     }
   ]

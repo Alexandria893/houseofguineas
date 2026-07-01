@@ -55,7 +55,7 @@ We cover the full town of Hillsborough — the estates near the Crystal Springs 
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 - **Boarding** at our San Francisco home is also available at **$75/night** if your travel makes in-home logistics impractical
 
-Hillsborough is in our Peninsula service tier, which means a travel surcharge applies. The exact surcharge depends on our specialists' availability and your specific location within Hillsborough. For longer trips and complex setups, we typically quote a custom rate. [Text us your address and dates](tel:415-484-6493) for a firm quote.
+Hillsborough is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. For longer trips and complex setups, we typically quote a custom rate. [Text us your address and dates](tel:415-484-6493) for a firm quote.
 
 ## Frequently Asked Questions
 

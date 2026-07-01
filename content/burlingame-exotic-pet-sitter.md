@@ -52,7 +52,7 @@ We also cover the stretch between Washington Park and Ray Park, homes near Mercy
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-Burlingame falls within our Peninsula service tier, which means a travel surcharge applies. The exact surcharge varies depending on our specialists' availability and your specific location within Burlingame — a Lyon Hoag cottage two blocks off El Camino is different from a Burlingame Hills home tucked up near Hillsborough. Text us your address and dates and we will quote you honestly.
+Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from our Inner Sunset base. Text us your address and dates and we will confirm your rate.
 
 ## Frequently Asked Questions
 
@@ -110,7 +110,7 @@ Burlingame falls within our Peninsula service tier, which means a travel surchar
 <details class="faq-details">
   <summary class="faq-summary">How much does a Burlingame exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Burlingame sits in our Peninsula tier, so a travel surcharge applies — the exact amount varies depending on our specialists' availability and your specific location within Burlingame. <a href="tel:415-484-6493">Text us your address and dates</a> for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Burlingame sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance. <a href="tel:415-484-6493">Text us your address and dates</a> for a firm quote.</p>
   </div>
 </details>
 
@@ -160,7 +160,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Burlingame exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Burlingame sits in our Peninsula tier, so a travel surcharge applies — the exact amount varies depending on our specialists' availability and your specific location within Burlingame."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Burlingame sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
       }
     }
   ]

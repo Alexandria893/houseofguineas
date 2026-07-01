@@ -44,7 +44,7 @@ San Bruno stretches from the flats near the old Tanforan area up into the hills 
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF base, so travel is modest. Your exact quote depends on your specific location within San Bruno and the number of pets and visits involved — a flat block near the BART station is a slightly different drive than a home tucked up in the Portola Highlands below the mountain. Text us your address and dates and we will quote you honestly. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF base, so a travel surcharge of $15–$25/visit applies, depending on distance. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 ## Frequently Asked Questions
 

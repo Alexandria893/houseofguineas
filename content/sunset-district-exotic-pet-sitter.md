@@ -44,7 +44,7 @@ The Sunset's grid is part of the charm and part of the logistics — it runs all
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-Because the Sunset is within San Francisco — and is in fact where House of Guineas is based — there is no Peninsula travel surcharge here. Pricing stays simple and in-city, and we are exceptionally close by. Text us your address and dates and we will quote you honestly. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+Because the Sunset is within San Francisco — and is in fact where House of Guineas is based — there is no Peninsula travel surcharge here. Pricing stays simple and in-city, and we are exceptionally close by. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 ## Frequently Asked Questions
 

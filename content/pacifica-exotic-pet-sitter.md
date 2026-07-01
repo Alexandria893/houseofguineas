@@ -44,7 +44,7 @@ Pacifica is famously foggy and spread out along the coast, and each of its neigh
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-Because Pacifica sits just down the coast from San Francisco on Highway 1, it is a short trip for our SF-based team, so travel is modest. Your exact quote depends on your specific location within Pacifica and the number of pets and visits involved — a flat lot near Linda Mar Beach is a slightly different drive than a home tucked up in the fog-bound hills above Highway 1. Text us your address and dates and we will quote you honestly. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+Because Pacifica sits just down the coast from San Francisco on Highway 1, it is a short trip for our SF-based team, so a travel surcharge of $15–$25/visit applies, depending on distance. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 ## Frequently Asked Questions
 
@@ -102,7 +102,7 @@ Because Pacifica sits just down the coast from San Francisco on Highway 1, it is
 <details class="faq-details">
   <summary class="faq-summary">How much does a Pacifica exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Pacifica sits just down the coast from San Francisco on Highway 1, travel is modest for our SF-based team. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Pacifica sits just down the coast from San Francisco on Highway 1, a travel surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates to book.</p>
   </div>
 </details>
 
@@ -152,7 +152,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Pacifica exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Pacifica sits just down the coast from San Francisco on Highway 1, travel is modest for our SF-based team. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Pacifica sits just down the coast from San Francisco on Highway 1, a travel surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates to book."
       }
     }
   ]

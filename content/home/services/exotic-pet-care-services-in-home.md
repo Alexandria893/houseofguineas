@@ -57,13 +57,13 @@ Peninsula residents — see our dedicated pages for [Burlingame](/burlingame-exo
 
 Rabbit owners — we have species-specific pages for [San Francisco](/rabbit-sitter-san-francisco/), [Burlingame](/rabbit-sitter-burlingame/), [San Mateo](/rabbit-sitter-san-mateo/), and [Foster City](/rabbit-sitter-foster-city/) rabbit sitting.
 
-* Additional travel rates **start at $15/visit** (rates depend on our specialists' availability and your location) if you're outside the [primary travel area.](/home/services/faqs/#service-areas)
+* Peninsula travel surcharge: **$15–$25/visit** depending on distance from our Inner Sunset base (no surcharge within San Francisco). See our [service areas](/home/services/faqs/#service-areas)
 
 {{< travel-zone-map >}}
 
 ## Ready to book in-home care for your pet?
 
-[Call or text us at 415-484-6493](tel:415-484-6493) and we will get a free meet-and-greet on the calendar — tell us your species, your neighborhood, and your travel dates, and we will quote you honestly. You can also browse the full [FAQ page](/home/services/faqs/) or, if you are still getting set up with a local vet, our [Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians/).
+[Call or text us at 415-484-6493](tel:415-484-6493) and we will get a free meet-and-greet on the calendar — tell us your species, your neighborhood, and your travel dates, and we will confirm your rate. You can also browse the full [FAQ page](/home/services/faqs/) or, if you are still getting set up with a local vet, our [Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians/).
 
 *Leaving town with a reptile at home? Read our guide on [how to prepare your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting). Wondering about rates? See [how much exotic pet sitting costs in SF & the Peninsula](/post/exotic-pet-sitting-cost-san-francisco/). Own guinea pigs? Learn why [fleece liners are better than disposable bedding](/post/guinea-pig-fleece-liners-vs-disposable-bedding).*
 
