@@ -16,7 +16,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team
 San Carlos is full of people who pay attention to detail — engineers, clinicians, designers, founders — and what exotic pet owners tell us they need is a sitter who approaches exotic care with the same rigor they bring to their own work. Here is what sets us apart:
 
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
-- **Species specialization.** We do not sit dogs and cats. This is all we do — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
+- **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also keep a current sense of the local exotic vet landscape, so if something goes sideways while you are out of town, we know where to go — see our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before a flight out of SFO, late-night visits after a redeye, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
 
@@ -83,7 +83,7 @@ San Carlos falls within our Peninsula service tier, which means a travel surchar
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in San Carlos?</summary>
   <div class="faq-answer">
-    <p>We care exclusively for exotic species — no dogs or cats. That includes small mammals like rabbits (including bonded pairs), guinea pigs, chinchillas, ferrets, hamsters, and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds, and finches. If your species is not on that list, text us and we will tell you honestly whether we can help.</p>
+    <p>We care for exotic pets and cats. That includes small mammals like rabbits (including bonded pairs), guinea pigs, chinchillas, ferrets, hamsters, and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds, and finches. If your species is not on that list, text us and we will tell you honestly whether we can help.</p>
   </div>
 </details>
 
@@ -130,7 +130,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in San Carlos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care exclusively for exotic species — no dogs or cats. That includes small mammals like rabbits (including bonded pairs), guinea pigs, chinchillas, ferrets, hamsters, and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds, and finches. If your species is not on that list, text us and we will tell you honestly whether we can help."
+        "text": "We care for exotic pets and cats. That includes small mammals like rabbits (including bonded pairs), guinea pigs, chinchillas, ferrets, hamsters, and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds, and finches. If your species is not on that list, text us and we will tell you honestly whether we can help."
       }
     },
     {

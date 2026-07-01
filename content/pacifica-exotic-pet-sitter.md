@@ -16,7 +16,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because 
 Pacifica is a town full of people who care deeply about their animals and want them looked after the right way — parents juggling school schedules, coastal commuters heading up Highway 1 into the city, and longtime residents who have raised a whole menagerie of small pets on the same foggy block. What exotic pet owners here tell us they need is a sitter who brings real, clinical rigor to a guinea pig or a rabbit — not a dog-walker who is guessing. Here is what sets us apart:
 
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
-- **Species specialization.** We do not sit dogs and cats. This is all we do — guinea pigs, rabbits, other small mammals, reptiles, and birds. That kind of focus is genuinely hard to find on the coast.
+- **Species specialization.** Exotic pets and cats are our whole focus — guinea pigs, rabbits, other small mammals, reptiles, and birds. That kind of focus is genuinely hard to find on the coast.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before a surf session or a flight, evening visits after a long day, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
 
@@ -81,7 +81,7 @@ Because Pacifica sits just down the coast from San Francisco on Highway 1, it is
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in Pacifica?</summary>
   <div class="faq-answer">
-    <p>We care exclusively for exotics — no dogs or cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
+    <p>We care for exotic pets and cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
   </div>
 </details>
 
@@ -128,7 +128,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in Pacifica?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care exclusively for exotics — no dogs or cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
+        "text": "We care for exotic pets and cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
       }
     },
     {

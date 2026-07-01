@@ -16,7 +16,7 @@ Here is what makes the Sunset different from every other neighborhood we serve: 
 The Sunset is full of people who think carefully and plan ahead — engineers, clinicians, educators, and the students and faculty connected to UCSF just up the hill at Parnassus. What exotic pet owners here tell us they need is a sitter who brings the same rigor to animal care that they bring to their own work. Here is what sets us apart:
 
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
-- **Species specialization.** We do not sit dogs and cats. This is all we do — rabbits, rodents, reptiles, and birds. That kind of focus is genuinely hard to find anywhere in the city.
+- **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That kind of focus is genuinely hard to find anywhere in the city.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory.
 - **We are right here.** Because we are based in the Inner Sunset, we are exceptionally close by. Early-morning visits before a commute or a flight, evening visits after a long day, mid-day medication timing — we build the schedule around your itinerary, and being neighbors makes that easy.
 
@@ -81,7 +81,7 @@ Because the Sunset is within San Francisco — and is in fact where House of Gui
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in the Sunset?</summary>
   <div class="faq-answer">
-    <p>We care exclusively for exotics — no dogs or cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
+    <p>We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
   </div>
 </details>
 
@@ -128,7 +128,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in the Sunset?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care exclusively for exotics — no dogs or cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
+        "text": "We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
       }
     },
     {

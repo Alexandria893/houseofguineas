@@ -16,7 +16,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team
 Millbrae sits right between Burlingame and South San Francisco in San Mateo County, and the people here tend to keep tight schedules: airport-adjacent careers, long-haul travel, early commutes on Caltrain. What exotic pet owners tell us they need is a sitter who brings the same rigor to their animals that they bring to their own work. Here is what sets us apart:
 
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
-- **Species specialization.** We do not sit dogs and cats. This is all we do — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
+- **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also keep a current map of the [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/), so if something goes sideways while you are mid-flight, we know exactly where to go.
 - **Flexible scheduling.** Early-morning visits before an SFO departure, late-night visits after a red-eye arrival, and mid-day medication timing — we build the schedule around your flight manifest, not the other way around.
 

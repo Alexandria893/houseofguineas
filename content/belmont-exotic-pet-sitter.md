@@ -16,7 +16,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team
 Belmont is a town full of people who think carefully and plan ahead — engineers, clinicians, educators, and students and faculty connected to Notre Dame de Namur University. What exotic pet owners here tell us they need is a sitter who brings the same rigor to animal care that they bring to their own work. Here is what sets us apart:
 
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
-- **Species specialization.** We do not sit dogs and cats. This is all we do — rabbits, rodents, reptiles, and birds. That kind of focus is genuinely hard to find on the Peninsula.
+- **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That kind of focus is genuinely hard to find on the Peninsula.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before a commute or a flight, evening visits after a long day, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
 
@@ -81,7 +81,7 @@ Belmont falls within our Peninsula service tier, which means a travel surcharge 
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in Belmont?</summary>
   <div class="faq-answer">
-    <p>We care exclusively for exotics — no dogs or cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
+    <p>We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
   </div>
 </details>
 
@@ -128,7 +128,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in Belmont?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care exclusively for exotics — no dogs or cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
+        "text": "We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
       }
     },
     {

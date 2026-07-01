@@ -16,7 +16,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and the name
 San Francisco is full of thoughtful pet owners who do their homework — and the small-mammal community here is especially serious about doing right by animals that are easy to underestimate. What they tell us they need is a sitter who brings real clinical rigor to the job. Here is what sets us apart:
 
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
-- **Species specialization.** We do not sit dogs and cats. This is all we do — small mammals, and other exotics. That kind of focus is genuinely hard to find.
+- **Species specialization.** Exotic pets and cats are our whole focus — small mammals, and other exotics. That kind of focus is genuinely hard to find.
 - **Clinical-grade care.** We weigh pets on a gram scale to catch problems before they show, we can syringe-feed and give critical-care formula to a guinea pig in GI stasis, and we monitor appetite and output at every visit — because in a small mammal, those are the numbers that tell you what is really going on.
 - **Flexible scheduling.** Early-morning visits before work, evening visits after a long day, and mid-day timing for medications or a second feeding — we build the schedule around your itinerary, not the other way around.
 

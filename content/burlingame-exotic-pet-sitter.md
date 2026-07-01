@@ -16,7 +16,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team
 Burlingame is a town full of people who sweat the details — tech professionals, clinicians, educators, designers — and what exotic pet owners tell us they need is a sitter who approaches exotic pet care with the same rigor they bring to their own work. Here is what sets us apart:
 
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society in Richmond, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
-- **Species specialization.** We do not sit dogs and cats. This is all we do — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
+- **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape — Peninsula Pet Hospital right in Burlingame, Adobe Animal Hospital in Los Altos, and All Pets Hospital in San Mateo — so if something goes sideways while you are in Zurich, we know exactly where to go.
 - **Flexible scheduling.** Early-morning visits before an SFO departure, late-night visits after a redeye arrival, and mid-day medication timing — we build the schedule around your flight manifest, not the other way around.
 
