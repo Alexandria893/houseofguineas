@@ -16,7 +16,7 @@ We're based in San Francisco's Inner Sunset, and our team of exotic pet speciali
 Redwood City sits in a tricky spot for exotic pet owners — far enough from a 24/7 exotic ER that catching things early really matters, but close enough to multiple specialty hospitals (Adobe in Los Altos, All Pets in San Mateo) that good vet care is reachable when needed. A sitter who knows that landscape is a different category than one who doesn't. Here's what we bring:
 
 - **Veterinary background.** Alexandria's clinical training at [Bay Area Bird and Exotics Hospital](/san-francisco-california-exotic-veterinary-experience) and her ongoing House Rabbit Society work means we approach every visit with proper exotic protocols.
-- **Species specialization.** We don't sit dogs and cats as our primary service. Exotics are the focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
+- **Species specialization.** Exotic pets and cats are our focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
 - **Clinical-grade care.** Syringe-feeding a GI stasis rabbit, weighing a guinea pig on a gram scale, checking a reptile's enclosure humidity, recognizing crop issues in a bird — these are everyday skills, not stretches.
 - **Local vet awareness.** When something goes sideways, we know which Peninsula vets handle exotics and which to skip. See our [Peninsula exotic vet directory](/san-mateo-peninsula-exotic-veterinarians/) for the full list.
 - **Flexible scheduling.** Early-morning visits before a Caltrain commute, late-evening visits after a long day, mid-day medication windows — we build the schedule around your reality.
