@@ -13,7 +13,7 @@ We are based in the Inner Sunset, and we offer San Francisco pet owners two ways
 
 ## Why San Francisco Exotic Pet Owners Choose Us
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society in Richmond, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society in Richmond, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
 - **Species specialization.** Our focus on exotic pets and cats — rabbits, rodents, reptiles, and birds — is genuinely hard to find in San Francisco, where most pet sitters treat exotics as an afterthought.
 - **Clinical-grade care.** We can syringe-feed a GI-stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity and UVB, and recognize the early signs of a crop problem in a parrot. We also know the city's exotic-vet landscape — see our [San Francisco Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians) — so if something goes sideways while you are away, we know exactly where to go.
 - **Two service options, one standard of care.** Want your pet to stay in their own environment? Book in-home visits. Prefer hands-on overnight supervision? Board with Alexandria at her SF home. Either way you get the same species-specific attention.
@@ -45,7 +45,7 @@ We provide in-home exotic pet care across the city, including:
 - [Noe Valley](/noe-valley-exotic-pet-sitter/), [the Castro](/castro-exotic-pet-sitter/), and [the Mission District](/mission-district-exotic-pet-sitter/)
 - Pacific Heights, the Marina District, and [SOMA](/soma-exotic-pet-sitter/)
 
-Just outside the city, we also serve [Daly City](/daly-city-exotic-pet-sitter/), [San Bruno](/san-bruno-exotic-pet-sitter/), and [Pacifica](/pacifica-exotic-pet-sitter/) to the south.
+Just outside the city, we also serve [Daly City](/daly-city-exotic-pet-sitter/), [San Bruno](/san-bruno-exotic-pet-sitter/), and [Pacifica](/pacifica-exotic-pet-sitter/) to the south. To the north, we now cover [Marin County](/marin-county-exotic-pet-sitter/) — including [San Rafael](/san-rafael-exotic-pet-sitter/), [Mill Valley](/mill-valley-exotic-pet-sitter/), [Larkspur and Corte Madera](/larkspur-corte-madera-exotic-pet-sitter/), and [San Anselmo and the Ross Valley](/san-anselmo-exotic-pet-sitter/) — through a specialist based locally in Marin.
 
 Looking for a species specialist? See our [reptile sitter](/reptile-pet-sitter-san-francisco/) and [guinea pig & small-mammal sitter](/guinea-pig-sitter-san-francisco/) pages.
 

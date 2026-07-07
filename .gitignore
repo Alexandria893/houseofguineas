@@ -1,3 +1,4 @@
 public/
 .playwright-mcp/
 docs/
+.DS_Store

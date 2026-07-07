@@ -10,7 +10,7 @@ serviceType = "Rabbit Pet Sitting"
 
 Foster City is a town built around the lagoon — and the people who live here tend to travel far and travel often. Biotech professionals heading to Boston or RTP, tech workers commuting up to SF or down to South Bay, families flying out of SFO for long stretches over school breaks. If you keep a rabbit (or two, or three) in a Foster City home, you already know the gap: the kennel down the road won't take her, and the friend-of-a-friend who said they'd "watch her" doesn't actually know what GI stasis is. House of Guineas exists to fix that.
 
-Our team comes from San Francisco down the Peninsula several days a week. Our founder, Alexandria, is an exotic veterinary assistant and a House Rabbit Society volunteer in Richmond, where she administers subcutaneous RHDV2 vaccines under vet direction. She lives with Chungus and Puppy Dog (a bonded pair), Johnny Wohnny (her HRS foster turned forever rabbit), and Princess Lady, who is bonded with Johnny. Rabbits aren't a side service. They are the heart of what we do.
+Our team comes from San Francisco down the Peninsula several days a week. Our founder, Alexandria, is an exotic veterinary assistant and a former House Rabbit Society volunteer in Richmond, where she administered subcutaneous RHDV2 vaccines under vet direction. She lives with Chungus and Puppy Dog (a bonded pair), Johnny Wohnny (her HRS foster turned forever rabbit), and Princess Lady, who is bonded with Johnny. Rabbits aren't a side service. They are the heart of what we do.
 
 ## Why a Vet-Trained Rabbit Sitter Matters in Foster City
 

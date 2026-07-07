@@ -13,7 +13,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team
 
 ## Why San Francisco Reptile Owners Choose Us
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) — formerly at Bay Area Bird & Exotics Hospital — who also volunteers with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) — formerly at Bay Area Bird & Exotics Hospital — who also previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are all we do — reptiles, small mammals, and birds. That kind of focus is genuinely hard to find in San Francisco.
 - **Clinical-grade care.** We can read a temperature gradient across an enclosure, confirm the basking spot and UVB output are where they should be, monitor humidity against your species' target range, and recognize the early signs of illness before they become emergencies.
 - **Flexible scheduling.** Early-morning visits before a flight, evening lights-out checks, mid-day misting or feeding — we build the schedule around your reptile's routine and your itinerary, not the other way around.
@@ -25,7 +25,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team
 - **Turtles and tortoises** — aquatic, semi-aquatic, and terrestrial, each with their own water quality, basking, and UVB needs
 - We also care for many other lizards — [text us about your species](tel:415-484-6493) and we will tell you honestly whether it is in our wheelhouse
 
-A note on snakes, and one that reflects how closely we follow the animals we work with: San Francisco's municipal code prohibits keeping boas, pythons, and venomous snakes within the city. So in San Francisco we focus on the reptiles that are legal to keep here. For legal, non-venomous species kept outside the city — on the Peninsula — we are happy to discuss snakes case by case. Knowing exactly which animals are and are not legal in the city is part of doing this professionally.
+A note on snakes, and one that reflects how closely we follow the animals we work with: San Francisco's municipal code prohibits keeping boas, pythons, and venomous snakes within the city. So in San Francisco we focus on the reptiles that are legal to keep here. For legal, non-venomous species kept outside the city — [on the Peninsula](/reptile-pet-sitter-peninsula/) — ball pythons, corn snakes, and other common constrictors are legal, and we care for them there. Knowing exactly which animals are and are not legal in the city is part of doing this professionally.
 
 ## What In-Home Reptile Care Involves
 

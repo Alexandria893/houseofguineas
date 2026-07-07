@@ -36,7 +36,7 @@ This is not a knock on generalist sitters. It is a recognition that exotic anima
 
 ## How We Built This Service for Peninsula Travelers
 
-I founded House of Guineas in San Francisco as a solo exotic veterinary assistant making house calls. The demand from the Peninsula grew faster than I could keep up with on my own, so I hired and trained a team of specialists who now handle most of our in-home visits. Every specialist we bring on is held to the same clinical standards I learned as an exotic vet assistant and continue to apply at [House Rabbit Society](https://houserabbit.org/veterinaryinitiative), where I volunteer administering subcutaneous RHDV2 vaccinations.
+I founded House of Guineas in San Francisco as a solo exotic veterinary assistant making house calls. The demand from the Peninsula grew faster than I could keep up with on my own, so I hired and trained a team of specialists who now handle most of our in-home visits. Every specialist we bring on is held to the same clinical standards I learned as an exotic vet assistant and applied at [House Rabbit Society](https://houserabbit.org/veterinaryinitiative), where I volunteered administering subcutaneous RHDV2 vaccinations.
 
 Here is what that looks like in practice for a Peninsula household:
 

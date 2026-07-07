@@ -45,11 +45,12 @@
 
       {{ end }}
     </div> <!-- /section -->
-    {{ end }}
-    {{ end }}
-    {{ end }}
-
+    {{ if eq $stype "service" }}
     {{ partial "cta-block.html" . }}
+    {{ end }}
+    {{ end }}
+    {{ end }}
+    {{ end }}
 
   </div> <!-- /container -->
 </main>

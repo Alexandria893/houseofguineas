@@ -5,9 +5,8 @@ title = "Exotic Pet Boarding San Francisco & Peninsula | House of Guineas"
 shortTitle = "Exotic Pet Boarding"
 description = "Exotic pet boarding in San Francisco — guinea pig boarding, rabbit boarding, chinchilla boarding, reptile boarding, bird boarding and small mammal boarding. Welcoming clients across the Bay Area and Peninsula. Your pet gets their private room with soothing music. $75/night."
 weight = 3
-[menu.main]
-  parent = "rates"
 [params]
+  hideFromHomepage = true
   og_image = "Luca.jpg"
   serviceType = "Exotic Pet Boarding"
   price = "$75"
@@ -27,6 +26,8 @@ Your pet gets their private room with soothing music — **$75/night** for **Rep
 <!--more-->
 
 ## Exotic Pet Boarding in San Francisco
+
+**Please note:** I host boarding personally — and a few of our specialists occasionally host as well — so we can only take a small number of pets at a time. Spots are limited and often full, especially around holidays and travel season — please reach out as early as you can. If boarding is booked for your dates, our [in-home care](/home/services/exotic-pet-care-services-in-home) team can usually still help.
 
 Changes in your pet's environment can cause discomfort and stress. With that said, I understand that there are times where their home may not be the best option while you are away. As a trained [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), I will work with you to make sure their home-away-from-home is the next best thing.
 
@@ -77,7 +78,7 @@ I'll discuss a plan with you to make sure your pet(s) feel as safe and comfortab
 
 * Please bring any **enclosures, bedding, food and supplies** your pet needs to feel at home when you drop them off
 * A meet and greet is **required for first-time clients** and your pet must be up-to-date with all vaccinations by the first visit
-* Boarding can book quickly — please [contact me](tel:415-484-6493) as soon as possible to make sure your pet(s) have the care they need!
+* Because boarding is hosted in-home — by me, and occasionally a few of our specialists — **space is limited and often fills up**, especially around holidays and travel season. Please [contact me](tel:415-484-6493) as early as you possibly can. If boarding is already full for your dates, our [in-home care team](/home/services/exotic-pet-care-services-in-home) has more availability and can usually still cover you.
 
 *Planning a trip? Read our step-by-step guide on [how to prepare your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting). Guinea pig parent? Check out our [Clinical Series fleece cage liners](/clinical-series-guinea-pig-fleece-cage-liners) for the healthiest bedding option.*
 

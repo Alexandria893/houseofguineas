@@ -49,7 +49,7 @@ San Francisco is our primary service area, so **there is no travel surcharge for
 The short version: exotic animals are a veterinary subspecialty, and the people who can care for them safely are not interchangeable with general pet sitters. The longer version is worth understanding before you compare rates:
 
 - **Clinical training.** Our founder, Alexandria, worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) at Bay Area Bird & Exotics Hospital, and every specialist we bring on is trained to the same standards. That is a different skill set than walking a dog.
-- **Medication administration.** Oral syringes, topical treatments, and nebulizer sessions are part of our standard service. Alexandria administers subcutaneous RHDV2 vaccines as a House Rabbit Society medical-assistant volunteer. Most generalist sitters cannot offer this at all.
+- **Medication administration.** Oral syringes, topical treatments, and nebulizer sessions are part of our standard service. Alexandria administered subcutaneous RHDV2 vaccines as a House Rabbit Society medical-assistant volunteer. Most generalist sitters cannot offer this at all.
 - **Species-specific knowledge.** Guinea pigs need daily vitamin C and cannot be fed like rabbits. Rabbits in GI stasis can decline in twelve hours. Reptiles need precise temperature and humidity. Birds hide illness until it is advanced. Catching these things early is the entire value of a specialist.
 - **The cost of getting it wrong.** A preventable exotic emergency — a missed shed, an undetected respiratory infection, a rabbit that quietly stopped eating — costs far more in vet bills and heartbreak than the difference in sitter rates.
 

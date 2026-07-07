@@ -10,7 +10,7 @@ serviceType = "Rabbit Pet Sitting"
 
 San Mateo has a quietly serious rabbit community. Between the families in Hillsdale, the longtime residents around Aragon and Baywood Park, and the newer Bay Meadows crowd, rabbits show up in more San Mateo homes than people realize — often as second pets after a cat or dog, often adopted from Peninsula Humane Society right up the road in Burlingame. What's harder to find is a rabbit sitter who knows what they're doing. House of Guineas is here to fix that.
 
-Our team is based in San Francisco and we travel down the Peninsula several days a week. Our founder, Alexandria, is an exotic veterinary assistant and a House Rabbit Society volunteer in Richmond, where she administers subcutaneous RHDV2 vaccines under vet direction. She lives with Chungus and Puppy Dog (a bonded pair), Johnny Wohnny (an HRS foster turned forever rabbit), and Princess Lady, who is bonded with Johnny. Rabbits are not a side service. They are the center of what we do.
+Our team is based in San Francisco and we travel down the Peninsula several days a week. Our founder, Alexandria, is an exotic veterinary assistant and a former House Rabbit Society volunteer in Richmond, where she administered subcutaneous RHDV2 vaccines under vet direction. She lives with Chungus and Puppy Dog (a bonded pair), Johnny Wohnny (an HRS foster turned forever rabbit), and Princess Lady, who is bonded with Johnny. Rabbits are not a side service. They are the center of what we do.
 
 ## Why a Vet-Trained Rabbit Sitter Matters in San Mateo
 

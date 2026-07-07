@@ -413,8 +413,8 @@ details[open] summary {
 }
 
 .btn-cta-hero {
-  background-color: var(--color-accent) !important;
-  border: 2px solid var(--color-accent) !important;
+  background-color: var(--color-primary) !important;
+  border: 2px solid var(--color-primary) !important;
   color: #fff !important;
   border-radius: var(--radius-sm) !important;
   font-size: 16px !important;
@@ -425,8 +425,8 @@ details[open] summary {
 
 .btn-cta-hero:hover,
 .btn-cta-hero:focus {
-  background-color: var(--color-accent-dark) !important;
-  border-color: var(--color-accent-dark) !important;
+  background-color: var(--color-primary-dark) !important;
+  border-color: var(--color-primary-dark) !important;
   color: #fff !important;
 }
 
@@ -574,6 +574,32 @@ html {
   font-size: 16px !important;
   text-transform: none !important;
   color: #fff !important;
+}
+
+/* Footer Service Areas — grouped & scannable */
+#footer .footer-areas__lead {
+  margin-bottom: 18px !important;
+}
+#footer .footer-areas__group {
+  margin-bottom: 12px !important;
+  line-height: 1.6 !important;
+}
+#footer .footer-areas__label {
+  display: block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #fff !important;
+  opacity: 0.9;
+  margin-bottom: 2px;
+}
+#footer .footer-areas__label em {
+  font-style: italic;
+  text-transform: none;
+  letter-spacing: 0;
+  font-weight: 400;
+  opacity: 0.75;
 }
 
 #footer .follow-me-icons {

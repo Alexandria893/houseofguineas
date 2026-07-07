@@ -9,13 +9,13 @@ title = ""
 <!-- 🐾 [As an exotic pet parent,](\about), I understand the unique and thorough care of exotic pets. the love and care they deserve. Explore my care services below and contact me to discuss how I can best meet you and your pet's needs! -->
 <!-- *Serving San Francisco, California* -->
 
-Bring veterinary-level care directly to your home with House of Guineas' specialized services for exotic pets throughout San Francisco and the Peninsula. From reliable in-home visits to curated, founder-hosted boarding, we treat every pet with the same professional diligence and warmth we give our own.
+Bring veterinary-level care directly to your home with House of Guineas' specialized in-home services for exotic pets throughout San Francisco and the Peninsula. We treat every pet with the same professional diligence and warmth we give our own.
 
 <aside class="quick-facts" aria-label="House of Guineas at a glance">
   <header class="quick-facts__head">
     <h3 class="quick-facts__title">House of Guineas at a Glance</h3>
     <span class="quick-facts__rule" aria-hidden="true"></span>
-    <p class="quick-facts__sub">Specialized in-home exotic pet care, founder-hosted boarding, and the Clinical Series guinea pig liner.</p>
+    <p class="quick-facts__sub">Specialized in-home exotic pet care across San Francisco and the Peninsula, plus the Clinical Series guinea pig liner.</p>
   </header>
   <div class="quick-facts__grid">
     <div class="qf">
@@ -28,7 +28,7 @@ Bring veterinary-level care directly to your home with House of Guineas' special
     </div>
     <div class="qf">
       <span class="qf__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/><path d="M3.5 12h4l1.5-3 2.5 6 2-9 1.5 6h5.5"/></svg></span>
-      <div class="qf__body"><span class="qf__label">Veterinary background</span><span class="qf__value">Founder Alexandria is an exotic vet assistant who gives RHDV vaccinations at the House Rabbit Society.</span></div>
+      <div class="qf__body"><span class="qf__label">Veterinary background</span><span class="qf__value">Founder Alexandria is an exotic vet assistant who has given RHDV vaccinations at the House Rabbit Society.</span></div>
     </div>
   </div>
 </aside>

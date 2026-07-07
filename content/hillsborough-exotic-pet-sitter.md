@@ -9,7 +9,7 @@ og_image = "HappilyHoldingSnake.jpg"
 
 Hillsborough is unlike anywhere else on the Peninsula. The estate-scale homes, the privacy expectations, the specific standards for who comes through the gate — these aren't preferences, they're how the town operates. Exotic pet owners here have often built impressive setups for their animals (purpose-built reptile rooms, free-roam rabbit areas, custom aviaries) and need a sitter who can read those setups quickly and care for the animals at the level the rest of the household expects. House of Guineas exists for clients exactly like this.
 
-Our team is based in San Francisco's Inner Sunset, and we travel to Hillsborough via 280 several days a week. Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) trained at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com), and a House Rabbit Society volunteer administering RHDV2 vaccinations. Every specialist on our team holds to that clinical standard.
+Our team is based in San Francisco's Inner Sunset, and we travel to Hillsborough via 280 several days a week. Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) trained at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com), and a former House Rabbit Society volunteer administering RHDV2 vaccinations. Every specialist on our team holds to that clinical standard.
 
 ## Why Hillsborough Exotic Pet Owners Choose Our Team
 
