@@ -15,7 +15,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because 
 
 Daly City is a town full of people who think carefully and plan ahead — nurses and hospital staff, commuters who anchor their days to the BART schedule, families who have lived on the same block for decades. What exotic pet owners here tell us they need is a sitter who brings the same rigor to animal care that they bring to their own lives. Here is what sets us apart:
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That kind of focus is genuinely hard to find this side of the county line.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before a BART commute or a flight, evening visits after a long day, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
@@ -95,7 +95,7 @@ Because Daly City sits immediately south of the San Francisco county line, it is
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Daly City?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted separately at our founder's San Francisco home — it is not a local Daly City drop-off — but since Daly City is just over the county line, it is a short drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>Yes — and now you have a local option. Boarding is available in Daly City through our local specialist, as well as at our founder's San Francisco home just up the road. Either way it runs $75 per night, your pet gets their own space with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -108,7 +108,7 @@ Because Daly City sits immediately south of the San Francisco county line, it is
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) at the founder's San Francisco home, or browse the full [FAQ page](/home/services/faqs). Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in Daly City will want our [guinea pig care guide](/post/guinea-pig-care-guide).
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) — now available locally in Daly City or at the founder's San Francisco home — or browse the full [FAQ page](/home/services/faqs). Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in Daly City will want our [guinea pig care guide](/post/guinea-pig-care-guide).
 
 <script type="application/ld+json">
 {
@@ -144,7 +144,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in Daly City?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted separately at our founder's San Francisco home — it is not a local Daly City drop-off — but since Daly City is just over the county line, it is a short drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
+        "text": "Yes — and now you have a local option. Boarding is available in Daly City through our local specialist, as well as at our founder's San Francisco home just up the road. Either way it runs $75 per night, your pet gets their own space with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
       }
     },
     {

@@ -64,9 +64,8 @@ weight = 1
   weight = 5
 #   to concatenate services boardinfg and inhome on the menu par
 [[menu.main]]
-  name = "Services and Rates"
-   url = "/services/"
-  identifier = "rates"
+  name = "In-Home Care"
+  url = "/home/services/exotic-pet-care-services-in-home/"
   weight = 2
 
 [params.sharethis]

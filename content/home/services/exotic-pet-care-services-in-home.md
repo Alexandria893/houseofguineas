@@ -5,8 +5,6 @@ title = "Reptile & Exotic Pet Sitting in San Francisco & Peninsula | In-Home Car
 shortTitle = "In-Home Pet Sitting"
 description = "In-home exotic pet care in San Francisco & the Peninsula — guinea pig, rabbit, chinchilla, reptile, bird, and small mammal visits. Our team of exotic pet specialists comes to your home."
 weight = 2
-[menu.main]
-  parent = "rates"
 [params]
   og_image = "Coco.jpg"
   serviceType = "Reptile & Exotic Pet Sitting"
@@ -23,14 +21,11 @@ weight = 2
   priority = 0.8
 +++
 
-Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds** — starting at **$85/visit**.
+Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, hamsters, reptiles and birds** — starting at **$85/visit**.
 <!--more-->
  
 ## Benefits of In-Home Reptile & Exotic Pet Sitting
-From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals — including rabbits, guinea pigs, chinchillas, ferrets, and hamsters — we help prevent stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; led by an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), our team keeps your pet's world consistent while you're away. 
-
-### Bird Care
-Cockatiels, parakeets, conures, parrotlets, lovebirds, finches and most companion parrots — birds are a core part of what we do, not a stretch service. We handle daily fresh chop preparation, pellet measurement, water tower changes, full cage and grate cleaning, and out-of-cage time for birds with established free-flight routines. Our team is trained to recognize the early signs of crop issues, respiratory infections, and egg binding. Alexandria worked as an exotic veterinary assistant at [Bay Area Bird & Exotics Hospital](https://www.birdandexoticsvet.com), and our specialists are trained to identify critical health issues in the animals they care for — so avian care is rooted in real preparation, not guesswork. See our [bird care guide](/bird-care-guide/) for species-specific guidance.
+From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals — including rabbits, guinea pigs, chinchillas and hamsters — we help prevent stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; led by an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), our team keeps your pet's world consistent while you're away. 
 
 ### Routine Visits (2x/day)
 * **30 minutes:** $140/day ($70/visit) <!-- prev 60/120 for 30 and  155 for 30/+60/165 -->
@@ -48,6 +43,9 @@ Cockatiels, parakeets, conures, parrotlets, lovebirds, finches and most companio
 
 ***Peace of Mind:*** You'll receive updates including snapshots and details of their well-being and activities, so you can enjoy your time away without worry.
 
+### Bird Care
+Cockatiels, parakeets, conures, parrotlets, lovebirds, finches and most companion parrots — birds are a core part of what we do, not a stretch service. We handle daily fresh chop preparation, pellet measurement, water tower changes, full cage and grate cleaning, and out-of-cage time for birds with established free-flight routines. Our team is trained to recognize the early signs of crop issues, respiratory infections, and egg binding. Alexandria worked as an exotic veterinary assistant at [Bay Area Bird & Exotics Hospital](https://www.birdandexoticsvet.com), and our specialists are trained to identify critical health issues in the animals they care for — so avian care is rooted in real preparation, not guesswork. See our [bird care guide](/bird-care-guide/) for species-specific guidance.
+
 ## Location & Service Areas
 We provide in-home exotic pet sitting across San Francisco and the Peninsula (Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City, and surrounding areas) — from the Inner Sunset, Outer Sunset and Parkside to Pacific Heights, the Marina and SOMA. Whether you're in Cole Valley, Noe Valley, the Castro, the Mission District, Haight-Ashbury, the Richmond District or Forest Hill, we'll come to your pet's home.
 
@@ -64,6 +62,10 @@ Rabbit owners — we have species-specific pages for [San Francisco](/rabbit-sit
 ## Ready to book in-home care for your pet?
 
 [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a free meet-and-greet on the calendar — tell us your species, your neighborhood, and your travel dates, and we will confirm your rate. You can also browse the full [FAQ page](/home/services/faqs/) or, if you are still getting set up with a local vet, our [Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians/).
+
+## Prefer overnight boarding?
+
+Our founder, Alexandria, personally hosts a **small number** of exotic pets for overnight boarding at her San Francisco home, and a few of our specialists can occasionally host boarding as well — so spots are **limited and often full**, especially around holidays and travel season. If boarding is what you need, please reach out **as early as you possibly can**: the sooner we hear from you with your dates, the better the chance we can fit you in. And because in-home care has far more availability, it is usually the option we can say yes to on shorter notice. [See full boarding details →](/home/services/exotic-pet-care-services-boarding/)
 
 *Leaving town with a reptile at home? Read our guide on [how to prepare your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting). Wondering about rates? See [how much exotic pet sitting costs in SF & the Peninsula](/post/exotic-pet-sitting-cost-san-francisco/). Own guinea pigs? Learn why [fleece liners are better than disposable bedding](/post/guinea-pig-fleece-liners-vs-disposable-bedding).*
 

@@ -27,7 +27,7 @@ Exotic pets have specialized needs that differ significantly from traditional pe
 * **Professional Handling:** Incorrect handling can cause injury to your exotic pet. Knowing and being able to assess your pet’s comfort with handling mitigates unnecessary stress, while respecting your pet’s boundaries.
 
 ## My Exotic Veterinary Background: Expertise You Can Trust
-Place your trust in experienced, professional hands. I currently volunteer as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richmond, California, where I administer RHDV (Rabbit Hemorrhagic Disease Virus) vaccinations and support the onsite veterinarian with pre and post-operation surgeries.
+Place your trust in experienced, professional hands. I previously volunteered as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richmond, California, where I administered RHDV (Rabbit Hemorrhagic Disease Virus) vaccinations and supported the onsite veterinarian with pre- and post-operation surgeries.
 
 I also worked as an **Exotic Veterinary Assistant** at the local [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco, which provided me with a comprehensive understanding of the specialized care exotic pets require. My professional experience at the veterinary hospital involved providing care for a wide variety of animals — from reptiles like snakes, bearded dragons and geckos, to birds such as African greys and budgies, and small mammals including rabbits and guinea pigs.
 
@@ -114,6 +114,5 @@ Our primary focus is providing exceptional, personalized care, ensuring your pet
   <p style="font-size: 1.1em;"><strong>Ready to create your perfect care plan?</strong></p>
   <p>
     <a href="/home/services/exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-primary">In-Home Pet Care</a>
-    <a href="/home/services/exotic-pet-care-services-boarding" class="btn btn-lg btn-cta-outline">Boarding</a>
   </p>
 </div>

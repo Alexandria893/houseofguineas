@@ -7,7 +7,7 @@ og_image = "chinchillaChewingOnTreat.jpg"
   priority = 0.8
 +++
 
-A focused set of resources from House of Guineas — Bay Area exotic veterinarian directories and the Clinical Series products we make and recommend. Everything here is written or curated by Alexandria, an exotic veterinary assistant who's worked at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) and volunteers with the [House Rabbit Society](https://houserabbit.org/veterinaryinitiative).
+A focused set of resources from House of Guineas — Bay Area exotic veterinarian directories and the Clinical Series products we make and recommend. Everything here is written or curated by Alexandria, an exotic veterinary assistant who's worked at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) and previously volunteered with the [House Rabbit Society](https://houserabbit.org/veterinaryinitiative).
 
 Looking for species care guides, emergency signs, or comparison guides? Those live on the [House of Guineas blog](/post/) — the curated list is at the top of that page.
 

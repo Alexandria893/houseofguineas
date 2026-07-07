@@ -9,7 +9,7 @@ og_image = "2ChungusPuppyDog.jpg"
   priority = 0.8
 +++
 
-Finding a veterinarian who truly understands exotic animals — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds — is one of the hardest parts of owning one of these pets in the Bay Area. Most general practices in San Mateo County don't see exotics, and the ones that do often prefer to refer out. Below is a curated list of Peninsula-area exotic pet veterinarians and emergency options, organized by city.
+Finding a veterinarian who truly understands exotic animals — rabbits, guinea pigs, chinchillas, reptiles, and birds — is one of the hardest parts of owning one of these pets in the Bay Area. Most general practices in San Mateo County don't see exotics, and the ones that do often prefer to refer out. Below is a curated list of Peninsula-area exotic pet veterinarians and emergency options, organized by city.
 
 **Before an emergency happens, call ahead to confirm the clinic's current exotic animal availability** — staff rotations change, and not every veterinarian on a given day is comfortable treating exotics. A quick call saves critical time when your pet needs help.
 
@@ -181,7 +181,7 @@ For a broader Bay Area list (San Francisco, East Bay, South Bay), see our [San F
       <strong>Services:</strong> Rabbit-focused veterinarian directory across the Bay Area; RHDV2 vaccination clinics<br>
       <strong>Location:</strong> Richmond, CA (with Bay Area-wide vet listings)<br>
       <strong>Website:</strong> <a href="https://houserabbit.org/veterinaryinitiative" target="_blank" rel="noopener noreferrer">houserabbit.org</a><br>
-      <strong>Notes:</strong> Our founder, Alexandria, volunteers here as a medical assistant administering RHDV2 vaccinations. Excellent resource if you have a rabbit — they maintain the most rigorously vetted Bay Area rabbit vet list we know of.
+      <strong>Notes:</strong> Our founder, Alexandria, previously volunteered here as a medical assistant administering RHDV2 vaccinations. Excellent resource if you have a rabbit — they maintain the most rigorously vetted Bay Area rabbit vet list we know of.
     </p>
   </div>
 </details>
@@ -209,7 +209,6 @@ Learn more about early warning signs in [5 Signs Your Guinea Pig Needs a Vet](/p
   <p style="font-size: 1.1em;"><strong>Need exotic pet care while you travel?</strong></p>
   <p>
     <a href="/home/services/exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-primary">In-Home Pet Care</a>
-    <a href="/home/services/exotic-pet-care-services-boarding" class="btn btn-lg btn-cta-outline">Boarding</a>
   </p>
 </div>
 

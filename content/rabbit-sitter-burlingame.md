@@ -10,7 +10,7 @@ serviceType = "Rabbit Pet Sitting"
 
 If you live in Burlingame and you have a rabbit, you already know the bind. SFO is a ten-minute drive away, your work or family or vacation calendar keeps pulling you to the airport, and the conventional pet-boarding world has nothing useful to say about a bonded pair of Holland Lops. Most kennels won't take rabbits at all. The ones that will often don't know what GI stasis looks like until it's too late. House of Guineas exists to close that gap for Burlingame's rabbit owners — vet-trained in-home visits from a team that genuinely understands what these animals need.
 
-Our founder, Alexandria, volunteers with the [House Rabbit Society](https://houserabbit.org) chapter in Richmond, where she administers subcutaneous RHDV2 vaccinations under veterinary direction. She lives with her own bonded pair, Chungus and Puppy Dog, plus Johnny Wohnny (fostered from HRS) and Princess Lady, who is bonded with Johnny. Rabbits aren't a side service for us. They're the heart of what we do.
+Our founder, Alexandria, previously volunteered with the [House Rabbit Society](https://houserabbit.org) chapter in Richmond, where she administered subcutaneous RHDV2 vaccinations under veterinary direction. She lives with her own bonded pair, Chungus and Puppy Dog, plus Johnny Wohnny (fostered from HRS) and Princess Lady, who is bonded with Johnny. Rabbits aren't a side service for us. They're the heart of what we do.
 
 ## Why a Vet-Trained Rabbit Sitter Matters in Burlingame
 

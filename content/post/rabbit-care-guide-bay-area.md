@@ -59,7 +59,7 @@ This one is really close to my heart. **Rabbit Hemorrhagic Disease Virus (RHDV2)
 
 **The vaccine:** The RHDV2 vaccine (Medgene) is available through exotic veterinarians and organizations like the [House Rabbit Society](https://houserabbit.org/veterinaryinitiative). Rabbits need an initial dose followed by a booster, then annual revaccination.
 
-I administer RHDV vaccinations as part of my volunteer work at the House Rabbit Society in Richmond, California. Giving those subcutaneous injections and knowing each one could save a rabbit's life — it's one of the most rewarding things I do. If your rabbit hasn't been vaccinated, please don't wait. Schedule an appointment with an [exotic vet in the Bay Area](/san-francisco-bay-area-exotic-veterinarians).
+I administered RHDV vaccinations as part of my volunteer work at the House Rabbit Society in Richmond, California. Giving those subcutaneous injections and knowing each one could save a rabbit's life — it was one of the most rewarding things I've done. If your rabbit hasn't been vaccinated, please don't wait. Schedule an appointment with an [exotic vet in the Bay Area](/san-francisco-bay-area-exotic-veterinarians).
 
 ## Common Health Issues to Watch For
 

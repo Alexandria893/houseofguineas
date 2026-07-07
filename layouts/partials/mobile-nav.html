@@ -1,13 +1,7 @@
 <nav class="mobile-nav" aria-label="Mobile navigation">
   <div class="mobile-nav__scroll">
     <a href="/" class="mobile-nav__link{{ if .IsHome }} mobile-nav__link--active{{ end }}">Home</a>
-    <div class="mobile-nav__dropdown">
-      <button type="button" class="mobile-nav__link mobile-nav__link--parent{{ if or (eq .RelPermalink "/home/services/exotic-pet-care-services-in-home/") (eq .RelPermalink "/home/services/exotic-pet-care-services-boarding/") }} mobile-nav__link--active{{ end }}" aria-expanded="false">Services <i class="fa-solid fa-chevron-down mobile-nav__caret"></i></button>
-      <div class="mobile-nav__dropdown-menu">
-        <a href="/home/services/exotic-pet-care-services-in-home/" class="mobile-nav__dropdown-item">In-Home</a>
-        <a href="/home/services/exotic-pet-care-services-boarding/" class="mobile-nav__dropdown-item">Boarding</a>
-      </div>
-    </div>
+    <a href="/home/services/exotic-pet-care-services-in-home/" class="mobile-nav__link{{ if eq .RelPermalink "/home/services/exotic-pet-care-services-in-home/" }} mobile-nav__link--active{{ end }}">In-Home Care</a>
     <div class="mobile-nav__dropdown">
       <button type="button" class="mobile-nav__link mobile-nav__link--parent{{ if or (eq .RelPermalink "/about/") (eq .RelPermalink "/san-francisco-california-exotic-veterinary-experience/") }} mobile-nav__link--active{{ end }}" aria-expanded="false">About <i class="fa-solid fa-chevron-down mobile-nav__caret"></i></button>
       <div class="mobile-nav__dropdown-menu">

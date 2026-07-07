@@ -15,7 +15,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and the name
 
 San Francisco is full of thoughtful pet owners who do their homework — and the small-mammal community here is especially serious about doing right by animals that are easy to underestimate. What they tell us they need is a sitter who brings real clinical rigor to the job. Here is what sets us apart:
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who volunteers with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — small mammals, and other exotics. That kind of focus is genuinely hard to find.
 - **Clinical-grade care.** We weigh pets on a gram scale to catch problems before they show, we can syringe-feed and give critical-care formula to a guinea pig in GI stasis, and we monitor appetite and output at every visit — because in a small mammal, those are the numbers that tell you what is really going on.
 - **Flexible scheduling.** Early-morning visits before work, evening visits after a long day, and mid-day timing for medications or a second feeding — we build the schedule around your itinerary, not the other way around.
@@ -24,7 +24,6 @@ San Francisco is full of thoughtful pet owners who do their homework — and the
 
 - **Guinea pigs** — including bonded pairs and whole herds
 - **Chinchillas**
-- **Ferrets**
 - **Hamsters**
 - **Rats**
 - **Other pocket pets** — if it is small and furry, ask us
@@ -45,7 +44,7 @@ We cover the whole city, from the western avenues out to the bay. Small mammals 
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-These are in-city San Francisco visits, so there is **no Peninsula travel surcharge**. If you would rather your pet stay with us, boarding is hosted at our founder's San Francisco home for **$75/night**.
+These are in-city San Francisco visits, so there is **no Peninsula travel surcharge**. If you would rather your pet stay with us, boarding is hosted at our founder's San Francisco home for **$75/night**. Based down the Peninsula? See our [Peninsula guinea pig sitter](/guinea-pig-sitter-peninsula/) page.
 
 ## Frequently Asked Questions
 
@@ -89,7 +88,7 @@ These are in-city San Francisco visits, so there is **no Peninsula travel surcha
 <details class="faq-details">
   <summary class="faq-summary">Do you handle rabbits too?</summary>
   <div class="faq-answer">
-    <p>Yes. Rabbits have their own particular needs, and our founder volunteers with the House Rabbit Society administering subcutaneous RHDV2 vaccines. We have a dedicated rabbit sitter in San Francisco page with the full details on how we care for them.</p>
+    <p>Yes. Rabbits have their own particular needs, and our founder previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. We have a dedicated rabbit sitter in San Francisco page with the full details on how we care for them.</p>
   </div>
 </details>
 
@@ -137,7 +136,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "Do you handle rabbits too?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Rabbits have their own particular needs, and our founder volunteers with the House Rabbit Society administering subcutaneous RHDV2 vaccines. We have a dedicated rabbit sitter in San Francisco page with the full details on how we care for them."
+        "text": "Yes. Rabbits have their own particular needs, and our founder previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. We have a dedicated rabbit sitter in San Francisco page with the full details on how we care for them."
       }
     },
     {

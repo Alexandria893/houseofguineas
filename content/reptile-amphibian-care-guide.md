@@ -134,6 +134,5 @@ Below you'll find species-specific care essentials that inform my [in-home care]
   <p style="font-size: 1.1em;"><strong>Need professional care for your reptile or amphibian?</strong></p>
   <p>
     <a href="/home/services/exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-primary">In-Home Pet Care</a>
-    <a href="/home/services/exotic-pet-care-services-boarding" class="btn btn-lg btn-cta-outline">Boarding</a>
   </p>
 </div>

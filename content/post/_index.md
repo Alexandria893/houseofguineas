@@ -7,7 +7,7 @@ og_image = "chinchillaChewingOnTreat.jpg"
   priority = 0.8
 +++
 
-Exotic pet care guides and Bay Area pet care articles, written or curated by Alexandria — a San Francisco exotic veterinary assistant who's worked at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) and volunteers with the [House Rabbit Society](https://houserabbit.org/veterinaryinitiative).
+Exotic pet care guides and Bay Area pet care articles, written or curated by Alexandria — a San Francisco exotic veterinary assistant who's worked at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) and previously volunteered with the [House Rabbit Society](https://houserabbit.org/veterinaryinitiative).
 
 ## Featured Care Guides
 

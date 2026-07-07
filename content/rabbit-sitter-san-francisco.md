@@ -10,7 +10,7 @@ serviceType = "Rabbit Pet Sitting"
 
 If you live in San Francisco and you have a rabbit, your situation is specific. Your bunny probably has the run of an apartment or a Victorian flat — not a yard. The kennel down the street isn't an option. Most boarding facilities won't take rabbits at all, and the ones that will rarely know what GI stasis looks like until it's an emergency. House of Guineas exists to close that gap for SF's rabbit owners — vet-trained in-home visits from a team that genuinely understands what these animals need, in the kind of dense, walk-up-heavy neighborhoods you actually live in.
 
-Our founder, Alexandria, volunteers with the [House Rabbit Society](https://houserabbit.org) in Richmond, California, where she administers subcutaneous RHDV2 vaccinations under veterinary direction. She lives in San Francisco with her own bonded pair, Chungus and Puppy Dog, plus Johnny Wohnny (fostered from HRS) and Princess Lady, who is bonded with Johnny. Rabbits aren't a side service for us. They're the heart of what we do.
+Our founder, Alexandria, previously volunteered with the [House Rabbit Society](https://houserabbit.org) in Richmond, California, where she administered subcutaneous RHDV2 vaccinations under veterinary direction. She lives in San Francisco with her own bonded pair, Chungus and Puppy Dog, plus Johnny Wohnny (fostered from HRS) and Princess Lady, who is bonded with Johnny. Rabbits aren't a side service for us. They're the heart of what we do.
 
 ## Why a Vet-Trained Rabbit Sitter Matters in San Francisco
 

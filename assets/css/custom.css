@@ -576,6 +576,32 @@ html {
   color: #fff !important;
 }
 
+/* Footer Service Areas — grouped & scannable */
+#footer .footer-areas__lead {
+  margin-bottom: 18px !important;
+}
+#footer .footer-areas__group {
+  margin-bottom: 12px !important;
+  line-height: 1.6 !important;
+}
+#footer .footer-areas__label {
+  display: block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #fff !important;
+  opacity: 0.9;
+  margin-bottom: 2px;
+}
+#footer .footer-areas__label em {
+  font-style: italic;
+  text-transform: none;
+  letter-spacing: 0;
+  font-weight: 400;
+  opacity: 0.75;
+}
+
 #footer .follow-me-icons {
   font-size: 24px !important;
 }
