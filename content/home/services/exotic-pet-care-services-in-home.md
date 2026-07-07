@@ -21,11 +21,11 @@ weight = 2
   priority = 0.8
 +++
 
-Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, hamsters, reptiles and birds** — starting at **$85/visit**.
+Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds** — starting at **$85/visit**.
 <!--more-->
  
 ## Benefits of In-Home Reptile & Exotic Pet Sitting
-From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals — including rabbits, guinea pigs, chinchillas and hamsters — we help prevent stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; led by an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), our team keeps your pet's world consistent while you're away. 
+From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals — including rabbits, guinea pigs, chinchillas, ferrets, and hamsters — we help prevent stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; led by an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), our team keeps your pet's world consistent while you're away. 
 
 ### Routine Visits (2x/day)
 * **30 minutes:** $140/day ($70/visit) <!-- prev 60/120 for 30 and  155 for 30/+60/165 -->
@@ -36,6 +36,8 @@ From precise [reptile habitat management](/reptile-amphibian-care-guide) and avi
 ### Individual Visits (1x/day) <!-- 12/25,prev 70 for 30 and 105 for 60; 09/25,prev 65 for 30 and 75 for 60 -->
 * **30 minutes:** $85/visit 
 * **60 minutes:** $115/visit
+
+<p class="text-center" style="margin: 1.5rem 0;"><a href="tel:415-484-6493" class="btn btn-lg btn-cta-primary">Book Care in Your Home</a></p>
 
 ***Pet Care:*** Your pet will receive dedicated love and attention, including species-specific feeding, fresh water, medication administration — oral or topical medication, coordinated with your vet — and enrichment.
 
@@ -58,10 +60,6 @@ Rabbit owners — we have species-specific pages for [San Francisco](/rabbit-sit
 * Peninsula travel surcharge: **$15–$25/visit** depending on distance from our Inner Sunset base (no surcharge within San Francisco). See our [service areas](/home/services/faqs/#service-areas)
 
 {{< travel-zone-map >}}
-
-## Ready to book in-home care for your pet?
-
-[Call or text us at 415-484-6493](tel:415-484-6493) and we will get a free meet-and-greet on the calendar — tell us your species, your neighborhood, and your travel dates, and we will confirm your rate. You can also browse the full [FAQ page](/home/services/faqs/) or, if you are still getting set up with a local vet, our [Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians/).
 
 ## Prefer overnight boarding?
 
