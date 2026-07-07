@@ -7,13 +7,13 @@ og_image = "milo.jpeg"
   priority = 0.9
 +++
 
-House of Guineas provides specialized in-home care for **rabbits, guinea pigs, chinchillas, hamsters, reptiles and birds** across San Francisco and the Peninsula. Our team is led by an exotic veterinary assistant and trained specifically in exotic species.
+House of Guineas provides specialized in-home care for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds** across San Francisco and the Peninsula. Our team is led by an exotic veterinary assistant and trained specifically in exotic species.
 
 ---
 
 ## In-Home Pet Sitting
 
-Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, hamsters, reptiles and birds**.
+Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds**.
 
 **From $85/visit. Twice-daily routine care from $140/day.**
 

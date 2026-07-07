@@ -7,7 +7,7 @@ og_image = "milo.jpeg"
   priority = 0.9
 +++
 
-Finding someone to care for an exotic pet in San Francisco is harder than it should be. Most sitters are set up for dogs and cats — not a bonded pair of rabbits, a bearded dragon on a specific UVB schedule, or a parrot who only settles when someone whistles back. House of Guineas Pet Care exists to close that gap. We are the only professional pet care company on this side of the Bay that exclusively caters to, serves, and cares for exotic pets — rabbits, guinea pigs, chinchillas, reptiles, and birds.
+Finding someone to care for an exotic pet in San Francisco is harder than it should be. Most sitters are set up for dogs and cats — not a bonded pair of rabbits, a bearded dragon on a specific UVB schedule, or a parrot who only settles when someone whistles back. House of Guineas Pet Care exists to close that gap. We are the only professional pet care company on this side of the Bay that exclusively caters to, serves, and cares for exotic pets — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds.
 
 We are based in the Inner Sunset, and we offer San Francisco pet owners two ways to get care — **in-home visits** from our team of exotic specialists, or **overnight boarding** hosted personally by our founder, Alexandria, at her San Francisco home. Both are built around clinical experience, not guesswork.
 

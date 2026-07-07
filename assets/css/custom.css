@@ -413,8 +413,8 @@ details[open] summary {
 }
 
 .btn-cta-hero {
-  background-color: var(--color-accent) !important;
-  border: 2px solid var(--color-accent) !important;
+  background-color: var(--color-primary) !important;
+  border: 2px solid var(--color-primary) !important;
   color: #fff !important;
   border-radius: var(--radius-sm) !important;
   font-size: 16px !important;
@@ -425,8 +425,8 @@ details[open] summary {
 
 .btn-cta-hero:hover,
 .btn-cta-hero:focus {
-  background-color: var(--color-accent-dark) !important;
-  border-color: var(--color-accent-dark) !important;
+  background-color: var(--color-primary-dark) !important;
+  border-color: var(--color-primary-dark) !important;
   color: #fff !important;
 }
 

@@ -24,6 +24,7 @@ San Francisco is full of thoughtful pet owners who do their homework — and the
 
 - **Guinea pigs** — including bonded pairs and whole herds
 - **Chinchillas**
+- **Ferrets**
 - **Hamsters**
 - **Rats**
 - **Other pocket pets** — if it is small and furry, ask us

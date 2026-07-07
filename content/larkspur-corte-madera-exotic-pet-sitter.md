@@ -15,7 +15,7 @@ House of Guineas is San Francisco's exotic pet care company, and having a specia
 
 - **We live here.** Our specialist is based in Larkspur, so visits are quick to schedule, easy to adjust, and carry no travel surcharge for the immediate area. Early-morning, mid-day medication, and late-evening timing are all straightforward.
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Our team is trained under that same clinical lens.
-- **Species specialization.** Rabbits, guinea pigs, chinchillas, reptiles, and birds are our whole focus — nothing about this is an afterthought.
+- **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our whole focus — nothing about this is an afterthought.
 - **Clinical-grade care.** We can syringe-feed a rabbit in stasis, weigh a guinea pig on a gram scale, verify a reptile's UVB and humidity, and read the early warning signs in a bird.
 
 ## Exotic Species We Care For

@@ -15,7 +15,7 @@ House of Guineas has an exotic pet specialist based in Central Marin, minutes fr
 
 - **Local to Marin.** Our specialist lives in the county, so San Rafael visits are quick to schedule and light on travel cost — no Golden Gate commute baked into your bill.
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
-- **Species specialization.** Rabbits, guinea pigs, chinchillas, reptiles, and birds are our entire focus — not an afterthought squeezed in between dog walks.
+- **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus — not an afterthought squeezed in between dog walks.
 - **Clinical-grade care.** We can syringe-feed a rabbit in GI stasis, weigh a guinea pig on a gram scale, check a reptile's humidity and UVB, and recognize the early warning signs in a bird. If something seems off while you are away, we know the nearest exotic vets.
 
 ## Exotic Species We Care For in San Rafael

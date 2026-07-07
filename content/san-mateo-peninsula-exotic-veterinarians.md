@@ -1,7 +1,7 @@
 +++
 title = "Peninsula Exotic Pet Veterinarians | San Mateo County Directory"
 shortTitle = "Peninsula Exotic Vets"
-description = "Exotic pet veterinarians in San Mateo County and the Peninsula — Burlingame, San Mateo, Redwood City, Los Altos. Vets for rabbits, guinea pigs, chinchillas, reptiles, and birds."
+description = "Exotic pet veterinarians in San Mateo County and the Peninsula — Burlingame, San Mateo, Redwood City, Los Altos. Vets for rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds."
 og_image = "2ChungusPuppyDog.jpg"
 [menu.main]
   parent = "resources"
@@ -9,7 +9,7 @@ og_image = "2ChungusPuppyDog.jpg"
   priority = 0.8
 +++
 
-Finding a veterinarian who truly understands exotic animals — rabbits, guinea pigs, chinchillas, reptiles, and birds — is one of the hardest parts of owning one of these pets in the Bay Area. Most general practices in San Mateo County don't see exotics, and the ones that do often prefer to refer out. Below is a curated list of Peninsula-area exotic pet veterinarians and emergency options, organized by city.
+Finding a veterinarian who truly understands exotic animals — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds — is one of the hardest parts of owning one of these pets in the Bay Area. Most general practices in San Mateo County don't see exotics, and the ones that do often prefer to refer out. Below is a curated list of Peninsula-area exotic pet veterinarians and emergency options, organized by city.
 
 **Before an emergency happens, call ahead to confirm the clinic's current exotic animal availability** — staff rotations change, and not every veterinarian on a given day is comfortable treating exotics. A quick call saves critical time when your pet needs help.
 

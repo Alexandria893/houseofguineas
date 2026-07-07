@@ -15,7 +15,7 @@ House of Guineas is San Francisco's exotic pet care company, and our Marin speci
 
 - **Local to Marin.** No Golden Gate commute in your schedule or your bill. Our specialist reaches San Anselmo, Ross, and Fairfax quickly and can keep visit timing flexible.
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. The whole team is trained under that clinical lens.
-- **Species specialization.** Rabbits, guinea pigs, chinchillas, reptiles, and birds are our entire focus.
+- **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
 - **Clinical-grade care.** We can syringe-feed a stasis rabbit, weigh a guinea pig on a gram scale, verify a reptile's UVB and humidity, and spot early illness in a bird.
 
 ## Exotic Species We Care For in the Ross Valley
