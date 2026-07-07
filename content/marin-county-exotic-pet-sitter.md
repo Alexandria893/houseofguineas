@@ -15,7 +15,7 @@ We are San Francisco's exotic pet care company, and our Marin specialist lives i
 
 - **A specialist who actually lives in Marin.** No crossing the Golden Gate on a schedule. Our Marin-based specialist can reach most of the county quickly, which keeps visits flexible and travel costs low.
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every specialist on our team, in Marin and beyond, is trained under that same clinical lens.
-- **Species specialization.** Exotic pets and cats are our whole focus — rabbits, guinea pigs, chinchillas, reptiles, and birds. That kind of focus is almost impossible to find north of the bridge.
+- **Species specialization.** Exotic pets and cats are our whole focus — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds. That kind of focus is almost impossible to find north of the bridge.
 - **Clinical-grade care.** We can syringe-feed a rabbit in stasis, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity and UVB, and catch the early signs of a crop problem in a parrot — and we know where the nearest exotic vets are if something goes wrong.
 
 ## Exotic Species We Care For in Marin
@@ -106,13 +106,13 @@ Here is the part that surprises people: because our specialist is based in Centr
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits?</summary>
   <div class="faq-answer">
-    <p>Yes — and you no longer have to cross the bridge for it. Boarding is available locally in Marin through our Marin specialist, as well as at our founder's San Francisco home. Either way it runs $75 per night, your pet gets their own space with soothing music, and you bring their usual enclosure and supplies. Many clients still prefer in-home visits so their pets stay put, but local Marin boarding is there if you want overnight supervision.</p>
+    <p>For most Marin clients, in-home visits are the better fit — your pet stays in its own environment on its own routine, and it is our most available service. We do offer a limited amount of boarding at $75 per night, hosted by our founder in San Francisco and occasionally by a Marin specialist, but space is limited and books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits.</p>
   </div>
 </details>
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) — now available locally in Marin or at the founder's San Francisco home — or browse the full [FAQ page](/home/services/faqs). New guinea pig or rabbit parents in Marin will want our [guinea pig care guide](/post/guinea-pig-care-guide) and [rabbit care guide](/post/rabbit-care-guide-bay-area).
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our limited [boarding option](/home/services/exotic-pet-care-services-boarding), or browse the full [FAQ page](/home/services/faqs). New guinea pig or rabbit parents in Marin will want our [guinea pig care guide](/post/guinea-pig-care-guide) and [rabbit care guide](/post/rabbit-care-guide-bay-area).
 
 <script type="application/ld+json">
 {
@@ -156,7 +156,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — and you no longer have to cross the bridge for it. Boarding is available locally in Marin through our Marin specialist, as well as at our founder's San Francisco home. Either way it runs $75 per night, your pet gets their own space with soothing music, and you bring their usual enclosure and supplies. Many clients still prefer in-home visits so their pets stay put, but local Marin boarding is there if you want overnight supervision."
+        "text": "For most Marin clients, in-home visits are the better fit — your pet stays in its own environment on its own routine, and it is our most available service. We do offer a limited amount of boarding at $75 per night, hosted by our founder in San Francisco and occasionally by a Marin specialist, but space is limited and books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits."
       }
     }
   ]

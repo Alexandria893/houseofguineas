@@ -15,7 +15,7 @@ House of Guineas has an exotic pet specialist living in Central Marin, a short d
 
 - **Based in Marin.** Our specialist lives minutes away, so Mill Valley visits are easy to schedule and light on travel cost — even up a winding canyon road.
 - **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Our whole team is trained under that clinical lens.
-- **Species specialization.** Rabbits, guinea pigs, chinchillas, reptiles, and birds are our entire focus.
+- **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
 - **Clinical-grade care.** We can syringe-feed a stasis rabbit, weigh a guinea pig on a gram scale, verify a reptile's humidity and UVB, and catch the early signs of illness in a bird.
 
 ## Exotic Species We Care For in Mill Valley
@@ -98,7 +98,7 @@ Because our specialist is based in Central Marin, Mill Valley falls in our **no-
 <details class="faq-details">
   <summary class="faq-summary">Is boarding available, or only in-home visits?</summary>
   <div class="faq-answer">
-    <p>Both. Boarding is now available locally in Marin through our Marin specialist, as well as at our founder's San Francisco home — so you don't have to cross the bridge for overnight care. Either option is $75 per night with your pet's own space and soothing music. Most Mill Valley clients choose in-home visits so their pets never leave the redwoods, but local boarding is there if you prefer overnight supervision.</p>
+    <p>In-home visits are what we recommend for most Mill Valley pets — they stay in their own space in the redwoods, and it is our most available service. We do offer a limited amount of boarding at $75 per night, hosted by our founder in San Francisco and occasionally by a Marin specialist, but space fills up quickly, so reach out early if you think you will need it.</p>
   </div>
 </details>
 
@@ -148,7 +148,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Is boarding available, or only in-home visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Both. Boarding is now available locally in Marin through our Marin specialist, as well as at our founder's San Francisco home — so you don't have to cross the bridge for overnight care. Either option is $75 per night with your pet's own space and soothing music. Most Mill Valley clients choose in-home visits so their pets never leave the redwoods, but local boarding is there if you prefer overnight supervision."
+        "text": "In-home visits are what we recommend for most Mill Valley pets — they stay in their own space in the redwoods, and it is our most available service. We do offer a limited amount of boarding at $75 per night, hosted by our founder in San Francisco and occasionally by a Marin specialist, but space fills up quickly, so reach out early if you think you will need it."
       }
     }
   ]
