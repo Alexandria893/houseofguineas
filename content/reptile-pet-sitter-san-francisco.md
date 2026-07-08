@@ -20,7 +20,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team
 
 ## Reptiles We Care For in San Francisco
 
-- **Bearded dragons** — the most popular pet reptile we see, and one we know well
+- **Bearded dragons** — the most popular pet reptile we see, and one we know well (see our dedicated [bearded dragon sitter](/bearded-dragon-sitter-san-francisco/) page)
 - **Leopard geckos, crested geckos, and other geckos** — from belly-heat leopard setups to room-temperature, high-humidity crested habitats
 - **Turtles and tortoises** — aquatic, semi-aquatic, and terrestrial, each with their own water quality, basking, and UVB needs
 - We also care for many other lizards — [text us about your species](tel:415-484-6493) and we will tell you honestly whether it is in our wheelhouse

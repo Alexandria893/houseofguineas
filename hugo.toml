@@ -67,6 +67,10 @@ weight = 1
   name = "In-Home Care"
   url = "/home/services/exotic-pet-care-services-in-home/"
   weight = 2
+[[menu.main]]
+  name = "Routine Care"
+  url = "/routine-recurring-exotic-pet-care/"
+  weight = 3
 
 [params.sharethis]
 property = "123456789012345678901234"

@@ -45,6 +45,8 @@ From precise [reptile habitat management](/reptile-amphibian-care-guide) and avi
 
 ***Peace of Mind:*** You'll receive updates including snapshots and details of their well-being and activities, so you can enjoy your time away without worry.
 
+> **Not traveling — just busy?** We also offer standing weekly and biweekly visits for the everyday upkeep, so your pet stays happy and healthy year-round. See our [routine & recurring care plans](/routine-recurring-exotic-pet-care/).
+
 ### Bird Care
 Cockatiels, parakeets, conures, parrotlets, lovebirds, finches and most companion parrots — birds are a core part of what we do, not a stretch service. We handle daily fresh chop preparation, pellet measurement, water tower changes, full cage and grate cleaning, and out-of-cage time for birds with established free-flight routines. Our team is trained to recognize the early signs of crop issues, respiratory infections, and egg binding. Alexandria worked as an exotic veterinary assistant at [Bay Area Bird & Exotics Hospital](https://www.birdandexoticsvet.com), and our specialists are trained to identify critical health issues in the animals they care for — so avian care is rooted in real preparation, not guesswork. See our [bird care guide](/bird-care-guide/) for species-specific guidance.
 

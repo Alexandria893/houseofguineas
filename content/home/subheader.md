@@ -11,6 +11,8 @@ title = ""
 
 Bring veterinary-level care directly to your home with House of Guineas' specialized in-home services for exotic pets throughout San Francisco and the Peninsula. We treat every pet with the same professional diligence and warmth we give our own.
 
+**Routine upkeep while you're busy — and trusted care while you travel.** Whether you want a specialist handling the weekly cage deep-cleans and health checks so you can just enjoy your pet, or reliable coverage for your next trip, we've got you. [Explore recurring care plans →](/routine-recurring-exotic-pet-care/)
+
 <aside class="quick-facts" aria-label="House of Guineas at a glance">
   <header class="quick-facts__head">
     <h3 class="quick-facts__title">House of Guineas at a Glance</h3>
@@ -33,7 +35,7 @@ Bring veterinary-level care directly to your home with House of Guineas' special
   </div>
 </aside>
 
-<p class="text-center" style="margin-top: 25px;"><a href="tel:415-484-6493" class="btn btn-lg btn-cta-primary">Contact Us to Get Started</a></p>
+<p class="text-center" style="margin-top: 25px;"><a href="tel:415-484-6493" class="btn btn-lg btn-cta-primary">Call or Text to Get Started</a> <a href="/book/" class="btn btn-lg btn-cta-secondary">Request Care Online</a></p>
 <!-- As an experienced exotic veterinary assistant, I provide specialized in-home care, ensuring your cherished companions receive not just attention, but knowledgeable support tailored to their specific needs. From precise habitat management to recognizing subtle health cues, your pet's well-being is my top priority.  -->
 
 <!-- Ready for peace of mind for your reptile, bird, or unique small mammal? [Contact me](tel:415-484-6493) to discuss your pet's care! -->
