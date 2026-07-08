@@ -58,15 +58,15 @@ If you're outside our immediate Inner Sunset base, a per-visit travel amount is 
 | Where you are | Travel per visit |
 |---|---|
 | San Francisco, within ~3 mi of Inner Sunset | Included |
-| San Francisco, 3–6 mi out | $10/visit |
-| Outer SF / Daly City / 6+ mi | $15/visit |
-| Peninsula (Burlingame → San Mateo → Redwood City) | $18/visit |
+| San Francisco, 3–6 mi out | from $15/visit |
+| Outer SF / Daly City / 6+ mi | from $25/visit |
+| Peninsula (Burlingame → San Mateo → Redwood City) | from $25/visit |
 
 **A few examples (30-minute visits, all-in):**
 
 - **Inner Sunset, 3×/week:** $223/week · $960/month
-- **San Mateo, 2×/week:** ~$194/week · ~$835/month
-- **San Mateo, 3×/week:** ~$277/week · ~$1,190/month
+- **San Mateo, 2×/week:** from ~$208/week · ~$895/month
+- **San Mateo, 3×/week:** from ~$298/week · ~$1,280/month
 
 <p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Start a Routine Care Plan</a></p>
 
@@ -118,7 +118,7 @@ Explore your area: [San Francisco](/san-francisco-exotic-pet-sitter/) · [Burlin
 <details class="faq-details">
   <summary class="faq-summary">What does a routine care plan cost?</summary>
   <div class="faq-answer">
-    <p>Routine care is a flat monthly plan built around a standing schedule of 2–3 visits a week. Within San Francisco, 30-minute visits are $158/week ($680/month) for 2×/week or $223/week ($960/month) for 3×/week; 60-minute visits add $30/visit. Outside our Inner Sunset base a per-visit travel amount applies ($10–$18/visit by distance), so a San Mateo plan runs about $194/week (~$835/month) at 2×/week. Text us at 415-484-6493 or request a plan online for a quote tailored to your pet, cadence, and location.</p>
+    <p>Routine care is a flat monthly plan built around a standing schedule of 2–3 visits a week. Within San Francisco, 30-minute visits are $158/week ($680/month) for 2×/week or $223/week ($960/month) for 3×/week; 60-minute visits add $30/visit. Outside our Inner Sunset base a per-visit travel amount applies (from $15–$25/visit by distance), so a San Mateo plan runs from about $208/week (~$895/month) at 2×/week. Text us at 415-484-6493 or request a plan online for a quote tailored to your pet, cadence, and location.</p>
   </div>
 </details>
 
@@ -191,7 +191,7 @@ Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/bo
       "name": "What does a routine care plan cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Routine care is a flat monthly plan built around a standing schedule of 2-3 visits a week. Within San Francisco, 30-minute visits are $158/week ($680/month) for 2x/week or $223/week ($960/month) for 3x/week; 60-minute visits add $30/visit. Outside our Inner Sunset base a per-visit travel amount applies ($10-$18/visit by distance), so a San Mateo plan runs about $194/week (~$835/month) at 2x/week. Text us at 415-484-6493 for a quote tailored to your pet, cadence, and location."
+        "text": "Routine care is a flat monthly plan built around a standing schedule of 2-3 visits a week. Within San Francisco, 30-minute visits are $158/week ($680/month) for 2x/week or $223/week ($960/month) for 3x/week; 60-minute visits add $30/visit. Outside our Inner Sunset base a per-visit travel amount applies (from $15-$25/visit by distance), so a San Mateo plan runs from about $208/week (~$895/month) at 2x/week. Text us at 415-484-6493 for a quote tailored to your pet, cadence, and location."
       }
     }
   ]
