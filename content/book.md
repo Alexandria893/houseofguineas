@@ -11,13 +11,17 @@ Tell us a little about your pet and what you need, and we'll get right back to y
 <!--more-->
 
 <!--
-  ⚠️ ALEXANDRIA — ONE-TIME SETUP TO MAKE THIS FORM WORK:
-  This is a static site (GitHub Pages), which can't process form submissions on its own.
-  1. Create a free account at https://formspree.io (or https://web3forms.com).
-  2. Create a form; it gives you an endpoint like  https://formspree.io/f/abcdwxyz
-  3. Replace  YOUR_FORM_ID  in the <form action="..."> below with your real endpoint.
-  Submissions will then be emailed to you. Until then, the form will not send.
-  (The "Call or Text" and email links above work regardless.)
+  FORM SETUP — ALREADY WIRED (via FormSubmit.co; no account or API key needed).
+  Submissions are emailed to petcare@houseofguineas.com.
+
+  ⚠️ ONE-TIME ACTIVATION (only you can do this):
+  The FIRST time anyone submits this form after it goes live, FormSubmit will email
+  petcare@houseofguineas.com a "Confirm your email" link. Click it once to activate.
+  After that, every booking request lands in that inbox automatically. (Tip: submit
+  the form yourself once after launch to trigger and complete the activation.)
+
+  To change the destination inbox, edit the email in the <form action="..."> below.
+  On successful submit, users are sent to /thank-you/.
 -->
 
 <style>
@@ -48,7 +52,13 @@ Tell us a little about your pet and what you need, and we'll get right back to y
   @media (max-width: 480px) { .booking-form .check-grid { grid-template-columns: 1fr; } }
 </style>
 
-<form class="booking-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<form class="booking-form" action="https://formsubmit.co/petcare@houseofguineas.com" method="POST">
+  <!-- FormSubmit config -->
+  <input type="hidden" name="_subject" value="New care request from houseofguineas.com">
+  <input type="hidden" name="_template" value="table">
+  <input type="hidden" name="_captcha" value="false">
+  <input type="hidden" name="_next" value="https://www.houseofguineas.com/thank-you/">
+
   <div class="form-row">
     <label for="name">Your name <span class="required">*</span></label>
     <input type="text" id="name" name="name" required>
@@ -110,9 +120,7 @@ Tell us a little about your pet and what you need, and we'll get right back to y
   </div>
 
   <!-- Honeypot spam trap — leave empty -->
-  <input class="hp" type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true">
-
-  <input type="hidden" name="_subject" value="New care request from houseofguineas.com">
+  <input class="hp" type="text" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true">
 
   <div class="form-row text-center">
     <button type="submit" class="btn btn-lg btn-cta-primary">Send My Request</button>
