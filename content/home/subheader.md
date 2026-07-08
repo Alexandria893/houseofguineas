@@ -35,7 +35,7 @@ Bring veterinary-level care directly to your home with House of Guineas' special
   </div>
 </aside>
 
-<p class="text-center" style="margin-top: 25px;"><a href="/book/" class="btn btn-lg btn-cta-primary">Let's Get Started</a> <a href="tel:415-484-6493" class="btn btn-lg btn-cta-outline">Call or Text 415-484-6493</a></p>
+<p class="text-center" style="margin-top: 25px;"><a href="/book/" class="btn btn-lg btn-cta-primary">Let's Get Started</a></p>
 <!-- As an experienced exotic veterinary assistant, I provide specialized in-home care, ensuring your cherished companions receive not just attention, but knowledgeable support tailored to their specific needs. From precise habitat management to recognizing subtle health cues, your pet's well-being is my top priority.  -->
 
 <!-- Ready for peace of mind for your reptile, bird, or unique small mammal? [Contact me](tel:415-484-6493) to discuss your pet's care! -->
