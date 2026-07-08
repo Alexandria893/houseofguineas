@@ -37,30 +37,44 @@ Because our founder, Alexandria, is an [exotic veterinary assistant](/san-franci
 
 ## Flat Monthly Plans
 
-Routine clients are the heart of what we do, and we price recurring care to reward the commitment. Instead of paying visit-by-visit, standing clients can move to a **flat monthly plan** — one predictable price that covers your regular weekly or biweekly visits, billed monthly.
+Routine clients are the heart of what we do, and we price recurring care to reward the commitment. Instead of paying visit-by-visit, standing clients move to a **flat monthly plan** — one predictable price, billed monthly, that covers a standing schedule of **2 or 3 visits a week**. The more regular the schedule, the lower your per-visit rate.
 
-<div class="text-center" style="margin: 1.5rem 0; padding: 1.5rem; border: 2px solid var(--color-accent, #C4704B); border-radius: 8px;">
-  <p style="font-size: 1.15em; margin-bottom: 0.5rem;"><strong>Routine Care Plans start at <span style="color: var(--color-accent, #C4704B);">$[MONTHLY PRICE]/month</span></strong></p>
-  <p style="margin-bottom: 0;">for a standing weekly visit. Biweekly and custom cadences available. <a href="/book/">Request your custom plan →</a></p>
+<div style="margin: 1.5rem 0; padding: 1.5rem; border: 2px solid var(--color-accent, #C4704B); border-radius: 8px;">
+  <p style="font-size: 1.05em; margin-bottom: 1rem;"><strong>Routine Care Plans</strong> — standing 30-minute visits, within San Francisco:</p>
+  <ul style="margin-bottom: 1rem;">
+    <li><strong>2 visits / week — $680/month</strong> <span style="color:#666;">(about $79 per visit)</span></li>
+    <li><strong>3 visits / week — $960/month</strong> <span style="color:#666;">(about $74 per visit — our best rate)</span></li>
+  </ul>
+  <p style="margin-bottom: 0.5rem;">Want longer, 60-minute visits? Add <strong>$30 per visit</strong>. Prefer biweekly or a custom cadence? We'll build a plan to match.</p>
+  <p style="margin-bottom: 0;"><a href="/book/">Request your custom plan →</a></p>
 </div>
 
-<!--
-  ⚠️ ALEXANDRIA: Set your monthly numbers before publishing.
-  Suggested structure (edit freely):
-    • Weekly 30-min visit  →  ~$[weekly rate x 4] - small loyalty discount
-    • Weekly 60-min visit  →  ~$[hourly rate x 4] - small loyalty discount
-    • Biweekly option      →  lower monthly rate
-  A modest discount vs. per-visit pricing is what turns a one-off into a recurring client.
-  Delete this comment once numbers are in.
--->
+Compared to our standard per-visit rate of **$85** (30-minute visit), a standing plan saves you roughly **7% at 2×/week and 13% at 3×/week** — our way of thanking the clients we see week in and week out. Monthly pricing is based on an average month (about 4.3 weeks) and stays flat even in months with an extra visit.
 
-Prefer to keep things per-visit? That's fine too — routine visits are billed at our standard [in-home rates](/home/services/exotic-pet-care-services-in-home/) (30-minute visits from **$85**, 60-minute from **$115**). The monthly plan simply makes recurring care simpler and more affordable for the pets we see week in and week out.
+### Travel for Peninsula & farther clients
+
+If you're outside our immediate Inner Sunset base, a small travel amount is added — but **recurring clients pay a reduced travel rate**, because a standing route is far more efficient for us to run than one-off trips. Where a one-time visit carries a $15–$25 distance surcharge, routine clients pay less:
+
+| Where you are | One-off surcharge | **Routine-client rate** |
+|---|---|---|
+| San Francisco, within ~3 mi of Inner Sunset | none | **Included** |
+| San Francisco, 3–6 mi out | $15/visit | **$10/visit** |
+| Outer SF / Daly City / 6+ mi | $25/visit | **$15/visit** |
+| Peninsula (Burlingame → San Mateo → Redwood City) | $25/visit | **$18/visit** |
+
+**A few real examples (30-minute visits, all-in per month):**
+
+- **Inner Sunset, 3×/week:** $960/month (no travel)
+- **San Mateo, 2×/week:** $680 + ~$155 travel ≈ **$835/month**
+- **San Mateo, 3×/week:** $960 + ~$230 travel ≈ **$1,190/month**
 
 <p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Start a Routine Care Plan</a></p>
 
+Prefer to keep things per-visit instead? That's fine too — routine visits can be billed at our standard [in-home rates](/home/services/exotic-pet-care-services-in-home/) (30-minute visits from **$85**, 60-minute from **$115**, plus the standard distance surcharge). The monthly plan simply makes recurring care simpler and more affordable for regulars.
+
 ## Serving San Francisco Through San Mateo
 
-We provide recurring in-home care across all of San Francisco — no travel surcharge within the city — and throughout the Peninsula down to San Mateo, Foster City, and Redwood City. For **standing recurring clients on the Peninsula**, we work to keep travel costs predictable as part of your monthly plan, so regular San Mateo–area care stays affordable rather than adding up visit by visit. [Ask us about Peninsula routine plans](/book/).
+We provide recurring in-home care across all of San Francisco — no travel charge within the city center — and throughout the Peninsula down to San Mateo, Foster City, and Redwood City. Because standing clients pay the **reduced routine travel rate** above, regular San Mateo–area care stays genuinely affordable rather than adding up visit by visit. [Ask us about a Peninsula routine plan](/book/).
 
 Explore your area: [San Francisco](/san-francisco-exotic-pet-sitter/) · [Burlingame](/burlingame-exotic-pet-sitter/) · [San Mateo](/san-mateo-exotic-pet-sitter/) · [Millbrae](/millbrae-exotic-pet-sitter/) · [Foster City](/foster-city-exotic-pet-sitter/) · [Redwood City](/redwood-city-exotic-pet-sitter/).
 
@@ -90,7 +104,7 @@ Explore your area: [San Francisco](/san-francisco-exotic-pet-sitter/) · [Burlin
 <details class="faq-details">
   <summary class="faq-summary">How often can you come?</summary>
   <div class="faq-answer">
-    <p>Whatever cadence your pet needs — weekly is most common, but we also do biweekly and custom schedules. Small mammals and birds often benefit from weekly deep-cleans and weigh-ins, while a well-established reptile enclosure may only need a periodic professional check. We'll recommend a rhythm at your meet-and-greet.</p>
+    <p>Our standing plans are built around 2 or 3 visits a week, which is the sweet spot for keeping most exotic pets' upkeep, feeding, and health monitoring on track. Small mammals and birds especially benefit from that rhythm. We also do biweekly and fully custom schedules — we'll recommend the right cadence for your pet at your meet-and-greet.</p>
   </div>
 </details>
 
@@ -104,7 +118,7 @@ Explore your area: [San Francisco](/san-francisco-exotic-pet-sitter/) · [Burlin
 <details class="faq-details">
   <summary class="faq-summary">What does a routine care plan cost?</summary>
   <div class="faq-answer">
-    <p>Routine care is available as a flat monthly plan for standing weekly or biweekly visits, or billed per visit at our standard in-home rates (30-minute visits from $85, 60-minute from $115). Monthly plans reward regularity with predictable pricing. Text us at 415-484-6493 or request a plan online for a quote tailored to your pet and cadence.</p>
+    <p>Routine care is a flat monthly plan built around a standing schedule of 2–3 visits a week. Within San Francisco, 30-minute visits are $680/month for 2×/week (about $79/visit) or $960/month for 3×/week (about $74/visit); 60-minute visits add $30/visit. Recurring clients outside our Inner Sunset base pay a reduced travel rate ($10–$18/visit versus the $15–$25 one-off surcharge), so a San Mateo plan runs roughly $835/month at 2×/week. Text us at 415-484-6493 or request a plan online for a quote tailored to your pet, cadence, and location.</p>
   </div>
 </details>
 
@@ -161,7 +175,7 @@ Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/bo
       "name": "How often can you come for routine visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Whatever cadence your pet needs — weekly is most common, but we also do biweekly and custom schedules. Small mammals and birds often benefit from weekly deep-cleans and weigh-ins, while a well-established reptile enclosure may only need a periodic professional check."
+        "text": "Our standing plans are built around 2 or 3 visits a week, which is the sweet spot for keeping most exotic pets' upkeep, feeding, and health monitoring on track. Small mammals and birds especially benefit from that rhythm. We also do biweekly and fully custom schedules — we'll recommend the right cadence for your pet at your meet-and-greet."
       }
     },
     {
@@ -177,7 +191,7 @@ Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/bo
       "name": "What does a routine care plan cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Routine care is available as a flat monthly plan for standing weekly or biweekly visits, or billed per visit at our standard in-home rates (30-minute visits from $85, 60-minute from $115). Monthly plans reward regularity with predictable pricing. Text us at 415-484-6493 for a quote tailored to your pet and cadence."
+        "text": "Routine care is a flat monthly plan built around a standing schedule of 2-3 visits a week. Within San Francisco, 30-minute visits are $680/month for 2x/week (about $79/visit) or $960/month for 3x/week (about $74/visit); 60-minute visits add $30/visit. Recurring clients outside our Inner Sunset base pay a reduced travel rate ($10-$18/visit versus the $15-$25 one-off surcharge), so a San Mateo plan runs roughly $835/month at 2x/week. Text us at 415-484-6493 for a quote tailored to your pet, cadence, and location."
       }
     }
   ]
