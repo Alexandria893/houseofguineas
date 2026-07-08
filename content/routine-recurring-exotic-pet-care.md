@@ -35,6 +35,8 @@ Every recurring visit is tailored to your pet, but a standing visit typically co
 
 Because our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) — formerly at Bay Area Bird & Exotics Hospital, and a House Rabbit Society volunteer who administered subcutaneous RHDV2 vaccines — and every specialist is trained under that same clinical lens, a routine visit isn't just tidying. It's a recurring wellness check by someone who knows what healthy looks like for your species.
 
+*New to the idea of a sitter when you're not even traveling? Read [why busy pet parents book routine care](/post/exotic-pet-care-while-at-work-busy-schedule/).*
+
 ## Flat Monthly Plans
 
 Routine clients are the heart of what we do. Instead of paying visit-by-visit, standing clients move to a **flat monthly plan** — one predictable price, billed monthly, that covers a standing schedule of **2 or 3 visits a week**.
