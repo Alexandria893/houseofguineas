@@ -90,17 +90,17 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
   <summary class="faq-summary">What is a Meet and Greet, and what will ours look like?</summary>
   <div class="faq-answer">
-    <p>A meet and greet is a visit to you and your companion's home; this is the time for us to get to know you, your pet(s) and answer any questions you have! After covering care for your pets, this would be the time to <strong>hand-off any physical keys</strong> to access your home. Your keys will be stored in a <strong>secure, undisclosed location.</strong></p> 
+    <p>A meet and greet is a visit to you and your companion's home; this is the time for us to get to know you, your pet(s) and answer any questions you have! After covering care for your pets, this is also when we'll discuss how our team will access your home. We recommend a <strong>lockbox with a mechanical key, placed in a secure location</strong> — it's the most dependable way to make sure we can always reach your pets.</p> 
     <p>Additionally, if you'd like to move forward with care from House of Guineas, the booking deposit and signed pet care and services form is due at the end of the Meet and Greet as well.</p>
-    <p>If a digital code/keyless entry method is used and there is a situation where our team is unable to access your home, House of Guineas is not responsible for any damages to your home and your pet(s). We <strong>recommend a local, emergency contact to have at least one spare key in the event of an emergency.</strong></p>
+    <p>Keycodes and digital entry systems can malfunction. If you use a keycode, please <strong>still provide a lockbox or hidden key as a backup</strong>. If a digital code/keyless entry method is the only access provided and our team is unable to access your home, House of Guineas is not responsible for any damages to your home and your pet(s). We also <strong>recommend a local, emergency contact to have at least one spare key in the event of an emergency.</strong></p>
   </div>
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">What happens if I don't have a key available for the Meet and Greet?</summary>
+  <summary class="faq-summary">How will your team access my home during visits?</summary>
   <div class="faq-answer">
-    <p>Don't worry! We can schedule a time for a key pickup before the first visit. <strong>A key pickup and drop-off will be $70 each.</strong> House of Guineas can also store your keys, and your keys will be stored in a secure, undisclosed location.</p> 
-    <p>We've found that clients often have lockboxes, emergency contact key drop-offs and other methods to securely store their keys when they are away.</p>
+    <p>We recommend a <strong>lockbox with a mechanical key, stored in a secure location</strong> — most clients place one near a side door, garage, or another spot out of plain sight. Keycodes and digital entry systems can malfunction, so a physical key is the most dependable way to guarantee our team can reach your pets on every visit. We'll discuss your access method together during the meet and greet.</p> 
+    <p>If you use a keycode, please <strong>still provide a lockbox or hidden key as a backup</strong>. If a keycode is the only access provided and it fails, House of Guineas is not responsible for any damages to your home and your pet(s) from being unable to enter. We also recommend leaving a spare key with a trusted, local emergency contact while you're away.</p>
   </div>
 </details>
 
@@ -222,15 +222,15 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "name": "What is a Meet and Greet, and what will ours look like?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A meet and greet is a visit to your home where we get to know you and your pet(s) and answer any questions. This is also the time to hand off any physical keys, which will be stored in a secure, undisclosed location."
+        "text": "A meet and greet is a visit to your home where we get to know you and your pet(s) and answer any questions. This is also when we discuss how our team will access your home — we recommend a lockbox with a mechanical key, placed in a secure location."
       }
     },
     {
       "@type": "Question",
-      "name": "What happens if I don't have a key available for the Meet and Greet?",
+      "name": "How will your team access my home during visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We can schedule a key pickup before the first visit. A key pickup and drop-off is $70 each. House of Guineas can also store your keys in a secure, undisclosed location."
+        "text": "We recommend a lockbox with a mechanical key, stored in a secure location. Keycodes and digital entry systems can malfunction, so if you use a keycode, please still provide a lockbox or hidden key as a backup — if a keycode is the only access provided and it fails, House of Guineas is not responsible for damages from being unable to enter. We also suggest leaving a spare key with a trusted, local emergency contact."
       }
     },
     {
