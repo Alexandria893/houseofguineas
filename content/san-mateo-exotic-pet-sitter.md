@@ -68,7 +68,7 @@ Our base rates are straightforward:
 
 San Mateo falls within our Peninsula service tier. A travel surcharge of $15–$25/visit applies, depending on distance — clients near Hillsdale Mall or downtown off the 101/92 junction often see lower surcharges than more distant pockets. [Call or text us at 415-484-6493](tel:415-484-6493) for a quote specific to your address and pet lineup.
 
-If you'd prefer drop-off boarding instead of in-home visits, our [boarding service](/home/services/exotic-pet-care-services-boarding) is hosted separately at Alexandria's San Francisco location — San Mateo clients are welcome to drop off any time.
+If you'd prefer drop-off boarding instead of in-home visits, our [boarding service](/home/services/exotic-pet-care-services-boarding) is hosted separately by our team in San Francisco — San Mateo clients are welcome to drop off any time.
 
 ## Frequently Asked Questions
 

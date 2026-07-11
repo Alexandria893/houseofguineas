@@ -38,7 +38,7 @@ Twice-daily care is what we recommend for most exotic pets — a morning visit t
 
 ## Boarding Rates
 
-For owners who prefer overnight supervision, Alexandria hosts a small number of exotic pets at her San Francisco home, starting at **$75 per night**. Your pet gets their own quiet room, species-specific feeding, and daily updates. Boarding fills up quickly around holidays and travel season, so it is worth reaching out as soon as you have dates. You can read more on our [exotic pet boarding](/home/services/exotic-pet-care-services-boarding/) page.
+For owners who prefer overnight supervision, our team hosts a small number of exotic pets in their San Francisco homes, starting at **$75 per night**. Your pet gets their own quiet room, species-specific feeding, and daily updates. Boarding fills up quickly around holidays and travel season, so it is worth reaching out as soon as you have dates. You can read more on our [exotic pet boarding](/home/services/exotic-pet-care-services-boarding/) page.
 
 ## Travel Surcharges
 

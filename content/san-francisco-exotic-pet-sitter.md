@@ -95,7 +95,7 @@ San Francisco is our **primary service area, so no travel surcharge applies** �
 <details class="faq-details">
   <summary class="faq-summary">Should I choose in-home visits or boarding?</summary>
   <div class="faq-answer">
-    <p>Choose in-home visits if your pet does best in their own environment and has a stable habitat (most reptiles, bonded rabbit pairs, large bird cages). Choose boarding if you want hands-on overnight supervision — boarding is hosted by our founder, Alexandria, at her San Francisco home, where your pet gets their own room with soothing music. Both include species-specific feeding, medication if needed, and daily updates. See the <a href="/home/services/exotic-pet-care-services-in-home">in-home</a> and <a href="/home/services/exotic-pet-care-services-boarding">boarding</a> pages for details.</p>
+    <p>Choose in-home visits if your pet does best in their own environment and has a stable habitat (most reptiles, bonded rabbit pairs, large bird cages). Choose boarding if you want hands-on overnight supervision — boarding is hosted by members of our team in their San Francisco homes, where your pet gets their own room with soothing music. Both include species-specific feeding, medication if needed, and daily updates. See the <a href="/home/services/exotic-pet-care-services-in-home">in-home</a> and <a href="/home/services/exotic-pet-care-services-boarding">boarding</a> pages for details.</p>
   </div>
 </details>
 
@@ -142,7 +142,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Should I choose in-home visits or boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Choose in-home visits if your pet does best in their own environment and has a stable habitat such as most reptiles, bonded rabbit pairs, or large bird cages. Choose boarding if you want hands-on overnight supervision — boarding is hosted by our founder, Alexandria, at her San Francisco home, where your pet gets their own room with soothing music. Both include species-specific feeding, medication if needed, and daily updates."
+        "text": "Choose in-home visits if your pet does best in their own environment and has a stable habitat such as most reptiles, bonded rabbit pairs, or large bird cages. Choose boarding if you want hands-on overnight supervision — boarding is hosted by members of our team in their San Francisco homes, where your pet gets their own room with soothing music. Both include species-specific feeding, medication if needed, and daily updates."
       }
     },
     {
