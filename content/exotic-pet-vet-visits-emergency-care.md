@@ -15,7 +15,7 @@ Nobody wants to imagine their little one getting sick while they're away — so 
 
 <!--more-->
 
-Every House of Guineas pet caretaker is trained in exotic animal care, and our team is led by an exotic veterinary assistant with hands-on hospital experience. Sometimes a vet trip is planned — a checkup that happens to land while you're traveling. Sometimes it isn't. Either way, whether your pet is boarding with us or being cared for in their own home, the same steps kick in the moment something seems off — no matter which of our caretakers is with them.
+Every House of Guineas pet caretaker is trained in exotic animal care, and our veterinary-informed team brings backgrounds from wildlife rehabilitation to exotic veterinary hospital work. Sometimes a vet trip is planned — a checkup that happens to land while you're traveling. Sometimes it isn't. Either way, whether your pet is boarding with us or being cared for in their own home, the same steps kick in the moment something seems off — no matter which of our caretakers is with them.
 
 ## Our Vet Visit & Emergency Care Process
 
