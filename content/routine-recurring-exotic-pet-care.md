@@ -1,7 +1,7 @@
 +++
 title = "Routine & Recurring Exotic Pet Care in San Francisco & the Peninsula"
 shortTitle = "Routine & Recurring Care"
-description = "Recurring, in-home exotic pet care for busy San Francisco & Peninsula pet parents. Weekly and biweekly upkeep — cage deep-cleans, weigh-ins, health checks — from exotic vet assistants. Flat monthly plans."
+description = "Recurring, in-home exotic pet care for busy San Francisco & Peninsula pet parents. Weekly and biweekly upkeep — cage deep-cleans, weigh-ins, health checks — from our veterinary-informed team. Flat monthly plans."
 og_image = "lionheadBunnyWithTreats.jpg"
 [params]
   serviceType = "Recurring Exotic Pet Care"
@@ -9,37 +9,34 @@ og_image = "lionheadBunnyWithTreats.jpg"
   priority = 0.9
 +++
 
-Most pet-sitting services are built around one moment: you leave town, and someone covers you until you're back. That's a real need, and we cover it. But it isn't the need most exotic-pet owners in San Francisco actually live with day to day. The everyday reality is quieter and more constant — a guinea pig cage that needs a proper deep-clean every week, a rabbit's litter and hay stations that never quite stay on top of themselves, a bearded dragon whose enclosure could use a knowledgeable set of eyes on its temperatures and UVB, a bird whose chop and cage upkeep is a daily rhythm. You love your pet. You also work long hours, commute, travel for work, and have a life. **Routine care is for exactly that gap** — steady, recurring, in-home upkeep so your pet stays happy and healthy, and the time you *do* have with them is the fun kind, not the chore kind.
+**Pet care isn't just for when you travel.** Between weekly deep-cleans, hay that ends up everywhere but the hay rack, and enclosure temperatures worth double-checking, keeping your little one's home just right is real work — especially when you're working long hours yourself. Routine care hands that upkeep to us, so your time with your pet is cuddles and floor time, not scrubbing.
 
-House of Guineas is based in San Francisco's Inner Sunset, and our team of exotic pet specialists comes to your home on a standing schedule you set — weekly, biweekly, or a custom cadence — so nothing about your pet's care ever slips.
+Their pet caretaker comes on a standing schedule you set — weekly, biweekly, or whatever rhythm fits your home — so nothing about your pet's care ever slips.
 <!--more-->
 
 ## Who Routine Care Is For
 
-- **Busy professionals** who work long days and want their small mammal's cage genuinely clean and their pet weighed and checked, without spending their one free evening on it.
-- **Households with demanding enclosures** — reptiles with calibrated heat and UVB, birds with daily chop, multi-pig herds — where staying ahead of the upkeep is a job in itself.
-- **Owners who travel often for work** and would rather keep one trusted, familiar sitter on a recurring basis than scramble for someone new before every trip.
-- **New exotic owners** who want a knowledgeable professional checking in regularly while they learn — someone who'll flag a problem early instead of at the next vet visit.
-- **Anyone who simply wants to protect the fun part.** Let us handle the maintenance so your time at home is cuddles, floor time, and popcorning — not scrubbing.
+- **Busy pet parents** — you want their cage genuinely clean and your little one weighed and checked, without giving up your one free evening.
+- **Pets with demanding setups** — reptiles with calibrated heat and UVB, birds with daily chop, a herd of hungry piggies.
+- **Frequent travelers** — one trusted caretaker who already knows your pet, instead of a scramble before every trip.
+- **New exotic pet parents** — a knowledgeable friend in your corner while you learn, catching little problems before they become big ones.
 
 ## What a Routine Visit Includes
 
-Every recurring visit is tailored to your pet, but a standing visit typically covers:
+- **A genuinely clean home for them** — deep-clean, fresh litter and bedding, liners swapped, substrate refreshed.
+- **Meals done right** — hay restocked, chop prepped, pellets measured, fresh water.
+- **A gentle health check** — gram-scale weigh-ins, appetite and output checks, and a trained eye out for early signs of GI stasis, respiratory trouble, or bumblefoot.
+- **Habitat checks for reptiles & birds** — temperatures, UVB, and humidity right where your pet needs them.
+- **The fun stuff** — enrichment, handling, nail checks, and gentle grooming.
+- **A photo update after every visit** — so you can see them thriving.
 
-- **Full enclosure upkeep** — cage or habitat deep-clean, litter and bedding changes, spot-cleaning, and a fresh setup (fleece liners swapped, substrate refreshed).
-- **Fresh food & water** — hay stations restocked, chop or greens prepped, pellets measured, water bottles and bowls cleaned and refilled.
-- **Health monitoring with clinical rigor** — gram-scale weigh-ins for small mammals to catch weight loss early, appetite and output checks, and a look for the subtle early signs of trouble (GI stasis, respiratory issues, overgrown nails or teeth, bumblefoot, mites).
-- **Habitat verification for reptiles & birds** — confirming temperature gradients, that UVB is functioning, and that humidity is in range.
-- **Enrichment & handling** — time with your pet, plus nail checks and gentle grooming as needed.
-- **A written update after every visit** — including photos, so you always know how your companion is doing.
-
-Because our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) — formerly at Bay Area Bird & Exotics Hospital, and a House Rabbit Society volunteer who administered subcutaneous RHDV2 vaccines — and every specialist is trained under that same clinical lens, a routine visit isn't just tidying. It's a recurring wellness check by someone who knows what healthy looks like for your species.
+Our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) — with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — knows what healthy looks like for your species. A routine visit isn't just tidying; it's a wellness check from someone who loves animals like yours.
 
 *New to the idea of a sitter when you're not even traveling? Read [why busy pet parents book routine care](/post/exotic-pet-care-while-at-work-busy-schedule/).*
 
 ## Flat Monthly Plans
 
-Routine clients are the heart of what we do. Instead of paying visit-by-visit, standing clients move to a **flat monthly plan** — one predictable price, billed monthly, that covers a standing schedule of **2 or 3 visits a week**.
+One predictable price, no per-visit math — a **flat monthly plan** covering **2 or 3 visits a week**, every week.
 
 <div style="margin: 1.5rem 0; padding: 1.5rem; border: 2px solid var(--color-accent, #C4704B); border-radius: 8px;">
   <p style="font-size: 1.05em; margin-bottom: 1rem;"><strong>Routine Care Plans</strong> — standing 30-minute visits, within San Francisco:</p>
@@ -48,14 +45,14 @@ Routine clients are the heart of what we do. Instead of paying visit-by-visit, s
     <li><strong>3 visits / week — $223/week</strong> <span style="color:#666;">($960/month)</span></li>
   </ul>
   <p style="margin-bottom: 0.5rem;">Want longer, 60-minute visits? Add <strong>$30 per visit</strong>. Prefer biweekly or a custom cadence? We'll build a plan to match.</p>
-  <p style="margin-bottom: 0;"><a href="/book/">Request your custom plan →</a></p>
+  <p style="margin-bottom: 0;"><a href="/book/">Let's create your pet's custom care plan →</a></p>
 </div>
 
 Monthly pricing is based on an average month (about 4.3 weeks) and stays flat even in months with an extra visit.
 
 ### Travel for Peninsula & farther clients
 
-If you're outside our immediate Inner Sunset base, a per-visit travel amount is added based on distance:
+Outside our immediate Inner Sunset base, a per-visit travel amount is added based on distance:
 
 | Where you are | Travel per visit |
 |---|---|
@@ -64,21 +61,13 @@ If you're outside our immediate Inner Sunset base, a per-visit travel amount is 
 | Outer SF / Daly City / 6+ mi | from $25/visit |
 | Peninsula (Burlingame → San Mateo → Redwood City) | from $25/visit |
 
-**A few examples (30-minute visits, all-in):**
-
-- **Inner Sunset, 3×/week:** $223/week · $960/month
-- **San Mateo, 2×/week:** from ~$208/week · ~$895/month
-- **San Mateo, 3×/week:** from ~$298/week · ~$1,280/month
-
 <p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Start a Routine Care Plan</a></p>
 
-Prefer to keep things per-visit instead? Routine visits can also be billed individually at our standard [in-home rates](/home/services/exotic-pet-care-services-in-home/) (30-minute visits from **$85**, 60-minute from **$115**, plus the standard distance surcharge).
+Prefer per-visit billing instead? Routine visits can also be billed at our standard [in-home rates](/home/services/exotic-pet-care-services-in-home/) (from **$85**/30-minute visit).
 
 ## Serving San Francisco Through San Mateo
 
-We provide recurring in-home care across all of San Francisco — no travel charge within the city center — and throughout the Peninsula down to San Mateo, Foster City, and Redwood City. Peninsula travel is a flat per-visit amount by distance (see the table above), folded into your weekly and monthly total. [Ask us about a Peninsula routine plan](/book/).
-
-Explore your area: [San Francisco](/san-francisco-exotic-pet-sitter/) · [Burlingame](/burlingame-exotic-pet-sitter/) · [San Mateo](/san-mateo-exotic-pet-sitter/) · [Millbrae](/millbrae-exotic-pet-sitter/) · [Foster City](/foster-city-exotic-pet-sitter/) · [Redwood City](/redwood-city-exotic-pet-sitter/).
+Recurring care covers all of San Francisco and the Peninsula down to Redwood City. Explore your area: [San Francisco](/san-francisco-exotic-pet-sitter/) · [Burlingame](/burlingame-exotic-pet-sitter/) · [San Mateo](/san-mateo-exotic-pet-sitter/) · [Millbrae](/millbrae-exotic-pet-sitter/) · [Foster City](/foster-city-exotic-pet-sitter/) · [Redwood City](/redwood-city-exotic-pet-sitter/).
 
 ## Frequently Asked Questions
 
@@ -126,7 +115,7 @@ Explore your area: [San Francisco](/san-francisco-exotic-pet-sitter/) · [Burlin
 
 ---
 
-Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/book/) or [call or text us at 415-484-6493](tel:415-484-6493). New to us? Learn more about our [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home/), read [about Alexandria's veterinary background](/about/), or browse the full [FAQ page](/home/services/faqs/).
+Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/book/) or [call or text us at 415-484-6493](tel:415-484-6493).
 
 <script type="application/ld+json">
 {
@@ -134,7 +123,7 @@ Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/bo
   "@type": "Service",
   "name": "Routine & Recurring Exotic Pet Care",
   "serviceType": "Recurring in-home exotic pet care",
-  "description": "Recurring, in-home exotic pet care for busy San Francisco and Peninsula pet parents — weekly and biweekly upkeep including cage deep-cleans, gram-scale weigh-ins, and health checks, from exotic veterinary assistants.",
+  "description": "Recurring, in-home exotic pet care for busy San Francisco and Peninsula pet parents — weekly and biweekly upkeep including cage deep-cleans, gram-scale weigh-ins, and health checks, from a veterinary-informed team.",
   "provider": {
     "@type": "LocalBusiness",
     "@id": "https://www.houseofguineas.com/#localbusiness"

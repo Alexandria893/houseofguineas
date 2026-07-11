@@ -11,7 +11,7 @@ og_image = "2ChungusPuppyDog.jpg"
 
 Finding a veterinarian who truly understands exotic animals — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds — is one of the hardest parts of owning one of these pets in the Bay Area. Most general practices in San Mateo County don't see exotics, and the ones that do often prefer to refer out. Below is a curated list of Peninsula-area exotic pet veterinarians and emergency options, organized by city.
 
-**Before an emergency happens, call ahead to confirm the clinic's current exotic animal availability** — staff rotations change, and not every veterinarian on a given day is comfortable treating exotics. A quick call saves critical time when your pet needs help.
+**Before an emergency happens, call ahead to confirm the clinic's current exotic animal availability** — staff rotations change, and not every veterinarian on a given day is comfortable treating exotics. A quick call saves critical time when your pet needs help. (And if your pets are ever in our care when something happens, see [how our vet visits and emergency care work](/exotic-pet-vet-visits-emergency-care/).)
 
 For a broader Bay Area list (San Francisco, East Bay, South Bay), see our [San Francisco & Bay Area Exotic Pet Veterinarians](/san-francisco-bay-area-exotic-veterinarians) page.
 

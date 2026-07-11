@@ -40,7 +40,8 @@ showRecentWorks = false
 # added reviews
 showReviews = true
 showDownloads = true
-showClients = true
+# Old "Associations" composite-image section replaced by the trust-strip badges in the subheader
+showClients = false
 showProduct = true
 
 showFooterContact = true
