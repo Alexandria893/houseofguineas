@@ -39,7 +39,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
   <summary class="faq-summary">Which animals does House of Guineas Pet Care service?</summary>
   <div class="faq-answer">
-    <p>House of Guineas Pet Care offers specialized care for exotic animals. House of Guineas Founder and exotic pet enthusiast, Alexandria, brings a background working out of an exotic veterinary hospital and a current role as a <strong>volunteer medical assistant</strong> at the <a href="https://houserabbit.org/veterinaryinitiative">House Rabbit Society in Richmond, California</a> — and our growing team of exotic pet specialists is trained to provide the best care for your pets.</p>
+    <p>House of Guineas Pet Care offers specialized care for exotic animals. Our veterinary-informed team brings a wide range of backgrounds — from <strong>wildlife rehabilitation to exotic veterinary hospital work</strong> — and is trained to provide the best care for your pets. Founder Alexandria previously worked as an exotic veterinary assistant and volunteered as a medical assistant at the <a href="https://houserabbit.org/veterinaryinitiative">House Rabbit Society in Richmond, California</a>.</p>
     <p>We care for a wide range of exotic pets including <strong>rabbits, guinea pigs, chinchillas, ferrets, hamsters and other small mammals; reptiles such as bearded dragons, geckos, snakes, turtles and tortoises; and birds such as parrots, cockatiels, conures and budgies.</strong> An expansive list of pets we care for can be found on the about page.</p>
     
   </div>
@@ -121,10 +121,10 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">What if there's an emergency during the visit?</summary>
+  <summary class="faq-summary">What happens if my little one gets sick or needs a vet while I'm away?</summary>
   <div class="faq-answer">
-    <p>For our visits, we require note of at least one veterinary hospital. Per our discussion, we will communicate with you first for any minor situations, and will take immediate action in emergencies to admit your pet.</p> 
-    <p><strong>Our priority is making sure that your pet receives the care they need,</strong> so additional charges are due, latest, by the last service.</p>
+    <p>Their pet caretaker is trained to spot the subtle signs exotic pets hide, and will contact you right away — guided by the preferred veterinary hospital, emergency preferences, and medical authorization limit you set with us at your meet and greet. If it's urgent, we get your pet to an exotic-savvy vet ourselves — handling safe, temperature-controlled transport and staying by their side; in a life-threatening situation we get them admitted and stabilizing first, then reach you immediately after.</p>
+    <p>Vet bills are passed along at cost — never marked up — and our care time and transport are itemized clearly, with any additional charges due, latest, by the last service. <a href="/exotic-pet-vet-visits-emergency-care/">See exactly how vet visits and emergencies work →</a></p>
   </div>
 </details>
 
@@ -251,10 +251,10 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
     },
     {
       "@type": "Question",
-      "name": "What if there's an emergency during the visit?",
+      "name": "What happens if my little one gets sick or needs a vet while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We require note of at least one veterinary hospital. For minor situations, we will communicate with you first. In emergencies, immediate action will be taken to admit your pet. Additional charges are due by the last service."
+        "text": "Their pet caretaker is trained to spot the subtle signs exotic pets hide, and will contact you right away — guided by the preferred veterinary hospital, emergency preferences, and medical authorization limit you set at your meet and greet. If it's urgent, we get your pet to an exotic-savvy vet ourselves, handling safe transport and staying by their side; in a life-threatening situation we get them admitted and stabilizing first, then reach you immediately after. Vet bills are passed along at cost — never marked up — and care time and transport are itemized clearly, with any additional charges due by the last service."
       }
     },
     {
