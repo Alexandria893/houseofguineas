@@ -38,7 +38,7 @@ I’m proficient in essential skills learned in a clinical setting, including:
 * Detailed knowledge of normal vs. abnormal behaviors and subtle signs of illness across a wide range of exotic species
 * Post-procedure monitoring and recovery support
 
-This isn’t just pet sitting; it’s specialized care grounded in real-world veterinary experience. You can relax knowing your pet will receive attentive, knowledgeable, and compassionate care, informed by professional standards and a genuine understanding of their specific needs. For species-specific care details, see our [Reptile & Amphibian Care Guide](/reptile-amphibian-care-guide) and [Small Pet Resources](/small-mammal-resources).
+This isn’t just pet sitting; it’s specialized care grounded in real-world veterinary experience. You can relax knowing your pet will receive attentive, knowledgeable, and compassionate care, informed by professional standards and a genuine understanding of their specific needs. For species-specific care details, see our [Reptile & Amphibian Care Guide](/reptile-amphibian-care-guide) and [Small Pet Resources](/small-mammal-resources). And if your pet ever needs a vet while you’re away, see [how our vet visits and emergency care work](/exotic-pet-vet-visits-emergency-care/).
 
 ## What We Offer – Expert Care for Diverse Exotic Pets
 

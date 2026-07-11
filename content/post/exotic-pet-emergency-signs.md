@@ -139,6 +139,8 @@ Please, please do this before you need to. The worst time to search for an exoti
   </div>
 </details>
 
+*If your little ones are ever in our care when something seems off, here's exactly [what we do — from spotting the signs to safe transport and the vet visit itself](/exotic-pet-vet-visits-emergency-care/).*
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

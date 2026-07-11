@@ -8,7 +8,7 @@ og_image = "tortoiseEatingGreens.jpg"
 [sitemap]
   priority = 0.8
 +++
-Finding a veterinarian who specializes in exotic animals — reptiles, birds, guinea pigs, rabbits, and other small mammals — can be challenging. Below is a curated list of exotic pet veterinarians and emergency hospitals across San Francisco and the greater Bay Area.
+Finding a veterinarian who specializes in exotic animals — reptiles, birds, guinea pigs, rabbits, and other small mammals — can be challenging. Below is a curated list of exotic pet veterinarians and emergency hospitals across San Francisco and the greater Bay Area. (Traveling and worried about a vet trip happening without you? This is the same list our team works from — see [how our vet visits and emergency care work](/exotic-pet-vet-visits-emergency-care/).)
 
 ---
 <style>
