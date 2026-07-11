@@ -11,11 +11,11 @@ On the Peninsula, a guinea pig is often the pet that anchors a busy household �
 
 House of Guineas Pet Care is based in San Francisco's Inner Sunset — the name is no accident, since the whole business grew out of guinea pig care — and our team of exotic specialists travels down the Peninsula to provide in-home visits from Daly City to Redwood City. Your pigs, chinchillas, ferrets, and pocket pets stay in their own enclosures, on their own routines, eating their own hay, while you are away.
 
-## Why Peninsula Small-Mammal Owners Choose Us
+## Why Peninsula Small-Mammal Pet Parents Choose Us
 
-The Peninsula is full of thoughtful owners who do their homework — and the small-mammal community here is especially serious about doing right by animals that are easy to underestimate. What they tell us they need is a sitter who brings real clinical rigor to the job. Here is what sets us apart:
+The Peninsula is full of thoughtful pet parents who do their homework — and the small-mammal community here is especially serious about doing right by animals that are easy to underestimate. What they tell us they need is a sitter who brings real clinical rigor to the job. Here is what sets us apart:
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) — she worked at Bay Area Bird & Exotics Hospital and previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Led by that clinical standard, every specialist on our team is trained to identify critical health issues early.
+- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work, and every caretaker is trained to identify critical health issues early. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) at Bay Area Bird & Exotics Hospital and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines — a clinical standard that shapes how we care for every animal.
 - **Species specialization.** Exotic pets and cats are our whole focus — small mammals above all. That kind of focus is genuinely hard to find on the Peninsula.
 - **Clinical-grade care.** We weigh pets on a gram scale to catch problems before they show, we monitor appetite and output at every visit, and our team can hand-feed and support a pig that has gone off its food while coordinating with your exotic vet — because in a small mammal, those are the numbers that tell you what is really going on.
 - **Flexible scheduling around Peninsula life.** Early-morning visits before an SFO departure, evening feeds after a late CalTrain return, mid-day timing for medications — we build the schedule around your itinerary, not the other way around.
@@ -99,14 +99,14 @@ The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** ap
 <details class="faq-details">
   <summary class="faq-summary">What if my guinea pig stops eating while I'm away?</summary>
   <div class="faq-answer">
-    <p>A guinea pig that has stopped eating is an emergency, and our specialists are trained to recognize it. We monitor appetite and output at every visit and can hand-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. Our founder is an exotic veterinary assistant, so this is exactly the kind of situation we are built to handle — and we will reach out to you before you land.</p>
+    <p>A guinea pig that has stopped eating is an emergency, and our specialists are trained to recognize it. We monitor appetite and output at every visit and can hand-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. Our team's training comes straight from exotic veterinary hospital work, so this is exactly the kind of situation we are prepared for — and we will reach out to you before you land.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How do you coordinate with local exotic vets on the Peninsula?</summary>
   <div class="faq-answer">
-    <p>We know the Peninsula's exotic vet landscape well. Peninsula small-mammal owners are often established with All Pets Hospital in San Mateo, Peninsula Pet Hospital in Burlingame, or Adobe Animal Hospital in Los Altos, with Bay Area Bird &amp; Exotics Hospital in San Francisco as the nearest specialty option. During the meet-and-greet we record your preferred vet and emergency contacts. More on the regional network is on our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic veterinarians</a> directory.</p>
+    <p>We know the Peninsula's exotic vet landscape well. Peninsula small-mammal families are often established with All Pets Hospital in San Mateo, Peninsula Pet Hospital in Burlingame, or Adobe Animal Hospital in Los Altos, with Bay Area Bird &amp; Exotics Hospital in San Francisco as the nearest specialty option. During the meet-and-greet we record your preferred vet and emergency contacts. More on the regional network is on our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic veterinarians</a> directory.</p>
   </div>
 </details>
 
@@ -147,7 +147,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "What if my guinea pig stops eating while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A guinea pig that has stopped eating is an emergency, and our specialists are trained to recognize it. We monitor appetite and output at every visit and can hand-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. Our founder is an exotic veterinary assistant, so this is exactly the kind of situation we are built to handle — and we will reach out to you before you land."
+        "text": "A guinea pig that has stopped eating is an emergency, and our specialists are trained to recognize it. We monitor appetite and output at every visit and can hand-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. Our team's training comes straight from exotic veterinary hospital work, so this is exactly the kind of situation we are prepared for — and we will reach out to you before you land."
       }
     },
     {
@@ -155,7 +155,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "How do you coordinate with local exotic vets on the Peninsula?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We know the Peninsula's exotic vet landscape well. Peninsula small-mammal owners are often established with All Pets Hospital in San Mateo, Peninsula Pet Hospital in Burlingame, or Adobe Animal Hospital in Los Altos, with Bay Area Bird & Exotics Hospital in San Francisco as the nearest specialty option. During the meet-and-greet we record your preferred vet and emergency contacts."
+        "text": "We know the Peninsula's exotic vet landscape well. Peninsula small-mammal families are often established with All Pets Hospital in San Mateo, Peninsula Pet Hospital in Burlingame, or Adobe Animal Hospital in Los Altos, with Bay Area Bird & Exotics Hospital in San Francisco as the nearest specialty option. During the meet-and-greet we record your preferred vet and emergency contacts."
       }
     },
     {

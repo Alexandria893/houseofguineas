@@ -104,7 +104,7 @@ Tell us a little about your pet and what you need, and we'll get right back to y
         <label><input type="checkbox" name="pets" value="Gecko / other reptile"> Gecko / other reptile</label>
         <label><input type="checkbox" name="pets" value="Turtle / tortoise"> Turtle / tortoise</label>
         <label><input type="checkbox" name="pets" value="Bird"> Bird</label>
-        <label><input type="checkbox" name="pets" value="Cat (in exotic household)"> Cat (exotic household)</label>
+        <label><input type="checkbox" name="pets" value="Cat"> Cat</label>
       </div>
     </fieldset>
   </div>

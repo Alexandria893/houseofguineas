@@ -11,11 +11,11 @@ The Castro is one of those San Francisco neighborhoods that wears its history on
 
 House of Guineas Pet Care is based right here in San Francisco, in the Inner Sunset just over the hill, which makes the Castro a quick, same-city trip for us. We come to your pets so they can stay in their own enclosures, on their own routines, in the home they already know — whether you are in a Victorian flat near Castro Street, a condo up toward Twin Peaks, or a building tucked into the quieter Eureka Valley blocks.
 
-## Why Castro Exotic Pet Owners Choose Our Team
+## Why Castro Exotic Pet Parents Choose Our Team
 
-The Castro is a neighborhood of people who care intensely about getting things right — and when it comes to an exotic pet, that instinct matters, because the margin for error with a rabbit or a reptile is small. What exotic pet owners here tell us they need is a sitter who brings real clinical rigor, not just good intentions. Here is what sets us apart:
+The Castro is a neighborhood of people who care intensely about getting things right — and when it comes to an exotic pet, that instinct matters, because the margin for error with a rabbit or a reptile is small. What exotic pet parents here tell us they need is a sitter who brings real clinical rigor, not just good intentions. Here is what sets us apart:
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and every member of our team is trained under that same clinical lens. Our founder previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That kind of focus is genuinely hard to find anywhere in the city.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before work or a flight, evening visits after a long day, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
@@ -30,7 +30,7 @@ If your species is not listed, [call or text us](tel:415-484-6493) — if we hav
 
 ## How It Works in the Castro
 
-We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For Castro pet owners, this usually lands on an evening or a weekend window, and since the neighborhood is so walkable and well served by the F-line streetcars and the Castro Muni station, getting to you is easy.
+We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For Castro pet parents, this usually lands on an evening or a weekend window, and since the neighborhood is so walkable and well served by the F-line streetcars and the Castro Muni station, getting to you is easy.
 
 Once you book, we schedule visits around your travel itinerary. Most exotic pets do well with twice-daily visits — morning and evening — so the rabbits get a fresh salad before the day starts and the reptile enclosure gets a proper lights-out check after dinner. We send photo and video updates from every visit, plus written notes on appetite, output, and behavior. If something seems off, we reach out before you land.
 
@@ -81,21 +81,21 @@ The Castro is within San Francisco, our home city, so there is no Peninsula trav
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in the Castro?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
+    <p>We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication administration is part of our standard service. Your pet's caretaker is trained in oral syringe feeding, topical applications, and nebulizer treatments, with a clinical bar set by our team's veterinary-informed backgrounds — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in the Castro?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted at our founder's San Francisco home, which is a short trip away from the Castro. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, a short trip from the Castro. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -108,7 +108,7 @@ The Castro is within San Francisco, our home city, so there is no Peninsula trav
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) at the founder's San Francisco home, or browse the full [FAQ page](/home/services/faqs). Want to see the whole city we cover? Start with our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) hub. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in the Castro will want our [guinea pig care guide](/post/guinea-pig-care-guide).
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding), hosted personally by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). Want to see the whole city we cover? Start with our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) hub. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in the Castro will want our [guinea pig care guide](/post/guinea-pig-care-guide).
 
 <script type="application/ld+json">
 {
@@ -128,7 +128,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in the Castro?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
+        "text": "We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide."
       }
     },
     {
@@ -136,7 +136,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Your pet's caretaker is trained in oral syringe feeding, topical applications, and nebulizer treatments, with a clinical bar set by our team's veterinary-informed backgrounds — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {
@@ -144,7 +144,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in the Castro?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted at our founder's San Francisco home, which is a short trip away from the Castro. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
+        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, a short trip from the Castro. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
       }
     },
     {

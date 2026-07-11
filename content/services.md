@@ -54,7 +54,7 @@ Peninsula residents — see our dedicated pages for [Burlingame](/burlingame-exo
 
 * Peninsula travel surcharge: **$15–$25/visit** depending on distance from our Inner Sunset base (no surcharge within San Francisco). See our [service areas](/home/services/faqs/#service-areas).
 
-Households with both exotic pets and a cat in San Francisco can also book combined care — see [cat and exotic pet sitting in San Francisco](/cat-and-exotic-pet-sitter-san-francisco/) for details.
+Cat care is available in San Francisco too — whether your cat shares the home with exotics or is the only pet. See [cat and exotic pet sitting in San Francisco](/cat-and-exotic-pet-sitter-san-francisco/) for details.
 
 ---
 
