@@ -60,19 +60,6 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">Do you offer boarding?</summary>
-  <div class="faq-answer">
-    <p>Changing your pet's environment, especially if they are a prey animal, can cause discomfort and stress. With that said, we understand that there are cases where their home may not be the best place to stay while you are away.</p>
-    <p><strong>House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals</strong> — including rabbits, guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, geckos, snakes, turtles, tortoises, parrots, cockatiels, conures and budgies. Boarding is hosted personally by members of our team in their San Francisco homes, and clients from across the Bay Area and Peninsula are welcome to drop off their pets. To ensure the safety and well-being of the exotic animals in the home, <strong>House of Guineas does not offer boarding for dogs and cats.</strong></p>
-      <ul>
-        <li><strong>Exotic pet boarding is $75 per night.</strong> We'll discuss a plan with you to make sure your pet(s) feel as safe and comfortable as possible. They will have their <strong>private room</strong>, with soothing music played as they become acclimated during their stay.</li>
-        <li>Please bring any <strong>medication (if needed), enclosures, bedding, food and supplies</strong> your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), including any additional supplies needed during their stay.</li>
-        <li>A meet and greet is required for first-time clients and your pet <strong>must be up-to-date with all of their vaccinations by the first visit</strong>. Because every stay is hosted personally by our team, <strong>boarding space is limited and often fills up</strong> — especially around holidays and travel season. Please <a href="tel:415-484-6493">contact us</a> as early as you possibly can. If boarding is already full for your dates, our <a href="/home/services/exotic-pet-care-services-in-home">in-home care</a> team has more availability and can usually still cover you.</li>
-    </ul>
-  </div>
-</details>
-
-<details class="faq-details">
   <summary class="faq-summary">Do you offer overnight pet sitting?</summary>
   <div class="faq-answer">
     <p>While House of Guineas does not offer overnight pet sitting, we will be more than happy to discuss ways to meet you and your pet's needs, such as extended visits. Just give us a <a href="tel:415-484-6493">call/text</a> and we can figure out a plan.</p>
@@ -172,11 +159,24 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
   </div>
 </details>
 
+<details class="faq-details">
+  <summary class="faq-summary">Do you offer boarding?</summary>
+  <div class="faq-answer">
+    <p>Changing your pet's environment, especially if they are a prey animal, can cause discomfort and stress. With that said, we understand that there are cases where their home may not be the best place to stay while you are away.</p>
+    <p><strong>House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals</strong> — including rabbits, guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, geckos, snakes, turtles, tortoises, parrots, cockatiels, conures and budgies. Boarding is hosted personally by members of our team in their San Francisco homes, and clients from across the Bay Area and Peninsula are welcome to drop off their pets. To ensure the safety and well-being of the exotic animals in the home, <strong>House of Guineas does not offer boarding for dogs and cats.</strong></p>
+      <ul>
+        <li><strong>Exotic pet boarding is $75 per night.</strong> We'll discuss a plan with you to make sure your pet(s) feel as safe and comfortable as possible. They will have their <strong>private room</strong>, with soothing music played as they become acclimated during their stay.</li>
+        <li>Please bring any <strong>medication (if needed), enclosures, bedding, food and supplies</strong> your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), including any additional supplies needed during their stay.</li>
+        <li>A meet and greet is required for first-time clients and your pet <strong>must be up-to-date with all of their vaccinations by the first visit</strong>. Because every stay is hosted personally by our team, <strong>boarding space is limited and often fills up</strong> — especially around holidays and travel season. Please <a href="tel:415-484-6493">contact us</a> as early as you possibly can. If boarding is already full for your dates, our <a href="/home/services/exotic-pet-care-services-in-home">in-home care</a> team has more availability and can usually still cover you.</li>
+    </ul>
+  </div>
+</details>
+
 <div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
   <p style="font-size: 1.1em;"><strong>Ready to create your perfect care plan?</strong></p>
   <p>
     <a href="../exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-primary">In-Home Pet Care</a>
-    <a href="../exotic-pet-care-services-boarding" class="btn btn-lg btn-cta-outline">Boarding</a>
+    <a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-outline">Routine Care</a>
   </p>
 </div>
 
@@ -191,14 +191,6 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "House of Guineas Pet Care offers specialized care for exotic animals including rabbits, guinea pigs, chinchillas, ferrets, hamsters and other small mammals; reptiles such as bearded dragons, geckos, snakes, turtles and tortoises; and birds such as parrots, cockatiels, conures and budgies. An expansive list of pets we care for can be found on the about page."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you offer boarding?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals — including rabbits, guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, geckos, snakes, turtles, tortoises, parrots, cockatiels, conures and budgies — at $75 per night. Boarding is hosted personally by members of our team in their San Francisco homes, and clients from across the Bay Area and Peninsula are welcome to drop off their pets. Your pet gets their private room with soothing music. Please bring enclosures, bedding, food and supplies. A meet and greet is required for first-time clients and pets must be up-to-date with vaccinations. Because every stay is hosted personally by our team, boarding space is limited and often fills up — especially around holidays and travel season — so please reach out as early as possible. If boarding is full for your dates, our in-home care team has more availability and can usually still help."
       }
     },
     {
@@ -303,6 +295,14 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes, with a specific framing: we accept cats in households where we already provide exotic pet care. We are not a cat-only sitter — our specialty is exotics — but if you have a guinea pig and a cat, or a rabbit and a cat, the cat is part of the household and we look after them too."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer boarding?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals — including rabbits, guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, geckos, snakes, turtles, tortoises, parrots, cockatiels, conures and budgies — at $75 per night. Boarding is hosted personally by members of our team in their San Francisco homes, and clients from across the Bay Area and Peninsula are welcome to drop off their pets. Your pet gets their private room with soothing music. Please bring enclosures, bedding, food and supplies. A meet and greet is required for first-time clients and pets must be up-to-date with vaccinations. Because every stay is hosted personally by our team, boarding space is limited and often fills up — especially around holidays and travel season — so please reach out as early as possible. If boarding is full for your dates, our in-home care team has more availability and can usually still help."
       }
     }
   ]
