@@ -7,15 +7,15 @@ og_image = "chinchillaChewingOnTreat.jpg"
   priority = 0.8
 +++
 
-Redwood City has a wider mix of exotic pet owners than most Peninsula cities — it's the kind of town where a Caltrain commuter heading to a biotech job in South SF and a longtime Roosevelt-area family with three rabbits and a tortoise might live two blocks apart. What ties them together is a need that conventional pet care doesn't address: someone who can actually handle exotics while they're traveling, working long days, or covering kids' weekend events. House of Guineas exists to fill that gap on the Peninsula.
+Redwood City has a wider mix of exotic pet parents than most Peninsula cities — it's the kind of town where a Caltrain commuter heading to a biotech job in South SF and a longtime Roosevelt-area family with three rabbits and a tortoise might live two blocks apart. What ties them together is a need that conventional pet care doesn't address: someone who can actually handle exotics while they're traveling, working long days, or covering kids' weekend events. House of Guineas exists to fill that gap on the Peninsula.
 
-We're based in San Francisco's Inner Sunset, and our team of exotic pet specialists travels down the 101 and 280 corridors to provide in-home care for Redwood City households. Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society administering RHDV2 vaccinations. Every specialist on our team is trained under that same clinical lens.
+We're based in San Francisco's Inner Sunset, and our team of exotic pet specialists travels down the 101 and 280 corridors to provide in-home care for Redwood City households. Ours is a veterinary-informed team, with backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience) — our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering RHDV2 vaccinations. Every member of our team is trained under that same clinical lens.
 
-## Why Redwood City Exotic Pet Owners Choose Our Team
+## Why Redwood City Exotic Pet Parents Choose Our Team
 
-Redwood City sits in a tricky spot for exotic pet owners — far enough from a 24/7 exotic ER that catching things early really matters, but close enough to multiple specialty hospitals (Adobe in Los Altos, All Pets in San Mateo) that good vet care is reachable when needed. A sitter who knows that landscape is a different category than one who doesn't. Here's what we bring:
+Redwood City sits in a tricky spot for exotic pet parents — far enough from a 24/7 exotic ER that catching things early really matters, but close enough to multiple specialty hospitals (Adobe in Los Altos, All Pets in San Mateo) that good vet care is reachable when needed. A sitter who knows that landscape is a different category than one who doesn't. Here's what we bring:
 
-- **Veterinary background.** Alexandria's clinical training at [Bay Area Bird and Exotics Hospital](/san-francisco-california-exotic-veterinary-experience) and her ongoing House Rabbit Society work means we approach every visit with proper exotic protocols.
+- **Veterinary background.** Our team's experience includes clinical work at [Bay Area Bird and Exotics Hospital](/san-francisco-california-exotic-veterinary-experience) and volunteer service with the House Rabbit Society, so we approach every visit with proper exotic protocols.
 - **Species specialization.** Exotic pets and cats are our focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
 - **Clinical-grade care.** Syringe-feeding a GI stasis rabbit, weighing a guinea pig on a gram scale, checking a reptile's enclosure humidity, recognizing crop issues in a bird — these are everyday skills, not stretches.
 - **Local vet awareness.** When something goes sideways, we know which Peninsula vets handle exotics and which to skip. See our [Peninsula exotic vet directory](/san-mateo-peninsula-exotic-veterinarians/) for the full list.
@@ -31,7 +31,7 @@ If your species isn't listed, [call or text us](tel:415-484-6493) — if we have
 
 ## How It Works in Redwood City
 
-We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For Redwood City clients, this usually fits a weekend or after-work window that works around Caltrain schedules and family rhythms.
+We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For Redwood City families, this usually fits a weekend or after-work window that works around Caltrain schedules and family rhythms.
 
 Once you book, we schedule visits around your travel itinerary. Most exotic pets do well with twice-daily visits — morning and evening — so you can get a fresh salad into the rabbits before work and a proper lights-out check on the reptile enclosure after dinner. We send photo and video updates from every visit, plus written notes on appetite, output, and behavior. If something seems off, we reach out before you land or before you leave the office.
 
@@ -83,7 +83,7 @@ Redwood City is in our Peninsula service tier, so a travel surcharge of $15–$2
 <details class="faq-details">
   <summary class="faq-summary">Do you really travel to Redwood City for exotic pet care?</summary>
   <div class="faq-answer">
-    <p>Yes. Our team comes from San Francisco via the 101 and 280 corridors. Redwood City is one of our growing service areas, and we have steady clients across Roosevelt, Farm Hill, and Emerald Hills.</p>
+    <p>Yes. Our team comes from San Francisco via the 101 and 280 corridors. Redwood City is one of our growing service areas, and we care for families across Roosevelt, Farm Hill, and Emerald Hills on a regular basis.</p>
   </div>
 </details>
 
@@ -97,7 +97,7 @@ Redwood City is in our Peninsula service tier, so a travel surcharge of $15–$2
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet with you instead of in-home sitting?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted at our founder's San Francisco home — it is not a Peninsula drop-off — but Redwood City clients are welcome to make the drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Details on the <a href="/home/services/exotic-pet-care-services-boarding/">boarding page</a>.</p>
+    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and Redwood City families are welcome to make the drive up. Boarding runs $75 per night, your little one gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Details on the <a href="/home/services/exotic-pet-care-services-boarding/">boarding page</a>.</p>
   </div>
 </details>
 
@@ -122,7 +122,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you really travel to Redwood City for exotic pet care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Our team comes from San Francisco via the 101 and 280 corridors. Redwood City is one of our growing service areas, and we have steady clients across Roosevelt, Farm Hill, and Emerald Hills."
+        "text": "Yes. Our team comes from San Francisco via the 101 and 280 corridors. Redwood City is one of our growing service areas, and we care for families across Roosevelt, Farm Hill, and Emerald Hills on a regular basis."
       }
     },
     {
@@ -138,7 +138,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet with you instead of in-home sitting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted at our founder's San Francisco home — it is not a Peninsula drop-off — but Redwood City clients are welcome to make the drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies."
+        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and Redwood City families are welcome to make the drive up. Boarding runs $75 per night, your little one gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies."
       }
     },
     {

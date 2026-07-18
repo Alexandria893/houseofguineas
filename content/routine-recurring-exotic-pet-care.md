@@ -50,7 +50,7 @@ One predictable price, no per-visit math — a **flat monthly plan** covering **
 
 Monthly pricing is based on an average month (about 4.3 weeks) and stays flat even in months with an extra visit.
 
-### Travel for Peninsula & farther clients
+### Travel for Peninsula & farther pet parents
 
 Outside our immediate Inner Sunset base, a per-visit travel amount is added based on distance:
 
@@ -100,9 +100,9 @@ Recurring care covers all of San Francisco and the Peninsula down to Redwood Cit
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">Do routine clients get priority for travel and holiday care?</summary>
+  <summary class="faq-summary">Do routine care families get priority for travel and holiday care?</summary>
   <div class="faq-answer">
-    <p>Yes. Because we already know your pet and your home, standing routine clients are the easiest for us to cover when you travel — and you're first in line when demand is high, including holidays and peak season when availability is tightest.</p>
+    <p>Yes. Because we already know your pet and your home, standing routine care families are the easiest for us to cover when you travel — and you're first in line when demand is high, including holidays and peak season when availability is tightest.</p>
   </div>
 </details>
 
@@ -171,10 +171,10 @@ Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/bo
     },
     {
       "@type": "Question",
-      "name": "Do routine clients get priority for travel and holiday care?",
+      "name": "Do routine care families get priority for travel and holiday care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Because we already know your pet and your home, standing routine clients are the easiest for us to cover when you travel — and you're first in line when demand is high, including holidays and peak season when availability is tightest."
+        "text": "Yes. Because we already know your pet and your home, standing routine care families are the easiest for us to cover when you travel — and you're first in line when demand is high, including holidays and peak season when availability is tightest."
       }
     },
     {

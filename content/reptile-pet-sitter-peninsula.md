@@ -1,19 +1,19 @@
 +++
 title = "Reptile Sitter Peninsula | In-Home Care for Bearded Dragons, Geckos, Snakes & Tortoises"
 shortTitle = "Reptile Sitter Peninsula"
-description = "In-home reptile sitter across the Peninsula — bearded dragons, geckos, ball pythons, corn snakes, turtles & tortoises. Clinical-grade care from exotic vet assistants serving San Mateo County."
+description = "In-home reptile sitter across the Peninsula — bearded dragons, geckos, ball pythons, corn snakes, turtles & tortoises. Clinical-grade care from a veterinary-informed team serving San Mateo County."
 og_image = "beardedDragonPostBath.jpg"
 [sitemap]
   priority = 0.8
 +++
 
-Ask around the Peninsula for someone who will actually come to your home and care for a reptile, and you hit the same wall most exotic owners do: there is almost nobody. The listings you find are either boarding facilities that want you to pack up and transport your animal, or generalist sitters who work mainly with dogs and cats. And for a reptile, transport is not a small thing. A bearded dragon's enclosure is a carefully calibrated little ecosystem — a basking spot dialed to the degree, a UVB bulb on a schedule, a humidity range held steady. Move all of that, and you are not just inconveniencing your pet; you are dismantling the system that keeps it healthy. What most reptile owners actually want is simple: someone who comes to the reptile, leaves the enclosure exactly where it is, and knows what they are looking at. That is the gap this page fills, from Daly City down to Redwood City.
+Ask around the Peninsula for someone who will actually come to your home and care for a reptile, and you hit the same wall most exotic pet parents do: there is almost nobody. The listings you find are either boarding facilities that want you to pack up and transport your animal, or generalist sitters who work mainly with dogs and cats. And for a reptile, transport is not a small thing. A bearded dragon's enclosure is a carefully calibrated little ecosystem — a basking spot dialed to the degree, a UVB bulb on a schedule, a humidity range held steady. Move all of that, and you are not just inconveniencing your pet; you are dismantling the system that keeps them healthy. What most reptile parents actually want is simple: someone who comes to the reptile, leaves the enclosure exactly where it is, and knows what they are looking at. That is the gap this page fills, from Daly City down to Redwood City.
 
 House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic specialists travels down the Peninsula to provide in-home reptile care. Your dragon stays on its own basking rock, your gecko keeps its own humidity, your python holds its own warm hide, your tortoise grazes in its own space — and we come to them.
 
 ## Why Peninsula Reptile Owners Choose Us
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) — she worked at Bay Area Bird & Exotics Hospital and previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Led by that clinical standard, every specialist on our team is trained to identify critical health issues early.
+- **Veterinary background.** Our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — our founder, Alexandria, previously worked at Bay Area Bird & Exotics Hospital and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. That clinical standard means every specialist on our team is trained to catch little problems before they become big ones.
 - **Species specialization.** Exotic pets and cats are all we do — reptiles, small mammals, and birds. That kind of focus is genuinely hard to find on the Peninsula.
 - **Clinical-grade care.** We can read a temperature gradient across an enclosure, confirm the basking spot and UVB output are where they should be, monitor humidity against your species' target range, and recognize the early signs of illness before they become emergencies.
 - **Flexible scheduling.** Early-morning visits before an SFO departure, evening lights-out checks, mid-day misting or feeding — we build the schedule around your reptile's routine and your itinerary, not the other way around.
@@ -30,7 +30,7 @@ If you are in San Francisco proper, where the city's municipal code prohibits ke
 
 ## What In-Home Reptile Care Involves
 
-Reptile care is environmental care first. On every visit our specialists confirm the temperature gradient — a proper warm-side basking spot and a genuine cool-side retreat, so your reptile can thermoregulate the way it needs to. We verify that the UVB lighting is functioning, since inadequate UVB is one of the most common and most preventable causes of illness in captive reptiles. We check humidity against your species' target range and mist when the setup calls for it. We handle feeding to your animal's schedule — fresh greens, appropriately sized insects, thawed feeders for snakes, calcium and vitamin dusting, and gut-loading where needed — and we spot-clean the enclosure so waste and uneaten food do not sit. And through all of it we are watching: appetite, activity, shedding, posture, and the subtle early signs that something is off, so we can flag it to you before you land.
+Reptile care is environmental care first. On every visit our specialists confirm the temperature gradient — a proper warm-side basking spot and a genuine cool-side retreat, so your reptile can thermoregulate the way they need to. We verify that the UVB lighting is functioning, since inadequate UVB is one of the most common and most preventable causes of illness in captive reptiles. We check humidity against your species' target range and mist when the setup calls for it. We handle feeding to your animal's schedule — fresh greens, appropriately sized insects, thawed feeders for snakes, calcium and vitamin dusting, and gut-loading where needed — and we spot-clean the enclosure so waste and uneaten food do not sit. And through all of it we are watching: appetite, activity, shedding, posture, and the subtle early signs that something is off, so we can flag it to you before you land.
 
 ## Peninsula Cities We Serve
 
@@ -98,7 +98,7 @@ The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** ap
 <details class="faq-details">
   <summary class="faq-summary">What if my reptile needs medication or assist-feeding while I travel?</summary>
   <div class="faq-answer">
-    <p>Medication and assist-feeding are part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and administering medications on a set protocol, and our founder's clinical background as an exotic veterinary assistant sets the bar. If your reptile is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication and assist-feeding are part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and administering medications on a set protocol, and our team's exotic veterinary hospital background sets the bar. If your reptile is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "What if my reptile needs medication or assist-feeding while I travel?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication and assist-feeding are part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and administering medications on a set protocol, and our founder's clinical background as an exotic veterinary assistant sets the bar. If your reptile is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication and assist-feeding are part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and administering medications on a set protocol, and our team's exotic veterinary hospital background sets the bar. If your reptile is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {

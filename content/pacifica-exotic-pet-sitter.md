@@ -1,7 +1,7 @@
 +++
 title = "Pacifica Exotic Pet Sitter | Guinea Pigs, Rabbits, Reptiles & Birds"
 shortTitle = "Pacifica Exotic Pet Sitter"
-description = "In-home exotic pet sitting in Pacifica, CA — guinea pigs, rabbits, reptiles, birds. Clinical-grade care from exotic veterinary assistants."
+description = "In-home exotic pet sitting in Pacifica, CA — guinea pigs, rabbits, reptiles, birds. Clinical-grade care from our veterinary-informed team."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
@@ -13,9 +13,9 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because 
 
 ## Why Pacifica Exotic Pet Owners Choose Our Team
 
-Pacifica is a town full of people who care deeply about their animals and want them looked after the right way — parents juggling school schedules, coastal commuters heading up Highway 1 into the city, and longtime residents who have raised a whole menagerie of small pets on the same foggy block. What exotic pet owners here tell us they need is a sitter who brings real, clinical rigor to a guinea pig or a rabbit — not a dog-walker who is guessing. Here is what sets us apart:
+Pacifica is a town full of people who care deeply about their animals and want them looked after the right way — parents juggling school schedules, coastal commuters heading up Highway 1 into the city, and longtime residents who have raised a whole menagerie of small pets on the same foggy block. What pet parents here tell us they need is a sitter who brings real, clinical rigor to a guinea pig or a rabbit — someone who already knows these animals inside and out. Here is what sets us apart:
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work, and every pet caretaker is trained under the same clinical lens. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines.
 - **Species specialization.** Exotic pets and cats are our whole focus — guinea pigs, rabbits, other small mammals, reptiles, and birds. That kind of focus is genuinely hard to find on the coast.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before a surf session or a flight, evening visits after a long day, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
@@ -30,7 +30,7 @@ If your species is not listed, [call or text us](tel:415-484-6493) — if we hav
 
 ## How It Works in Pacifica
 
-We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For Pacifica pet owners, this usually lands on a weekend or an after-work window, since so many residents are commuting up Highway 1 into the city or juggling school runs during the week.
+We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For Pacifica families, this usually lands on a weekend or an after-work window, since so many residents are commuting up Highway 1 into the city or juggling school runs during the week.
 
 Once you book, we schedule visits around your travel itinerary. Most exotic pets do well with twice-daily visits — morning and evening — so the guinea pigs get a fresh salad before the day starts and the reptile enclosure gets a proper lights-out check after dinner. We send photo and video updates from every visit, plus written notes on appetite, output, and behavior. If something seems off, we reach out before you land.
 
@@ -81,21 +81,21 @@ Because Pacifica sits just down the coast from San Francisco on Highway 1, it is
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in Pacifica?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
+    <p>We care for exotic pets and cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication is part of our standard care. Our team is trained in oral syringe feeding, topical applications, and nebulizer treatments — training built on real clinical experience, including our founder's past volunteer work administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your little one is on a complex protocol, walk us through it at the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Pacifica?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted separately at our founder's San Francisco home — it is not a local Pacifica drop-off — but since Pacifica is just up Highway 1, it is a short drive. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and since Pacifica is just up Highway 1, drop-off and pick-up are a short drive. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -108,7 +108,7 @@ Because Pacifica sits just down the coast from San Francisco on Highway 1, it is
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) at the founder's San Francisco home, or browse the full [FAQ page](/home/services/faqs). Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in Pacifica will want our [guinea pig care guide](/post/guinea-pig-care-guide).
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) hosted personally by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in Pacifica will want our [guinea pig care guide](/post/guinea-pig-care-guide).
 
 <script type="application/ld+json">
 {
@@ -128,7 +128,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in Pacifica?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
+        "text": "We care for exotic pets and cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide."
       }
     },
     {
@@ -136,7 +136,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication is part of our standard care. Our team is trained in oral syringe feeding, topical applications, and nebulizer treatments — training built on real clinical experience, including our founder's past volunteer work administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your little one is on a complex protocol, walk us through it at the meet-and-greet and we will match the schedule exactly."
       }
     },
     {
@@ -144,7 +144,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in Pacifica?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted separately at our founder's San Francisco home — it is not a local Pacifica drop-off — but since Pacifica is just up Highway 1, it is a short drive. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
+        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and since Pacifica is just up Highway 1, drop-off and pick-up are a short drive. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Full details are on the boarding page."
       }
     },
     {

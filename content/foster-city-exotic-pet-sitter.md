@@ -15,8 +15,8 @@ Foster City is a community built for people who travel — a master-planned grid
 
 - **Built for commuter schedules.** Foster City's workforce doesn't keep a 9-to-5. We coordinate around red-eyes out of SFO, multi-week conferences in Boston or Basel, and clinical trial travel — including long-duration visit plans where we become your pet's consistent caregiver across weeks, not just a weekend.
 - **Waterfront condo & HOA-aware.** Many Foster City homes sit in gated lagoon communities with fob access, garage codes, concierge desks, and visitor logs. Our specialists are used to managing layered building access, signing in at front desks on Bayport and Admiralty, and handling multi-step key drops in Edgewater and Marlin Cove.
-- **Clinical-grade care, not hobby pet sitting.** House of Guineas was founded by Alexandria, an exotic veterinary assistant who previously volunteered with the House Rabbit Society administering subcutaneous RHDV vaccines. Our specialists are trained in that same approach — watching for subtle changes in appetite, respiration, and droppings that most sitters miss entirely.
-- **Species specialization that matches Foster City's demographic.** The tech-and-biotech household pet profile in Foster City skews toward reptiles (bearded dragons, crested geckos, ball pythons) and smaller small mammals. Our team is fluent in temperature gradient management, calcium dusting schedules, and hay-forward small mammal diets — not generalists Googling at your kitchen counter.
+- **Clinical-grade care from a veterinary-informed team.** Our team's backgrounds span wildlife rehabilitation to exotic veterinary hospital work, and it shows in the little things — noticing the subtle shifts in appetite, respiration, and droppings that are easy to miss but matter most. (Our founder Alexandria previously volunteered with the House Rabbit Society administering subcutaneous RHDV vaccines, and that same careful, watchful approach runs through everything our team does.)
+- **Species specialization that matches Foster City's demographic.** The tech-and-biotech household pet profile in Foster City skews toward reptiles (bearded dragons, crested geckos, ball pythons) and smaller small mammals. Our team is fluent in temperature gradient management, calcium dusting schedules, and hay-forward small mammal diets — the kind of fluency that only comes from caring for these species every day.
 
 ## Exotic Species We Care For in Foster City
 
@@ -35,7 +35,7 @@ If you're keeping a species not listed here, call us — if our team can't provi
 
 **3. Scheduled daily visits.** Most exotic pets do best on a twice-daily rhythm: morning husbandry (fresh hay, UVB on, misting, food prep, enclosure spot-clean) and evening wind-down (feeding check, lights-off cycle, droppings log, behavior notes). We send photo-and-text updates after every visit so you can check in from a hotel in Singapore or a biotech site in Cambridge without wondering whether the dragon basked today.
 
-**4. Flexible extended-travel coverage.** For clients on three-week-plus trips — which is common in Foster City — we can layer in midday enrichment visits, mail retrieval, plant watering, and a detailed daily health log you can review on your flight home.
+**4. Flexible extended-travel coverage.** For pet parents on three-week-plus trips — which is common in Foster City — we can layer in midday enrichment visits, mail retrieval, plant watering, and a detailed daily health log you can review on your flight home.
 
 ## Foster City Villages & Neighborhoods We Serve
 
@@ -65,7 +65,7 @@ If your home sits on Beach Park Boulevard along Central Lake, near Leo J. Ryan M
 
 *Foster City sits in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. Call or text us to book.*
 
-Boarding is hosted separately at Alexandria's San Francisco home — Foster City clients are welcome to drop off for longer trips, especially when you're flying out of SFO and it's easier to swing through the city first.
+Boarding is hosted personally by members of our team in their San Francisco homes — Foster City families are welcome to drop off for longer trips, especially when you're flying out of SFO and it's easier to swing through the city first.
 
 ## Frequently Asked Questions
 
@@ -102,14 +102,14 @@ Boarding is hosted separately at Alexandria's San Francisco home — Foster City
 <details class="faq-details">
   <summary class="faq-summary">My HOA requires key/code sign-ins — can your team handle condo access?</summary>
   <div class="faq-answer">
-    <p>Absolutely. A significant portion of Foster City housing is condo or townhome stock with gated entries, fob access, garage codes, and concierge desks — this is our normal operating environment. During the meet-and-greet we document everything: building sign-in protocol, gate codes, elevator fobs, visitor parking rules, and package handling. Our specialists store all client access credentials in a secured system and never leave keys or codes in unsecured locations. If your HOA requires our team to be added to an approved visitors list, just let us know during the meet-and-greet and we'll provide the necessary info.</p>
+    <p>Absolutely. A significant portion of Foster City housing is condo or townhome stock with gated entries, fob access, garage codes, and concierge desks — this is our normal operating environment. During the meet-and-greet we document everything: building sign-in protocol, gate codes, elevator fobs, visitor parking rules, and package handling. Our specialists store all access credentials in a secured system and never leave keys or codes in unsecured locations. If your HOA requires our team to be added to an approved visitors list, just let us know during the meet-and-greet and we'll provide the necessary info.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can you accommodate our frequent work travel schedule?</summary>
   <div class="faq-answer">
-    <p>This is one of the most common asks we get from Foster City pet owners, and yes — frequent, predictable travel is actually easier for us to plan around than one-off trips. We can set up a recurring schedule: standing twice-a-day visits during conference weeks, a lighter once-daily cadence during shorter trips, and boarding at our SF location for longer travel when that makes more sense. Once you're an established client, rebooking is quick, and your pet's care plan, meds, and preferences are already on file so there's no ramp-up each trip.</p>
+    <p>This is one of the most common asks we get from Foster City pet parents, and yes — frequent, predictable travel is actually easier for us to plan around than one-off trips. We can set up a recurring schedule: standing twice-a-day visits during conference weeks, a lighter once-daily cadence during shorter trips, and boarding at our SF location for longer travel when that makes more sense. After your first trip with us, rebooking is quick, and your pet's care plan, meds, and preferences are already on file so there's no ramp-up each time.</p>
   </div>
 </details>
 
@@ -157,7 +157,7 @@ If you're a Foster City resident with a bearded dragon that needs consistent UVB
       "name": "Can you accommodate our frequent work travel schedule?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — frequent, predictable travel is actually easier for us to plan around than one-off trips. We can set up a recurring schedule: standing twice-a-day visits during conference weeks, lighter cadences during shorter trips, and boarding at our San Francisco location for longer travel. Once you're an established client, rebooking is quick and your pet's care plan is already on file."
+        "text": "Yes — frequent, predictable travel is actually easier for us to plan around than one-off trips. We can set up a recurring schedule: standing twice-a-day visits during conference weeks, lighter cadences during shorter trips, and boarding at our San Francisco location for longer travel. After your first trip with us, rebooking is quick and your pet's care plan is already on file."
       }
     },
     {

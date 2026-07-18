@@ -1,19 +1,19 @@
 +++
 title = "Reptile Sitter San Francisco | In-Home Care for Lizards, Geckos, Turtles & Tortoises"
 shortTitle = "Reptile Sitter San Francisco"
-description = "In-home reptile sitter in San Francisco for bearded dragons, geckos, turtles & tortoises. Clinical-grade care from an exotic vet assistant."
+description = "In-home reptile sitter in San Francisco for bearded dragons, geckos, turtles & tortoises. Warm, veterinary-informed care from our exotic pet team."
 og_image = "beardedDragonPostBath.jpg"
 [sitemap]
   priority = 0.9
 +++
 
-Ask around San Francisco for someone who will actually come to your home and care for a reptile, and you hit the same wall most exotic owners do: there is almost nobody. The listings you find are either boarding facilities that want you to pack up and transport your animal, or businesses based over in the East Bay who treat the city as an afterthought. And for a reptile, transport is not a small thing. A bearded dragon's enclosure is a carefully calibrated little ecosystem — a basking spot dialed to the degree, a UVB bulb on a schedule, a humidity range held steady. Move all of that, and you are not just inconveniencing your pet; you are dismantling the system that keeps it healthy. What most reptile owners actually want is simple: someone who comes to the reptile, leaves the enclosure exactly where it is, and knows what they are looking at. That is the gap this page fills.
+Ask around San Francisco for someone who will actually come to your home and care for a reptile, and you hit the same wall most exotic pet parents do: there is almost nobody. The listings you find are either boarding facilities that want you to pack up and transport your animal, or businesses based over in the East Bay who treat the city as an afterthought. And for a reptile, transport is not a small thing. A bearded dragon's enclosure is a carefully calibrated little ecosystem — a basking spot dialed to the degree, a UVB bulb on a schedule, a humidity range held steady. Move all of that, and you are not just inconveniencing your pet; you are dismantling the system that keeps it healthy. What most reptile parents actually want is simple: someone who comes to the reptile, leaves the enclosure exactly where it is, and knows what they are looking at. That is the gap this page fills.
 
 House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic specialists provides in-home reptile care across the entire city. Your dragon stays on its own basking rock, your gecko keeps its own humidity, your tortoise grazes in its own space — and we come to them.
 
 ## Why San Francisco Reptile Owners Choose Us
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) — formerly at Bay Area Bird & Exotics Hospital — who also previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience). Our founder previously worked as an exotic veterinary assistant at Bay Area Bird & Exotics Hospital and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every specialist on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are all we do — reptiles, small mammals, and birds. That kind of focus is genuinely hard to find in San Francisco.
 - **Clinical-grade care.** We can read a temperature gradient across an enclosure, confirm the basking spot and UVB output are where they should be, monitor humidity against your species' target range, and recognize the early signs of illness before they become emergencies.
 - **Flexible scheduling.** Early-morning visits before a flight, evening lights-out checks, mid-day misting or feeding — we build the schedule around your reptile's routine and your itinerary, not the other way around.
@@ -41,7 +41,7 @@ We cover the whole city — from the Sunset and Richmond out west to the eastern
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and the complexity of the setup
 
-Because this is in-city San Francisco, there is **no Peninsula travel surcharge** — the prices above are what you pay. If you would rather your reptile stay with us, boarding is hosted at our founder's San Francisco home for **$75/night**. You can read more on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+Because this is in-city San Francisco, there is **no Peninsula travel surcharge** — the prices above are what you pay. If you would rather your reptile stay with us, boarding is hosted personally by members of our team in their San Francisco homes for **$75/night**. You can read more on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 ## Frequently Asked Questions
 
@@ -78,7 +78,7 @@ Because this is in-city San Francisco, there is **no Peninsula travel surcharge*
 <details class="faq-details">
   <summary class="faq-summary">What if my reptile needs medication or assist-feeding while I travel?</summary>
   <div class="faq-answer">
-    <p>Medication and assist-feeding are part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and administering medications on a set protocol, and our founder's clinical background as an exotic veterinary assistant — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your reptile is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication and assist-feeding are part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and administering medications on a set protocol — training shaped by our founder's earlier clinical work as an exotic veterinary assistant, which included administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your reptile is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
@@ -92,20 +92,20 @@ Because this is in-city San Francisco, there is **no Peninsula travel surcharge*
 <details class="faq-details">
   <summary class="faq-summary">Do you offer reptile boarding?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted at our founder's San Francisco home and runs $75 per night. We ask that you bring your reptile's usual enclosure and supplies so its environment stays as consistent as possible. That said, most reptile owners prefer in-home visits precisely because moving a calibrated enclosure is stressful for the animal — we are happy to help you decide which option fits your situation.</p>
+    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes and runs $75 per night. We ask that you bring your reptile's usual enclosure and supplies so its environment stays as consistent as possible. That said, most reptile parents prefer in-home visits precisely because moving a calibrated enclosure is stressful for the animal — we are happy to help you decide which option fits your situation.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Francisco reptile sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the complexity of the setup. Because this is in-city San Francisco, there is no Peninsula travel surcharge. If you prefer boarding, that is $75 per night at our founder's San Francisco home. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the complexity of the setup. Because this is in-city San Francisco, there is no Peninsula travel surcharge. If you prefer boarding, that is $75 per night, hosted personally by members of our team in their San Francisco homes. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
 ---
 
-Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) at the founder's San Francisco home, or browse the full [FAQ page](/home/services/faqs). For species-specific fundamentals, see our [reptile and amphibian care guide](/reptile-amphibian-care-guide), and if you are still getting set up with a vet, our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start.
+Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding), hosted by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). For species-specific fundamentals, see our [reptile and amphibian care guide](/reptile-amphibian-care-guide), and if you are still getting set up with a vet, our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start.
 
 <script type="application/ld+json">
 {
@@ -125,7 +125,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "What if my reptile needs medication or assist-feeding while I travel?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication and assist-feeding are part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and administering medications on a set protocol, and our founder's clinical background as an exotic veterinary assistant — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your reptile is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication and assist-feeding are part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and administering medications on a set protocol — training shaped by our founder's earlier clinical work as an exotic veterinary assistant, which included administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your reptile is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {
@@ -141,7 +141,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "Do you offer reptile boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted at our founder's San Francisco home and runs $75 per night. We ask that you bring your reptile's usual enclosure and supplies so its environment stays as consistent as possible. That said, most reptile owners prefer in-home visits precisely because moving a calibrated enclosure is stressful for the animal — we are happy to help you decide which option fits your situation."
+        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes and runs $75 per night. We ask that you bring your reptile's usual enclosure and supplies so its environment stays as consistent as possible. That said, most reptile parents prefer in-home visits precisely because moving a calibrated enclosure is stressful for the animal — we are happy to help you decide which option fits your situation."
       }
     },
     {
@@ -149,7 +149,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "How much does a San Francisco reptile sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the complexity of the setup. Because this is in-city San Francisco, there is no Peninsula travel surcharge. If you prefer boarding, that is $75 per night at our founder's San Francisco home. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the complexity of the setup. Because this is in-city San Francisco, there is no Peninsula travel surcharge. If you prefer boarding, that is $75 per night, hosted personally by members of our team in their San Francisco homes. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

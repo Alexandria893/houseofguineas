@@ -47,7 +47,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
 <summary class="faq-summary" id="service-areas">What are your service areas?</summary>
   <div class="faq-answer">
-    <p>House of Guineas in-home care now covers San Francisco <strong>and the Peninsula</strong>, with our team of exotic pet specialists traveling out to serve clients across San Mateo County. <strong>Our primary service area is Inner Sunset, San Francisco.</strong> San Mateo County clients are served via our Peninsula tier (see below). For clients outside the primary travel range, additional travel rates apply — rates depend on our exotic pet specialists' availability and your location. We will do our best to meet you and your pets' needs, wherever they are. Here's a breakdown of the service tiers:</p>
+    <p>House of Guineas in-home care now covers San Francisco <strong>and the Peninsula</strong>, with our team of exotic pet specialists traveling out to pet parents across San Mateo County. <strong>Our primary service area is Inner Sunset, San Francisco.</strong> Pet parents in San Mateo County are served via our Peninsula tier (see below). For families outside the primary travel range, additional travel rates apply — rates depend on our exotic pet specialists' availability and your location. We will do our best to meet you and your pets' needs, wherever they are. Here's a breakdown of the service tiers:</p>
     <ul>
       <li><strong>Primary Service Area (0–3 miles from Inner Sunset, San Francisco)</strong>: No travel surcharge applies. Our base rates cover all visits within this area.</li>
       <li><strong>Secondary Service Area (3–6 miles from Inner Sunset, San Francisco)</strong>: Travel surcharge <em>starting from $15/visit</em>, depending on our specialists' availability.</li>
@@ -55,22 +55,22 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       <li><strong>Peninsula Service (San Mateo County)</strong>: Our team serves Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City, and surrounding areas — all in our 6+ mile tier, so a $25/visit travel surcharge applies. <a href="tel:415-484-6493">Contact us</a> to book!</li>
     </ul>
     <p>Are you farther away? <a href="tel:415-484-6493">Text or call us</a> and let's figure out if we're a good fit for each other!</p>
-    <p><em>Note: In-home visits are handled by our exotic pet specialists who travel to you. Boarding is hosted by our team in San Francisco — clients are welcome to drop off pets from anywhere in the Bay Area.</em></p>
+    <p><em>Note: In-home visits are handled by our exotic pet specialists who travel to you. Boarding is hosted by our team in San Francisco — pet parents are welcome to drop off their little ones from anywhere in the Bay Area.</em></p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Do you offer overnight pet sitting?</summary>
   <div class="faq-answer">
-    <p>While House of Guineas does not offer overnight pet sitting, we will be more than happy to discuss ways to meet you and your pet's needs, such as extended visits. Just give us a <a href="tel:415-484-6493">call/text</a> and we can figure out a plan.</p>
+    <p>Our pet sitting is built around dedicated visits rather than overnight stays — and if your little ones need extra time and attention, we're more than happy to arrange extended visits. Just give us a <a href="tel:415-484-6493">call/text</a> and we'll figure out a plan together.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Are you insured? I'm nervous of having someone enter my home.</summary>
   <div class="faq-answer">
-      <p>We understand the stress of having someone access your home. We assure you that we value you and your pet's well-beings, and will make sure that the fort is locked down and secured during each visit. Our team will check that the doors and windows are locked, pet is secured (if they're in an enclosure), and no unnecessary lights are on.</p>
-      <p>Rest assured, your pet's safety and well-being is our top priority. Our founder and specialists bring hands-on clinical experience and certifications, including <strong>Pet CPR + CPCR and First Aid</strong>. House of Guineas is <strong>bonded and insured</strong> for your complete peace of mind. As our founder is a member of <a href="https://www.petsit.com/pet-sitter-san-francisco-ca-house-of-guineas-llc">Pet Sitters International</a>, the <strong>world's largest pet sitting association</strong>, we adhere to the highest industry standards. Our insurance protects you from unexpected incidents, while our bond provides financial protection against theft or property damage.</p>
+      <p>We completely understand — letting someone into your home is a big deal. We treat your home with the same gentle care we give your pets, making sure the fort is locked down and secured during each visit. Our team will check that the doors and windows are locked, your little one is safely settled (if they're in an enclosure), and no unnecessary lights are on.</p>
+      <p>Rest assured, your pet's safety and well-being is our top priority. Our team brings hands-on clinical experience and certifications, including <strong>Pet CPR + CPCR and First Aid</strong>. House of Guineas is <strong>bonded and insured</strong> for your complete peace of mind. As a member of <a href="https://www.petsit.com/pet-sitter-san-francisco-ca-house-of-guineas-llc">Pet Sitters International</a>, the <strong>world's largest pet sitting association</strong>, we adhere to the highest industry standards. Our insurance protects you from unexpected incidents, while our bond provides financial protection against theft or property damage.</p>
   </div>
 </details>
 
@@ -86,7 +86,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
   <summary class="faq-summary">How will your team access my home during visits?</summary>
   <div class="faq-answer">
-    <p>We recommend a <strong>lockbox with a mechanical key, stored in a secure location</strong> — most clients place one near a side door, garage, or another spot out of plain sight. Keycodes and digital entry systems can malfunction, so a physical key is the most dependable way to guarantee our team can reach your pets on every visit. We'll discuss your access method together during the meet and greet.</p> 
+    <p>We recommend a <strong>lockbox with a mechanical key, stored in a secure location</strong> — most families place one near a side door, garage, or another spot out of plain sight. Keycodes and digital entry systems can malfunction, so a physical key is the most dependable way to guarantee our team can reach your pets on every visit. We'll discuss your access method together during the meet and greet.</p> 
     <p>If you use a keycode, please <strong>still provide a lockbox or hidden key as a backup</strong>. If a keycode is the only access provided and it fails, House of Guineas is not responsible for any damages to your home and your pet(s) from being unable to enter. We also recommend leaving a spare key with a trusted, local emergency contact while you're away.</p>
   </div>
 </details>
@@ -102,7 +102,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
   <summary class="faq-summary">It's only been a day, and I miss my baby!</summary>
   <div class="faq-answer">
-    <p>Don't you worry - you will receive pictures of your pet's adventures while you're away! Our team also includes high level updates of their health, any changes in their behaviors/feeding levels and any relevant updates with the home (i.e. received mail/packages).</p>
+    <p>Don't you worry — you'll receive pictures of your pet's adventures while you're away! Along with the photos, our team sends high-level updates on their health, any changes in their behavior or feeding, and any relevant updates around the home (like received mail or packages).</p>
     <!-- <p>We provide a <strong>unique, personalized album</strong> so you can access clear, quality videos of your pet - whether they're squeaking for even more cheek scratches, bobbing their head at their reflection or thumping in protest for more treats!</p> -->
   </div>
 </details>
@@ -119,15 +119,15 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
   <summary class="faq-summary">What happens if I need last-minute care?</summary>
   <div class="faq-answer">
     <p>No problem, these things happen. Please be aware that <strong>any sits scheduled within 7 days of their first visit</strong> will include a non-refundable, $100 surcharge; $150 if care is over any holidays.</p> 
-    <p>Because last-minute, emergency care can conflict with routine clients, please <a href="tel:415-484-6493">contact us</a> as soon as possible to make sure your pet(s) has the care they need.</p>
+    <p>Because last-minute, emergency care can overlap with the routine visits already on our schedule, please <a href="tel:415-484-6493">contact us</a> as soon as possible to make sure your pet(s) has the care they need.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What if I'm looking for pet care during the holidays?</summary>
   <div class="faq-answer">
-    <p>Because of higher volume of care during peak periods such as holidays and special occasions, <strong>pet care over a holiday will be 1.5x the regular rate.</strong> Please be aware that any sits scheduled within 7 days of the needed care over a holiday, <strong>a non-refundable, $150 holiday surcharge is due,</strong> in addition to applicable service fees.</p>
-    <p>Care over the holidays are often <strong>booked months in advance,</strong> so please <a href="tel:415-484-6493">contact us</a> as soon as possible to make sure your pet have the care they need.</p>
+    <p>Because of higher volume of care during peak periods such as holidays and special occasions, <strong>pet care over a holiday will be 1.5x the regular rate.</strong> Please be aware that for any sits scheduled within 7 days of the needed care over a holiday, <strong>a non-refundable, $150 holiday surcharge is due,</strong> in addition to applicable service fees.</p>
+    <p>Care over the holidays is often <strong>booked months in advance,</strong> so please <a href="tel:415-484-6493">contact us</a> as soon as possible to make sure your little ones have the care they need.</p>
   </div>
 </details>
 
@@ -148,14 +148,14 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
   <summary class="faq-summary">Do you take care of birds?</summary>
   <div class="faq-answer">
-    <p>Yes — birds are a core part of our service, not a stretch. Alexandria worked as an exotic veterinary assistant at Bay Area Bird and Exotics Hospital, and our team is trained to handle cockatiels, parakeets, conures, parrotlets, lovebirds, finches, and most companion parrots. We do daily fresh chop preparation, pellet measurement, full cage cleaning, and out-of-cage time for birds with established free-flight routines. See our <a href="/bird-care-guide/">bird care guide</a> and <a href="/bird-sitter-san-francisco-peninsula/">bird sitter page</a> for more.</p>
+    <p>Yes — birds are a core part of our service, not a stretch. Our team is trained to handle cockatiels, parakeets, conures, parrotlets, lovebirds, finches, and most companion parrots, and founder Alexandria previously worked as an exotic veterinary assistant at Bay Area Bird and Exotics Hospital. We do daily fresh chop preparation, pellet measurement, full cage cleaning, and out-of-cage time for birds with established free-flight routines. See our <a href="/bird-care-guide/">bird care guide</a> and <a href="/bird-sitter-san-francisco-peninsula/">bird sitter page</a> for more.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Do you accept cats?</summary>
   <div class="faq-answer">
-    <p>Yes, with a specific framing: we accept cats in households where we already provide exotic pet care. We are not a cat-only sitter — our specialty is exotics — but if you have a guinea pig and a cat, or a rabbit and a cat, the cat is part of the household and we look after them too. See our <a href="/cat-and-exotic-pet-sitter-san-francisco/">cat and exotic pet sitting in San Francisco</a> page for details.</p>
+    <p>Yes — cats are part of our regular service. Many of the households we care for have a cat alongside their exotics, and we welcome cat-only households too. Our specialty is exotics, and the same vet-grade hygiene and medication skills carry straight over to cats. See our <a href="/cat-and-exotic-pet-sitter-san-francisco/">cat and exotic pet sitting in San Francisco</a> page for details.</p>
   </div>
 </details>
 
@@ -163,11 +163,11 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
   <summary class="faq-summary">Do you offer boarding?</summary>
   <div class="faq-answer">
     <p>Changing your pet's environment, especially if they are a prey animal, can cause discomfort and stress. With that said, we understand that there are cases where their home may not be the best place to stay while you are away.</p>
-    <p><strong>House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals</strong> — including rabbits, guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, geckos, snakes, turtles, tortoises, parrots, cockatiels, conures and budgies. Boarding is hosted personally by members of our team in their San Francisco homes, and clients from across the Bay Area and Peninsula are welcome to drop off their pets. To ensure the safety and well-being of the exotic animals in the home, <strong>House of Guineas does not offer boarding for dogs and cats.</strong></p>
+    <p><strong>House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals</strong> — including rabbits, guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, geckos, snakes, turtles, tortoises, parrots, cockatiels, conures and budgies. Boarding is hosted personally by members of our team in their San Francisco homes, and families from across the Bay Area and Peninsula are welcome to drop off their pets. To ensure the safety and well-being of the exotic animals in the home, <strong>House of Guineas does not offer boarding for dogs and cats.</strong></p>
       <ul>
         <li><strong>Exotic pet boarding is $75 per night.</strong> We'll discuss a plan with you to make sure your pet(s) feel as safe and comfortable as possible. They will have their <strong>private room</strong>, with soothing music played as they become acclimated during their stay.</li>
         <li>Please bring any <strong>medication (if needed), enclosures, bedding, food and supplies</strong> your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), including any additional supplies needed during their stay.</li>
-        <li>A meet and greet is required for first-time clients and your pet <strong>must be up-to-date with all of their vaccinations by the first visit</strong>. Because every stay is hosted personally by our team, <strong>boarding space is limited and often fills up</strong> — especially around holidays and travel season. Please <a href="tel:415-484-6493">contact us</a> as early as you possibly can. If boarding is already full for your dates, our <a href="/home/services/exotic-pet-care-services-in-home">in-home care</a> team has more availability and can usually still cover you.</li>
+        <li>A meet and greet is required for families new to House of Guineas, and your pet <strong>must be up-to-date with all of their vaccinations by the first visit</strong>. Because every stay is hosted personally by our team, <strong>boarding space is limited and often fills up</strong> — especially around holidays and travel season. Please <a href="tel:415-484-6493">contact us</a> as early as you possibly can. If boarding is already full for your dates, our <a href="/home/services/exotic-pet-care-services-in-home">in-home care</a> team has more availability and can usually still cover you.</li>
     </ul>
   </div>
 </details>
@@ -198,7 +198,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "name": "Do you offer overnight pet sitting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "While House of Guineas does not offer overnight pet sitting, we are happy to discuss ways to meet your pet's needs, such as extended visits. Contact us at 415-484-6493 to discuss a plan."
+        "text": "Our pet sitting is built around dedicated visits rather than overnight stays — and if your little ones need extra time and attention, we're more than happy to arrange extended visits. Contact us at 415-484-6493 and we'll figure out a plan together."
       }
     },
     {
@@ -206,7 +206,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "name": "Are you insured? I'm nervous of having someone enter my home.",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Our founder and specialists bring hands-on clinical experience and certifications, including Pet CPR + CPCR and First Aid. House of Guineas is bonded and insured. As our founder is a member of Pet Sitters International, the world's largest pet sitting association, we adhere to the highest industry standards. Insurance protects against unexpected incidents and bonding provides financial protection against theft or property damage."
+        "text": "Yes. Our team brings hands-on clinical experience and certifications, including Pet CPR + CPCR and First Aid. House of Guineas is bonded and insured. As a member of Pet Sitters International, the world's largest pet sitting association, we adhere to the highest industry standards. Insurance protects against unexpected incidents and bonding provides financial protection against theft or property damage."
       }
     },
     {
@@ -270,7 +270,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "name": "Do you board guinea pigs? What does guinea pig boarding include?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes! Guinea pig boarding is $75/night and includes unlimited fresh hay, species-appropriate pellets and vegetables, daily enclosure cleaning, and health monitoring. Our veterinary-informed team watches for early signs of GI stasis, respiratory distress, bumblefoot, and dental issues. Your guinea pig gets their private room with soothing music. Boarding is hosted personally by members of our team, and clients from across the Bay Area and Peninsula are welcome to drop off their pets."
+        "text": "Yes! Guinea pig boarding is $75/night and includes unlimited fresh hay, species-appropriate pellets and vegetables, daily enclosure cleaning, and health monitoring. Our veterinary-informed team watches for early signs of GI stasis, respiratory distress, bumblefoot, and dental issues. Your guinea pig gets their private room with soothing music. Boarding is hosted personally by members of our team, and families from across the Bay Area and Peninsula are welcome to drop off their pets."
       }
     },
     {
@@ -286,7 +286,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "name": "Do you take care of birds?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — birds are a core part of our service, not a stretch. Alexandria worked as an exotic veterinary assistant at Bay Area Bird and Exotics Hospital, and our team is trained to handle cockatiels, parakeets, conures, parrotlets, lovebirds, finches, and most companion parrots. We do daily fresh chop preparation, pellet measurement, full cage cleaning, and out-of-cage time for birds with established free-flight routines."
+        "text": "Yes — birds are a core part of our service, not a stretch. Our team is trained to handle cockatiels, parakeets, conures, parrotlets, lovebirds, finches, and most companion parrots, and founder Alexandria previously worked as an exotic veterinary assistant at Bay Area Bird and Exotics Hospital. We do daily fresh chop preparation, pellet measurement, full cage cleaning, and out-of-cage time for birds with established free-flight routines."
       }
     },
     {
@@ -294,7 +294,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "name": "Do you accept cats?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, with a specific framing: we accept cats in households where we already provide exotic pet care. We are not a cat-only sitter — our specialty is exotics — but if you have a guinea pig and a cat, or a rabbit and a cat, the cat is part of the household and we look after them too."
+        "text": "Yes — cats are part of our regular service. Many of the households we care for have a cat alongside their exotics, and we welcome cat-only households too. Our specialty is exotics, and the same vet-grade hygiene and medication skills carry straight over to cats."
       }
     },
     {
@@ -302,7 +302,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "name": "Do you offer boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals — including rabbits, guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, geckos, snakes, turtles, tortoises, parrots, cockatiels, conures and budgies — at $75 per night. Boarding is hosted personally by members of our team in their San Francisco homes, and clients from across the Bay Area and Peninsula are welcome to drop off their pets. Your pet gets their private room with soothing music. Please bring enclosures, bedding, food and supplies. A meet and greet is required for first-time clients and pets must be up-to-date with vaccinations. Because every stay is hosted personally by our team, boarding space is limited and often fills up — especially around holidays and travel season — so please reach out as early as possible. If boarding is full for your dates, our in-home care team has more availability and can usually still help."
+        "text": "Yes, House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals — including rabbits, guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, geckos, snakes, turtles, tortoises, parrots, cockatiels, conures and budgies — at $75 per night. Boarding is hosted personally by members of our team in their San Francisco homes, and families from across the Bay Area and Peninsula are welcome to drop off their pets. Your pet gets their private room with soothing music. Please bring enclosures, bedding, food and supplies. A meet and greet is required for families new to House of Guineas and pets must be up-to-date with vaccinations. Because every stay is hosted personally by our team, boarding space is limited and often fills up — especially around holidays and travel season — so please reach out as early as possible. If boarding is full for your dates, our in-home care team has more availability and can usually still help."
       }
     }
   ]

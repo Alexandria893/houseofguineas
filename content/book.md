@@ -104,7 +104,7 @@ Tell us a little about your pet and what you need, and we'll get right back to y
         <label><input type="checkbox" name="pets" value="Gecko / other reptile"> Gecko / other reptile</label>
         <label><input type="checkbox" name="pets" value="Turtle / tortoise"> Turtle / tortoise</label>
         <label><input type="checkbox" name="pets" value="Bird"> Bird</label>
-        <label><input type="checkbox" name="pets" value="Cat (in exotic household)"> Cat (exotic household)</label>
+        <label><input type="checkbox" name="pets" value="Cat"> Cat</label>
       </div>
     </fieldset>
   </div>
@@ -127,4 +127,4 @@ Tell us a little about your pet and what you need, and we'll get right back to y
   </div>
 </form>
 
-*A meet-and-greet is required for first-time clients — it's how we get to know you and your pet, and it's where care details and the booking deposit are handled. See the [FAQ page](/home/services/faqs/) for how booking, keys, and payment work.*
+*A meet-and-greet is required before our first visit — it's how we get to know you and your pet, and it's where care details and the booking deposit are handled. See the [FAQ page](/home/services/faqs/) for how booking, keys, and payment work.*

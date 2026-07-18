@@ -7,14 +7,14 @@ og_image = "milo.jpeg"
   priority = 0.8
 +++
 
-Southern Marin's waterfront towns — Sausalito, Tiburon, and Belvedere — are unlike anywhere else in the Bay Area: hillside homes stacked above the marina, the floating homes of Waldo Point, and the quiet peninsula neighborhoods looking back at the city across the water. The households here travel often, and many keep exotic pets that need more than a neighbor topping up a bowl: a bonded pair of rabbits, a parrot on a strict routine, a bearded dragon whose enclosure has to stay dialed in. Reliable exotic pet care has been genuinely hard to find on this side of the water — kennels are built for dogs, and most sitters have never handled a small mammal. Our team fills that gap, from a base right here in Marin.
+Southern Marin's waterfront towns — Sausalito, Tiburon, and Belvedere — are unlike anywhere else in the Bay Area: hillside homes stacked above the marina, the floating homes of Waldo Point, and the quiet peninsula neighborhoods looking back at the city across the water. Families here travel often, and many share their homes with exotic pets that need more than a neighbor topping up a bowl: a bonded pair of rabbits, a parrot on a strict routine, a bearded dragon whose enclosure has to stay dialed in. Reliable exotic pet care has been genuinely hard to find on this side of the water — kennels are built for dogs, and most sitters have never handled a small mammal. Our team fills that gap, from a base right here in Marin.
 
-House of Guineas is San Francisco's exotic pet care company, and our Marin specialist is based in Central Marin — a short hop from Sausalito, Tiburon, and Belvedere. Your pets stay in their own environment, on their own schedule, cared for by someone with real clinical training, without a Golden Gate crossing baked into every visit.
+House of Guineas is San Francisco's exotic pet care company, and our Marin specialist is based in Central Marin — a short hop from Sausalito, Tiburon, and Belvedere. Your little ones stay in their own environment, on their own schedule, cared for by their pet caretaker — someone with real clinical training — without a Golden Gate crossing baked into every visit.
 
-## Why Southern Marin Exotic Pet Owners Choose Our Team
+## Why Southern Marin Exotic Pet Parents Choose Our Team
 
 - **Based in Marin, not across the bridge.** Our specialist lives in the county, so Sausalito and Tiburon visits are quick to schedule and light on travel cost.
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Our whole team is trained under that clinical lens.
+- **Veterinary-informed care.** Our team's backgrounds span wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience) — including a founder who previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every visit happens under that clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
 - **Comfortable in every kind of home.** Hillside condo, a house up a steep Tiburon lane, or a floating home on the Sausalito waterfront — we adapt to the space and the access.
 
@@ -32,7 +32,7 @@ We cover all of southern Marin's waterfront: downtown Sausalito and the hillside
 
 ## How It Works
 
-We start with a free meet-and-greet at your home — a walkthrough of feeding routines, enclosure setup, medication schedules, access details, and your pet's quirks. Once you book, we schedule visits around your itinerary, usually twice daily, with photo and video updates and written notes on appetite, output, and behavior from every visit.
+We start with a free meet-and-greet at your home — a walkthrough of feeding routines, enclosure setup, medication schedules, access details, and your pet's quirks. Once you book, we schedule visits around your itinerary, usually twice daily, with photo and video updates and written notes on appetite, output, and behavior from every visit — so you always know how your little ones are doing.
 
 ## Pricing for Southern Marin Visits
 
@@ -104,7 +104,7 @@ Because our specialist is based in Central Marin, Sausalito, Tiburon, and Belved
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), explore the rest of our [Marin County coverage](/marin-county-exotic-pet-sitter/), or browse the full [FAQ page](/home/services/faqs). New guinea pig or rabbit parents in southern Marin will want our [guinea pig care guide](/post/guinea-pig-care-guide) and [rabbit care guide](/post/rabbit-care-guide-bay-area).
+Planning a trip soon? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), explore the rest of our [Marin County coverage](/marin-county-exotic-pet-sitter/), or browse the full [FAQ page](/home/services/faqs). New guinea pig or rabbit parents in southern Marin will want our [guinea pig care guide](/post/guinea-pig-care-guide) and [rabbit care guide](/post/rabbit-care-guide-bay-area).
 
 <script type="application/ld+json">
 {

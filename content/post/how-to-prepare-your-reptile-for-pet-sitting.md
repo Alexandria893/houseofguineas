@@ -58,7 +58,7 @@ A good reptile sitter will want to meet your pet before the first care visit. Th
 * Point out your reptile's normal behaviors versus stress signs
 * Share your vet's contact information and talk through what would constitute an emergency
 
-I require a [meet and greet for all first-time boarding clients](/home/services/exotic-pet-care-services-boarding) — it's essential for both your pet's comfort and your peace of mind. And honestly, it makes me feel better too.
+We require a [meet and greet before every first boarding stay](/home/services/exotic-pet-care-services-boarding) — it's essential for both your pet's comfort and your peace of mind. And honestly, it makes us feel better too.
 
 ## 5. Know the Warning Signs
 

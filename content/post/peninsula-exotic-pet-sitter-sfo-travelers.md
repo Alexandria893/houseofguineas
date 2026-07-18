@@ -46,7 +46,7 @@ Here is what that looks like in practice for a Peninsula household:
 - **Daily photo and written updates** — sent through the visit, so you can actually relax on the plane.
 - **Emergency escalation** — our team knows the Peninsula and Bay Area [exotic vet landscape](/san-francisco-bay-area-exotic-veterinarians) and has protocols for getting your pet seen quickly.
 
-The Clinical Series liners I designed for our guinea pig clients came directly out of my engineering background and my frustration watching well-meaning owners struggle with bedding that wicked unevenly. That same sensibility — the "let's actually look at what's happening and design for it" instinct — is how the whole service is built.
+The Clinical Series liners I designed for the guinea pigs in our care came directly out of my engineering background and my frustration watching well-meaning owners struggle with bedding that wicked unevenly. That same sensibility — the "let's actually look at what's happening and design for it" instinct — is how the whole service is built.
 
 ## Cities We Serve Around SFO
 
@@ -64,7 +64,7 @@ Whether you end up hiring our team or someone else, here is the checklist I wish
 1. **Book a meet-and-greet first.** Never leave your pet with a sitter who has not met the animal and seen the enclosure. This is non-negotiable for exotics.
 2. **Write a care sheet.** Species, weight, age, diet (with measurements), medication schedule, habitat parameters (temp/humidity), and anything weird the pet does on a normal day. "He always hides under the fleece for the first hour after lights-on" is useful information.
 3. **Update medical records.** Make sure your exotic vet has your pet on file and your contact info is current. Leave the clinic's name, address, and after-hours line with your sitter.
-4. **Leave two emergency contacts.** Your primary exotic vet and a backup 24/7 hospital. For Peninsula clients, we usually recommend noting both a local option and a Bay Area emergency option.
+4. **Leave two emergency contacts.** Your primary exotic vet and a backup 24/7 hospital. For Peninsula families, we usually recommend noting both a local option and a Bay Area emergency option.
 5. **Pre-portion food and supplies.** Individually bagged chop, pre-measured pellets, a visible bin of hay, and enough bedding/substrate for the full trip plus three extra days. Label it clearly.
 6. **Know the emergency signs.** Skim our guide to [exotic pet emergency signs](/post/exotic-pet-emergency-signs) before you leave, and make sure your sitter has read it too.
 7. **Reptile owners** — double-check [these prep steps](/post/how-to-prepare-your-reptile-for-pet-sitting) specifically. UVB bulb age, thermostat function, and backup heat plans are the three most common failure points.
@@ -72,7 +72,7 @@ Whether you end up hiring our team or someone else, here is the checklist I wish
 
 ## Boarding Alternative for Longer Trips
 
-For trips longer than about ten days — or for families who would rather have their pet stay somewhere staffed around the clock — I personally host boarding at our San Francisco location. It is a quiet, species-appropriate setup in my own home, where the pet gets the same hands-on care I give my own crew (Milo, Luca, Coco, and Kai on the guinea pig side; Chungus, Puppy Dog, Johnny Wohnny, and Princess Lady on the rabbit side). Peninsula clients are absolutely welcome to drop off on the way to SFO and pick up on the way home. Details are on our [exotic pet boarding page](/home/services/exotic-pet-care-services-boarding).
+For trips longer than about ten days — or for families who would rather have their pet stay somewhere staffed around the clock — members of our team personally host boarding in their San Francisco homes. It is a quiet, species-appropriate setup where your pet gets the same hands-on care we give our own little ones. Peninsula families are absolutely welcome to drop off on the way to SFO and pick up on the way home. Details are on our [exotic pet boarding page](/home/services/exotic-pet-care-services-boarding).
 
 ## Ready to Fly Without the 11 p.m. Panic?
 

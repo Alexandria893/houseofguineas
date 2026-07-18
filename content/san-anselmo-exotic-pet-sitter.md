@@ -14,7 +14,7 @@ House of Guineas is San Francisco's exotic pet care company, and our Marin speci
 ## Why Ross Valley Exotic Pet Owners Choose Our Team
 
 - **Local to Marin.** No Golden Gate commute in your schedule or your bill. Our specialist reaches San Anselmo, Ross, and Fairfax quickly and can keep visit timing flexible.
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. The whole team is trained under that clinical lens.
+- **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder, Alexandria, previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines — and the whole team is trained under that clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
 - **Clinical-grade care.** We can syringe-feed a stasis rabbit, weigh a guinea pig on a gram scale, verify a reptile's UVB and humidity, and spot early illness in a bird.
 
@@ -91,7 +91,7 @@ Because our specialist is based in Central Marin, San Anselmo and the Ross Valle
 <details class="faq-details">
   <summary class="faq-summary">Do you administer medications and injections?</summary>
   <div class="faq-answer">
-    <p>Our specialists routinely handle oral syringe medications and topical treatments as part of standard care. Subcutaneous injections are handled by our founder, whose work with the House Rabbit Society includes administering RHDV2 vaccines. If your pet is on a complex protocol, share it at the meet-and-greet and we will tell you honestly what we can cover and match the schedule exactly.</p>
+    <p>Our specialists routinely handle oral syringe medications and topical treatments as part of standard care. Subcutaneous injections are handled by our founder, whose past volunteer work with the House Rabbit Society included administering RHDV2 vaccines. If your pet is on a complex protocol, share it at the meet-and-greet and we will tell you honestly what we can cover and match the schedule exactly.</p>
   </div>
 </details>
 
@@ -140,7 +140,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you administer medications and injections?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our specialists routinely handle oral syringe medications and topical treatments as part of standard care. Subcutaneous injections are handled by our founder, whose work with the House Rabbit Society includes administering RHDV2 vaccines. If your pet is on a complex protocol, share it at the meet-and-greet and we will tell you honestly what we can cover and match the schedule exactly."
+        "text": "Our specialists routinely handle oral syringe medications and topical treatments as part of standard care. Subcutaneous injections are handled by our founder, whose past volunteer work with the House Rabbit Society included administering RHDV2 vaccines. If your pet is on a complex protocol, share it at the meet-and-greet and we will tell you honestly what we can cover and match the schedule exactly."
       }
     },
     {

@@ -1,7 +1,7 @@
 +++
 title = "San Bruno Exotic Pet Sitter | Guinea Pigs, Rabbits, Reptiles & Birds"
 shortTitle = "San Bruno Exotic Pet Sitter"
-description = "In-home exotic pet sitting in San Bruno, CA — guinea pigs, rabbits, reptiles, birds. Clinical-grade care from exotic veterinary assistants."
+description = "In-home exotic pet sitting in San Bruno, CA — guinea pigs, rabbits, reptiles, birds. Gentle, clinical-grade care from our veterinary-informed team."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
@@ -13,9 +13,9 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because 
 
 ## Why San Bruno Exotic Pet Owners Choose Our Team
 
-San Bruno is a town full of people who think carefully and plan ahead — airport and airline staff, tech workers, longtime families who have kept the same block for generations. What exotic pet owners here tell us they need is a sitter who brings the same rigor to animal care that they bring to their own lives. Here is what sets us apart:
+San Bruno is a town full of people who think carefully and plan ahead — airport and airline staff, tech workers, longtime families who have kept the same block for generations. What exotic pet parents here tell us they need is a sitter who brings the same rigor to animal care that they bring to their own lives. Here is what sets us apart:
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and every member is trained under the same clinical lens. Our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines.
 - **Small-mammal specialists.** Guinea pigs and rabbits are the heart of what we do — this is literally the House of Guineas. We know how to spot the early signs of trouble in a prey animal that instinctively hides illness. That kind of focus is genuinely hard to find on the Peninsula.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before an airport shift or a flight, evening visits after a long day, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
@@ -30,7 +30,7 @@ If your species is not listed, [call or text us](tel:415-484-6493) — if we hav
 
 ## How It Works in San Bruno
 
-We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For San Bruno pet owners, this usually lands on a weekend or an after-work window, since so many residents are commuting to SFO, up into the city, or down the Peninsula during the week, whether by BART, Caltrain, or the 101 and 280.
+We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For San Bruno pet parents, this usually lands on a weekend or an after-work window, since so many residents are commuting to SFO, up into the city, or down the Peninsula during the week, whether by BART, Caltrain, or the 101 and 280.
 
 Once you book, we schedule visits around your travel itinerary. Most exotic pets do well with twice-daily visits — morning and evening — so the guinea pigs get a fresh salad before the day starts and the reptile enclosure gets a proper lights-out check after dinner. We send photo and video updates from every visit, plus written notes on appetite, output, and behavior. If something seems off, we reach out before you land.
 
@@ -81,7 +81,7 @@ San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in San Bruno?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
+    <p>We care for exotic pets and cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide.</p>
   </div>
 </details>
 
@@ -95,7 +95,7 @@ San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in San Bruno?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted separately at our founder's San Francisco home — it is not a local San Bruno drop-off — but since San Bruno is a short trip up the Peninsula, it is an easy drive. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>Yes. Boarding happens in San Francisco, hosted personally by members of our team in their homes, and since San Bruno is just a short trip up the Peninsula, it is an easy drive. Boarding runs $75 per night, your pet settles into their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -108,7 +108,7 @@ San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) at the founder's San Francisco home, or browse the full [FAQ page](/home/services/faqs). Still getting set up with a vet? Our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in San Bruno will want our [guinea pig care guide](/post/guinea-pig-care-guide).
+Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) hosted personally by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). Still getting set up with a vet? Our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in San Bruno will want our [guinea pig care guide](/post/guinea-pig-care-guide).
 
 <script type="application/ld+json">
 {
@@ -128,7 +128,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in San Bruno?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
+        "text": "We care for exotic pets and cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide."
       }
     },
     {
@@ -144,7 +144,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in San Bruno?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted separately at our founder's San Francisco home — it is not a local San Bruno drop-off — but since San Bruno is a short trip up the Peninsula, it is an easy drive. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
+        "text": "Yes. Boarding happens in San Francisco, hosted personally by members of our team in their homes, and since San Bruno is just a short trip up the Peninsula, it is an easy drive. Boarding runs $75 per night, your pet settles into their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
       }
     },
     {

@@ -9,14 +9,14 @@ og_image = "milo.jpeg"
 
 Finding someone to care for an exotic pet in San Francisco is harder than it should be. Most sitters are set up for dogs and cats — not a bonded pair of rabbits, a bearded dragon on a specific UVB schedule, or a parrot who only settles when someone whistles back. House of Guineas Pet Care exists to close that gap. We are the only professional pet care company on this side of the Bay that exclusively caters to, serves, and cares for exotic pets — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds.
 
-We are based in the Inner Sunset, and we offer San Francisco pet owners two ways to get care — **in-home visits** from our team of exotic specialists, or **overnight boarding** hosted personally by our founder, Alexandria, at her San Francisco home. Both are built around clinical experience, not guesswork.
+We are based in the Inner Sunset, and we offer San Francisco pet parents two ways to get care — **in-home visits** from our team of exotic specialists, or **overnight boarding** hosted personally by members of our team in their San Francisco homes. Both are built around clinical experience, not guesswork.
 
-## Why San Francisco Exotic Pet Owners Choose Us
+## Why San Francisco Exotic Pet Parents Choose Us
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society in Richmond, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder, Alexandria, previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society in Richmond, where she administered subcutaneous RHDV2 vaccines. Every member of our team is trained under that same clinical lens.
 - **Species specialization.** Our focus on exotic pets and cats — rabbits, rodents, reptiles, and birds — is genuinely hard to find in San Francisco, where most pet sitters treat exotics as an afterthought.
 - **Clinical-grade care.** We can syringe-feed a GI-stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity and UVB, and recognize the early signs of a crop problem in a parrot. We also know the city's exotic-vet landscape — see our [San Francisco Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians) — so if something goes sideways while you are away, we know exactly where to go.
-- **Two service options, one standard of care.** Want your pet to stay in their own environment? Book in-home visits. Prefer hands-on overnight supervision? Board with Alexandria at her SF home. Either way you get the same species-specific attention.
+- **Two service options, one standard of care.** Want your pet to stay in their own environment? Book in-home visits. Prefer hands-on overnight supervision? Board with a member of our team at their San Francisco home. Either way, your little ones get the same species-specific attention.
 
 ## Exotic Species We Care For in San Francisco
 
@@ -31,7 +31,7 @@ If your species is not listed, [call or text us](tel:415-484-6493) — if we hav
 Everything starts with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. From there you choose the format that fits your trip:
 
 - **In-home visits.** Our team comes to your San Francisco home, usually twice a day — a fresh salad and a habitat check in the morning, a proper lights-out check in the evening. You get photo and video updates from every visit, plus written notes on appetite, output, and behavior.
-- **Boarding in San Francisco.** For owners who prefer overnight supervision, Alexandria hosts a small number of exotic pets at her SF home. Your pet gets their own room with soothing music, species-specific feeding, and daily updates. Boarding books up quickly, so reach out as soon as you have dates.
+- **Boarding in San Francisco.** For pet parents who prefer overnight supervision, members of our team host a small number of exotic pets in their San Francisco homes. Your pet gets their own room with soothing music, species-specific feeding, and daily updates. Boarding books up quickly, so reach out as soon as you have dates.
 
 Either way, if something seems off, we reach out before you are back.
 
@@ -56,7 +56,7 @@ If your neighborhood is not on the list, it is almost certainly still covered �
 - **In-home, 30-minute visits** start at **$85**
 - **In-home, 60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
-- **Boarding** at our SF home is **$75/night**
+- **Boarding** in a team member's San Francisco home is **$75/night**
 
 San Francisco is our **primary service area, so no travel surcharge applies** — that is reserved for Peninsula visits. [Text us your dates](tel:415-484-6493) and we will confirm your rate.
 
@@ -88,7 +88,7 @@ San Francisco is our **primary service area, so no travel surcharge applies** �
 <details class="faq-details">
   <summary class="faq-summary">How much does an exotic pet sitter cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>In-home exotic pet sitting in San Francisco starts at $85 for a 30-minute visit and $115 for a 60-minute visit; routine twice-daily care runs $140–$190 per day depending on visit length and the number of pets. Overnight boarding at our founder's SF home is $75 per night. San Francisco is our primary service area, so no travel surcharge applies.</p>
+    <p>In-home exotic pet sitting in San Francisco starts at $85 for a 30-minute visit and $115 for a 60-minute visit; routine twice-daily care runs $140–$190 per day depending on visit length and the number of pets. Overnight boarding in a team member's San Francisco home is $75 per night. San Francisco is our primary service area, so no travel surcharge applies.</p>
   </div>
 </details>
 
@@ -102,7 +102,7 @@ San Francisco is our **primary service area, so no travel surcharge applies** �
 <details class="faq-details">
   <summary class="faq-summary">What exotic species do you care for?</summary>
   <div class="faq-answer">
-    <p>Rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats and other small mammals; reptiles including bearded dragons, geckos, snakes, turtles and tortoises; and birds from budgies and cockatiels to parrots. Rabbit owners can also see our dedicated <a href="/rabbit-sitter-san-francisco/">San Francisco rabbit sitter</a> page.</p>
+    <p>Rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats and other small mammals; reptiles including bearded dragons, geckos, snakes, turtles and tortoises; and birds from budgies and cockatiels to parrots. Rabbit parents can also see our dedicated <a href="/rabbit-sitter-san-francisco/">San Francisco rabbit sitter</a> page.</p>
   </div>
 </details>
 
@@ -122,7 +122,7 @@ San Francisco is our **primary service area, so no travel surcharge applies** �
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home) and [San Francisco boarding](/home/services/exotic-pet-care-services-boarding), browse the full [FAQ page](/home/services/faqs), or look through our [Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians). New to a species? Start with our [guinea pig care guide](/post/guinea-pig-care-guide), [rabbit care guide](/post/rabbit-care-guide-bay-area), or [reptile & amphibian care guide](/reptile-amphibian-care-guide).
+Heading out of town soon? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar so your little ones are in good hands before you go. You can also read more about our [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home) and [San Francisco boarding](/home/services/exotic-pet-care-services-boarding), browse the full [FAQ page](/home/services/faqs), or look through our [Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians). New to a species? Start with our [guinea pig care guide](/post/guinea-pig-care-guide), [rabbit care guide](/post/rabbit-care-guide-bay-area), or [reptile & amphibian care guide](/reptile-amphibian-care-guide).
 
 <script type="application/ld+json">
 {
@@ -134,7 +134,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does an exotic pet sitter cost in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In-home exotic pet sitting in San Francisco starts at $85 for a 30-minute visit and $115 for a 60-minute visit; routine twice-daily care runs $140–$190 per day depending on visit length and the number of pets. Overnight boarding at our founder's SF home is $75 per night. San Francisco is our primary service area, so no travel surcharge applies."
+        "text": "In-home exotic pet sitting in San Francisco starts at $85 for a 30-minute visit and $115 for a 60-minute visit; routine twice-daily care runs $140–$190 per day depending on visit length and the number of pets. Overnight boarding in a team member's San Francisco home is $75 per night. San Francisco is our primary service area, so no travel surcharge applies."
       }
     },
     {
