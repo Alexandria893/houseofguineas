@@ -7,14 +7,14 @@ og_image = "milo.jpeg"
   priority = 0.9
 +++
 
-For years, Marin County exotic pet owners have had to choose between the wrong options. Board your rabbits at a dog-and-cat kennel that has never weighed a guinea pig. Drive a bearded dragon up to Santa Rosa or across the bridge to the East Bay. Or hand your parrot to a neighbor and hope the millet and the misting schedule survive the week. Marin is one of the most affluent, pet-loving counties in California, and yet there has been no dedicated in-home sitter who actually specializes in exotics. That has changed — **House of Guineas now has a specialist based right here in Marin.**
+For years, Marin County exotic pet parents have had to choose between the wrong options. Board your rabbits at a dog-and-cat kennel that has never weighed a guinea pig. Drive a bearded dragon up to Santa Rosa or across the bridge to the East Bay. Or hand your parrot to a neighbor and hope the millet and the misting schedule survive the week. Marin is one of the most affluent, pet-loving counties in California, and yet there has been no dedicated in-home sitter who actually specializes in exotics. That has changed — **House of Guineas now has a specialist based right here in Marin.**
 
 We are San Francisco's exotic pet care company, and our Marin specialist lives in Central Marin and covers the county from there. That means your rabbits, guinea pigs, reptiles, and birds stay in their own enclosures, on their own routines, cared for by someone who knows the difference between a healthy gut sound and the silence of GI stasis — and because we are based in the county, there is little to no bridge-toll-style travel surcharge to reach you.
 
 ## Why Marin Exotic Pet Owners Choose Our Team
 
 - **A specialist who actually lives in Marin.** No crossing the Golden Gate on a schedule. Our Marin-based specialist can reach most of the county quickly, which keeps visits flexible and travel costs low.
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every specialist on our team, in Marin and beyond, is trained under that same clinical lens.
+- **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and our founder previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every specialist on our team, in Marin and beyond, is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds. That kind of focus is almost impossible to find north of the bridge.
 - **Clinical-grade care.** We can syringe-feed a rabbit in stasis, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity and UVB, and catch the early signs of a crop problem in a parrot — and we know where the nearest exotic vets are if something goes wrong.
 
@@ -99,14 +99,14 @@ Here is the part that surprises people: because our specialist is based in Centr
 <details class="faq-details">
   <summary class="faq-summary">What if my rabbit or guinea pig needs medication while I'm away?</summary>
   <div class="faq-answer">
-    <p>Medication is part of our standard service. Our specialists are trained in oral syringe feeding and topical applications, and our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the standard for the team. If your pet is on a complex protocol, walk us through it at the meet-and-greet and we will match the timing precisely.</p>
+    <p>Medication is part of our standard service. Every member of our team is trained in oral syringe feeding and topical applications, to standards drawn from real clinical experience — including our founder's past volunteer work administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, walk us through it at the meet-and-greet and we will match the timing precisely.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits?</summary>
   <div class="faq-answer">
-    <p>For most Marin clients, in-home visits are the better fit — your pet stays in its own environment on its own routine, and it is our most available service. We do offer a limited amount of boarding at $75 per night, hosted by our founder in San Francisco and occasionally by a Marin specialist, but space is limited and books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits.</p>
+    <p>For most Marin families, in-home visits are the better fit — your little one stays in their own space, on their own routine, and it is our most available service. We do offer a limited amount of boarding at $75 per night, hosted personally by members of our team in their San Francisco homes and occasionally by a Marin specialist, but space is limited and books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits.</p>
   </div>
 </details>
 
@@ -148,7 +148,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my rabbit or guinea pig needs medication while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication is part of our standard service. Our specialists are trained in oral syringe feeding and topical applications, and our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the standard for the team. If your pet is on a complex protocol, walk us through it at the meet-and-greet and we will match the timing precisely."
+        "text": "Medication is part of our standard service. Every member of our team is trained in oral syringe feeding and topical applications, to standards drawn from real clinical experience — including our founder's past volunteer work administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, walk us through it at the meet-and-greet and we will match the timing precisely."
       }
     },
     {
@@ -156,7 +156,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For most Marin clients, in-home visits are the better fit — your pet stays in its own environment on its own routine, and it is our most available service. We do offer a limited amount of boarding at $75 per night, hosted by our founder in San Francisco and occasionally by a Marin specialist, but space is limited and books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits."
+        "text": "For most Marin families, in-home visits are the better fit — your little one stays in their own space, on their own routine, and it is our most available service. We do offer a limited amount of boarding at $75 per night, hosted personally by members of our team in their San Francisco homes and occasionally by a Marin specialist, but space is limited and books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits."
       }
     }
   ]

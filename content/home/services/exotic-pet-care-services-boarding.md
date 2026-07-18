@@ -3,7 +3,7 @@ type = "services"
 aliases = ["/home/services/service2/"]
 title = "Exotic Pet Boarding San Francisco & Peninsula | House of Guineas"
 shortTitle = "Exotic Pet Boarding"
-description = "Exotic pet boarding in San Francisco — guinea pig boarding, rabbit boarding, chinchilla boarding, reptile boarding, bird boarding and small mammal boarding. Welcoming clients across the Bay Area and Peninsula. Your pet gets their private room with soothing music. $75/night."
+description = "Exotic pet boarding in San Francisco — guinea pig boarding, rabbit boarding, chinchilla boarding, reptile boarding, bird boarding and small mammal boarding. Welcoming pet parents across the Bay Area and Peninsula. Your pet gets their private room with soothing music. $75/night."
 weight = 3
 [params]
   hideFromHomepage = true
@@ -15,7 +15,7 @@ weight = 3
   animals = ["Reptiles", "Birds", "Small Mammals"]
   highlights = [
     "Private room with soothing music",
-    "Client provides enclosure & supplies",
+    "You bring the enclosure & supplies",
     "Meet & greet required for first visit"
   ]
 [sitemap]
@@ -31,9 +31,9 @@ Your pet gets their private room with soothing music — **$75/night** for **Rep
 
 Changes in your pet's environment can cause discomfort and stress. With that said, we understand that there are times where their home may not be the best option while you are away. Our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) will work with you to make sure their home-away-from-home is the next best thing.
 
-We welcome clients from across the Bay Area — whether you're local to San Francisco or traveling in from the Peninsula (Burlingame, San Mateo, and beyond), you can drop your pet off with us for dedicated, professional boarding.
+We welcome families from across the Bay Area — whether you're local to San Francisco or traveling in from the Peninsula (Burlingame, San Mateo, and beyond), you can drop your pet off with us for dedicated, professional boarding.
 
-Whether you need rabbit boarding, guinea pig boarding, chinchilla boarding, ferret boarding, hamster boarding, reptile boarding (bearded dragons, geckos, snakes, turtles, tortoises), bird boarding (parrots, cockatiels, conures, budgies), or small mammal boarding, your pet will receive the same species-specific, professional care we provide during [in-home visits](/home/services/exotic-pet-care-services-in-home). Boarding is hosted at our team's San Francisco homes and we welcome drop-offs from clients across the city and the Peninsula — from the Inner Sunset and Richmond District to Noe Valley, the Castro, Pacific Heights, the Marina, SOMA, Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, and beyond.
+Whether you need rabbit boarding, guinea pig boarding, chinchilla boarding, ferret boarding, hamster boarding, reptile boarding (bearded dragons, geckos, snakes, turtles, tortoises), bird boarding (parrots, cockatiels, conures, budgies), or small mammal boarding, your pet will receive the same species-specific, professional care we provide during [in-home visits](/home/services/exotic-pet-care-services-in-home). Boarding is hosted at our team's San Francisco homes and we welcome drop-offs from families across the city and the Peninsula — from the Inner Sunset and Richmond District to Noe Valley, the Castro, Pacific Heights, the Marina, SOMA, Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, and beyond.
 
 * **Nightly Rate**: $75/night <!-- previously $65 per night as of 12/25 change to clients before 1/1/26 on 9/26-->
 
@@ -77,7 +77,7 @@ Guinea pigs, rabbits, chinchillas, ferrets, and other small mammals receive unli
 We'll discuss a plan with you to make sure your pet(s) feel as safe and comfortable as possible.
 
 * Please bring any **enclosures, bedding, food and supplies** your pet needs to feel at home when you drop them off
-* A meet and greet is **required for first-time clients** and your pet must be up-to-date with all vaccinations by the first visit
+* A meet and greet is **required before your pet's first stay** and your pet must be up-to-date with all vaccinations by the first visit
 * Because boarding is hosted in-home by our team, **space is limited and often fills up**, especially around holidays and travel season. Please [contact us](tel:415-484-6493) as early as you possibly can. If boarding is already full for your dates, our [in-home care team](/home/services/exotic-pet-care-services-in-home) has more availability and can usually still cover you.
 
 *Planning a trip? Read our step-by-step guide on [how to prepare your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting). Guinea pig parent? Check out our [Clinical Series fleece cage liners](/clinical-series-guinea-pig-fleece-cage-liners) for the healthiest bedding option.*

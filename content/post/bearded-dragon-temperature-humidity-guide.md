@@ -39,7 +39,7 @@ I live in the Inner Sunset, so I know exactly how cold our homes get. San Franci
 
 * You'll likely need a **ceramic heat emitter (CHE)** for nighttime warmth, especially if you're in the foggy Outer Sunset, Richmond, or Parkside districts
 * Your basking bulb may need to be higher wattage than guides written for warmer climates suggest
-* Monitor with a **digital thermometer with probe** — not those stick-on strips. They're inaccurate by 10-20°F, and I've seen clients think their setup was fine when it absolutely was not
+* Monitor with a **digital thermometer with probe** — not those stick-on strips. They're inaccurate by 10-20°F, and I've seen pet parents think their setup was fine when it absolutely was not
 * Consider a **thermostat** to prevent overheating if your home warms up during our rare heat waves
 
 ## Humidity Levels
@@ -84,7 +84,7 @@ For a complete guide to reptile environmental needs, see my [Reptile & Amphibian
 
 ## When Something Looks Wrong
 
-If your bearded dragon shows any of these signs, check their environment first — temperature and humidity problems cause the majority of issues I've seen with clients' beardies. If the setup looks fine, get to an [exotic vet](/san-francisco-bay-area-exotic-veterinarians):
+If your bearded dragon shows any of these signs, check their environment first — temperature and humidity problems cause the majority of issues I've seen with the beardies in our care. If the setup looks fine, get to an [exotic vet](/san-francisco-bay-area-exotic-veterinarians):
 
 * **Black beard stress marks** that persist all day
 * Lethargy or sleeping on the cool side

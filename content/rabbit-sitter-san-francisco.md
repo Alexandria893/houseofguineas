@@ -1,26 +1,26 @@
 +++
 title = "Rabbit Sitter San Francisco | Vet-Trained In-Home Bunny Care"
 shortTitle = "Rabbit Sitter San Francisco"
-description = "In-home rabbit sitting across San Francisco from a House Rabbit Society volunteer and exotic vet assistant. Bonded pairs and RHDV-vaccinated bunnies welcome."
+description = "In-home rabbit sitting across San Francisco from a vet-trained team with House Rabbit Society experience. Bonded pairs and RHDV-vaccinated bunnies welcome."
 og_image = "ChungusPuppyDog.jpg"
 serviceType = "Rabbit Pet Sitting"
 [sitemap]
   priority = 0.8
 +++
 
-If you live in San Francisco and you have a rabbit, your situation is specific. Your bunny probably has the run of an apartment or a Victorian flat — not a yard. The kennel down the street isn't an option. Most boarding facilities won't take rabbits at all, and the ones that will rarely know what GI stasis looks like until it's an emergency. House of Guineas exists to close that gap for SF's rabbit owners — vet-trained in-home visits from a team that genuinely understands what these animals need, in the kind of dense, walk-up-heavy neighborhoods you actually live in.
+If you live in San Francisco and you have a rabbit, your situation is specific. Your bunny probably has the run of an apartment or a Victorian flat — not a yard. The kennel down the street isn't an option. Most boarding facilities won't take rabbits at all, and the ones that will rarely know what GI stasis looks like until it's an emergency. House of Guineas exists to close that gap for SF's rabbit parents — vet-trained in-home visits from a team that genuinely understands what these animals need, in the kind of dense, walk-up-heavy neighborhoods you actually live in.
 
-Our founder, Alexandria, previously volunteered with the [House Rabbit Society](https://houserabbit.org) in Richmond, California, where she administered subcutaneous RHDV2 vaccinations under veterinary direction. She lives in San Francisco with her own bonded pair, Chungus and Puppy Dog, plus Johnny Wohnny (fostered from HRS) and Princess Lady, who is bonded with Johnny. Rabbits aren't a side service for us. They're the heart of what we do.
+Rabbits aren't a side service for us — they're the heart of what we do. Our veterinary-informed team brings hands-on rabbit experience to every visit: our founder, Alexandria, previously volunteered with the [House Rabbit Society](https://houserabbit.org) in Richmond, California, where she administered subcutaneous RHDV2 vaccinations under veterinary direction. And we come home to rabbits of our own here in San Francisco — bonded pair Chungus and Puppy Dog, Johnny Wohnny (fostered from HRS), and Princess Lady, who is bonded with Johnny.
 
 ## Why a Vet-Trained Rabbit Sitter Matters in San Francisco
 
 Rabbits hide pain. Their default response to discomfort is to go quiet — which means a sitter who doesn't know what to look for can miss a developing emergency by hours. Add SF's apartment density, building fobs, and walk-up access, and you need someone who can navigate all of that without disrupting your rabbit's environment. Here's what we bring:
 
-- **RHDV2 vaccine awareness.** California is a Rabbit Hemorrhagic Disease endemic state. We will not handle unvaccinated rabbits in homes where vaccinated rabbits are also present, and we can talk you through getting your rabbit vaccinated if you haven't already. Several SF-area exotic vets administer it — see our [San Francisco exotic vet directory](/san-francisco-bay-area-exotic-veterinarians/).
+- **RHDV2 vaccine awareness.** California is a Rabbit Hemorrhagic Disease endemic state, so we take vaccination seriously: in homes where vaccinated rabbits are present, we handle only rabbits who are vaccinated too. If your bunny still needs the vaccine, we're happy to walk you through it — several SF-area exotic vets administer it. See our [San Francisco exotic vet directory](/san-francisco-bay-area-exotic-veterinarians/).
 - **Bonded pair handling.** Bonded rabbits can't be safely separated, even temporarily. If one needs medication and the other doesn't, the protocol is different than for a single rabbit. We know the difference.
 - **GI stasis recognition.** A rabbit who's stopped pooping is a medical emergency, not a "wait and see" situation. We know the early signs — small or absent fecals, hunched posture, refusing favorite greens, teeth grinding — and we know which SF exotic vets to call after hours.
 - **Apartment-friendly visits.** Building fobs, doormen, package handling, third-floor walk-ups, neighbors who don't love noise after 9pm — we work around all of it. Free-roam apartments, x-pen setups, multi-level condos, and traditional cages are all part of our weekly rotation.
-- **Litter and hideout cleaning that respects rabbit psychology.** Rabbits are territorial. We don't deep-clean during your trip and disrupt their scent landscape — we maintain.
+- **Litter and hideout cleaning that respects rabbit psychology.** Rabbits are territorial, so we maintain rather than overhaul — keeping things fresh while leaving their scent landscape just the way they arranged it.
 
 ## What's Included in a San Francisco Rabbit Visit
 
@@ -28,7 +28,7 @@ Every visit covers the basics and then some:
 
 - Hay top-up (timothy for adults, alfalfa for babies under six months)
 - Fresh greens prep — washed, sorted, portioned to your rabbit's diet
-- Pellet measurement (we do not free-feed pellets)
+- Pellet measurement (measured portions only — the way a healthy rabbit diet works)
 - Water bowl or bottle change
 - Litter scoop
 - Floor sweep around the enclosure or free-roam area
@@ -98,14 +98,14 @@ San Francisco is in our primary service tier — no Peninsula travel surcharge. 
 <details class="faq-details">
   <summary class="faq-summary">Can you visit a free-roam rabbit in an SF apartment?</summary>
   <div class="faq-answer">
-    <p>Absolutely — free-roam setups are common across our SF clients, and we work around them naturally. Walk us through the room layout, any off-limits areas, and how your rabbit reacts to a new person at the meet-and-greet. We're careful with doors, foot traffic, and not letting rabbits dart out into building hallways.</p>
+    <p>Absolutely — free-roam setups are common in the SF homes we visit, and we work around them naturally. Walk us through the room layout, any off-limits areas, and how your rabbit reacts to a new person at the meet-and-greet. We're careful with doors, foot traffic, and not letting rabbits dart out into building hallways.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can you administer my rabbit's medication?</summary>
   <div class="faq-answer">
-    <p>Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with — not something we have to figure out under pressure.</p>
+    <p>Yes. Oral syringe meds, topical applications, and sub-Q injections are all part of our team's standard scope. Our founder previously administered subcutaneous RHDV2 vaccines through the House Rabbit Society, so sub-Q is something we're genuinely comfortable with — practiced, steady hands and a calm routine for your bunny.</p>
   </div>
 </details>
 
@@ -145,7 +145,7 @@ Ready to book in-home rabbit care for your next trip? [Call or text us at 415-48
       "name": "Can you visit a free-roam rabbit in an SF apartment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely — free-roam setups are common across our SF clients, and we work around them naturally. Walk us through the room layout, any off-limits areas, and how your rabbit reacts to a new person at the meet-and-greet. We're careful with doors, foot traffic, and not letting rabbits dart out into building hallways."
+        "text": "Absolutely — free-roam setups are common in the SF homes we visit, and we work around them naturally. Walk us through the room layout, any off-limits areas, and how your rabbit reacts to a new person at the meet-and-greet. We're careful with doors, foot traffic, and not letting rabbits dart out into building hallways."
       }
     },
     {
@@ -153,7 +153,7 @@ Ready to book in-home rabbit care for your next trip? [Call or text us at 415-48
       "name": "Can you administer my rabbit's medication?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with."
+        "text": "Yes. Oral syringe meds, topical applications, and sub-Q injections are all part of our team's standard scope. Our founder previously administered subcutaneous RHDV2 vaccines through the House Rabbit Society, so sub-Q is something we're genuinely comfortable with — practiced, steady hands and a calm routine for your bunny."
       }
     },
     {

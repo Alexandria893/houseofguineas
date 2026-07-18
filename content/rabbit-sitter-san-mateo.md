@@ -10,11 +10,11 @@ serviceType = "Rabbit Pet Sitting"
 
 San Mateo has a quietly serious rabbit community. Between the families in Hillsdale, the longtime residents around Aragon and Baywood Park, and the newer Bay Meadows crowd, rabbits show up in more San Mateo homes than people realize — often as second pets after a cat or dog, often adopted from Peninsula Humane Society right up the road in Burlingame. What's harder to find is a rabbit sitter who knows what they're doing. House of Guineas is here to fix that.
 
-Our team is based in San Francisco and we travel down the Peninsula several days a week. Our founder, Alexandria, is an exotic veterinary assistant and a former House Rabbit Society volunteer in Richmond, where she administered subcutaneous RHDV2 vaccines under vet direction. She lives with Chungus and Puppy Dog (a bonded pair), Johnny Wohnny (an HRS foster turned forever rabbit), and Princess Lady, who is bonded with Johnny. Rabbits are not a side service. They are the center of what we do.
+Our team is based in San Francisco and we travel down the Peninsula several days a week. Your rabbits will be cared for by our veterinary-informed team, with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society in Richmond, where she administered subcutaneous RHDV2 vaccines under vet direction. Our team also shares their homes with rabbits of their own: Chungus and Puppy Dog (a bonded pair), Johnny Wohnny (an HRS foster turned forever rabbit), and Princess Lady, who is bonded with Johnny. Rabbits are not a side service. They are the center of what we do.
 
 ## Why a Vet-Trained Rabbit Sitter Matters in San Mateo
 
-San Mateo is not as far from a 24/7 exotic ER as Foster City or Hillsborough, but it is still far enough that catching things early really matters. A generalist sitter who's used to dogs and cats will miss the early signs of a rabbit emergency. We won't.
+San Mateo is not as far from a 24/7 exotic ER as Foster City or Hillsborough, but it is still far enough that catching things early really matters. A generalist sitter who's used to dogs and cats will miss the early signs of a rabbit emergency. Our team knows exactly what to watch for.
 
 - **RHDV2 vaccine awareness.** California is endemic for Rabbit Hemorrhagic Disease. We will not handle unvaccinated rabbits in homes where vaccinated rabbits are also present, and we can talk you through getting the vaccine if you haven't yet.
 - **Bonded pair handling.** A bonded pair handles your absence dramatically better than a solo rabbit, but the medication and care protocols are different. We know the difference.

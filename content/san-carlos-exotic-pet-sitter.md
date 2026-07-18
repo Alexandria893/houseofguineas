@@ -1,21 +1,21 @@
 +++
 title = "San Carlos Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "San Carlos Exotic Pet Sitter"
-description = "In-home exotic pet sitting in San Carlos — rabbits, guinea pigs, reptiles, birds. Clinical-grade care from exotic veterinary assistants."
+description = "In-home exotic pet sitting in San Carlos — rabbits, guinea pigs, reptiles, birds. Gentle, veterinary-informed care from our exotic pet team."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
 +++
 
-San Carlos earned its nickname — "The City of Good Living" — for a reason, and the people who settle here tend to be exactly the kind of pet owners who do not want to leave their animals with just anyone. Tucked between Belmont and Redwood City in San Mateo County, San Carlos is a residential, professional community strung along the Caltrain, 101, and 280 corridors. Its residents travel — for work conferences, for client meetings, for the long weekends that make living on the Peninsula worth it — and the night before they leave, the same question surfaces: *who is going to take care of the rabbits?* Exotic pets do not board well, and most kennels are not equipped to handle a bonded pair of bunnies, a bearded dragon with a precise UVB schedule, or a conure who refuses to eat unless someone talks back. That is the gap our team fills.
+San Carlos earned its nickname — "The City of Good Living" — for a reason, and the people who settle here tend to be exactly the kind of pet parents who would never leave their little ones with just anyone. Tucked between Belmont and Redwood City in San Mateo County, San Carlos is a residential, professional community strung along the Caltrain, 101, and 280 corridors. Its residents travel — for work conferences, for business meetings, for the long weekends that make living on the Peninsula worth it — and the night before they leave, the same question surfaces: *who is going to take care of the rabbits?* Exotic pets do not board well, and most kennels are not equipped to handle a bonded pair of bunnies, a bearded dragon with a precise UVB schedule, or a conure who refuses to eat unless someone talks back. That is the gap our team fills.
 
 House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet specialists travels down the Peninsula to provide in-home care for San Carlos households. From the neighborhoods up in the hills to the homes near downtown, we are comfortable working around the rhythms of a city that runs on Caltrain timetables and after-work walks along Laurel Street.
 
-## Why San Carlos Exotic Pet Owners Choose Our Team
+## Why San Carlos Exotic Pet Parents Choose Our Team
 
-San Carlos is full of people who pay attention to detail — engineers, clinicians, designers, founders — and what exotic pet owners tell us they need is a sitter who approaches exotic care with the same rigor they bring to their own work. Here is what sets us apart:
+San Carlos is full of people who pay attention to detail — engineers, clinicians, designers, founders — and what exotic pet parents tell us they need is a sitter who approaches exotic care with the same rigor they bring to their own work. Here is what sets us apart:
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary-informed team.** Our team's backgrounds span wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience). Our founder previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every specialist on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also keep a current sense of the local exotic vet landscape, so if something goes sideways while you are out of town, we know where to go — see our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before a flight out of SFO, late-night visits after a redeye, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
@@ -30,7 +30,7 @@ If your species is not listed, [call or text us](tel:415-484-6493) — if we hav
 
 ## How It Works in San Carlos
 
-We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For San Carlos pet owners, this usually happens on a weekend or an after-work window that fits the commute home off the 101 or a Caltrain ride up Laurel Street.
+We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For San Carlos pet parents, this usually happens on a weekend or an after-work window that fits the commute home off the 101 or a Caltrain ride up Laurel Street.
 
 Once you book, we schedule visits around your travel itinerary. Most exotic pets do well with twice-daily visits — morning and evening — so you can get a fresh salad into the rabbits before you leave for work and a proper lights-out check on the reptile enclosure after dinner. We send photo and video updates from every visit, plus written notes on appetite, output, and behavior. If something seems off, we reach out before you are back.
 
@@ -90,14 +90,14 @@ San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly. New to small-pet care? Our <a href="/post/guinea-pig-care-guide">guinea pig care guide</a> is a good primer.</p>
+    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society, and that clinical bar shapes how our whole team trains. If your little one is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly. New to small-pet care? Our <a href="/post/guinea-pig-care-guide">guinea pig care guide</a> is a good primer.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet with you instead of in-home sitting?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted separately at our founder's San Francisco home — it is not a Peninsula drop-off — but San Carlos clients are welcome to make the drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Details are on the <a href="/home/services/exotic-pet-care-services-boarding">boarding page</a>.</p>
+    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and San Carlos families are welcome to make the drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Details are on the <a href="/home/services/exotic-pet-care-services-boarding">boarding page</a>.</p>
   </div>
 </details>
 
@@ -110,7 +110,7 @@ San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), browse the full [FAQ page](/home/services/faqs), or look through our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory if you are still getting set up with a local vet. New guinea pig parents in San Carlos — our [guinea pig care guide](/post/guinea-pig-care-guide) is a good starting point.
+Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), browse the full [FAQ page](/home/services/faqs), or look through our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory if you are still getting set up with a local vet. New guinea pig parents in San Carlos — our [guinea pig care guide](/post/guinea-pig-care-guide) is a good starting point.
 
 <script type="application/ld+json">
 {
@@ -138,7 +138,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society, and that clinical bar shapes how our whole team trains. If your little one is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet with you instead of in-home sitting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted separately at our founder's San Francisco home — it is not a Peninsula drop-off — but San Carlos clients are welcome to make the drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies."
+        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and San Carlos families are welcome to make the drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home."
       }
     },
     {

@@ -43,7 +43,7 @@ Because our team is led by an [exotic veterinary assistant](/san-francisco-calif
 
 ## "Isn't that expensive?"
 
-It's more affordable and predictable than people expect, because recurring care is priced as a flat monthly plan rather than one-off visits. In San Francisco, a standing schedule of 30-minute visits runs **$158/week ($680/month) for 2 visits a week**, or **$223/week ($960/month) for 3 visits a week**. Peninsula and farther-out clients add a per-visit travel amount by distance. You can see the full breakdown, including worked San Mateo examples, on our [routine & recurring care page](/routine-recurring-exotic-pet-care/).
+It's more affordable and predictable than people expect, because recurring care is priced as a flat monthly plan rather than one-off visits. In San Francisco, a standing schedule of 30-minute visits runs **$158/week ($680/month) for 2 visits a week**, or **$223/week ($960/month) for 3 visits a week**. Peninsula and farther-out pet parents add a per-visit travel amount by distance. You can see the full breakdown, including worked San Mateo examples, on our [routine & recurring care page](/routine-recurring-exotic-pet-care/).
 
 Compare that to what it costs — in stress, in vet bills, in guilt — when upkeep quietly slips for months. A clean environment and early health monitoring is the cheapest preventive medicine there is for an exotic pet.
 
@@ -67,7 +67,7 @@ We serve all of San Francisco and the Peninsula down through San Mateo, Foster C
 <details class="faq-details">
   <summary class="faq-summary">Do I have to be traveling to book a pet sitter?</summary>
   <div class="faq-answer">
-    <p>Not at all. Many of our clients are home but busy — they book standing weekly or biweekly visits purely to keep their exotic pet's upkeep and health monitoring on track. Routine care is designed for exactly that.</p>
+    <p>Not at all. Many of the families we care for are home but busy — they book standing weekly or biweekly visits purely to keep their exotic pet's upkeep and health monitoring on track. Routine care is designed for exactly that.</p>
   </div>
 </details>
 
@@ -99,7 +99,7 @@ Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/bo
       "name": "Do I have to be traveling to book a pet sitter?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Not at all. Many of our clients are home but busy — they book standing weekly or biweekly visits purely to keep their exotic pet's upkeep and health monitoring on track. Routine care is designed for exactly that."
+        "text": "Not at all. Many of the families we care for are home but busy — they book standing weekly or biweekly visits purely to keep their exotic pet's upkeep and health monitoring on track. Routine care is designed for exactly that."
       }
     },
     {

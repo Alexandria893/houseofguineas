@@ -13,9 +13,9 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and the name
 
 ## Why San Francisco Small-Mammal Owners Choose Us
 
-San Francisco is full of thoughtful pet owners who do their homework — and the small-mammal community here is especially serious about doing right by animals that are easy to underestimate. What they tell us they need is a sitter who brings real clinical rigor to the job. Here is what sets us apart:
+San Francisco is full of thoughtful pet parents who do their homework — and the small-mammal community here is especially serious about doing right by animals that are easy to underestimate. What they tell us they need is a sitter who brings real clinical rigor to the job. Here is what sets us apart:
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and every pet caretaker is trained under that same clinical lens. Our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines.
 - **Species specialization.** Exotic pets and cats are our whole focus — small mammals, and other exotics. That kind of focus is genuinely hard to find.
 - **Clinical-grade care.** We weigh pets on a gram scale to catch problems before they show, we can syringe-feed and give critical-care formula to a guinea pig in GI stasis, and we monitor appetite and output at every visit — because in a small mammal, those are the numbers that tell you what is really going on.
 - **Flexible scheduling.** Early-morning visits before work, evening visits after a long day, and mid-day timing for medications or a second feeding — we build the schedule around your itinerary, not the other way around.
@@ -45,7 +45,7 @@ We cover the whole city, from the western avenues out to the bay. Small mammals 
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-These are in-city San Francisco visits, so there is **no Peninsula travel surcharge**. If you would rather your pet stay with us, boarding is hosted at our founder's San Francisco home for **$75/night**. Based down the Peninsula? See our [Peninsula guinea pig sitter](/guinea-pig-sitter-peninsula/) page.
+These are in-city San Francisco visits, so there is **no Peninsula travel surcharge**. If you would rather your pet stay with us, boarding is hosted personally by members of our team in their San Francisco homes for **$75/night**. Based down the Peninsula? See our [Peninsula guinea pig sitter](/guinea-pig-sitter-peninsula/) page.
 
 ## Frequently Asked Questions
 
@@ -82,7 +82,7 @@ These are in-city San Francisco visits, so there is **no Peninsula travel surcha
 <details class="faq-details">
   <summary class="faq-summary">What if my guinea pig stops eating while I'm away?</summary>
   <div class="faq-answer">
-    <p>A guinea pig that has stopped eating is an emergency, and our specialists are trained to recognize it. We monitor appetite and output at every visit, and we can syringe-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. Our founder is an exotic veterinary assistant, so this is exactly the kind of situation we are built to handle — and we will reach out to you before you land.</p>
+    <p>A guinea pig that has stopped eating is an emergency, and our specialists are trained to recognize it. We monitor appetite and output at every visit, and we can syringe-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. This is exactly the kind of situation our veterinary-informed team was built to handle — our founder previously worked as an exotic veterinary assistant — and we will reach out to you before you land.</p>
   </div>
 </details>
 
@@ -96,7 +96,7 @@ These are in-city San Francisco visits, so there is **no Peninsula travel surcha
 <details class="faq-details">
   <summary class="faq-summary">Do you offer small-mammal boarding?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted at our founder's San Francisco home, not a facility. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so they stay on a familiar routine. Full details are on the boarding page.</p>
+    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, not a facility. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so they stay on a familiar routine. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -109,7 +109,7 @@ These are in-city San Francisco visits, so there is **no Peninsula travel surcha
 
 ---
 
-Ready to line up care for your small mammals? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) at the founder's San Francisco home, or browse the full [FAQ page](/home/services/faqs). New to guinea pigs? Start with our [guinea pig care guide](/post/guinea-pig-care-guide). And if you want to keep your pigs dry between spot-cleans, take a look at our handmade [guinea pig fleece cage liner](/clinical-series-guinea-pig-fleece-cage-liners/).
+Ready to line up care for your small mammals? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding), hosted personally by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). New to guinea pigs? Start with our [guinea pig care guide](/post/guinea-pig-care-guide). And if you want to keep your pigs dry between spot-cleans, take a look at our handmade [guinea pig fleece cage liner](/clinical-series-guinea-pig-fleece-cage-liners/).
 
 <script type="application/ld+json">
 {
@@ -129,7 +129,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "What if my guinea pig stops eating while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A guinea pig that has stopped eating is an emergency, and our specialists are trained to recognize it. We monitor appetite and output at every visit, and we can syringe-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. Our founder is an exotic veterinary assistant, so this is exactly the kind of situation we are built to handle — and we will reach out to you before you land."
+        "text": "A guinea pig that has stopped eating is an emergency, and our specialists are trained to recognize it. We monitor appetite and output at every visit, and we can syringe-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. This is exactly the kind of situation our veterinary-informed team was built to handle — our founder previously worked as an exotic veterinary assistant — and we will reach out to you before you land."
       }
     },
     {
@@ -145,7 +145,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "Do you offer small-mammal boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted at our founder's San Francisco home, not a facility. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so they stay on a familiar routine. Full details are on the boarding page."
+        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, not a facility. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so they stay on a familiar routine. Full details are on the boarding page."
       }
     },
     {

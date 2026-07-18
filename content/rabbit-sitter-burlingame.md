@@ -1,26 +1,26 @@
 +++
 title = "Rabbit Sitter Burlingame | In-Home Bunny Care for SFO Travelers"
 shortTitle = "Rabbit Sitter Burlingame"
-description = "In-home rabbit sitting in Burlingame from a House Rabbit Society volunteer and exotic vet assistant. RHDV-vaccinated bunnies welcome. Perfect for SFO travelers."
+description = "In-home rabbit sitting in Burlingame from a vet-informed team with House Rabbit Society experience. RHDV-vaccinated bunnies welcome. Perfect for SFO travelers."
 og_image = "ChungusPuppyDog.jpg"
 serviceType = "Rabbit Pet Sitting"
 [sitemap]
   priority = 0.8
 +++
 
-If you live in Burlingame and you have a rabbit, you already know the bind. SFO is a ten-minute drive away, your work or family or vacation calendar keeps pulling you to the airport, and the conventional pet-boarding world has nothing useful to say about a bonded pair of Holland Lops. Most kennels won't take rabbits at all. The ones that will often don't know what GI stasis looks like until it's too late. House of Guineas exists to close that gap for Burlingame's rabbit owners — vet-trained in-home visits from a team that genuinely understands what these animals need.
+If you live in Burlingame and you have a rabbit, you already know the bind. SFO is a ten-minute drive away, your work or family or vacation calendar keeps pulling you to the airport, and the conventional pet-boarding world has nothing useful to say about a bonded pair of Holland Lops. Most kennels won't take rabbits at all. The ones that will often don't know what GI stasis looks like until it's too late. House of Guineas exists to close that gap for Burlingame's rabbit parents — vet-trained in-home visits from a team that genuinely understands what these animals need.
 
-Our founder, Alexandria, previously volunteered with the [House Rabbit Society](https://houserabbit.org) chapter in Richmond, where she administered subcutaneous RHDV2 vaccinations under veterinary direction. She lives with her own bonded pair, Chungus and Puppy Dog, plus Johnny Wohnny (fostered from HRS) and Princess Lady, who is bonded with Johnny. Rabbits aren't a side service for us. They're the heart of what we do.
+Rabbits aren't a side service for us — they're the heart of what we do. Our veterinary-informed team's rabbit experience runs deep: our founder, Alexandria, previously volunteered with the [House Rabbit Society](https://houserabbit.org) chapter in Richmond, where she administered subcutaneous RHDV2 vaccinations under veterinary direction. And we live with rabbits ourselves — a bonded pair, Chungus and Puppy Dog, plus Johnny Wohnny (fostered from HRS) and Princess Lady, who is bonded with Johnny.
 
 ## Why a Vet-Trained Rabbit Sitter Matters in Burlingame
 
 Rabbits are deceptive. Their default response to discomfort is to go quiet — which means a sitter who doesn't know what to look for can miss a developing emergency by hours. Burlingame is also far enough from a 24/7 exotic ER that catching things early matters even more. Here's what we bring that a generalist sitter can't:
 
-- **RHDV2 vaccine awareness.** California is a Rabbit Hemorrhagic Disease endemic state. We will not handle unvaccinated rabbits in homes where vaccinated rabbits are also present, and we can talk you through getting your rabbit vaccinated if you haven't already. Peninsula Pet Hospital right in Burlingame can administer it.
+- **RHDV2 vaccine awareness.** California is a Rabbit Hemorrhagic Disease endemic state. In homes where vaccinated rabbits live, any bunny we handle needs to be vaccinated too — and we're happy to talk you through getting your rabbit protected if you haven't already. Peninsula Pet Hospital right in Burlingame can administer it.
 - **Bonded pair handling.** Bonded rabbits can't be safely separated, even temporarily. If one needs medication and the other doesn't, the protocol is different than for a single rabbit. We know the difference.
 - **GI stasis recognition.** A rabbit who's stopped pooping is a medical emergency, not a "wait and see" situation. We know the early signs — small or absent fecals, hunched posture, refusing favorite greens, teeth grinding — and we know which Bay Area vets to call after hours.
 - **Hay sourcing.** Most Burlingame pet stores carry hay that's months old by the time you buy it. We can recommend better local sources, and during longer stays we'll restock if needed.
-- **Litter and hideout cleaning that respects rabbit psychology.** Rabbits are territorial. We don't deep-clean during your trip and disrupt their scent landscape — we maintain.
+- **Litter and hideout cleaning that respects rabbit psychology.** Rabbits are territorial, so we maintain rather than deep-clean — your bunny's scent landscape stays just the way they arranged it.
 
 ## What's Included in a Burlingame Rabbit Visit
 
@@ -28,7 +28,7 @@ Every visit covers the basics and then some:
 
 - Hay top-up (timothy for adults, alfalfa for babies under six months)
 - Fresh greens prep — washed, sorted, portioned to your rabbit's diet
-- Pellet measurement (we do not free-feed pellets)
+- Pellet measurement (always a measured portion rather than a free-feed)
 - Water bowl or bottle change
 - Litter scoop
 - Floor sweep around the enclosure
@@ -100,7 +100,7 @@ Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">What if my rabbit shows signs of GI stasis while I'm away?</summary>
   <div class="faq-answer">
-    <p>We watch for the early signs at every visit — reduced fecal output, refusing favorite greens, hunched posture, teeth grinding. If we see something concerning, we'll reach out immediately and recommend whether your rabbit needs to be seen. For Burlingame clients, the closest exotic-friendly options are <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula Pet Hospital and Adobe Animal Hospital</a>. If you've authorized us in advance, we can transport.</p>
+    <p>We watch for the early signs at every visit — reduced fecal output, refusing favorite greens, hunched posture, teeth grinding. If we see something concerning, we'll reach out immediately and recommend whether your rabbit needs to be seen. For Burlingame families, the closest exotic-friendly options are <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula Pet Hospital and Adobe Animal Hospital</a>. If you've authorized us in advance, we can transport.</p>
   </div>
 </details>
 
@@ -141,7 +141,7 @@ Ready to book in-home rabbit care for your next trip? [Call or text us at 415-48
       "name": "What if my rabbit shows signs of GI stasis while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We watch for the early signs at every visit — reduced fecal output, refusing favorite greens, hunched posture, teeth grinding. If we see something concerning, we'll reach out immediately and recommend whether your rabbit needs to be seen. For Burlingame clients, the closest exotic-friendly options are Peninsula Pet Hospital and Adobe Animal Hospital. If you've authorized us in advance, we can transport."
+        "text": "We watch for the early signs at every visit — reduced fecal output, refusing favorite greens, hunched posture, teeth grinding. If we see something concerning, we'll reach out immediately and recommend whether your rabbit needs to be seen. For Burlingame families, the closest exotic-friendly options are Peninsula Pet Hospital and Adobe Animal Hospital. If you've authorized us in advance, we can transport."
       }
     },
     {

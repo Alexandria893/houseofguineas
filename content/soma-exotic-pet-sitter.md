@@ -1,7 +1,7 @@
 +++
 title = "SOMA Exotic Pet Sitter | Reptiles, Guinea Pigs, Rabbits & Birds"
 shortTitle = "SOMA Exotic Pet Sitter"
-description = "In-home exotic pet sitting in SOMA, San Francisco — reptiles, guinea pigs, rabbits, birds. Clinical-grade care from exotic veterinary assistants."
+description = "In-home exotic pet sitting in SOMA, San Francisco — reptiles, guinea pigs, rabbits, birds. Warm, veterinary-informed care from our exotic pet team."
 og_image = "beardedDragonPostBath.jpg"
 [sitemap]
   priority = 0.8
@@ -11,11 +11,11 @@ SOMA — South of Market — is the tech and startup heart of San Francisco, a d
 
 House of Guineas Pet Care is based right here in San Francisco, in the Inner Sunset, which makes SOMA a quick, same-city trip for us. We come to your pets so they can stay in their own enclosures, on their own routines, in the home they already know — whether you are in a high-rise condo near the Embarcadero, a loft off Folsom or Bryant, or a building a few blocks from the Caltrain station at 4th & King.
 
-## Why SOMA Exotic Pet Owners Choose Our Team
+## Why SOMA Exotic Pet Parents Choose Our Team
 
-SOMA runs on people who care about getting the details right — and with an exotic pet, the details are everything, because the margin for error with a reptile or a small mammal is small. What exotic pet owners here tell us they need is a sitter who brings real clinical rigor, not just good intentions. Here is what sets us apart:
+SOMA runs on people who care about getting the details right — and with an exotic pet, the details are everything, because the margin for error with a reptile or a small mammal is small. What exotic pet parents here tell us they need is a sitter who brings real clinical rigor, not just good intentions. Here is what sets us apart:
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience). Our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every pet caretaker on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — reptiles, rabbits, rodents, and birds. That kind of focus is genuinely hard to find anywhere in the city.
 - **Clinical-grade care.** We can check a reptile enclosure's basking temperature and humidity, dial in a UVB schedule, syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before work or a flight, evening visits after a long day, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
@@ -30,7 +30,7 @@ If your species is not listed, [call or text us](tel:415-484-6493) — if we hav
 
 ## How It Works in SOMA
 
-We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, UVB and heat schedules, medication timing, and your pet's quirks. For SOMA pet owners, this usually lands on an evening or a weekend window, and since the neighborhood is compact and well served by Muni Metro, the T-line along the Embarcadero, and the Caltrain terminus at 4th & King, getting to you is easy.
+We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, UVB and heat schedules, medication timing, and your pet's quirks. For SOMA pet parents, this usually lands on an evening or a weekend window, and since the neighborhood is compact and well served by Muni Metro, the T-line along the Embarcadero, and the Caltrain terminus at 4th & King, getting to you is easy.
 
 Once you book, we schedule visits around your travel itinerary. Many reptiles do well with once-daily checks — confirming basking temps, misting for humidity, and spot-feeding on their species' schedule — while guinea pigs, rabbits, and birds usually do best with twice-daily visits, morning and evening. Either way, we send photo and video updates from every visit, plus written notes on appetite, output, and behavior. If something seems off, we reach out before you land.
 
@@ -95,7 +95,7 @@ SOMA is within San Francisco, our home city, so there is no Peninsula travel sur
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in SOMA?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted at our founder's San Francisco home, which is a short trip away from SOMA. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, a short trip from SOMA. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -108,7 +108,7 @@ SOMA is within San Francisco, our home city, so there is no Peninsula travel sur
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) at the founder's San Francisco home, or browse the full [FAQ page](/home/services/faqs). Reptile owner? Start with our [San Francisco reptile pet sitter](/reptile-pet-sitter-san-francisco/) page. Want to see the whole city we cover? Start with our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) hub. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start.
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding), hosted personally by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). Reptile owner? Start with our [San Francisco reptile pet sitter](/reptile-pet-sitter-san-francisco/) page. Want to see the whole city we cover? Start with our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) hub. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start.
 
 <script type="application/ld+json">
 {
@@ -144,7 +144,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in SOMA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted at our founder's San Francisco home, which is a short trip away from SOMA. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
+        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, a short trip from SOMA. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
       }
     },
     {

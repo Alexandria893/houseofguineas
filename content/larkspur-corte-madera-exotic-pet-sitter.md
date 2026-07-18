@@ -11,10 +11,10 @@ Larkspur and Corte Madera sit right in the middle of Marin — the walkable down
 
 House of Guineas is San Francisco's exotic pet care company, and having a specialist based in Larkspur means Larkspur and Corte Madera get the fastest, most flexible coverage in our entire service area, with **no travel surcharge at all.**
 
-## Why Larkspur & Corte Madera Owners Choose Our Team
+## Why Larkspur & Corte Madera Pet Parents Choose Our Team
 
 - **We live here.** Our specialist is based in Larkspur, so visits are quick to schedule, easy to adjust, and carry no travel surcharge for the immediate area. Early-morning, mid-day medication, and late-evening timing are all straightforward.
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Our team is trained under that same clinical lens.
+- **Veterinary background.** Care here comes from our veterinary-informed team, with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines — and every member of our team is trained under that same clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our whole focus — nothing about this is an afterthought.
 - **Clinical-grade care.** We can syringe-feed a rabbit in stasis, weigh a guinea pig on a gram scale, verify a reptile's UVB and humidity, and read the early warning signs in a bird.
 
@@ -40,7 +40,7 @@ We start with a free meet-and-greet at your home — a walkthrough of feeding, e
 - **60-minute visits** start at **$115**
 - **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-Larkspur and Corte Madera are our specialist's home base, so **no travel surcharge applies** — the same terms San Francisco clients get. Text us your dates and we will confirm your rate.
+Larkspur and Corte Madera are our specialist's home base, so **no travel surcharge applies** — the same terms San Francisco pet parents get. Text us your dates and we will confirm your rate.
 
 ## Frequently Asked Questions
 
@@ -84,14 +84,14 @@ Larkspur and Corte Madera are our specialist's home base, so **no travel surchar
 <details class="faq-details">
   <summary class="faq-summary">Do you care for bonded pairs of rabbits?</summary>
   <div class="faq-answer">
-    <p>Yes, and it is one of our specialties. We keep bonded pairs and trios together, watch that both are eating and producing normally, and never separate a bonded pair unnecessarily — the stress can be dangerous. Our founder's work with the House Rabbit Society means rabbit-specific care, including recognizing early GI stasis, is core to how we operate.</p>
+    <p>Yes, and it is one of our specialties. We keep bonded pairs and trios together, watch that both are eating and producing normally, and never separate a bonded pair unnecessarily — the stress can be dangerous. Our founder previously volunteered with the House Rabbit Society, so rabbit-specific care — including recognizing the early signs of GI stasis — is core to how we operate.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What updates will I get while I'm away?</summary>
   <div class="faq-answer">
-    <p>Photo and video updates from every visit, plus written notes on appetite, output, behavior, and anything that seems off. For anxious owners — and most exotic owners are, in the best way — this daily reassurance is often the part they value most. If something concerns us, we reach out before you have to wonder.</p>
+    <p>Photo and video updates from every visit, plus written notes on appetite, output, behavior, and anything that seems off. For anxious pet parents — and most exotic pet parents are, in the best way — this daily reassurance is often the part they value most. If something concerns us, we reach out before you have to wonder.</p>
   </div>
 </details>
 
@@ -132,7 +132,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you care for bonded pairs of rabbits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, and it is one of our specialties. We keep bonded pairs and trios together, watch that both are eating and producing normally, and never separate a bonded pair unnecessarily — the stress can be dangerous. Our founder's work with the House Rabbit Society means rabbit-specific care, including recognizing early GI stasis, is core to how we operate."
+        "text": "Yes, and it is one of our specialties. We keep bonded pairs and trios together, watch that both are eating and producing normally, and never separate a bonded pair unnecessarily — the stress can be dangerous. Our founder previously volunteered with the House Rabbit Society, so rabbit-specific care — including recognizing the early signs of GI stasis — is core to how we operate."
       }
     },
     {
@@ -140,7 +140,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What updates will I get while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Photo and video updates from every visit, plus written notes on appetite, output, behavior, and anything that seems off. For anxious owners — and most exotic owners are, in the best way — this daily reassurance is often the part they value most. If something concerns us, we reach out before you have to wonder."
+        "text": "Photo and video updates from every visit, plus written notes on appetite, output, behavior, and anything that seems off. For anxious pet parents — and most exotic pet parents are, in the best way — this daily reassurance is often the part they value most. If something concerns us, we reach out before you have to wonder."
       }
     },
     {

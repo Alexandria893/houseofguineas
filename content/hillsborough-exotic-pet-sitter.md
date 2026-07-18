@@ -9,16 +9,16 @@ og_image = "HappilyHoldingSnake.jpg"
 
 Hillsborough is unlike anywhere else on the Peninsula. The estate-scale homes, the privacy expectations, the specific standards for who comes through the gate — these aren't preferences, they're how the town operates. Exotic pet owners here have often built impressive setups for their animals (purpose-built reptile rooms, free-roam rabbit areas, custom aviaries) and need a sitter who can read those setups quickly and care for the animals at the level the rest of the household expects. House of Guineas exists for families exactly like this.
 
-Our team is based in San Francisco's Inner Sunset, and we travel to Hillsborough via 280 several days a week. Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) trained at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com), and a former House Rabbit Society volunteer administering RHDV2 vaccinations. Every specialist on our team holds to that clinical standard.
+Our team is based in San Francisco's Inner Sunset, and we travel to Hillsborough via 280 several days a week. Your little ones are cared for by our veterinary-informed team, with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder, Alexandria, previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) and volunteered with the House Rabbit Society, administering RHDV2 vaccinations. Every caretaker on our team holds to that clinical standard.
 
 ## Why Hillsborough Exotic Pet Owners Choose Our Team
 
 Hillsborough households often have larger and more complex setups than the rest of the Peninsula — climate-controlled reptile rooms, aviaries with multiple species, free-roam bunny suites, room-scale enclosures. They also tend to travel for longer stretches and expect a sitter who can handle the property as well as the animals. We bring:
 
-- **Vet-trained discretion.** Our founder's clinical background and our specialists' training mean we approach exotic care with proper protocols, not improvisation. We respect the household and the animals equally.
+- **Vet-trained discretion.** Our team's clinical training means we approach exotic care with proper protocols, not improvisation. We respect the household and the animals equally.
 - **Species specialization.** Exotic pets and cats are our focus — rabbits, rodents, reptiles, and birds. Hillsborough households often have unusual species combinations, and our team is comfortable with them.
-- **Long-trip protocols.** Hillsborough clients often travel for two-plus weeks at a time. We're set up for it: hay restocks mid-trip, weight monitoring, consistent updates, and adjustment of visit cadence as needed.
-- **Property-aware service.** We respect the household — quiet entry and exit, secure gate handling, no unnecessary disruption, no chatter on social media about clients. What happens at your home stays there.
+- **Long-trip protocols.** Hillsborough families often travel for two-plus weeks at a time. We're set up for it: hay restocks mid-trip, weight monitoring, consistent updates, and adjustment of visit cadence as needed.
+- **Property-aware service.** We respect the household — quiet entry and exit, secure gate handling, no unnecessary disruption, no chatter on social media about the families we care for. What happens at your home stays there.
 - **Clinical-grade care.** Syringe-feeding a GI stasis rabbit, weighing a guinea pig on a gram scale, maintaining reptile humidity within a 5% range, recognizing crop issues in a parrot — everyday skills, not stretches.
 
 ## Exotic Species We Care For in Hillsborough
@@ -31,9 +31,9 @@ If your species isn't listed, [call or text us](tel:415-484-6493) — if we have
 
 ## How It Works in Hillsborough
 
-We start with a free in-person meet-and-greet — a real-time walkthrough of the property, the enclosures, the routines, and the animals. For Hillsborough clients, we typically schedule this for a quiet weekday or weekend window that respects household privacy.
+We start with a free in-person meet-and-greet — a real-time walkthrough of the property, the enclosures, the routines, and — most importantly — the animals themselves. For Hillsborough families, we typically schedule this for a quiet weekday or weekend window that respects household privacy.
 
-Once you book, we schedule visits around your itinerary. Most exotic pets do well with twice-daily visits — morning and evening — but we adjust for households where animals are housed across multiple rooms or buildings. We send photo and video updates from every visit, plus written notes on appetite, output, behavior, and any concerns. If something seems off, we reach out before you're aware of the issue from anywhere else.
+Once you book, we schedule visits around your itinerary. Most exotic pets do well with twice-daily visits — morning and evening — but we adjust for households where animals are housed across multiple rooms or buildings. We send photo and video updates from every visit, plus written notes on appetite, output, behavior, and any concerns. If something seems off, you'll hear it from us first.
 
 ## Hillsborough Areas We Serve
 
@@ -82,21 +82,21 @@ Hillsborough is in our Peninsula service tier, so a travel surcharge of $15–$2
 <details class="faq-details">
   <summary class="faq-summary">Do you handle large or complex exotic setups?</summary>
   <div class="faq-answer">
-    <p>Yes. Climate-controlled reptile rooms, multi-cage aviaries, free-roam rabbit suites, and room-scale enclosures are standard for our Hillsborough clientele. We walk through the full setup at the meet-and-greet so we can match your routines exactly — humidity controls, lighting cycles, feeding protocols, and any species-specific considerations.</p>
+    <p>Yes. Climate-controlled reptile rooms, multi-cage aviaries, free-roam rabbit suites, and room-scale enclosures are standard among the Hillsborough families we care for. We walk through the full setup at the meet-and-greet so we can match your routines exactly — humidity controls, lighting cycles, feeding protocols, and any species-specific considerations.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How do you handle privacy and discretion?</summary>
   <div class="faq-answer">
-    <p>We respect your household. Quiet entry and exit, secure gate handling, no posting about clients on social media, no unnecessary discussion of your travel schedule. What happens at your home stays there. Our team operates with the same discretion you'd expect from any household professional.</p>
+    <p>We respect your household. Quiet entry and exit, secure gate handling, no posting about the families we care for on social media, no unnecessary discussion of your travel schedule. What happens at your home stays there. Our team operates with the same discretion you'd expect from any household professional.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can you handle multi-week trips?</summary>
   <div class="faq-answer">
-    <p>Yes. Long trips are common with our Hillsborough clientele, and we're set up for them: hay and feed restocks mid-trip, weight monitoring for animals predisposed to issues, consistent updates that distinguish "everything is normal" from "let's check in," and adjustments to visit cadence based on species and individual needs.</p>
+    <p>Yes. Long trips are common for Hillsborough families, and we're set up for them: hay and feed restocks mid-trip, weight monitoring for animals predisposed to issues, consistent updates that distinguish "everything is normal" from "let's check in," and adjustments to visit cadence based on species and individual needs.</p>
   </div>
 </details>
 
@@ -121,7 +121,7 @@ Ready to discuss in-home exotic pet care for your Hillsborough home? [Call or te
       "name": "Do you handle large or complex exotic setups?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Climate-controlled reptile rooms, multi-cage aviaries, free-roam rabbit suites, and room-scale enclosures are standard for our Hillsborough clientele. We walk through the full setup at the meet-and-greet so we can match your routines exactly."
+        "text": "Yes. Climate-controlled reptile rooms, multi-cage aviaries, free-roam rabbit suites, and room-scale enclosures are standard among the Hillsborough families we care for. We walk through the full setup at the meet-and-greet so we can match your routines exactly."
       }
     },
     {
@@ -129,7 +129,7 @@ Ready to discuss in-home exotic pet care for your Hillsborough home? [Call or te
       "name": "How do you handle privacy and discretion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We respect your household. Quiet entry and exit, secure gate handling, no posting about clients on social media, no unnecessary discussion of your travel schedule. What happens at your home stays there."
+        "text": "We respect your household. Quiet entry and exit, secure gate handling, no posting about the families we care for on social media, no unnecessary discussion of your travel schedule. What happens at your home stays there."
       }
     },
     {
@@ -137,7 +137,7 @@ Ready to discuss in-home exotic pet care for your Hillsborough home? [Call or te
       "name": "Can you handle multi-week trips?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Long trips are common with our Hillsborough clientele, and we're set up for them: hay and feed restocks mid-trip, weight monitoring for animals predisposed to issues, consistent updates, and adjustments to visit cadence based on species and individual needs."
+        "text": "Yes. Long trips are common for Hillsborough families, and we're set up for them: hay and feed restocks mid-trip, weight monitoring for animals predisposed to issues, consistent updates, and adjustments to visit cadence based on species and individual needs."
       }
     },
     {

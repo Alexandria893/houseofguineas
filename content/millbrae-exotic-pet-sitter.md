@@ -1,7 +1,7 @@
 +++
 title = "Millbrae Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "Millbrae Exotic Pet Sitter"
-description = "In-home exotic pet sitting in Millbrae — rabbits, guinea pigs, reptiles, birds. Clinical-grade care from exotic vet assistants. Minutes from SFO."
+description = "In-home exotic pet sitting in Millbrae — rabbits, guinea pigs, reptiles, birds. Veterinary-informed care from our exotic pet team. Minutes from SFO."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
@@ -11,11 +11,11 @@ If you live in Millbrae, you live closer to SFO than almost anyone on the Penins
 
 House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet specialists travels down the Peninsula to provide in-home care for Millbrae households. With the Millbrae BART and Caltrain intermodal station, El Camino Real, and the 101/280 corridors all within easy reach, getting to your door — even before a pre-dawn flight — is straightforward.
 
-## Why Millbrae Exotic Pet Owners Choose Our Team
+## Why Millbrae Exotic Pet Parents Choose Our Team
 
-Millbrae sits right between Burlingame and South San Francisco in San Mateo County, and the people here tend to keep tight schedules: airport-adjacent careers, long-haul travel, early commutes on Caltrain. What exotic pet owners tell us they need is a sitter who brings the same rigor to their animals that they bring to their own work. Here is what sets us apart:
+Millbrae sits right between Burlingame and South San Francisco in San Mateo County, and the people here tend to keep tight schedules: airport-adjacent careers, long-haul travel, early commutes on Caltrain. What exotic pet parents tell us they need is a sitter who brings the same rigor to their little ones that they bring to their own work. Here is what sets us apart:
 
-- **Veterinary background.** Our founder, Alexandria, is an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and our founder previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also keep a current map of the [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/), so if something goes sideways while you are mid-flight, we know exactly where to go.
 - **Flexible scheduling.** Early-morning visits before an SFO departure, late-night visits after a red-eye arrival, and mid-day medication timing — we build the schedule around your flight manifest, not the other way around.
@@ -30,7 +30,7 @@ If your species is not listed, [call or text us](tel:415-484-6493) — if we hav
 
 ## How It Works in Millbrae
 
-We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For Millbrae pet owners, this usually happens on a weekend or after-work window that fits around the Caltrain commute and the evening rhythm of downtown Broadway.
+We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For Millbrae pet parents, this usually happens on a weekend or after-work window that fits around the Caltrain commute and the evening rhythm of downtown Broadway.
 
 Once you book, we schedule visits around your travel itinerary. Most exotic pets do well with twice-daily visits — morning and evening — so you can get a fresh salad into the rabbits before you leave for the airport and a proper lights-out check on the reptile enclosure after dinner. We send photo and video updates from every visit, plus written notes on appetite, output, and behavior. If something seems off, we reach out before you land.
 
@@ -81,21 +81,21 @@ Millbrae falls within our Peninsula service tier, so a travel surcharge of $15�
 <details class="faq-details">
   <summary class="faq-summary">I'm flying out of SFO — can you cover early-morning or same-day visits?</summary>
   <div class="faq-answer">
-    <p>Often, yes — especially for existing clients. Millbrae is only a few minutes from SFO, so our team can slot in an early-morning visit before a pre-dawn departure or a same-evening visit after you land. For brand-new clients we still need a meet-and-greet in advance, so it is best to text us at 415-484-6493 as soon as your trip is on the calendar.</p>
+    <p>Often, yes — especially for pet parents we already care for. Millbrae is only a few minutes from SFO, so our team can slot in an early-morning visit before a pre-dawn departure or a same-evening visit after you land. For families new to us, we still need a meet-and-greet in advance, so it is best to text us at 415-484-6493 as soon as your trip is on the calendar.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication administration is part of our standard service. Our team is trained in oral syringe feeding, topical applications, and nebulizer treatments — a clinical bar set by our founder, who previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet with you instead of in-home sitting?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted separately at our founder's San Francisco home — it is not a Peninsula drop-off — but Millbrae clients are very welcome to make the short drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies.</p>
+    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and Millbrae families are very welcome to make the short drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies.</p>
   </div>
 </details>
 
@@ -108,7 +108,7 @@ Millbrae falls within our Peninsula service tier, so a travel surcharge of $15�
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), look into [boarding at our San Francisco home](/home/services/exotic-pet-care-services-boarding), browse the full [FAQ page](/home/services/faqs), or check the [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory if you are still getting set up with a local vet. New guinea pig parents in Millbrae — our [guinea pig care guide](/post/guinea-pig-care-guide) is a good starting point.
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), look into [boarding with our team in San Francisco](/home/services/exotic-pet-care-services-boarding), browse the full [FAQ page](/home/services/faqs), or check the [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory if you are still getting set up with a local vet. New guinea pig parents in Millbrae — our [guinea pig care guide](/post/guinea-pig-care-guide) is a good starting point.
 
 <script type="application/ld+json">
 {
@@ -128,7 +128,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "I'm flying out of SFO — can you cover early-morning or same-day visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Often, yes — especially for existing clients. Millbrae is only a few minutes from SFO, so our team can slot in an early-morning visit before a pre-dawn departure or a same-evening visit after you land. For brand-new clients we still need a meet-and-greet in advance, so it is best to text us at 415-484-6493 as soon as your trip is on the calendar."
+        "text": "Often, yes — especially for pet parents we already care for. Millbrae is only a few minutes from SFO, so our team can slot in an early-morning visit before a pre-dawn departure or a same-evening visit after you land. For families new to us, we still need a meet-and-greet in advance, so it is best to text us at 415-484-6493 as soon as your trip is on the calendar."
       }
     },
     {
@@ -136,7 +136,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our team is trained in oral syringe feeding, topical applications, and nebulizer treatments — a clinical bar set by our founder, who previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {
@@ -144,7 +144,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet with you instead of in-home sitting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted separately at our founder's San Francisco home — it is not a Peninsula drop-off — but Millbrae clients are very welcome to make the short drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies."
+        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and Millbrae families are very welcome to make the short drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies."
       }
     },
     {

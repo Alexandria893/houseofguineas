@@ -51,7 +51,7 @@ Wood shavings are the traditional small animal bedding, but they come with serio
 
 **Important:** Most exotic veterinarians recommend against cedar and untreated pine shavings entirely. If you must use wood shavings, kiln-dried aspen is the only acceptable option.
 
-I can't tell you how many clients I've seen at the clinic bring in guinea pigs with respiratory issues, and the first question we always ask is what bedding they're using. It's that directly connected.
+I can't tell you how many families I saw at the clinic bring in guinea pigs with respiratory issues, and the first question we always asked was what bedding they were using. It's that directly connected.
 
 ### Fleece Cage Liners
 
