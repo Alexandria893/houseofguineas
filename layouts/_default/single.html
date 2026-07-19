@@ -20,7 +20,7 @@
 			</div>
 		</div> <!-- /row post  -->
 
-		{{ partial "cta-block.html" . }}
+		{{ if not .Params.hideCtaBlock }}{{ partial "cta-block.html" . }}{{ end }}
 
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2">

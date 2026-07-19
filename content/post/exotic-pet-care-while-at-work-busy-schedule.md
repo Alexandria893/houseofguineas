@@ -24,7 +24,7 @@ None of this is hard. It's just *relentless* — and when you're working 50-hour
 
 ## What routine care actually is
 
-Routine (or recurring) care is a standing arrangement: the same caretaker comes to your home on a set schedule — typically **weekly or every other week** — and handles the upkeep so it never piles up. Think of it less like a vacation sitter and more like a house cleaner who happens to be an exotic-pet expert. A typical visit covers:
+Routine (or recurring) care is a standing arrangement: your pet's caretaker comes to your home on a set schedule — typically **weekly or every other week** — and handles the upkeep so it never piles up. Think of it less like a vacation sitter and more like a house cleaner who happens to be an exotic-pet expert. A typical visit covers:
 
 - **A real cage or enclosure clean** — litter and bedding changed, spot-cleaned, fresh setup
 - **Food and water sorted** — hay restocked, chop or greens prepped, bottles and bowls cleaned
@@ -37,13 +37,13 @@ Because our team is led by an [exotic veterinary assistant](/san-francisco-calif
 ## Who this is really for
 
 - **The long-hours professional** who wants their small mammal's cage genuinely clean and their pet checked, without spending their one free evening scrubbing.
-- **The frequent work-traveler** who'd rather keep one trusted, familiar sitter on a standing basis than scramble for someone new before every trip.
+- **The frequent work-traveler** who'd rather keep a trusted, familiar caretaker on a standing basis than scramble for someone new before every trip.
 - **The new exotic owner** who wants a knowledgeable set of eyes checking in regularly while they learn the ropes.
 - **Anyone who just wants to protect the fun part.** You should get to enjoy floor time, cuddles, and popcorning — and let someone else handle the maintenance.
 
 ## "Isn't that expensive?"
 
-It's more affordable and predictable than people expect. In San Francisco, standing visits run **$95–$105/visit for one hour** (about $225–$410/month depending on whether you go every other week or weekly), or **$165–$175/visit for two hours** — with a one-hour minimum. Peninsula and farther-out pet parents add a per-visit travel amount by distance. You can see the full breakdown on our [routine & recurring care page](/routine-recurring-exotic-pet-care/).
+It's more affordable and predictable than people expect. In San Francisco, standing visits run **$95–$105/visit for one hour** (about $225–$410/month depending on whether you go every other week or weekly), or **$165–$175/visit for two hours**. Peninsula and farther-out pet parents add a per-visit travel amount by distance. You can see the full breakdown on our [routine & recurring care page](/routine-recurring-exotic-pet-care/).
 
 Compare that to what it costs — in stress, in vet bills, in guilt — when upkeep quietly slips for months. A clean environment and early health monitoring is the cheapest preventive medicine there is for an exotic pet.
 

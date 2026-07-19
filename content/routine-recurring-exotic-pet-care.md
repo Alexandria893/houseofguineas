@@ -16,7 +16,7 @@ You come home tired, the enclosure needs cleaning, and the mental checklist star
 
 ## What a Routine Visit Includes
 
-- **Their home, genuinely clean** — deep-clean, fresh litter and bedding, liners swapped.
+- **Preventative care with enclosure maintenance** — deep-clean, fresh litter and bedding, liners swapped.
 - **Meals & enrichment** — hay restocked, chop prepped, fresh water, plus handling and play.
 - **A gentle wellness check** — gram-scale weigh-ins, habitat temps and UVB, a trained eye for early signs of trouble — with a photo update every visit.
 
@@ -26,33 +26,17 @@ Every visit is a wellness check from our [veterinary-informed team](/san-francis
 
 Standing visits on a schedule you choose — every other week or weekly, one or two hours per visit.
 
-<div style="margin: 1.5rem 0; padding: 1.5rem; border: 2px solid var(--color-accent, #C4704B); border-radius: 8px;">
-  <div style="overflow-x:auto;">
-  <table style="width:100%; border-collapse:collapse; margin-bottom:1rem;">
-    <thead>
-      <tr style="border-bottom:1px solid #E2D9CE;">
-        <th style="text-align:left; padding:0.5rem 0.6rem;">Frequency</th>
-        <th style="text-align:left; padding:0.5rem 0.6rem;">1&nbsp;hour</th>
-        <th style="text-align:left; padding:0.5rem 0.6rem;">2&nbsp;hours</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom:1px solid #F3EDE5;">
-        <td style="padding:0.5rem 0.6rem;"><strong>Every&nbsp;other&nbsp;week</strong></td>
-        <td style="padding:0.5rem 0.6rem;"><strong>$105</strong>/visit<br><span style="color:#666; font-size:0.88em;">~$225/mo</span></td>
-        <td style="padding:0.5rem 0.6rem;"><strong>$175</strong>/visit<br><span style="color:#666; font-size:0.88em;">~$375/mo</span></td>
-      </tr>
-      <tr>
-        <td style="padding:0.5rem 0.6rem;"><strong>Weekly</strong></td>
-        <td style="padding:0.5rem 0.6rem;"><strong>$95</strong>/visit<br><span style="color:#666; font-size:0.88em;">~$410/mo</span></td>
-        <td style="padding:0.5rem 0.6rem;"><strong>$165</strong>/visit<br><span style="color:#666; font-size:0.88em;">~$710/mo</span></td>
-      </tr>
-    </tbody>
-  </table>
-  </div>
-  <p style="margin-bottom:0.5rem; font-size:0.95em; color:#555;">One-hour minimum on all routine visits. Monthly estimates assume an average month (~4.3 weeks). No travel charge within ~3 miles of Inner Sunset; from $15–$25/visit farther out and across the Peninsula (see <a href="/home/services/faqs/#service-areas">service areas</a>).</p>
-  <p class="text-center" style="margin-bottom:0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Let's Create Your Pet's Custom Care Plan</a></p>
-</div>
+### Every Other Week
+* **1 hour:** $105/visit (~$225/month)
+* **2 hours:** $175/visit (~$375/month)
+
+### Weekly
+* **1 hour:** $95/visit (~$410/month)
+* **2 hours:** $165/visit (~$710/month)
+
+Monthly estimates assume an average month (~4.3 weeks). No travel charge within ~3 miles of Inner Sunset; from $15–$25/visit farther out and across the Peninsula (see [service areas](/home/services/faqs/#service-areas)).
+
+<p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Let's Create Your Pet's Custom Care Plan →</a></p>
 
 Serving all of San Francisco and the Peninsula down to Redwood City: [San Francisco](/san-francisco-exotic-pet-sitter/) · [Burlingame](/burlingame-exotic-pet-sitter/) · [San Mateo](/san-mateo-exotic-pet-sitter/) · [Millbrae](/millbrae-exotic-pet-sitter/) · [Foster City](/foster-city-exotic-pet-sitter/) · [Redwood City](/redwood-city-exotic-pet-sitter/).
 
@@ -75,34 +59,16 @@ Serving all of San Francisco and the Peninsula down to Redwood City: [San Franci
 <details class="faq-details">
   <summary class="faq-summary">Can I get the same caretaker every visit?</summary>
   <div class="faq-answer">
-    <p>Yes — consistency is the point of routine care. We match you with a caretaker who becomes familiar with your pet, your home, and your routine, so every visit builds on the last. That familiarity is exactly what makes recurring care valuable, both for your pet's comfort and for catching subtle changes early.</p>
+    <p>We do our best to make sure your pet has the same caretaker every visit — that familiarity is what makes routine care special. If their caretaker is ever out with an unforeseen illness, that's where our awesome on-call PRN specialists come in, stepping in until their caretaker can return. Nothing needs to be reiterated — everything is communicated across our team, so transitions are seamless and someone who knows your pet's routine is always there for them.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How often can you come?</summary>
   <div class="faq-answer">
-    <p>Routine plans run weekly or every other week, with one- or two-hour visits (one-hour minimum). Weekly is the sweet spot for keeping most exotic pets' upkeep, feeding, and health monitoring on track — small mammals and birds especially benefit from that rhythm — but we'll recommend the right cadence for your pet at your meet-and-greet.</p>
+    <p>Routine plans run weekly or every other week, with one- or two-hour visits. Weekly is the sweet spot for keeping most exotic pets' upkeep, feeding, and health monitoring on track — small mammals and birds especially benefit from that rhythm — but we'll recommend the right cadence for your pet at your meet-and-greet.</p>
   </div>
 </details>
-
-<details class="faq-details">
-  <summary class="faq-summary">Do routine care families get priority for travel and holiday care?</summary>
-  <div class="faq-answer">
-    <p>Yes. Because we already know your pet and your home, standing routine care families are the easiest for us to cover when you travel — and you're first in line when demand is high, including holidays and peak season when availability is tightest.</p>
-  </div>
-</details>
-
-<details class="faq-details">
-  <summary class="faq-summary">What does a routine care plan cost?</summary>
-  <div class="faq-answer">
-    <p>Routine visits are priced per visit, with a one-hour minimum. Within San Francisco: every other week runs $105/visit (about $225/month) for one hour or $175/visit (about $375/month) for two; weekly runs $95/visit (about $410/month) for one hour or $165/visit (about $710/month) for two. Outside our Inner Sunset base, a per-visit travel amount applies (from $15–$25 by distance). Text us at 415-484-6493 or request a plan online for a quote tailored to your pet, schedule, and location.</p>
-  </div>
-</details>
-
----
-
-Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/book/) or [call or text us at 415-484-6493](tel:415-484-6493).
 
 <script type="application/ld+json">
 {
@@ -145,7 +111,7 @@ Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/bo
       "name": "Can I get the same caretaker every visit?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — consistency is the point of routine care. We match you with a caretaker who becomes familiar with your pet, your home, and your routine, so every visit builds on the last. That familiarity is what makes recurring care valuable, both for your pet's comfort and for catching subtle changes early."
+        "text": "We do our best to make sure your pet has the same caretaker every visit — that familiarity is what makes routine care special. If their caretaker is ever out with an unforeseen illness, our on-call PRN specialists step in until their caretaker can return. Nothing needs to be reiterated — everything is communicated across our team, so transitions are seamless and someone who knows your pet's routine is always there for them."
       }
     },
     {
@@ -153,23 +119,7 @@ Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/bo
       "name": "How often can you come for routine visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Routine plans run weekly or every other week, with one- or two-hour visits (one-hour minimum). Weekly is the sweet spot for keeping most exotic pets' upkeep, feeding, and health monitoring on track — small mammals and birds especially benefit from that rhythm — but we'll recommend the right cadence for your pet at your meet-and-greet."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do routine care families get priority for travel and holiday care?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Because we already know your pet and your home, standing routine care families are the easiest for us to cover when you travel — and you're first in line when demand is high, including holidays and peak season when availability is tightest."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What does a routine care plan cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Routine visits are priced per visit, with a one-hour minimum. Within San Francisco: every other week runs $105/visit (about $225/month) for one hour or $175/visit (about $375/month) for two; weekly runs $95/visit (about $410/month) for one hour or $165/visit (about $710/month) for two. Outside our Inner Sunset base, a per-visit travel amount applies (from $15-$25 by distance). Text us at 415-484-6493 or request a plan online for a quote tailored to your pet, schedule, and location."
+        "text": "Routine plans run weekly or every other week, with one- or two-hour visits. Weekly is the sweet spot for keeping most exotic pets' upkeep, feeding, and health monitoring on track — small mammals and birds especially benefit from that rhythm — but we'll recommend the right cadence for your pet at your meet-and-greet."
       }
     }
   ]
