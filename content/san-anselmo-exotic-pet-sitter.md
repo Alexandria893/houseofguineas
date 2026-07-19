@@ -91,7 +91,7 @@ Because our specialist is based in Central Marin, San Anselmo and the Ross Valle
 <details class="faq-details">
   <summary class="faq-summary">Do you administer medications and injections?</summary>
   <div class="faq-answer">
-    <p>Our specialists routinely handle oral syringe medications and topical treatments as part of standard care. Subcutaneous injections are handled by our founder, whose past volunteer work with the House Rabbit Society included administering RHDV2 vaccines. If your pet is on a complex protocol, share it at the meet-and-greet and we will tell you honestly what we can cover and match the schedule exactly.</p>
+    <p>Our specialists routinely handle oral syringe medications, topical treatments, and subcutaneous injections for small mammals and reptiles as part of standard care. If your pet is on a complex protocol, share it at the meet-and-greet and we will tell you honestly what we can cover and match the schedule exactly.</p>
   </div>
 </details>
 
@@ -140,7 +140,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you administer medications and injections?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our specialists routinely handle oral syringe medications and topical treatments as part of standard care. Subcutaneous injections are handled by our founder, whose past volunteer work with the House Rabbit Society included administering RHDV2 vaccines. If your pet is on a complex protocol, share it at the meet-and-greet and we will tell you honestly what we can cover and match the schedule exactly."
+        "text": "Our specialists routinely handle oral syringe medications, topical treatments, and subcutaneous injections for small mammals and reptiles as part of standard care. If your pet is on a complex protocol, share it at the meet-and-greet and we will tell you honestly what we can cover and match the schedule exactly."
       }
     },
     {

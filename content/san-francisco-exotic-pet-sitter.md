@@ -13,7 +13,7 @@ We are based in the Inner Sunset, and we offer San Francisco pet parents two way
 
 ## Why San Francisco Exotic Pet Parents Choose Us
 
-- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder, Alexandria, previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society in Richmond, where she administered subcutaneous RHDV2 vaccines. Every member of our team is trained under that same clinical lens.
+- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder, Alexandria, previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society in Richmond, California, where she administered subcutaneous RHDV2 vaccines. Every member of our team is trained under that same clinical lens.
 - **Species specialization.** Our focus on exotic pets and cats — rabbits, rodents, reptiles, and birds — is genuinely hard to find in San Francisco, where most pet sitters treat exotics as an afterthought.
 - **Clinical-grade care.** We can syringe-feed a GI-stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity and UVB, and recognize the early signs of a crop problem in a parrot. We also know the city's exotic-vet landscape — see our [San Francisco Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians) — so if something goes sideways while you are away, we know exactly where to go.
 - **Two service options, one standard of care.** Want your pet to stay in their own environment? Book in-home visits. Prefer hands-on overnight supervision? Board with a member of our team at their San Francisco home. Either way, your little ones get the same species-specific attention.
@@ -109,7 +109,7 @@ San Francisco is our **primary service area, so no travel surcharge applies** �
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. Share the protocol at the meet-and-greet and we will match the schedule exactly. For warning signs, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
+    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, subcutaneous injections for small mammals and reptiles, and nebulizer treatments. Share the protocol at the meet-and-greet and we will match the schedule exactly. For warning signs, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
   </div>
 </details>
 
@@ -158,7 +158,7 @@ Heading out of town soon? [Call or text us at 415-484-6493](tel:415-484-6493) an
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder's clinical background — including subcutaneous RHDV2 vaccine administration at the House Rabbit Society — sets the bar. Share the protocol at the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, subcutaneous injections for small mammals and reptiles, and nebulizer treatments. Share the protocol at the meet-and-greet and we will match the schedule exactly."
       }
     },
     {
