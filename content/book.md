@@ -9,7 +9,7 @@ og_image = "BunnyReceivingPets.jpg"
   priority = 0.8
 +++
 
-Tell us a little about your pet and what you need, and we'll get right back to you to talk through care and set up a meet-and-greet. Prefer to talk now? [Call or text 415-484-6493](tel:415-484-6493) or email [petcare@houseofguineas.com](mailto:petcare@houseofguineas.com).
+Tell us a little about your pet(s) and what you need, and we'll get right back to you to talk through care and set up a meet-and-greet. Prefer to talk now? [Call or text 415-484-6493](tel:415-484-6493) or email [petcare@houseofguineas.com](mailto:petcare@houseofguineas.com).
 <!--more-->
 
 <!--
