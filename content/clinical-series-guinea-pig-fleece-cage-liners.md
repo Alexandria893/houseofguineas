@@ -6,6 +6,7 @@ type = "product"
 [params]
   og_image = "clinical-series-brand.jpg"
 [menu.main]
+  name = "Shop Liners"
   parent = "resources"
 weight = 3
 [sitemap]

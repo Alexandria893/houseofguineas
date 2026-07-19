@@ -26,7 +26,7 @@ email = "petcare@houseofguineas.com"
 phone = "415-484-6493"
 # address = "San Francisco, CA"
 address = "San Francisco & Peninsula's exotic pet specialists — in-home care across SF, Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City and surrounding areas. Boarding hosted in San Francisco."
-avatar = "prof.jpeg"
+avatar = "logo-shield.svg"
 avatarclass = "circle"
 background = ""
 banner = "milo.jpeg"
@@ -56,7 +56,8 @@ weight = 1
 [[menu.main]]
   name = "Blog"
   url = "/post/"
-  weight = 6
+  parent = "resources"
+  weight = 1
 # added to include sub menu for resources in bay area
 [[menu.main]]
   name = "Resources"

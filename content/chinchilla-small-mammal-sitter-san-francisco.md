@@ -75,7 +75,7 @@ No Peninsula travel surcharge within San Francisco. Boarding is hosted personall
 <details class="faq-details">
   <summary class="faq-summary">How much does a small-mammal sitter cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care from $140–$190/day. Families on a recurring schedule can move to a flat monthly plan. No travel surcharge within San Francisco. Text us at 415-484-6493 for a quote.</p>
+    <p>30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care from $140–$190/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. No travel surcharge within San Francisco. Text us at 415-484-6493 for a quote.</p>
   </div>
 </details>
 
@@ -117,7 +117,7 @@ Ready to book care for your small companion? [Call or text 415-484-6493](tel:415
       "name": "How much does a small-mammal sitter cost in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care from $140–$190/day. Families on a recurring schedule can move to a flat monthly plan. No travel surcharge within San Francisco. Text us at 415-484-6493 for a quote."
+        "text": "30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care from $140–$190/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. No travel surcharge within San Francisco. Text us at 415-484-6493 for a quote."
       }
     }
   ]

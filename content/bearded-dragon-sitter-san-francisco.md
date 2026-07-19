@@ -75,7 +75,7 @@ Because this is in-city San Francisco, there's **no Peninsula travel surcharge**
 <details class="faq-details">
   <summary class="faq-summary">How much does a bearded dragon sitter cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care from $140–$190/day. Families on recurring care can move to a flat monthly plan. Because this is in-city San Francisco, there's no travel surcharge. Text us at 415-484-6493 for a firm quote.</p>
+    <p>30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care from $140–$190/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Because this is in-city San Francisco, there's no travel surcharge. Text us at 415-484-6493 for a firm quote.</p>
   </div>
 </details>
 
@@ -117,7 +117,7 @@ Ready to line up care for your beardie? [Call or text 415-484-6493](tel:415-484-
       "name": "How much does a bearded dragon sitter cost in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care from $140–$190/day. Families on recurring care can move to a flat monthly plan. Because this is in-city San Francisco, there's no travel surcharge. Text us at 415-484-6493 for a firm quote."
+        "text": "30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care from $140–$190/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Because this is in-city San Francisco, there's no travel surcharge. Text us at 415-484-6493 for a firm quote."
       }
     }
   ]

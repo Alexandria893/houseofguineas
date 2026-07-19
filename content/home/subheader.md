@@ -11,9 +11,9 @@ title = ""
 
 Specialized care for exotic pets is hard to come by — pet parents know that "finally!" feeling when they discover us. House of Guineas brings veterinary-informed, professional in-home care to exotic pets throughout San Francisco and the Peninsula, treating every pet with the diligence and warmth we give our own.
 
-**Travel again, worry-free — we'll handle everything at home while you're away.**
+**Travel worry-free — or take your evenings back. Either way, we come to your pet's home.**
 
-<p class="text-center"><a href="/home/services/exotic-pet-care-services-in-home/" class="btn btn-lg btn-cta-outline">Explore personalized In-Home Care</a> <a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-outline">Rest Easy with Routine Care</a></p>
+<p class="text-center"><a href="/home/services/exotic-pet-care-services-in-home/" class="btn btn-lg btn-cta-outline">Peace of Mind Care When You're Traveling</a> <a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-outline">Reclaim Your Evenings with Routine Care</a></p>
 
 <div class="trust-strip" aria-label="House of Guineas credentials">
   <div class="trust-chip">
