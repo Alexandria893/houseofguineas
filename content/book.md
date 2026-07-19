@@ -3,6 +3,8 @@ title = "Book Exotic Pet Care | San Francisco & Peninsula | House of Guineas"
 shortTitle = "Book Care"
 description = "Request in-home or recurring exotic pet care in San Francisco & the Peninsula. Tell us about your pet and dates, and we'll get back to you to set up a meet-and-greet."
 og_image = "BunnyReceivingPets.jpg"
+[params]
+  hideCtaBlock = true
 [sitemap]
   priority = 0.8
 +++

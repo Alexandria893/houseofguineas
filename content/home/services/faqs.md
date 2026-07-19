@@ -60,9 +60,9 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">Do you offer overnight pet sitting?</summary>
+  <summary class="faq-summary">Do you offer overnight pet care?</summary>
   <div class="faq-answer">
-    <p>Our pet sitting is built around dedicated visits rather than overnight stays — and if your little ones need extra time and attention, we're more than happy to arrange extended visits. Just give us a <a href="tel:415-484-6493">call/text</a> and we'll figure out a plan together.</p>
+    <p>Our pet care is built around dedicated visits rather than overnight stays — and if your little ones need extra time and attention, we're more than happy to arrange extended visits. Just give us a <a href="tel:415-484-6493">call/text</a> and we'll figure out a plan together.</p>
   </div>
 </details>
 
@@ -175,8 +175,8 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
   <p style="font-size: 1.1em;"><strong>Ready to create your perfect care plan?</strong></p>
   <p>
-    <a href="../exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-primary">In-Home Pet Care</a>
-    <a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-outline">Routine Care</a>
+    <a href="../exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-primary">Peace of Mind Care When You're Traveling</a>
+    <a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-outline">Reclaim Your Evenings with Routine Care</a>
   </p>
 </div>
 
@@ -195,10 +195,10 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
     },
     {
       "@type": "Question",
-      "name": "Do you offer overnight pet sitting?",
+      "name": "Do you offer overnight pet care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our pet sitting is built around dedicated visits rather than overnight stays — and if your little ones need extra time and attention, we're more than happy to arrange extended visits. Contact us at 415-484-6493 and we'll figure out a plan together."
+        "text": "Our pet care is built around dedicated visits rather than overnight stays — and if your little ones need extra time and attention, we're more than happy to arrange extended visits. Contact us at 415-484-6493 and we'll figure out a plan together."
       }
     },
     {
