@@ -4,6 +4,7 @@ shortTitle = "Exotic Pet Veterinarians"
 description = "Bay Area exotic pet vets and emergency hospitals — including a board-certified bird-only avian hospital. Veterinarians for reptiles, birds, guinea pigs, rabbits, and other small mammals across San Francisco, the Peninsula, and the East Bay."
 og_image = "tortoiseEatingGreens.jpg"
 [menu.main]
+  name = "Bay Area Vets"
   parent = "resources"
 [sitemap]
   priority = 0.8

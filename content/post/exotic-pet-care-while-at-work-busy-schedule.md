@@ -24,7 +24,7 @@ None of this is hard. It's just *relentless* — and when you're working 50-hour
 
 ## What routine care actually is
 
-Routine (or recurring) care is a standing arrangement: the same specialist comes to your home on a set schedule — typically **2 or 3 visits a week** — and handles the upkeep so it never piles up. Think of it less like a vacation sitter and more like a house cleaner who happens to be an exotic-pet expert. A typical visit covers:
+Routine (or recurring) care is a standing arrangement: the same caretaker comes to your home on a set schedule — typically **weekly or every other week** — and handles the upkeep so it never piles up. Think of it less like a vacation sitter and more like a house cleaner who happens to be an exotic-pet expert. A typical visit covers:
 
 - **A real cage or enclosure clean** — litter and bedding changed, spot-cleaned, fresh setup
 - **Food and water sorted** — hay restocked, chop or greens prepped, bottles and bowls cleaned
@@ -43,7 +43,7 @@ Because our team is led by an [exotic veterinary assistant](/san-francisco-calif
 
 ## "Isn't that expensive?"
 
-It's more affordable and predictable than people expect, because recurring care is priced as a flat monthly plan rather than one-off visits. In San Francisco, a standing schedule of 30-minute visits runs **$158/week ($680/month) for 2 visits a week**, or **$223/week ($960/month) for 3 visits a week**. Peninsula and farther-out pet parents add a per-visit travel amount by distance. You can see the full breakdown, including worked San Mateo examples, on our [routine & recurring care page](/routine-recurring-exotic-pet-care/).
+It's more affordable and predictable than people expect. In San Francisco, standing visits run **$95–$105/visit for one hour** (about $225–$410/month depending on whether you go every other week or weekly), or **$165–$175/visit for two hours** — with a one-hour minimum. Peninsula and farther-out pet parents add a per-visit travel amount by distance. You can see the full breakdown on our [routine & recurring care page](/routine-recurring-exotic-pet-care/).
 
 Compare that to what it costs — in stress, in vet bills, in guilt — when upkeep quietly slips for months. A clean environment and early health monitoring is the cheapest preventive medicine there is for an exotic pet.
 
@@ -74,7 +74,7 @@ We serve all of San Francisco and the Peninsula down through San Mateo, Foster C
 <details class="faq-details">
   <summary class="faq-summary">Can you just do a weekly cage cleaning for my guinea pig or rabbit?</summary>
   <div class="faq-answer">
-    <p>Yes — a standing weekly (or 2–3x/week) deep-clean, litter change, hay and food restock, and health check is one of our most common routine arrangements. We handle the maintenance so you don't have to.</p>
+    <p>Yes — a standing weekly (or every-other-week) deep-clean, litter change, hay and food restock, and health check is one of our most common routine arrangements. We handle the maintenance so you don't have to.</p>
   </div>
 </details>
 
@@ -107,7 +107,7 @@ Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/bo
       "name": "Can you just do a weekly cage cleaning for my guinea pig or rabbit?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — a standing weekly (or 2-3x/week) deep-clean, litter change, hay and food restock, and health check is one of our most common routine arrangements. We handle the maintenance so you don't have to."
+        "text": "Yes — a standing weekly (or every-other-week) deep-clean, litter change, hay and food restock, and health check is one of our most common routine arrangements. We handle the maintenance so you don't have to."
       }
     },
     {

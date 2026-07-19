@@ -11,10 +11,10 @@
         <a href="/exotic-pet-vet-visits-emergency-care/" class="mobile-nav__dropdown-item">Vet &amp; Emergency Care</a>
       </div>
     </div>
-    <a href="/post/" class="mobile-nav__link{{ if eq .Section "post" }} mobile-nav__link--active{{ end }}">Blog</a>
     <div class="mobile-nav__dropdown">
-      <button type="button" class="mobile-nav__link mobile-nav__link--parent{{ if or (eq .RelPermalink "/resources/") (eq .RelPermalink "/clinical-series-guinea-pig-fleece-cage-liners/") (eq .RelPermalink "/san-francisco-bay-area-exotic-veterinarians/") (eq .RelPermalink "/san-mateo-peninsula-exotic-veterinarians/") }} mobile-nav__link--active{{ end }}" aria-expanded="false">Resources <i class="fa-solid fa-chevron-down mobile-nav__caret"></i></button>
+      <button type="button" class="mobile-nav__link mobile-nav__link--parent{{ if or (eq .RelPermalink "/resources/") (eq .Section "post") (eq .RelPermalink "/clinical-series-guinea-pig-fleece-cage-liners/") (eq .RelPermalink "/san-francisco-bay-area-exotic-veterinarians/") (eq .RelPermalink "/san-mateo-peninsula-exotic-veterinarians/") }} mobile-nav__link--active{{ end }}" aria-expanded="false">Resources <i class="fa-solid fa-chevron-down mobile-nav__caret"></i></button>
       <div class="mobile-nav__dropdown-menu">
+        <a href="/post/" class="mobile-nav__dropdown-item">Blog</a>
         <a href="/clinical-series-guinea-pig-fleece-cage-liners/" class="mobile-nav__dropdown-item">Shop Liners</a>
         <a href="/san-francisco-bay-area-exotic-veterinarians/" class="mobile-nav__dropdown-item">Bay Area Vets</a>
         <a href="/san-mateo-peninsula-exotic-veterinarians/" class="mobile-nav__dropdown-item">Peninsula Vets</a>
