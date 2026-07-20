@@ -98,7 +98,7 @@ Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. That training bar comes from real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
+    <p>Bring the med list to the meet-and-greet and consider it handled. Oral syringe dosing, topical treatments, and subcutaneous injections are all standard scope for our caretakers, alongside nebulizer treatments — a clinical bar that traces back to our founder's earlier work administering subcutaneous RHDV2 vaccines at the House Rabbit Society. We match your vet's protocol exactly, and for pet parents timing doses around SFO departures, we build the visit schedule so nothing slips while you are in the air. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
   </div>
 </details>
 
@@ -112,7 +112,7 @@ Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">How much does a Burlingame exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Burlingame sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance. <a href="tel:415-484-6493">Text us your address and dates</a> for a firm quote.</p>
+    <p>Plan on $85 for a 30-minute visit and $115 for a full hour. Most traveling families book twice-daily care, which runs $140–$190 per day depending on visit length and how many little ones are on the roster. Burlingame sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance — <a href="tel:415-484-6493">text us your address and travel dates</a> and we will confirm your exact rate before you ever reach the SFO security line.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. That training bar comes from real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Bring the med list to the meet-and-greet and consider it handled. Oral syringe dosing, topical treatments, and subcutaneous injections are all standard scope for our caretakers, alongside nebulizer treatments — a clinical bar that traces back to our founder's earlier work administering subcutaneous RHDV2 vaccines at the House Rabbit Society. We match your vet's protocol exactly, and for pet parents timing doses around SFO departures, we build the visit schedule so nothing slips while you are in the air. For signs that something is escalating, see our guide on signs your guinea pig needs a vet."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet with you instead of in-home sitting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding happens up in San Francisco, hosted personally by members of our team in their homes, and Burlingame families are very welcome to make the short drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies."
+        "text": "Yes. Boarding happens up in San Francisco, hosted personally by members of our team in their homes, and Burlingame families are very welcome to make the short drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Details are on the boarding page."
       }
     },
     {
@@ -162,7 +162,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Burlingame exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Burlingame sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
+        "text": "Plan on $85 for a 30-minute visit and $115 for a full hour. Most traveling families book twice-daily care, which runs $140–$190 per day depending on visit length and how many little ones are on the roster. Burlingame sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance — text us your address and travel dates and we will confirm your exact rate before you ever reach the SFO security line."
       }
     }
   ]

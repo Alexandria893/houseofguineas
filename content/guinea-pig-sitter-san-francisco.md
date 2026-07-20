@@ -98,14 +98,14 @@ These are in-city San Francisco visits, so there is **no Peninsula travel surcha
 <details class="faq-details">
   <summary class="faq-summary">Do you offer small-mammal boarding?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, not a facility. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so they stay on a familiar routine. Full details are on the boarding page.</p>
+    <p>We do, in a limited way — a few spots at a time, hosted personally by members of our team in their San Francisco homes at $75 per night. Bring your pigs' usual enclosure and supplies, and nothing about their routine changes but the address.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Francisco guinea pig sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. These are in-city San Francisco visits, so there is no Peninsula travel surcharge. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>For a single pig or a bonded pair in the city, a 30-minute visit at $85 usually covers hay, vegetables with their daily vitamin C, and a gram-scale weigh-in comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $115. Pet parents who want morning and evening feeds book twice-daily care at $140–$190 per day depending on visit length and how many pigs are in the herd. These are in-city San Francisco visits, so no travel surcharge applies. Text 415-484-6493 with your dates for an exact quote.</p>
   </div>
 </details>
 
@@ -147,7 +147,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "Do you offer small-mammal boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, not a facility. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so they stay on a familiar routine. Full details are on the boarding page."
+        "text": "We do, in a limited way — a few spots at a time, hosted personally by members of our team in their San Francisco homes at $75 per night. Bring your pigs' usual enclosure and supplies, and nothing about their routine changes but the address."
       }
     },
     {
@@ -155,7 +155,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "How much does a San Francisco guinea pig sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. These are in-city San Francisco visits, so there is no Peninsula travel surcharge. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "For a single pig or a bonded pair in the city, a 30-minute visit at $85 usually covers hay, vegetables with their daily vitamin C, and a gram-scale weigh-in comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $115. Pet parents who want morning and evening feeds book twice-daily care at $140–$190 per day depending on visit length and how many pigs are in the herd. These are in-city San Francisco visits, so no travel surcharge applies. Text 415-484-6493 with your dates for an exact quote."
       }
     }
   ]

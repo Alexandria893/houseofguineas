@@ -106,7 +106,7 @@ Ready to book care for your small companion? [Call or text 415-484-6493](tel:415
     },
     {
       "@type": "Question",
-      "name": "Why not just use a regular pet sitter for a small mammal?",
+      "name": "Why not just use a regular pet sitter?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Small mammals are easy to underestimate. A gram-scale weigh-in, spotting the early signs of GI stasis, syringe-feeding critical-care formula, or knowing a chinchilla can't tolerate heat — these aren't things a general dog-and-cat sitter is trained for. Our caretakers are, trained to the standard set by our team's exotic veterinary hospital experience."

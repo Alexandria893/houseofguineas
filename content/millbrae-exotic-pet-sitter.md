@@ -90,21 +90,21 @@ Millbrae falls within our Peninsula service tier, so a travel surcharge of $15�
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our team is trained in oral syringe feeding, topical applications, and nebulizer treatments — a clinical bar set by our founder, who previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication administration is part of our standard service. Our team is trained across the full range — oral syringe meds, topical treatments, nebulizer sessions, and subcutaneous injections — a clinical bar set by our founder, who previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet with you instead of in-home sitting?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and Millbrae families are very welcome to make the short drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies.</p>
+    <p>Absolutely — members of our team host boarding personally in their San Francisco homes, an easy hop up the 101 from Millbrae. It runs $75 per night, spots are limited, and we ask that you bring your pet's usual enclosure and supplies.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a Millbrae exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Millbrae sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance.</p>
+    <p>Most Millbrae families flying out of SFO book twice-daily care, which runs $140–$190 per day depending on visit length and the number of pets. On their own, 30-minute visits are $85 and 60-minute visits are $115. Millbrae falls within our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance — text us at 415-484-6493 with your address and dates and we will confirm your exact rate.</p>
   </div>
 </details>
 
@@ -138,7 +138,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our team is trained in oral syringe feeding, topical applications, and nebulizer treatments — a clinical bar set by our founder, who previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our team is trained across the full range — oral syringe meds, topical treatments, nebulizer sessions, and subcutaneous injections — a clinical bar set by our founder, who previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet with you instead of in-home sitting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and Millbrae families are very welcome to make the short drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies."
+        "text": "Absolutely — members of our team host boarding personally in their San Francisco homes, an easy hop up the 101 from Millbrae. It runs $75 per night, spots are limited, and we ask that you bring your pet's usual enclosure and supplies."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Millbrae exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Millbrae sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
+        "text": "Most Millbrae families flying out of SFO book twice-daily care, which runs $140–$190 per day depending on visit length and the number of pets. On their own, 30-minute visits are $85 and 60-minute visits are $115. Millbrae falls within our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance — text us at 415-484-6493 with your address and dates and we will confirm your exact rate."
       }
     }
   ]

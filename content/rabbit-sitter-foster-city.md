@@ -101,9 +101,9 @@ Foster City is in our Peninsula service tier, so a travel surcharge of $15–$25
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">Can you administer my rabbit's medication?</summary>
+  <summary class="faq-summary">Can you give my rabbit's medications, including injections?</summary>
   <div class="faq-answer">
-    <p>Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder previously administered subcutaneous RHDV2 vaccines as a House Rabbit Society volunteer, so sub-Q is something our team is genuinely comfortable with.</p>
+    <p>We can, and that includes the full range: oral meds, topical applications, and subcutaneous injections are all part of our team's standard scope — which matters on the multi-week trips Foster City families often take, when a course of medication cannot simply wait until you are home. Our founder previously gave subcutaneous RHDV2 vaccines under veterinary direction with the House Rabbit Society, and our caretakers are trained to that same standard. Bring the protocol to the meet-and-greet and we will match it dose for dose.</p>
   </div>
 </details>
 
@@ -128,7 +128,7 @@ Ready to book in-home rabbit care? [Call or text us at 415-484-6493](tel:415-484
       "name": "Do you handle long trips for Foster City families?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — multi-week trips are a big part of life for the Foster City families we care for. We're set up for them: hay restocks mid-trip, weight monitoring if your rabbit is pre-disposed to issues, and consistent updates that tell you the difference between everything is normal and let's check in."
+        "text": "Yes — multi-week trips are a big part of life for the Foster City families we care for. We're set up for them: hay restocks mid-trip, weight monitoring if your rabbit is pre-disposed to issues, and consistent updates that tell you the difference between \"everything is normal\" and \"let's check in.\" If you're going for more than two weeks, we'll usually recommend a small adjustment to visit cadence — let's talk about it at the meet-and-greet."
       }
     },
     {
@@ -141,10 +141,10 @@ Ready to book in-home rabbit care? [Call or text us at 415-484-6493](tel:415-484
     },
     {
       "@type": "Question",
-      "name": "Can you administer my rabbit's medication?",
+      "name": "Can you give my rabbit's medications, including injections?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder previously administered subcutaneous RHDV2 vaccines as a House Rabbit Society volunteer, so sub-Q is something our team is genuinely comfortable with."
+        "text": "We can, and that includes the full range: oral meds, topical applications, and subcutaneous injections are all part of our team's standard scope — which matters on the multi-week trips Foster City families often take, when a course of medication cannot simply wait until you are home. Our founder previously gave subcutaneous RHDV2 vaccines under veterinary direction with the House Rabbit Society, and our caretakers are trained to that same standard. Bring the protocol to the meet-and-greet and we will match it dose for dose."
       }
     },
     {

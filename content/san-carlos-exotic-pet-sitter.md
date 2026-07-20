@@ -85,28 +85,28 @@ San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in San Carlos?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes small mammals like rabbits (including bonded pairs), guinea pigs, chinchillas, ferrets, hamsters, and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds, and finches. If your species is not on that list, text us and we will tell you honestly whether we can help.</p>
+    <p>Just about anything small, scaled, or feathered — plus the family cat. Small mammals range from bonded rabbit pairs to guinea pigs, chinchillas, ferrets, hamsters, and rats. Reptile care covers bearded dragons, leopard and crested geckos, turtles, tortoises, and ball pythons and other non-venomous snakes, which are legal to keep in San Carlos. For birds, think parrots, cockatiels, conures, budgies, lovebirds, and finches. Keeping something more unusual? Text us and we will tell you honestly whether we can help.</p>
   </div>
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
+  <summary class="faq-summary">Can your team handle my pet's medication schedule?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society, and that clinical bar shapes how our whole team trains. If your little one is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly. New to small-pet care? Our <a href="/post/guinea-pig-care-guide">guinea pig care guide</a> is a good primer.</p>
+    <p>Bring us the vet's instructions and consider it covered. Oral medications, topical treatments, and subcutaneous injections are all standard scope for every caretaker on our team — a bar set by our founder, who previously administered subcutaneous RHDV2 vaccines as a House Rabbit Society volunteer. Whether your little one lives up in the hills or a block off Laurel Street, walk us through the protocol at the meet-and-greet and we will match it to the minute. New to small-pet care? Our <a href="/post/guinea-pig-care-guide">guinea pig care guide</a> is a good primer.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet with you instead of in-home sitting?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and San Carlos families are welcome to make the drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Details are on the <a href="/home/services/exotic-pet-care-services-boarding">boarding page</a>.</p>
+    <p>Boarding is available at $75 per night, and every stay is hosted personally by a member of our team in their own San Francisco home. Spots are limited, so families here in the City of Good Living should reserve ahead of busy travel weeks — and bring the usual enclosure and supplies so everything feels familiar. Details are on the <a href="/home/services/exotic-pet-care-services-boarding">boarding page</a>.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Carlos exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. San Carlos sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance. <a href="tel:415-484-6493">Text us your address and dates</a> for a firm quote.</p>
+    <p>San Carlos visits follow our standard Peninsula rates: $85 for a 30-minute visit, $115 for a 60-minute visit, and $140–$190 per day for twice-daily care, depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies, depending on distance. Wherever you are between the hills and the Caltrain line, <a href="tel:415-484-6493">text us your address and dates</a> and we will confirm your exact rate.</p>
   </div>
 </details>
 
@@ -132,15 +132,15 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "What kinds of exotic pets do you care for in San Carlos?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes small mammals like rabbits (including bonded pairs), guinea pigs, chinchillas, ferrets, hamsters, and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds, and finches. If your species is not on that list, text us and we will tell you honestly whether we can help."
+        "text": "Just about anything small, scaled, or feathered — plus the family cat. Small mammals range from bonded rabbit pairs to guinea pigs, chinchillas, ferrets, hamsters, and rats. Reptile care covers bearded dragons, leopard and crested geckos, turtles, tortoises, and ball pythons and other non-venomous snakes, which are legal to keep in San Carlos. For birds, think parrots, cockatiels, conures, budgies, lovebirds, and finches. Keeping something more unusual? Text us and we will tell you honestly whether we can help."
       }
     },
     {
       "@type": "Question",
-      "name": "What if my exotic pet needs medication while I'm traveling?",
+      "name": "Can your team handle my pet's medication schedule?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society, and that clinical bar shapes how our whole team trains. If your little one is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Bring us the vet's instructions and consider it covered. Oral medications, topical treatments, and subcutaneous injections are all standard scope for every caretaker on our team — a bar set by our founder, who previously administered subcutaneous RHDV2 vaccines as a House Rabbit Society volunteer. Whether your little one lives up in the hills or a block off Laurel Street, walk us through the protocol at the meet-and-greet and we will match it to the minute. New to small-pet care? Our guinea pig care guide is a good primer."
       }
     },
     {
@@ -148,7 +148,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet with you instead of in-home sitting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and San Carlos families are welcome to make the drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home."
+        "text": "Boarding is available at $75 per night, and every stay is hosted personally by a member of our team in their own San Francisco home. Spots are limited, so families here in the City of Good Living should reserve ahead of busy travel weeks — and bring the usual enclosure and supplies so everything feels familiar. Details are on the boarding page."
       }
     },
     {
@@ -156,7 +156,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "How much does a San Carlos exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. San Carlos sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
+        "text": "San Carlos visits follow our standard Peninsula rates: $85 for a 30-minute visit, $115 for a 60-minute visit, and $140–$190 per day for twice-daily care, depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies, depending on distance. Wherever you are between the hills and the Caltrain line, text us your address and dates and we will confirm your exact rate."
       }
     }
   ]

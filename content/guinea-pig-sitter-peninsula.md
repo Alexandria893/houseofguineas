@@ -95,7 +95,7 @@ The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** ap
 <details class="faq-details">
   <summary class="faq-summary">Do you care for a bonded pair or a whole herd of guinea pigs?</summary>
   <div class="faq-answer">
-    <p>Absolutely — guinea pigs are the heart of what we do, and we regularly care for bonded pairs, trios, and full herds. Each pig gets weighed on a gram scale and monitored individually for appetite and output, so even in a group we catch if one animal is off. Just tell us how many pigs and their setup during the meet-and-greet.</p>
+    <p>Herds are welcome — pairs, trios, and full piggy rooms are all in a day's work for our caretakers on the Peninsula. Every pig still gets an individual gram-scale weigh-in and their own appetite-and-output check, because in a group it's easy for one quiet pig to hide a problem. Just walk us through the headcount and setup at your meet-and-greet.</p>
   </div>
 </details>
 
@@ -116,7 +116,7 @@ The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** ap
 <details class="faq-details">
   <summary class="faq-summary">How much does a Peninsula guinea pig sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>A guinea pig visit is mostly hands-on time — hay restock, fresh vegetables with a vitamin C source, a water change, spot-cleaning, and a gram-scale weigh-in — so pricing follows visit length: $85 for 30 minutes, $115 for 60 minutes, and $140–$190 per day for twice-daily care depending on visit length and the number of pets. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -142,7 +142,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "Do you care for a bonded pair or a whole herd of guinea pigs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely — guinea pigs are the heart of what we do, and we regularly care for bonded pairs, trios, and full herds. Each pig gets weighed on a gram scale and monitored individually for appetite and output, so even in a group we catch if one animal is off. Just tell us how many pigs and their setup during the meet-and-greet."
+        "text": "Herds are welcome — pairs, trios, and full piggy rooms are all in a day's work for our caretakers on the Peninsula. Every pig still gets an individual gram-scale weigh-in and their own appetite-and-output check, because in a group it's easy for one quiet pig to hide a problem. Just walk us through the headcount and setup at your meet-and-greet."
       }
     },
     {
@@ -158,7 +158,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "How do you coordinate with local exotic vets on the Peninsula?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We know the Peninsula's exotic vet landscape well. Peninsula small-mammal families are often established with All Pets Hospital in San Mateo, Peninsula Pet Hospital in Burlingame, or Adobe Animal Hospital in Los Altos, with Bay Area Bird & Exotics Hospital in San Francisco as the nearest specialty option. During the meet-and-greet we record your preferred vet and emergency contacts."
+        "text": "We know the Peninsula's exotic vet landscape well. Peninsula small-mammal families are often established with All Pets Hospital in San Mateo, Peninsula Pet Hospital in Burlingame, or Adobe Animal Hospital in Los Altos, with Bay Area Bird & Exotics Hospital in San Francisco as the nearest specialty option. During the meet-and-greet we record your preferred vet and emergency contacts. More on the regional network is on our Peninsula exotic veterinarians directory."
       }
     },
     {
@@ -166,7 +166,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "How much does a Peninsula guinea pig sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "A guinea pig visit is mostly hands-on time — hay restock, fresh vegetables with a vitamin C source, a water change, spot-cleaning, and a gram-scale weigh-in — so pricing follows visit length: $85 for 30 minutes, $115 for 60 minutes, and $140–$190 per day for twice-daily care depending on visit length and the number of pets. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

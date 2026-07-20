@@ -162,7 +162,7 @@ Ready to set up care? [Call or text us at 415-484-6493](tel:415-484-6493) and we
       "name": "How do you coordinate with local exotic vets in San Mateo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We know the Peninsula's exotic vet landscape well. San Mateo pet parents are often established with All Pets Hospital in San Mateo, Peninsula Pet Hospital in Burlingame, or Adobe Animal Hospital in Los Altos. During the meet-and-greet we record your preferred vet, authorization preferences, and emergency contacts. If something comes up mid-trip, we communicate directly with the clinic and keep you in the loop."
+        "text": "We know the Peninsula's exotic vet landscape well. San Mateo pet parents are often established with All Pets Hospital in San Mateo, Peninsula Pet Hospital in Burlingame, or Adobe Animal Hospital in Los Altos. During the meet-and-greet we record your preferred vet, authorization preferences, and emergency contacts. If something comes up mid-trip, we communicate directly with the clinic and keep you in the loop. More on the broader regional network is on our Bay Area exotic veterinarians page."
       }
     },
     {
@@ -170,7 +170,7 @@ Ready to set up care? [Call or text us at 415-484-6493](tel:415-484-6493) and we
       "name": "What species of exotic pets have you cared for in San Mateo?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our team has experience caring for rabbits (single and bonded pairs), guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, leopard and crested geckos, ball pythons, corn snakes, turtles, tortoises, parrots, cockatiels, conures, and budgies."
+        "text": "Our team has experience caring for rabbits (single and bonded pairs), guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, leopard and crested geckos, ball pythons, corn snakes, turtles, tortoises, parrots, cockatiels, conures, and budgies. If you'd like to see more detail on what species-specific care looks like, our guinea pig care guide and Bay Area rabbit care guide are good starting points."
       }
     },
     {
@@ -178,7 +178,7 @@ Ready to set up care? [Call or text us at 415-484-6493](tel:415-484-6493) and we
       "name": "What does in-home exotic pet sitting in San Mateo cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $85 and 60-minute visits start at $115. Most families booking twice-daily care fall between $140 and $190 per day depending on species, number of pets, and visit length. San Mateo is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
+        "text": "30-minute visits start at $85 and 60-minute visits start at $115. Most families booking twice-daily care fall between $140 and $190 per day depending on species, number of pets, and visit length. San Mateo is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. Reach out with your neighborhood and pet list for an exact quote."
       }
     }
   ]

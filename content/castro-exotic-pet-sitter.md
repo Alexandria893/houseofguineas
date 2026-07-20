@@ -81,30 +81,30 @@ The Castro is within San Francisco, our home city, so there is no Peninsula trav
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">What kinds of exotic pets do you care for in the Castro?</summary>
+  <summary class="faq-summary">Which exotic pets do you care for in the Castro?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide.</p>
+    <p>Our care list covers the whole exotic family, plus cats — and yes, we are used to third-floor Victorian walk-ups. Small mammals: rabbits (bonded pairs and trios included), guinea pigs, chinchillas, ferrets, hamsters and rats. Reptiles: bearded dragons, leopard and crested geckos, turtles and tortoises. Birds: parrots, cockatiels, conures, budgies, lovebirds and finches. If a guinea pig just joined your household, our guinea pig care guide is a good first read.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Your pet's caretaker is trained in oral syringe feeding, topical applications, and nebulizer treatments, with a clinical bar set by our team's veterinary-informed backgrounds — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Just hand the protocol to your pet's caretaker at the meet-and-greet — oral syringe meds, topical treatments, and subcutaneous injections are all standard scope for our team, along with nebulizer treatments. That clinical bar has real history behind it: our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society. Whether your rabbit's meds live in a Castro Street flat or a hillside condo, every dose stays on schedule.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in the Castro?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, a short trip from the Castro. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>We do offer it. Boarding is hosted personally by members of our team in their San Francisco homes — a short trip from the Castro — at $75 per night, with limited spots, and you bring your pet's usual enclosure and supplies. Details are on the boarding page.</p>
   </div>
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">How much does a Castro exotic pet sitter cost?</summary>
+  <summary class="faq-summary">What does exotic pet sitting cost in the Castro?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Castro is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Pricing in the Castro is the same simple in-city rate we charge across San Francisco — no Peninsula travel surcharge, even up the steep blocks toward Twin Peaks. A 30-minute visit starts at $85, a 60-minute visit at $115, and twice-daily care runs $140–$190 per day depending on visit length and how many pets are on the roster. Text 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -127,10 +127,10 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
     },
     {
       "@type": "Question",
-      "name": "What kinds of exotic pets do you care for in the Castro?",
+      "name": "Which exotic pets do you care for in the Castro?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide."
+        "text": "Our care list covers the whole exotic family, plus cats — and yes, we are used to third-floor Victorian walk-ups. Small mammals: rabbits (bonded pairs and trios included), guinea pigs, chinchillas, ferrets, hamsters and rats. Reptiles: bearded dragons, leopard and crested geckos, turtles and tortoises. Birds: parrots, cockatiels, conures, budgies, lovebirds and finches. If a guinea pig just joined your household, our guinea pig care guide is a good first read."
       }
     },
     {
@@ -138,7 +138,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Your pet's caretaker is trained in oral syringe feeding, topical applications, and nebulizer treatments, with a clinical bar set by our team's veterinary-informed backgrounds — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Just hand the protocol to your pet's caretaker at the meet-and-greet — oral syringe meds, topical treatments, and subcutaneous injections are all standard scope for our team, along with nebulizer treatments. That clinical bar has real history behind it: our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society. Whether your rabbit's meds live in a Castro Street flat or a hillside condo, every dose stays on schedule."
       }
     },
     {
@@ -146,15 +146,15 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in the Castro?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, a short trip from the Castro. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
+        "text": "We do offer it. Boarding is hosted personally by members of our team in their San Francisco homes — a short trip from the Castro — at $75 per night, with limited spots, and you bring your pet's usual enclosure and supplies. Details are on the boarding page."
       }
     },
     {
       "@type": "Question",
-      "name": "How much does a Castro exotic pet sitter cost?",
+      "name": "What does exotic pet sitting cost in the Castro?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Castro is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Pricing in the Castro is the same simple in-city rate we charge across San Francisco — no Peninsula travel surcharge, even up the steep blocks toward Twin Peaks. A 30-minute visit starts at $85, a 60-minute visit at $115, and twice-daily care runs $140–$190 per day depending on visit length and how many pets are on the roster. Text 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

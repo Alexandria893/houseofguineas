@@ -83,28 +83,28 @@ Because Pacifica sits just down the coast from San Francisco on Highway 1, it is
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in Pacifica?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide.</p>
+    <p>Everything from the guinea pigs popcorning in a Linda Mar living room to the cockatiel watching the fog roll in. We care for guinea pigs, rabbits, chinchillas, ferrets, hamsters, and rats, with cats happily added to the same visit. Reptile families are welcome too — bearded dragons, leopard and crested geckos, turtles, tortoises, and, since Pacifica sits outside San Francisco's snake rules, ball pythons and other non-venomous snakes. For the bird flock: parrots, cockatiels, conures, budgies, lovebirds, and finches. New guinea pig parents can start with our guinea pig care guide.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication is part of our standard care. Our team is trained in oral syringe feeding, topical applications, and nebulizer treatments — training built on real clinical experience, including our founder's past volunteer work administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your little one is on a complex protocol, walk us through it at the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication is part of our standard care. Our team is trained in oral syringe feeding, topical applications, nebulizer treatments, and subcutaneous injections — training built on real clinical experience, including our founder's past volunteer work administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your little one is on a complex protocol, walk us through it at the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Pacifica?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and since Pacifica is just up Highway 1, drop-off and pick-up are a short drive. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Full details are on the boarding page.</p>
+    <p>We do — a small number of spots, hosted personally by members of our team in their San Francisco homes, at $75 per night. Pacifica families just bring the usual enclosure and supplies along for the drive up Highway 1. Full details are on the boarding page.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a Pacifica exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Pacifica sits just down the coast from San Francisco on Highway 1, a travel surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates to book.</p>
+    <p>Pricing on the coast matches the rest of our route: $85 for a 30-minute visit, $115 for a full hour, and $140–$190 per day for twice-daily care, depending on visit length and the number of pets. Because Highway 1 is part of the trip, a travel surcharge of $15–$25/visit applies depending on distance. From Linda Mar to Sharp Park, text us at 415-484-6493 with your address and dates and we will confirm your rate.</p>
   </div>
 </details>
 
@@ -130,7 +130,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in Pacifica?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide."
+        "text": "Everything from the guinea pigs popcorning in a Linda Mar living room to the cockatiel watching the fog roll in. We care for guinea pigs, rabbits, chinchillas, ferrets, hamsters, and rats, with cats happily added to the same visit. Reptile families are welcome too — bearded dragons, leopard and crested geckos, turtles, tortoises, and, since Pacifica sits outside San Francisco's snake rules, ball pythons and other non-venomous snakes. For the bird flock: parrots, cockatiels, conures, budgies, lovebirds, and finches. New guinea pig parents can start with our guinea pig care guide."
       }
     },
     {
@@ -138,7 +138,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication is part of our standard care. Our team is trained in oral syringe feeding, topical applications, and nebulizer treatments — training built on real clinical experience, including our founder's past volunteer work administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your little one is on a complex protocol, walk us through it at the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication is part of our standard care. Our team is trained in oral syringe feeding, topical applications, nebulizer treatments, and subcutaneous injections — training built on real clinical experience, including our founder's past volunteer work administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your little one is on a complex protocol, walk us through it at the meet-and-greet and we will match the schedule exactly."
       }
     },
     {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in Pacifica?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and since Pacifica is just up Highway 1, drop-off and pick-up are a short drive. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Full details are on the boarding page."
+        "text": "We do — a small number of spots, hosted personally by members of our team in their San Francisco homes, at $75 per night. Pacifica families just bring the usual enclosure and supplies along for the drive up Highway 1. Full details are on the boarding page."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Pacifica exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Pacifica sits just down the coast from San Francisco on Highway 1, a travel surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates to book."
+        "text": "Pricing on the coast matches the rest of our route: $85 for a 30-minute visit, $115 for a full hour, and $140–$190 per day for twice-daily care, depending on visit length and the number of pets. Because Highway 1 is part of the trip, a travel surcharge of $15–$25/visit applies depending on distance. From Linda Mar to Sharp Park, text us at 415-484-6493 with your address and dates and we will confirm your rate."
       }
     }
   ]

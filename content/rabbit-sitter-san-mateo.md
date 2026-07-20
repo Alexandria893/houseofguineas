@@ -94,9 +94,9 @@ San Mateo is in our Peninsula service tier, so a travel surcharge of $15–$25/v
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">Can you administer my rabbit's medication?</summary>
+  <summary class="faq-summary">Do your caretakers handle rabbit medications?</summary>
   <div class="faq-answer">
-    <p>Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with.</p>
+    <p>Yes. Every caretaker on our team handles oral, topical, and subcutaneous medications as standard scope — including the trickier case where one rabbit in a bonded pair needs meds and the other absolutely does not. The training traces back to our founder's time volunteering with the House Rabbit Society, where she previously administered subcutaneous RHDV2 vaccines under vet direction. Show us the protocol at the meet-and-greet and we will keep it right on schedule.</p>
   </div>
 </details>
 
@@ -133,10 +133,10 @@ Ready to book in-home rabbit care? [Call or text us at 415-484-6493](tel:415-484
     },
     {
       "@type": "Question",
-      "name": "Can you administer my rabbit's medication?",
+      "name": "Do your caretakers handle rabbit medications?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with."
+        "text": "Yes. Every caretaker on our team handles oral, topical, and subcutaneous medications as standard scope — including the trickier case where one rabbit in a bonded pair needs meds and the other absolutely does not. The training traces back to our founder's time volunteering with the House Rabbit Society, where she previously administered subcutaneous RHDV2 vaccines under vet direction. Show us the protocol at the meet-and-greet and we will keep it right on schedule."
       }
     },
     {

@@ -90,21 +90,21 @@ SOMA is within San Francisco, our home city, so there is no Peninsula travel sur
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in SOMA?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
+    <p>Exotic pets share top billing with cats here. SOMA's condos and lofts suit the whole roster: reptiles (bearded dragons, leopard and crested geckos, turtles, tortoises), small mammals (guinea pigs, rabbits, chinchillas, ferrets, hamsters, rats), and birds (parrots, cockatiels, conures, budgies, lovebirds, finches). From a twentieth-floor high-rise to a ground-floor loft, the visit works the same. New guinea pig parents can start with our guinea pig care guide.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in SOMA?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, a short trip from SOMA. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>There is a boarding option, yes — hosted personally by members of our team in their San Francisco homes at $75 per night, with your pet's usual enclosure and supplies coming along. Spots are limited, so SOMA pet parents with firm travel dates should ask early. Details are on the boarding page.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a SOMA exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine daily care ranging from $140–$190 per day depending on visit length and the number of pets. SOMA is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Expect $85 to start for a 30-minute visit and $115 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $140–$190 per day based on visit length and number of pets. High-rise living does not change the price — SOMA is in-city for us, so there is no Peninsula travel surcharge; just leave access notes for your building's front desk. Text 415-484-6493 with your dates and we will quote it firm.</p>
   </div>
 </details>
 
@@ -138,7 +138,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in SOMA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; small mammals like guinea pigs, rabbits, chinchillas, ferrets, hamsters and rats; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
+        "text": "Exotic pets share top billing with cats here. SOMA's condos and lofts suit the whole roster: reptiles (bearded dragons, leopard and crested geckos, turtles, tortoises), small mammals (guinea pigs, rabbits, chinchillas, ferrets, hamsters, rats), and birds (parrots, cockatiels, conures, budgies, lovebirds, finches). From a twentieth-floor high-rise to a ground-floor loft, the visit works the same. New guinea pig parents can start with our guinea pig care guide."
       }
     },
     {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in SOMA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, a short trip from SOMA. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
+        "text": "There is a boarding option, yes — hosted personally by members of our team in their San Francisco homes at $75 per night, with your pet's usual enclosure and supplies coming along. Spots are limited, so SOMA pet parents with firm travel dates should ask early. Details are on the boarding page."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a SOMA exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine daily care ranging from $140–$190 per day depending on visit length and the number of pets. SOMA is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Expect $85 to start for a 30-minute visit and $115 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $140–$190 per day based on visit length and number of pets. High-rise living does not change the price — SOMA is in-city for us, so there is no Peninsula travel surcharge; just leave access notes for your building's front desk. Text 415-484-6493 with your dates and we will quote it firm."
       }
     }
   ]

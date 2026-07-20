@@ -92,14 +92,14 @@ Redwood City is in our Peninsula service tier, so a travel surcharge of $15–$2
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet/">signs your guinea pig needs a vet</a> and our <a href="/post/exotic-pet-emergency-signs/">exotic pet emergency signs</a> resource.</p>
+    <p>Not a problem — and not just pills tucked into banana slices. Oral, topical, and subcutaneous medications are all standard scope for every caretaker on our team, so a twice-daily injection or a mid-day dose while you're stuck on the Caltrain is entirely workable. Share your protocol at the meet-and-greet and we'll follow it exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet/">signs your guinea pig needs a vet</a> and our <a href="/post/exotic-pet-emergency-signs/">exotic pet emergency signs</a> resource.</p>
   </div>
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">Can I board my exotic pet with you instead of in-home sitting?</summary>
+  <summary class="faq-summary">Do you offer boarding for Redwood City families?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and Redwood City families are welcome to make the drive up. Boarding runs $75 per night, your little one gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Details on the <a href="/home/services/exotic-pet-care-services-boarding/">boarding page</a>.</p>
+    <p>We do — $75 per night, with limited spots. Your little one stays in the San Francisco home of one of our team members, hosted personally, and their usual enclosure and supplies come along so the setup feels familiar. It's an easy drive up the 101 from Redwood City; details on the <a href="/home/services/exotic-pet-care-services-boarding/">boarding page</a>.</p>
   </div>
 </details>
 
@@ -132,15 +132,15 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly."
+        "text": "Not a problem — and not just pills tucked into banana slices. Oral, topical, and subcutaneous medications are all standard scope for every caretaker on our team, so a twice-daily injection or a mid-day dose while you're stuck on the Caltrain is entirely workable. Share your protocol at the meet-and-greet and we'll follow it exactly. For signs that something is escalating, see our guide on signs your guinea pig needs a vet and our exotic pet emergency signs resource."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I board my exotic pet with you instead of in-home sitting?",
+      "name": "Do you offer boarding for Redwood City families?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and Redwood City families are welcome to make the drive up. Boarding runs $75 per night, your little one gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies."
+        "text": "We do — $75 per night, with limited spots. Your little one stays in the San Francisco home of one of our team members, hosted personally, and their usual enclosure and supplies come along so the setup feels familiar. It's an easy drive up the 101 from Redwood City; details on the boarding page."
       }
     },
     {
@@ -148,7 +148,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Redwood City exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and number of pets. Redwood City is in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
+        "text": "30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and number of pets. Redwood City is in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance. Text us your address and dates for a firm quote."
       }
     }
   ]

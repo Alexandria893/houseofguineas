@@ -111,7 +111,7 @@ San Francisco is our **primary service area, so no travel surcharge applies** �
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, subcutaneous injections for small mammals and reptiles, and nebulizer treatments. Share the protocol at the meet-and-greet and we will match the schedule exactly. For warning signs, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
+    <p>Yes — medication care comes standard, citywide. Oral syringe meds, topical treatments, and subcutaneous injections are all standard scope for our caretakers, as are nebulizer treatments. That scope is grounded in real clinical history: our founder previously administered subcutaneous RHDV2 vaccines while volunteering with the House Rabbit Society. Bring the prescription details to your free meet-and-greet and your pet's caretaker will match the schedule exactly. For warning signs worth knowing, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
   </div>
 </details>
 
@@ -144,7 +144,7 @@ Heading out of town soon? [Call or text us at 415-484-6493](tel:415-484-6493) an
       "name": "Should I choose in-home visits or boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Choose in-home visits if your pet does best in their own environment and has a stable habitat such as most reptiles, bonded rabbit pairs, or large bird cages. Choose boarding if you want hands-on overnight supervision — boarding is hosted by members of our team in their San Francisco homes, where your pet gets their own room with soothing music. Both include species-specific feeding, medication if needed, and daily updates."
+        "text": "Choose in-home visits if your pet does best in their own environment and has a stable habitat (most reptiles, bonded rabbit pairs, large bird cages). Choose boarding if you want hands-on overnight supervision — boarding is hosted by members of our team in their San Francisco homes, where your pet gets their own room with soothing music. Both include species-specific feeding, medication if needed, and daily updates. See the in-home and boarding pages for details."
       }
     },
     {
@@ -152,7 +152,7 @@ Heading out of town soon? [Call or text us at 415-484-6493](tel:415-484-6493) an
       "name": "What exotic species do you care for?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats and other small mammals; reptiles including bearded dragons, geckos, snakes, turtles and tortoises; and birds from budgies and cockatiels to parrots."
+        "text": "Rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats and other small mammals; reptiles including bearded dragons, geckos, snakes, turtles and tortoises; and birds from budgies and cockatiels to parrots. Rabbit parents can also see our dedicated San Francisco rabbit sitter page."
       }
     },
     {
@@ -160,7 +160,7 @@ Heading out of town soon? [Call or text us at 415-484-6493](tel:415-484-6493) an
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, subcutaneous injections for small mammals and reptiles, and nebulizer treatments. Share the protocol at the meet-and-greet and we will match the schedule exactly."
+        "text": "Yes — medication care comes standard, citywide. Oral syringe meds, topical treatments, and subcutaneous injections are all standard scope for our caretakers, as are nebulizer treatments. That scope is grounded in real clinical history: our founder previously administered subcutaneous RHDV2 vaccines while volunteering with the House Rabbit Society. Bring the prescription details to your free meet-and-greet and your pet's caretaker will match the schedule exactly. For warning signs worth knowing, see our guide on signs your guinea pig needs a vet."
       }
     },
     {

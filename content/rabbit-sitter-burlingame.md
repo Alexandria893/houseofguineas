@@ -88,14 +88,14 @@ Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">Do you handle bonded rabbit pairs in Burlingame?</summary>
   <div class="faq-answer">
-    <p>Yes. Bonded pairs are actually our preference — a bonded pair handles the stress of you being away dramatically better than a solo rabbit, and our routine works the same. The main thing we ask at the meet-and-greet is whether the bond is rock-solid or relatively new, and whether either rabbit needs separate medication.</p>
+    <p>We love bonded pairs — honestly, two rabbits weather your time away far better than one, since they keep each other calm and occupied between visits. At the meet-and-greet we'll ask how established the bond is and whether either bun has their own medication schedule, then care for them as the little unit they are.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can you administer my rabbit's medication?</summary>
   <div class="faq-answer">
-    <p>Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with — not something we have to figure out under pressure.</p>
+    <p>Yes — oral syringes, topical treatments, and subcutaneous injections are all standard scope for our caretakers, so a post-surgery bun or a rabbit on daily fluids needs no special arrangement. That comfort with a needle has real roots: our founder previously administered subcutaneous RHDV2 vaccines as a House Rabbit Society volunteer, and that clinical standard carries through the whole team's training. Walk us through your protocol at the meet-and-greet and we will follow it exactly.</p>
   </div>
 </details>
 
@@ -127,7 +127,7 @@ Ready to book in-home rabbit care for your next trip? [Call or text us at 415-48
       "name": "Do you handle bonded rabbit pairs in Burlingame?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Bonded pairs are actually our preference — a bonded pair handles the stress of you being away dramatically better than a solo rabbit, and our routine works the same. The main thing we ask at the meet-and-greet is whether the bond is rock-solid or relatively new, and whether either rabbit needs separate medication."
+        "text": "We love bonded pairs — honestly, two rabbits weather your time away far better than one, since they keep each other calm and occupied between visits. At the meet-and-greet we'll ask how established the bond is and whether either bun has their own medication schedule, then care for them as the little unit they are."
       }
     },
     {
@@ -135,7 +135,7 @@ Ready to book in-home rabbit care for your next trip? [Call or text us at 415-48
       "name": "Can you administer my rabbit's medication?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Oral syringe meds and topical applications are part of our standard scope. Our founder's experience administering subcutaneous RHDV2 vaccines through the House Rabbit Society means sub-Q is something we are genuinely comfortable with."
+        "text": "Yes — oral syringes, topical treatments, and subcutaneous injections are all standard scope for our caretakers, so a post-surgery bun or a rabbit on daily fluids needs no special arrangement. That comfort with a needle has real roots: our founder previously administered subcutaneous RHDV2 vaccines as a House Rabbit Society volunteer, and that clinical standard carries through the whole team's training. Walk us through your protocol at the meet-and-greet and we will follow it exactly."
       }
     },
     {

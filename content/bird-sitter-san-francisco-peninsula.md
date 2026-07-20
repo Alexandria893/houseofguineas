@@ -128,7 +128,7 @@ Ready to book in-home bird care? [Call or text us at 415-484-6493](tel:415-484-6
       "name": "What species of birds do you take care of?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Cockatiels, parakeets/budgies, conures, parrotlets, lovebirds, finches, canaries, and most companion parrots up through medium-sized species. For larger parrots (Amazons, African Greys, macaws), we handle them when our team has prior experience with the specific bird — talk to us at the meet-and-greet."
+        "text": "Cockatiels, parakeets/budgies, conures, parrotlets, lovebirds, finches, canaries, and most companion parrots up through medium-sized species. For larger parrots (Amazons, African Greys, macaws), we handle them when our team has prior experience with the specific bird — talk to us at the meet-and-greet. We will tell you honestly if your bird is outside our comfort zone."
       }
     },
     {
@@ -136,7 +136,7 @@ Ready to book in-home bird care? [Call or text us at 415-484-6493](tel:415-484-6
       "name": "Can you administer my bird's medication?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Oral suspensions, topical applications, and nebulizer treatments are part of our standard scope. Medication for birds is a precise art — we hold ourselves to the clinical standard our team learned through exotic veterinary hospital work, including our founder's time at Bay Area Bird and Exotics Hospital."
+        "text": "Yes. Oral suspensions, topical applications, and nebulizer treatments are part of our standard scope. Medication for birds is a precise art — wrong dose, wrong technique, or stressed handling can do more harm than good. We hold ourselves to the clinical standard our team learned through exotic veterinary hospital work, including our founder's time at Bay Area Bird and Exotics Hospital, so every dose is given gently and on schedule."
       }
     },
     {
@@ -144,7 +144,7 @@ Ready to book in-home bird care? [Call or text us at 415-484-6493](tel:415-484-6
       "name": "How do I know my bird will be okay with a sitter?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Birds bond hard, and they will notice you're not there. The goal of a good bird sit is to keep the bird's environment and routine as consistent as possible — same feeding times, same lights schedule, same vocabulary at the cage. Most birds settle within a day or two."
+        "text": "Birds bond hard, and they will absolutely notice you're not there. The goal of a good bird sit is to keep the bird's environment and routine as consistent as possible — same feeding times, same lights-on/lights-off schedule, same vocabulary spoken at the cage. Rather than trying to win your bird over, we quietly maintain the world they know. Most birds settle within a day or two and start treating us like familiar furniture."
       }
     },
     {
@@ -152,7 +152,7 @@ Ready to book in-home bird care? [Call or text us at 415-484-6493](tel:415-484-6
       "name": "My bird is a free-flyer — can you handle that?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — we follow your established free-flight protocol exactly, and for safety we manage free-flight only for birds who are already trained for it. At the meet-and-greet, walk us through how you secure the room and what your bird's recall reliability is. We match your routine."
+        "text": "Yes — we follow your established free-flight protocol exactly, and for safety we manage free-flight only for birds who are already trained for it. At the meet-and-greet, walk us through how you secure the room, what your bird's recall reliability is, and what your hazard-check looks like. We match your routine."
       }
     }
   ]

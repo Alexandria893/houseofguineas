@@ -83,14 +83,14 @@ Because Daly City sits immediately south of the San Francisco county line, it is
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in Daly City?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide.</p>
+    <p>Rabbits, guinea pigs, chinchillas, ferrets, hamsters, and rats top the list, and cats are always welcome on the same visit. On the reptile side we handle bearded dragons, leopard and crested geckos, turtles and tortoises — and because Daly City sits outside San Francisco's city limits, ball pythons and other non-venomous snakes are legal here and a regular part of our rounds. Bird families are covered too: parrots, cockatiels, conures, budgies, lovebirds, and finches. New guinea pig parents can start with our guinea pig care guide.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments, with clinical backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, walk us through it at the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Yes — and that includes injections. Our caretakers handle oral syringe feeding, topical applications, subcutaneous injections, and nebulizer treatments as part of every standard visit, with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society, and the whole team trains under that same clinical lens. Walk us through the protocol at the meet-and-greet and we will keep every dose on time, even when the evening round lands deep in the fog belt.</p>
   </div>
 </details>
 
@@ -104,7 +104,7 @@ Because Daly City sits immediately south of the San Francisco county line, it is
 <details class="faq-details">
   <summary class="faq-summary">How much does a Daly City exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Daly City sits just south of the San Francisco county line, a travel surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates to book.</p>
+    <p>Daly City pet parents pay the same base rates as our San Francisco families: $85 for 30 minutes, $115 for a full hour, and $140–$190 per day for twice-daily care depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies depending on distance — for our Inner Sunset team, your door is barely past the Daly City BART station. Text us at 415-484-6493 with your address and dates to book.</p>
   </div>
 </details>
 
@@ -130,7 +130,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "What kinds of exotic pets do you care for in Daly City?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide."
+        "text": "Rabbits, guinea pigs, chinchillas, ferrets, hamsters, and rats top the list, and cats are always welcome on the same visit. On the reptile side we handle bearded dragons, leopard and crested geckos, turtles and tortoises — and because Daly City sits outside San Francisco's city limits, ball pythons and other non-venomous snakes are legal here and a regular part of our rounds. Bird families are covered too: parrots, cockatiels, conures, budgies, lovebirds, and finches. New guinea pig parents can start with our guinea pig care guide."
       }
     },
     {
@@ -138,7 +138,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments, with clinical backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, walk us through it at the meet-and-greet and we will match the schedule exactly."
+        "text": "Yes — and that includes injections. Our caretakers handle oral syringe feeding, topical applications, subcutaneous injections, and nebulizer treatments as part of every standard visit, with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society, and the whole team trains under that same clinical lens. Walk us through the protocol at the meet-and-greet and we will keep every dose on time, even when the evening round lands deep in the fog belt."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "How much does a Daly City exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Daly City sits just south of the San Francisco county line, a travel surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates to book."
+        "text": "Daly City pet parents pay the same base rates as our San Francisco families: $85 for 30 minutes, $115 for a full hour, and $140–$190 per day for twice-daily care depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies depending on distance — for our Inner Sunset team, your door is barely past the Daly City BART station. Text us at 415-484-6493 with your address and dates to book."
       }
     }
   ]
