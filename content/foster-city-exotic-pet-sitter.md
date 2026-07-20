@@ -7,14 +7,14 @@ og_image = "Coco.jpg"
   priority = 0.8
 +++
 
-Foster City is a community built for people who travel — a master-planned grid of lagoon-facing condos and single-family homes wedged between Highway 92 and the Bay Trail, within a fifteen-minute drive of SFO and a short commute to Gilead, Visa, and the EA campus nearby. Many Foster City residents are on rotating conference circuits, biotech trial sites, or extended international travel. The question they keep asking us is the same one: *when I'm gone for three weeks, who's keeping my chameleon's UVB cycle on schedule, or watching my holland lop for the first quiet signs of GI stasis?* That's the gap our team of exotic pet specialists fills. We travel out from San Francisco across the 92 to provide in-home visits that are structured around clinical observation, species-appropriate husbandry, and the kind of documentation a working professional needs to actually unplug.
+Foster City is a community built for people who travel — a master-planned grid of lagoon-facing condos and single-family homes wedged between Highway 92 and the Bay Trail, within a fifteen-minute drive of SFO and a short commute to Gilead, Visa, and the EA campus nearby. Many Foster City residents are on rotating conference circuits, biotech trial sites, or extended international travel. The question they keep asking us is the same one: *when I'm gone for three weeks, who's keeping my chameleon's UVB cycle on schedule, or watching my holland lop for the first quiet signs of GI stasis?* That's the gap our team of exotic pet caretakers fills. We travel out from San Francisco across the 92 to provide in-home visits that are structured around clinical observation, species-appropriate husbandry, and the kind of documentation a working professional needs to actually unplug.
 
 <!--more-->
 
-## Why Foster City Residents Trust Our Exotic Pet Specialists
+## Why Foster City Residents Trust Our Exotic Pet Caretakers
 
 - **Built for commuter schedules.** Foster City's workforce doesn't keep a 9-to-5. We coordinate around red-eyes out of SFO, multi-week conferences in Boston or Basel, and clinical trial travel — including long-duration visit plans where we become your pet's consistent caregiver across weeks, not just a weekend.
-- **Waterfront condo & HOA-aware.** Many Foster City homes sit in gated lagoon communities with fob access, garage codes, concierge desks, and visitor logs. Our specialists are used to managing layered building access, signing in at front desks on Bayport and Admiralty, and handling multi-step key drops in Edgewater and Marlin Cove.
+- **Waterfront condo & HOA-aware.** Many Foster City homes sit in gated lagoon communities with fob access, garage codes, concierge desks, and visitor logs. Our caretakers are used to managing layered building access, signing in at front desks on Bayport and Admiralty, and handling multi-step key drops in Edgewater and Marlin Cove.
 - **Clinical-grade care from a veterinary-informed team.** Our team's backgrounds span wildlife rehabilitation to exotic veterinary hospital work, and it shows in the little things — noticing the subtle shifts in appetite, respiration, and droppings that are easy to miss but matter most. (Our founder Alexandria previously volunteered with the House Rabbit Society administering subcutaneous RHDV vaccines, and that same careful, watchful approach runs through everything our team does.)
 - **Species specialization that matches Foster City's demographic.** The tech-and-biotech household pet profile in Foster City skews toward reptiles (bearded dragons, crested geckos, ball pythons) and smaller small mammals. Our team is fluent in temperature gradient management, calcium dusting schedules, and hay-forward small mammal diets — the kind of fluency that only comes from caring for these species every day.
 
@@ -29,7 +29,7 @@ If you're keeping a species not listed here, call us — if our team can't provi
 
 ## How Our Foster City Visits Work
 
-**1. Complimentary meet-and-greet.** Before any booking, one of our exotic pet specialists drives out to Foster City to meet you and your animals at home. This is when we learn your lagoon-side condo's parking situation, which garage gate code we'll need, whether the HOA at Shearwater or Isle Cove requires a sign-in log, and where you keep hay, substrate, supplements, and emergency contact info.
+**1. Complimentary meet-and-greet.** Before any booking, one of our exotic pet caretakers drives out to Foster City to meet you and your animals at home. This is when we learn your lagoon-side condo's parking situation, which garage gate code we'll need, whether the HOA at Shearwater or Isle Cove requires a sign-in log, and where you keep hay, substrate, supplements, and emergency contact info.
 
 **2. Key, code, and access setup.** For gated waterfront communities and condo towers, we'll document concierge protocols, elevator access, and whether packages need to be collected en route. Many Foster City residents leave a lockbox on the garage side — we're happy to work with whatever your building allows.
 
@@ -97,14 +97,14 @@ Boarding is hosted personally by members of our team in their San Francisco home
 <details class="faq-details">
   <summary class="faq-summary">Do you come to Foster City? I see you're based in San Francisco.</summary>
   <div class="faq-answer">
-    <p>Yes. Our team of exotic pet specialists travels from San Francisco to Foster City across Highway 92 for in-home visits. Scheduling can be tight around holidays and summer travel peaks — we recommend reaching out at least two weeks in advance, and earlier if your trip falls over Thanksgiving, winter holidays, or summer conference season. A travel surcharge applies and depends on your specific Foster City location and our specialists' availability.</p>
+    <p>Yes. Our team of exotic pet caretakers travels from San Francisco to Foster City across Highway 92 for in-home visits. Scheduling can be tight around holidays and summer travel peaks — we recommend reaching out at least two weeks in advance, and earlier if your trip falls over Thanksgiving, winter holidays, or summer conference season. A travel surcharge applies and depends on your specific Foster City location and our caretakers' availability.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">My HOA requires key/code sign-ins — can your team handle condo access?</summary>
   <div class="faq-answer">
-    <p>Absolutely. A significant portion of Foster City housing is condo or townhome stock with gated entries, fob access, garage codes, and concierge desks — this is our normal operating environment. During the meet-and-greet we document everything: building sign-in protocol, gate codes, elevator fobs, visitor parking rules, and package handling. Our specialists store all access credentials in a secured system and never leave keys or codes in unsecured locations. If your HOA requires our team to be added to an approved visitors list, just let us know during the meet-and-greet and we'll provide the necessary info.</p>
+    <p>Absolutely. A significant portion of Foster City housing is condo or townhome stock with gated entries, fob access, garage codes, and concierge desks — this is our normal operating environment. During the meet-and-greet we document everything: building sign-in protocol, gate codes, elevator fobs, visitor parking rules, and package handling. Our caretakers store all access credentials in a secured system and never leave keys or codes in unsecured locations. If your HOA requires our team to be added to an approved visitors list, just let us know during the meet-and-greet and we'll provide the necessary info.</p>
   </div>
 </details>
 
@@ -131,7 +131,7 @@ Boarding is hosted personally by members of our team in their San Francisco home
 
 ## Ready to Book?
 
-If you're a Foster City resident with a bearded dragon that needs consistent UVB scheduling, a rabbit that needs clinical-eye observation, or a parrot that needs more than a neighbor dropping by — our team is ready to help. Learn more about [why working with an exotic veterinary-trained team matters](/san-francisco-california-exotic-veterinary-experience), review our [in-home exotic pet care services](/home/services/exotic-pet-care-services-in-home), or look into [boarding at our San Francisco location](/home/services/exotic-pet-care-services-boarding). For husbandry-specific prep before your next trip, our [guide to preparing your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting) walks through exactly what to leave out for our specialists. More general questions? See our full [FAQs](/home/services/faqs) or <a href="tel:415-484-6493">call or text (415) 484-6493</a> and we'll put together a plan that fits your travel schedule.
+If you're a Foster City resident with a bearded dragon that needs consistent UVB scheduling, a rabbit that needs clinical-eye observation, or a parrot that needs more than a neighbor dropping by — our team is ready to help. Learn more about [why working with an exotic veterinary-trained team matters](/san-francisco-california-exotic-veterinary-experience), review our [in-home exotic pet care services](/home/services/exotic-pet-care-services-in-home), or look into [boarding at our San Francisco location](/home/services/exotic-pet-care-services-boarding). For husbandry-specific prep before your next trip, our [guide to preparing your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting) walks through exactly what to leave out for our caretakers. More general questions? See our full [FAQs](/home/services/faqs) or <a href="tel:415-484-6493">call or text (415) 484-6493</a> and we'll put together a plan that fits your travel schedule.
 
 <script type="application/ld+json">
 {
@@ -143,7 +143,7 @@ If you're a Foster City resident with a bearded dragon that needs consistent UVB
       "name": "Do you come to Foster City? I see you're based in San Francisco.",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Our team of exotic pet specialists travels from San Francisco to Foster City across Highway 92 for in-home visits. Scheduling can be tight around holidays and summer travel peaks — we recommend reaching out at least two weeks in advance. A travel surcharge applies and depends on your specific Foster City location and our specialists' availability."
+        "text": "Yes. Our team of exotic pet caretakers travels from San Francisco to Foster City across Highway 92 for in-home visits. Scheduling can be tight around holidays and summer travel peaks — we recommend reaching out at least two weeks in advance. A travel surcharge applies and depends on your specific Foster City location and our caretakers' availability."
       }
     },
     {
@@ -151,7 +151,7 @@ If you're a Foster City resident with a bearded dragon that needs consistent UVB
       "name": "My HOA requires key/code sign-ins — can your team handle condo access?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. A significant portion of Foster City housing is condo or townhome stock with gated entries, fob access, garage codes, and concierge desks. During the meet-and-greet we document building sign-in protocol, gate codes, elevator fobs, visitor parking rules, and package handling. Our specialists carry access credentials in a secured system and never leave keys or codes in unsecured locations."
+        "text": "Yes. A significant portion of Foster City housing is condo or townhome stock with gated entries, fob access, garage codes, and concierge desks. During the meet-and-greet we document building sign-in protocol, gate codes, elevator fobs, visitor parking rules, and package handling. Our caretakers carry access credentials in a secured system and never leave keys or codes in unsecured locations."
       }
     },
     {

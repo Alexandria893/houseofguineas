@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 Daly City is the Gateway to the Peninsula — the first town you hit once you cross the county line heading south, and the place where San Francisco's fog likes to settle in for the long haul. It is a city of dense, tightly knit neighborhoods, of homes stacked along the hills above Highway 1, and of families who keep busy lives moving along the I-280 and Mission Street corridors. When one of those families is headed out of town and the household includes a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who expects his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never weighed a guinea pig on a gram scale. That is the gap our team fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because Daly City sits immediately south of the San Francisco county line, our team of exotic pet specialists is only a short trip away when we come to provide in-home care. From the homes climbing through St. Francis Heights to the flatter streets of Westlake, and from Crocker over toward Bayshore, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
+House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because Daly City sits immediately south of the San Francisco county line, our team of exotic pet caretakers is only a short trip away when we come to provide in-home care. From the homes climbing through St. Francis Heights to the flatter streets of Westlake, and from Crocker over toward Bayshore, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
 
 ## Why Daly City Exotic Pet Owners Choose Our Team
 
@@ -90,14 +90,14 @@ Because Daly City sits immediately south of the San Francisco county line, it is
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments, with clinical backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, walk us through it at the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments, with clinical backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, walk us through it at the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Daly City?</summary>
   <div class="faq-answer">
-    <p>Yes — and now you have a local option. Boarding is available in Daly City through our local specialist, and members of our team also host boarding personally in their San Francisco homes just up the road. Either way it runs $75 per night, your pet gets their own space with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Full details are on the boarding page.</p>
+    <p>Yes — and now you have a local option. Boarding is available in Daly City through our local caretaker, and members of our team also host boarding personally in their San Francisco homes just up the road. Either way it runs $75 per night, your pet gets their own space with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -138,7 +138,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments, with clinical backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, walk us through it at the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments, with clinical backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, walk us through it at the meet-and-greet and we will match the schedule exactly."
       }
     },
     {
@@ -146,7 +146,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet instead of booking in-home visits in Daly City?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — and now you have a local option. Boarding is available in Daly City through our local specialist, and members of our team also host boarding personally in their San Francisco homes just up the road. Either way it runs $75 per night, your pet gets their own space with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Full details are on the boarding page."
+        "text": "Yes — and now you have a local option. Boarding is available in Daly City through our local caretaker, and members of our team also host boarding personally in their San Francisco homes just up the road. Either way it runs $75 per night, your pet gets their own space with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Full details are on the boarding page."
       }
     },
     {

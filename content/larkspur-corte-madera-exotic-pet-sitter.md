@@ -1,19 +1,19 @@
 +++
 title = "Larkspur & Corte Madera Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "Larkspur & Corte Madera Exotic Pet Sitter"
-description = "In-home exotic pet sitting in Larkspur and Corte Madera, CA — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a specialist who lives right here. No travel surcharge."
+description = "In-home exotic pet sitting in Larkspur and Corte Madera, CA — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a caretaker who lives right here. No travel surcharge."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
 +++
 
-Larkspur and Corte Madera sit right in the middle of Marin — the walkable downtowns, Baltimore Canyon and Christmas Tree Hill, the flats near Marin Country Mart and Larkspur Landing, and the neighborhoods climbing toward the ridge. This is our home turf in the most literal sense: **our Marin exotic pet specialist lives right here.** So when a bonded pair of rabbits, a guinea pig herd, a parrot, or a bearded dragon needs looking after while you travel, the person coming to your door is not driving in from another county — they are practically a neighbor.
+Larkspur and Corte Madera sit right in the middle of Marin — the walkable downtowns, Baltimore Canyon and Christmas Tree Hill, the flats near Marin Country Mart and Larkspur Landing, and the neighborhoods climbing toward the ridge. This is our home turf in the most literal sense: **our Marin exotic pet caretaker lives right here.** So when a bonded pair of rabbits, a guinea pig herd, a parrot, or a bearded dragon needs looking after while you travel, the person coming to your door is not driving in from another county — they are practically a neighbor.
 
-House of Guineas is San Francisco's exotic pet care company, and having a specialist based in Larkspur means Larkspur and Corte Madera get the fastest, most flexible coverage in our entire service area, with **no travel surcharge at all.**
+House of Guineas is San Francisco's exotic pet care company, and having a caretaker based in Larkspur means Larkspur and Corte Madera get the fastest, most flexible coverage in our entire service area, with **no travel surcharge at all.**
 
 ## Why Larkspur & Corte Madera Pet Parents Choose Our Team
 
-- **We live here.** Our specialist is based in Larkspur, so visits are quick to schedule, easy to adjust, and carry no travel surcharge for the immediate area. Early-morning, mid-day medication, and late-evening timing are all straightforward.
+- **We live here.** Our caretaker is based in Larkspur, so visits are quick to schedule, easy to adjust, and carry no travel surcharge for the immediate area. Early-morning, mid-day medication, and late-evening timing are all straightforward.
 - **Veterinary background.** Care here comes from our veterinary-informed team, with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines — and every member of our team is trained under that same clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our whole focus — nothing about this is an afterthought.
 - **Clinical-grade care.** We can syringe-feed a rabbit in stasis, weigh a guinea pig on a gram scale, verify a reptile's UVB and humidity, and read the early warning signs in a bird.
@@ -40,7 +40,7 @@ We start with a free meet-and-greet at your home — a walkthrough of feeding, e
 - **60-minute visits** start at **$115**
 - **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-Larkspur and Corte Madera are our specialist's home base, so **no travel surcharge applies** — the same terms San Francisco pet parents get. Text us your dates and we will confirm your rate.
+Larkspur and Corte Madera are our team's home base, so **no travel surcharge applies** — the same terms San Francisco pet parents get. Text us your dates and we will confirm your rate.
 
 > **Because Larkspur and Corte Madera are our caretaker's home turf,** standing [routine care](/routine-recurring-exotic-pet-care/) visits slot right into your week — weekly or every-other-week, with the enclosure deep-clean, weigh-ins, and a gentle wellness check finished before your ferry even docks — leaving your evenings for the best parts of life with your little ones.
 
@@ -72,14 +72,14 @@ Larkspur and Corte Madera are our specialist's home base, so **no travel surchar
 <details class="faq-details">
   <summary class="faq-summary">Is there really no travel surcharge in Larkspur and Corte Madera?</summary>
   <div class="faq-answer">
-    <p>Correct — because our Marin specialist is based in Larkspur, these two towns get the same no-surcharge terms as our home city of San Francisco. You pay for the visits themselves, not for someone crossing the bridge to reach you. Text us your dates and we will confirm.</p>
+    <p>Correct — because our Marin caretaker is based in Larkspur, these two towns get the same no-surcharge terms as our home city of San Francisco. You pay for the visits themselves, not for someone crossing the bridge to reach you. Text us your dates and we will confirm.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can you do a mid-day medication visit on short notice?</summary>
   <div class="faq-answer">
-    <p>Being local makes this much easier than it is elsewhere in our service area. Because our specialist lives in Larkspur, mid-day medication drop-ins and last-minute schedule adjustments are realistic here in a way they are not for a sitter driving up from the city. Tell us the protocol and timing and we will build it into the plan.</p>
+    <p>Being local makes this much easier than it is elsewhere in our service area. Because our caretaker lives in Larkspur, mid-day medication drop-ins and last-minute schedule adjustments are realistic here in a way they are not for a sitter driving up from the city. Tell us the protocol and timing and we will build it into the plan.</p>
   </div>
 </details>
 
@@ -118,7 +118,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Is there really no travel surcharge in Larkspur and Corte Madera?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Correct — because our Marin specialist is based in Larkspur, these two towns get the same no-surcharge terms as our home city of San Francisco. You pay for the visits themselves, not for someone crossing the bridge to reach you. Text us your dates and we will confirm."
+        "text": "Correct — because our Marin caretaker is based in Larkspur, these two towns get the same no-surcharge terms as our home city of San Francisco. You pay for the visits themselves, not for someone crossing the bridge to reach you. Text us your dates and we will confirm."
       }
     },
     {
@@ -126,7 +126,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can you do a mid-day medication visit on short notice?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Being local makes this much easier than it is elsewhere in our service area. Because our specialist lives in Larkspur, mid-day medication drop-ins and last-minute schedule adjustments are realistic here in a way they are not for a sitter driving up from the city. Tell us the protocol and timing and we will build it into the plan."
+        "text": "Being local makes this much easier than it is elsewhere in our service area. Because our caretaker lives in Larkspur, mid-day medication drop-ins and last-minute schedule adjustments are realistic here in a way they are not for a sitter driving up from the city. Tell us the protocol and timing and we will build it into the plan."
       }
     },
     {

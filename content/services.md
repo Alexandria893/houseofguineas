@@ -1,7 +1,7 @@
 +++
 title = "Exotic Pet Care Services & Rates | San Francisco & Peninsula"
 shortTitle = "Services & Rates"
-description = "Exotic pet care services across San Francisco and the Peninsula — in-home pet sitting for rabbits, guinea pigs, chinchillas, reptiles and birds by veterinary-trained specialists. View rates and book today."
+description = "Exotic pet care services across San Francisco and the Peninsula — in-home pet sitting for rabbits, guinea pigs, chinchillas, reptiles and birds by veterinary-trained caretakers. View rates and book today."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.9

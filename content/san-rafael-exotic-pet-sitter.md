@@ -1,7 +1,7 @@
 +++
 title = "San Rafael Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "San Rafael Exotic Pet Sitter"
-description = "In-home exotic pet sitting in San Rafael, CA — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a Marin-based specialist. Little to no travel surcharge."
+description = "In-home exotic pet sitting in San Rafael, CA — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a Marin-based caretaker. Little to no travel surcharge."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
@@ -9,11 +9,11 @@ og_image = "milo.jpeg"
 
 San Rafael is the heart of Marin — the county seat, the largest city north of the Golden Gate, and home to everything from the hillside streets of Peacock Gap and Dominican to the family neighborhoods of Terra Linda and Sun Valley. It's also a city full of pet parents who work in San Francisco, keep gardens and aviaries at home, and travel enough that the question comes up regularly: *who takes care of the rabbits — or the parrot, or the bearded dragon — while we're gone?* Dog-and-cat kennels aren't built for exotics, and most sitters have never handled a small mammal. That's the gap our team fills, and now we do it from right here in Marin.
 
-House of Guineas has an exotic pet specialist based in Central Marin, minutes from San Rafael. We come to your home so your little ones stay in their own enclosures, on their own routines, cared for by their pet caretaker — someone with real clinical training. And because we're already in the county, reaching San Rafael costs a fraction of what a bridge crossing would add.
+House of Guineas has an exotic pet caretaker based in Central Marin, minutes from San Rafael. We come to your home so your little ones stay in their own enclosures, on their own routines, cared for by someone with real clinical training. And because we're already in the county, reaching San Rafael costs a fraction of what a bridge crossing would add.
 
 ## Why San Rafael Exotic Pet Parents Choose Our Team
 
-- **Local to Marin.** Our specialist lives in the county, so San Rafael visits are quick to schedule and light on travel cost — no Golden Gate commute baked into your bill.
+- **Local to Marin.** Our caretaker lives in the county, so San Rafael visits are quick to schedule and light on travel cost — no Golden Gate commute baked into your bill.
 - **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every pet caretaker on our team is trained under that same clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus — not an afterthought squeezed in between dog walks.
 - **Clinical-grade care.** We can syringe-feed a rabbit in GI stasis, weigh a guinea pig on a gram scale, check a reptile's humidity and UVB, and recognize the early warning signs in a bird. If something seems off while you're away, we know the nearest exotic vets.
@@ -40,7 +40,7 @@ We start with a free meet-and-greet at your home — a walkthrough of feeding ro
 - **60-minute visits** start at **$115**
 - **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-Because our specialist is based in Central Marin, San Rafael sits in our **no-surcharge to $15/visit range** — nothing like the cost a San Francisco-based sitter would have to charge to cross the bridge. Text us your address and dates and we'll confirm your exact rate.
+Because our caretaker is based in Central Marin, San Rafael sits in our **no-surcharge to $15/visit range** — nothing like the cost a San Francisco-based sitter would have to charge to cross the bridge. Text us your address and dates and we'll confirm your exact rate.
 
 > **With our caretaker based just down the road in Central Marin,** it's simple to set up standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits that cover the deep enclosure clean, weigh-ins, and a gentle health once-over — so whether you're downtown near Fourth Street or up in Terra Linda, your evenings belong to lap time with your little ones.
 
@@ -72,7 +72,7 @@ Because our specialist is based in Central Marin, San Rafael sits in our **no-su
 <details class="faq-details">
   <summary class="faq-summary">How much does an exotic pet sitter cost in San Rafael?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care running $140–$190 per day depending on visit length and the number of pets. Because our specialist is based nearby in Central Marin, San Rafael falls in our no-surcharge to $15/visit range — far below what a bridge crossing from the city would add. Text us at 415-484-6493 for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care running $140–$190 per day depending on visit length and the number of pets. Because our caretaker is based nearby in Central Marin, San Rafael falls in our no-surcharge to $15/visit range — far below what a bridge crossing from the city would add. Text us at 415-484-6493 for a firm quote.</p>
   </div>
 </details>
 
@@ -118,7 +118,7 @@ Ready to head out of town knowing your little ones are in good hands? [Call or t
       "name": "How much does an exotic pet sitter cost in San Rafael?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care running $140–$190 per day depending on visit length and the number of pets. Because our specialist is based nearby in Central Marin, San Rafael falls in our no-surcharge to $15/visit range — far below what a bridge crossing from the city would add. Text us at 415-484-6493 for a firm quote."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care running $140–$190 per day depending on visit length and the number of pets. Because our caretaker is based nearby in Central Marin, San Rafael falls in our no-surcharge to $15/visit range — far below what a bridge crossing from the city would add. Text us at 415-484-6493 for a firm quote."
       }
     },
     {

@@ -1,7 +1,7 @@
 +++
 title = "Sausalito & Tiburon Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "Sausalito & Tiburon Exotic Pet Sitter"
-description = "In-home exotic pet sitting in Sausalito, Tiburon and Belvedere — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a Marin-based specialist, including floating homes."
+description = "In-home exotic pet sitting in Sausalito, Tiburon and Belvedere — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a Marin-based caretaker, including floating homes."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
@@ -9,11 +9,11 @@ og_image = "milo.jpeg"
 
 Southern Marin's waterfront towns — Sausalito, Tiburon, and Belvedere — are unlike anywhere else in the Bay Area: hillside homes stacked above the marina, the floating homes of Waldo Point, and the quiet peninsula neighborhoods looking back at the city across the water. Families here travel often, and many share their homes with exotic pets that need more than a neighbor topping up a bowl: a bonded pair of rabbits, a parrot on a strict routine, a bearded dragon whose enclosure has to stay dialed in. Reliable exotic pet care has been genuinely hard to find on this side of the water — kennels are built for dogs, and most sitters have never handled a small mammal. Our team fills that gap, from a base right here in Marin.
 
-House of Guineas is San Francisco's exotic pet care company, and our Marin specialist is based in Central Marin — a short hop from Sausalito, Tiburon, and Belvedere. Your little ones stay in their own environment, on their own schedule, cared for by their pet caretaker — someone with real clinical training — without a Golden Gate crossing baked into every visit.
+House of Guineas is San Francisco's exotic pet care company, and our Marin caretaker is based in Central Marin — a short hop from Sausalito, Tiburon, and Belvedere. Your little ones stay in their own environment, on their own schedule, cared for by someone with real clinical training — without a Golden Gate crossing baked into every visit.
 
 ## Why Southern Marin Exotic Pet Parents Choose Our Team
 
-- **Based in Marin, not across the bridge.** Our specialist lives in the county, so Sausalito and Tiburon visits are quick to schedule and light on travel cost.
+- **Based in Marin, not across the bridge.** Our caretaker lives in the county, so Sausalito and Tiburon visits are quick to schedule and light on travel cost.
 - **Veterinary-informed care.** Our team's backgrounds span wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience) — including a founder who previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every visit happens under that clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
 - **Comfortable in every kind of home.** Hillside condo, a house up a steep Tiburon lane, or a floating home on the Sausalito waterfront — we adapt to the space and the access.
@@ -40,7 +40,7 @@ We start with a free meet-and-greet at your home — a walkthrough of feeding ro
 - **60-minute visits** start at **$115**
 - **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-Because our specialist is based in Central Marin, Sausalito, Tiburon, and Belvedere fall in our **$15/visit travel range** — a fraction of what a San Francisco-based sitter would have to charge to cross the bridge. Text us your address and dates and we will confirm your exact rate.
+Because our caretaker is based in Central Marin, Sausalito, Tiburon, and Belvedere fall in our **$15/visit travel range** — a fraction of what a San Francisco-based sitter would have to charge to cross the bridge. Text us your address and dates and we will confirm your exact rate.
 
 > **Because our caretaker is based right here in Marin,** a standing [routine care](/routine-recurring-exotic-pet-care/) schedule is easy to sustain — weekly or every-other-week visits covering the enclosure deep-clean, weigh-ins, and a gentle health check — so even on evenings when the city runs long and the last ferry feels far away, your little ones are already fed, checked, and cozy.
 
@@ -86,7 +86,7 @@ Because our specialist is based in Central Marin, Sausalito, Tiburon, and Belved
 <details class="faq-details">
   <summary class="faq-summary">How much is the travel surcharge for Sausalito and Tiburon?</summary>
   <div class="faq-answer">
-    <p>Southern Marin falls in our $15/visit travel range, because our specialist is based nearby in Central Marin rather than crossing the bridge from the city. That is far below what a San Francisco-based sitter would need to charge for the same distance. Text us your exact address and dates for a firm quote.</p>
+    <p>Southern Marin falls in our $15/visit travel range, because our caretaker is based nearby in Central Marin rather than crossing the bridge from the city. That is far below what a San Francisco-based sitter would need to charge for the same distance. Text us your exact address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -134,7 +134,7 @@ Planning a trip soon? [Call or text us at 415-484-6493](tel:415-484-6493) and we
       "name": "How much is the travel surcharge for Sausalito and Tiburon?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Southern Marin falls in our $15/visit travel range, because our specialist is based nearby in Central Marin rather than crossing the bridge from the city. That is far below what a San Francisco-based sitter would need to charge for the same distance. Text us your exact address and dates for a firm quote."
+        "text": "Southern Marin falls in our $15/visit travel range, because our caretaker is based nearby in Central Marin rather than crossing the bridge from the city. That is far below what a San Francisco-based sitter would need to charge for the same distance. Text us your exact address and dates for a firm quote."
       }
     },
     {

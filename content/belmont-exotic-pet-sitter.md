@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 Belmont is one of those Peninsula towns that quietly runs on a commuter rhythm. Tucked into the hilly, wooded folds of San Mateo County between San Mateo and San Carlos, it is full of professionals who spend their weeks on the Caltrain corridor, the 101, and the 280 — and whose weekends and vacations depend on someone reliable holding down the home front. When that home front includes a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who needs his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never weighed a guinea pig on a gram scale. That is the gap our team fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet specialists travels down the Peninsula to provide in-home care for Belmont households. From the homes climbing toward Water Dog Lake to the Carlmont neighborhoods near the high school, and the quiet streets off Ralston Avenue, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
+House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet caretakers travels down the Peninsula to provide in-home care for Belmont households. From the homes climbing toward Water Dog Lake to the Carlmont neighborhoods near the high school, and the quiet streets off Ralston Avenue, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
 
 ## Why Belmont Exotic Pet Owners Choose Our Team
 

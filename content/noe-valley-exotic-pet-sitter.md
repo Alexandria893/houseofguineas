@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 Noe Valley has a rhythm all its own. Sheltered from the fog that pours over so much of the city, it sits in a sunny little pocket of San Francisco between the Castro, the Mission, and Glen Park, with classic Victorian and Edwardian homes stacked up its steep hills and the 24th Street commercial corridor humming below with cafes and neighborhood shops. It is a neighborhood of young families — locals affectionately call it "Stroller Valley" — and of people who keep busy lives, riding the J-Church Muni line downtown and out again. When those lives include a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who needs his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never weighed a guinea pig on a gram scale. That is the gap our team fills.
 
-House of Guineas Pet Care is based right here in San Francisco, over in the Inner Sunset — so reaching Noe Valley is a quick, same-city trip across town, not a Peninsula drive. Our team of exotic pet specialists comes to your home, from the sunny blocks along 24th Street to the steep Victorian-lined hills and the quiet streets near Douglass Park, so your pets can stay in their own enclosures, on their own routines, while you are away.
+House of Guineas Pet Care is based right here in San Francisco, over in the Inner Sunset — so reaching Noe Valley is a quick, same-city trip across town, not a Peninsula drive. Our team of exotic pet caretakers comes to your home, from the sunny blocks along 24th Street to the steep Victorian-lined hills and the quiet streets near Douglass Park, so your pets can stay in their own enclosures, on their own routines, while you are away.
 
 ## Why Noe Valley Exotic Pet Parents Choose Our Team
 
@@ -90,7 +90,7 @@ Noe Valley is within San Francisco — our home city — so there is no Peninsul
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. That standard comes from real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. That standard comes from real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
@@ -138,7 +138,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. That standard comes from real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. That standard comes from real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {

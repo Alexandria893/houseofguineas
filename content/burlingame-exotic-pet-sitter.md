@@ -9,13 +9,13 @@ og_image = "milo.jpeg"
 
 If you live in Burlingame, odds are you are at SFO more often than you would like — and the one question that keeps coming up the night before a 6 a.m. flight is *who is going to watch the chinchilla?* Burlingame has the unusual distinction of being the closest Peninsula city to the airport, which means the pet parents we visit here tend to be frequent flyers: biotech folks heading to Boston, product managers catching the red-eye to JFK, families flying out of SFO for a long weekend in Kauai. Exotic pets do not travel well, and most conventional boarding facilities are not equipped to handle a bonded pair of rabbits, a bearded dragon with a specific UVB schedule, or a cockatiel who only eats if someone whistles back. That is the gap our team fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet specialists travels down the Peninsula to provide in-home care for Burlingame families and their little ones. We handle everything from the Easton Addition to Mills Estate, and we are comfortable driving past the Hyatt Regency at 4:45 a.m. so you can make your boarding call on time.
+House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet caretakers travels down the Peninsula to provide in-home care for Burlingame families and their little ones. We handle everything from the Easton Addition to Mills Estate, and we are comfortable driving past the Hyatt Regency at 4:45 a.m. so you can make your boarding call on time.
 
 ## Why Burlingame Exotic Pet Owners Choose Our Team
 
 Burlingame is a town full of people who sweat the details — tech professionals, clinicians, educators, designers — and what pet parents tell us they need is a sitter who approaches exotic pet care with the same rigor they bring to their own work. Here is what sets us apart:
 
-- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society in Richmond, administering subcutaneous RHDV2 vaccines. Every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society in Richmond, administering subcutaneous RHDV2 vaccines. Every caretaker on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape — Peninsula Pet Hospital right in Burlingame, Adobe Animal Hospital in Los Altos, and All Pets Hospital in San Mateo — so if something goes sideways while you are in Zurich, we know exactly where to go.
 - **Flexible scheduling.** Early-morning visits before an SFO departure, late-night visits after a redeye arrival, and mid-day medication timing — we build the schedule around your flight manifest, not the other way around.
@@ -98,7 +98,7 @@ Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. That training bar comes from real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
+    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. That training bar comes from real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. That training bar comes from real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. That training bar comes from real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {

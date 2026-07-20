@@ -47,15 +47,15 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
 <summary class="faq-summary" id="service-areas">What are your service areas?</summary>
   <div class="faq-answer">
-    <p>House of Guineas in-home care now covers San Francisco <strong>and the Peninsula</strong>, with our team of exotic pet specialists traveling out to pet parents across San Mateo County. <strong>Our primary service area is Inner Sunset, San Francisco.</strong> Pet parents in San Mateo County are served via our Peninsula tier (see below). For families outside the primary travel range, additional travel rates apply — rates depend on our exotic pet specialists' availability and your location. We will do our best to meet you and your pets' needs, wherever they are. Here's a breakdown of the service tiers:</p>
+    <p>House of Guineas in-home care now covers San Francisco <strong>and the Peninsula</strong>, with our team of exotic pet caretakers traveling out to pet parents across San Mateo County. <strong>Our primary service area is Inner Sunset, San Francisco.</strong> Pet parents in San Mateo County are served via our Peninsula tier (see below). For families outside the primary travel range, additional travel rates apply — rates depend on our caretakers' availability and your location. We will do our best to meet you and your pets' needs, wherever they are. Here's a breakdown of the service tiers:</p>
     <ul>
       <li><strong>Primary Service Area (0–3 miles from Inner Sunset, San Francisco)</strong>: No travel surcharge applies. Our base rates cover all visits within this area.</li>
-      <li><strong>Secondary Service Area (3–6 miles from Inner Sunset, San Francisco)</strong>: Travel surcharge <em>starting from $15/visit</em>, depending on our specialists' availability.</li>
-      <li><strong>Tertiary Service Area (6+ miles from Inner Sunset, San Francisco)</strong>: Travel surcharge <em>starting from $25/visit</em>, depending on our specialists' availability.</li>
+      <li><strong>Secondary Service Area (3–6 miles from Inner Sunset, San Francisco)</strong>: Travel surcharge <em>starting from $15/visit</em>, depending on our caretakers' availability.</li>
+      <li><strong>Tertiary Service Area (6+ miles from Inner Sunset, San Francisco)</strong>: Travel surcharge <em>starting from $25/visit</em>, depending on our caretakers' availability.</li>
       <li><strong>Peninsula Service (San Mateo County)</strong>: Our team serves Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City, and surrounding areas — all in our 6+ mile tier, so a $25/visit travel surcharge applies. <a href="tel:415-484-6493">Contact us</a> to book!</li>
     </ul>
     <p>Are you farther away? <a href="tel:415-484-6493">Text or call us</a> and let's figure out if we're a good fit for each other!</p>
-    <p><em>Note: In-home visits are handled by our exotic pet specialists who travel to you. Boarding is hosted by our team in San Francisco — pet parents are welcome to drop off their little ones from anywhere in the Bay Area.</em></p>
+    <p><em>Note: In-home visits are handled by our caretakers who travel to you. Boarding is hosted by our team in San Francisco — pet parents are welcome to drop off their little ones from anywhere in the Bay Area.</em></p>
   </div>
 </details>
 

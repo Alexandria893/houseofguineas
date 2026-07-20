@@ -161,7 +161,7 @@
 
 <div class="travel-zone-checker">
   <h3>Check Your Travel Rate</h3>
-  <p class="travel-zone-checker__subtitle">Enter your address to see which service zone you're in. Our specialists serve San Francisco and the Peninsula — travel surcharges depend on your location and specialist availability.</p>
+  <p class="travel-zone-checker__subtitle">Enter your address to see which service zone you're in. Our caretakers serve San Francisco and the Peninsula — travel surcharges depend on your location and caretaker availability.</p>
   <div class="travel-zone-checker__input-row">
     <label for="tz-address" class="sr-only">Street address</label>
     <input type="text" id="tz-address" autocomplete="street-address" placeholder="Enter your SF or Peninsula address..." />
@@ -208,9 +208,9 @@
       return { name: 'Primary Service Area', miles: miles, surcharge: null, cssClass: 'tz-zone-primary', markerColor: '#6B8F71', noteText: "No travel surcharge \u2014 you\u2019re in the primary service area!", noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Call {{ .Site.Params.phone }} to book.' };
     }
     if (miles <= 6) {
-      return { name: 'Secondary Service Area', miles: miles, surcharge: 15, cssClass: 'tz-zone-secondary', markerColor: '#D4A843', noteText: 'Travel surcharge starts from $15/visit, depending on our specialists\u2019 availability.', noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Call {{ .Site.Params.phone }} to book.' };
+      return { name: 'Secondary Service Area', miles: miles, surcharge: 15, cssClass: 'tz-zone-secondary', markerColor: '#D4A843', noteText: 'Travel surcharge starts from $15/visit, depending on our caretakers\u2019 availability.', noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Call {{ .Site.Params.phone }} to book.' };
     }
-    return { name: 'Tertiary Service Area', miles: miles, surcharge: 25, cssClass: 'tz-zone-tertiary', markerColor: '#C4704B', noteText: 'Travel surcharge starts from $25/visit, depending on our specialists\u2019 availability. Peninsula clients (Burlingame, San Mateo, etc.) welcome \u2014 rates vary by location.', noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Call {{ .Site.Params.phone }} to discuss next steps.' };
+    return { name: 'Tertiary Service Area', miles: miles, surcharge: 25, cssClass: 'tz-zone-tertiary', markerColor: '#C4704B', noteText: 'Travel surcharge starts from $25/visit, depending on our caretakers\u2019 availability. Peninsula pet parents (Burlingame, San Mateo, etc.) welcome \u2014 rates vary by location.', noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Call {{ .Site.Params.phone }} to discuss next steps.' };
   }
 
   /* Show result card using safe DOM construction */

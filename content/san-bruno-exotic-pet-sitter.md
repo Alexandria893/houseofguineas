@@ -9,14 +9,14 @@ og_image = "milo.jpeg"
 
 San Bruno is a San Mateo County city that keeps a lot of quiet momentum. Sitting just south of the San Francisco county line at the foot of San Bruno Mountain, it is a town of tight residential grids, hillside neighborhoods, and families whose weeks run on the rhythm of SFO, the tech campuses to the south, and the Caltrain and BART lines that thread through the middle of it. A lot of San Bruno households also happen to be small-mammal households — homes where a bonded pair of guinea pigs squeals for breakfast, a rabbit gets her morning salad, or a pair of rats waits for evening lap time. When one of those families is headed out of town, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never weighed a guinea pig on a gram scale. That is the gap our team fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because San Bruno sits just down the Peninsula — a short trip south on the 101 or 280 — our team of exotic pet specialists is only a quick drive away when we come to provide in-home care. From the homes climbing toward the Crestmoor and Rollingwood neighborhoods to the Portola Highlands above the city, and from the streets near the old Tanforan area over toward the Caltrain and BART stations, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
+House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because San Bruno sits just down the Peninsula — a short trip south on the 101 or 280 — our team of exotic pet caretakers is only a quick drive away when we come to provide in-home care. From the homes climbing toward the Crestmoor and Rollingwood neighborhoods to the Portola Highlands above the city, and from the streets near the old Tanforan area over toward the Caltrain and BART stations, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
 
 ## Why San Bruno Exotic Pet Owners Choose Our Team
 
 San Bruno is a town full of people who think carefully and plan ahead — airport and airline staff, tech workers, longtime families who have kept the same block for generations. What exotic pet parents here tell us they need is a sitter who brings the same rigor to animal care that they bring to their own lives. Here is what sets us apart:
 
 - **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and every member is trained under the same clinical lens. Our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines.
-- **Small-mammal specialists.** Guinea pigs and rabbits are the heart of what we do — this is literally the House of Guineas. We know how to spot the early signs of trouble in a prey animal that instinctively hides illness. That kind of focus is genuinely hard to find on the Peninsula.
+- **Small-mammal experts.** Guinea pigs and rabbits are the heart of what we do — this is literally the House of Guineas. We know how to spot the early signs of trouble in a prey animal that instinctively hides illness. That kind of focus is genuinely hard to find on the Peninsula.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before an airport shift or a flight, evening visits after a long day, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
 
@@ -90,7 +90,7 @@ San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, subcutaneous injections for small mammals and reptiles, and nebulizer treatments. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, subcutaneous injections for small mammals and reptiles, and nebulizer treatments. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
@@ -138,7 +138,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, subcutaneous injections for small mammals and reptiles, and nebulizer treatments. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, subcutaneous injections for small mammals and reptiles, and nebulizer treatments. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {

@@ -9,13 +9,13 @@ og_image = "milo.jpeg"
 
 San Carlos earned its nickname — "The City of Good Living" — for a reason, and the people who settle here tend to be exactly the kind of pet parents who would never leave their little ones with just anyone. Tucked between Belmont and Redwood City in San Mateo County, San Carlos is a residential, professional community strung along the Caltrain, 101, and 280 corridors. Its residents travel — for work conferences, for business meetings, for the long weekends that make living on the Peninsula worth it — and the night before they leave, the same question surfaces: *who is going to take care of the rabbits?* Exotic pets do not board well, and most kennels are not equipped to handle a bonded pair of bunnies, a bearded dragon with a precise UVB schedule, or a conure who refuses to eat unless someone talks back. That is the gap our team fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet specialists travels down the Peninsula to provide in-home care for San Carlos households. From the neighborhoods up in the hills to the homes near downtown, we are comfortable working around the rhythms of a city that runs on Caltrain timetables and after-work walks along Laurel Street.
+House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet caretakers travels down the Peninsula to provide in-home care for San Carlos households. From the neighborhoods up in the hills to the homes near downtown, we are comfortable working around the rhythms of a city that runs on Caltrain timetables and after-work walks along Laurel Street.
 
 ## Why San Carlos Exotic Pet Parents Choose Our Team
 
 San Carlos is full of people who pay attention to detail — engineers, clinicians, designers, founders — and what exotic pet parents tell us they need is a sitter who approaches exotic care with the same rigor they bring to their own work. Here is what sets us apart:
 
-- **Veterinary-informed team.** Our team's backgrounds span wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience). Our founder previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every specialist on our team is trained under that same clinical lens.
+- **Veterinary-informed team.** Our team's backgrounds span wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience). Our founder previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every caretaker on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also keep a current sense of the local exotic vet landscape, so if something goes sideways while you are out of town, we know where to go — see our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before a flight out of SFO, late-night visits after a redeye, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
@@ -38,7 +38,7 @@ Once you book, we schedule visits around your travel itinerary. Most exotic pets
 
 San Carlos is a compact city, so wherever you are, we can get to you. We cover homes up in the hills west of El Camino Real, the flatter residential blocks closer to the Caltrain station, and the area around downtown Laurel Street. We also serve households near the San Carlos Airport and the Hiller Aviation Museum, and we are happy to work the corridor toward both the Belmont and Redwood City borders.
 
-Because San Carlos sits right between two of our most-requested Peninsula cities, our specialists are often already routed through the area, which can make scheduling easier than you would expect.
+Because San Carlos sits right between two of our most-requested Peninsula cities, our caretakers are often already routed through the area, which can make scheduling easier than you would expect.
 
 ## Pricing for San Carlos Visits
 
@@ -78,7 +78,7 @@ San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">Do you really travel to San Carlos for exotic pet care?</summary>
   <div class="faq-answer">
-    <p>Yes. Our team travels from San Francisco to San Carlos via the 101 and 280 corridors. Because San Carlos sits right between Belmont and Redwood City, our specialists are frequently routed through the area for Peninsula visits.</p>
+    <p>Yes. Our team travels from San Francisco to San Carlos via the 101 and 280 corridors. Because San Carlos sits right between Belmont and Redwood City, our caretakers are frequently routed through the area for Peninsula visits.</p>
   </div>
 </details>
 
@@ -92,7 +92,7 @@ San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society, and that clinical bar shapes how our whole team trains. If your little one is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly. New to small-pet care? Our <a href="/post/guinea-pig-care-guide">guinea pig care guide</a> is a good primer.</p>
+    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society, and that clinical bar shapes how our whole team trains. If your little one is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly. New to small-pet care? Our <a href="/post/guinea-pig-care-guide">guinea pig care guide</a> is a good primer.</p>
   </div>
 </details>
 
@@ -124,7 +124,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Do you really travel to San Carlos for exotic pet care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Our team travels from San Francisco to San Carlos via the 101 and 280 corridors. Because San Carlos sits right between Belmont and Redwood City, our specialists are frequently routed through the area for Peninsula visits."
+        "text": "Yes. Our team travels from San Francisco to San Carlos via the 101 and 280 corridors. Because San Carlos sits right between Belmont and Redwood City, our caretakers are frequently routed through the area for Peninsula visits."
       }
     },
     {
@@ -140,7 +140,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society, and that clinical bar shapes how our whole team trains. If your little one is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines at the House Rabbit Society, and that clinical bar shapes how our whole team trains. If your little one is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {

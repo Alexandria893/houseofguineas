@@ -7,11 +7,11 @@ og_image = "Luca.jpg"
   priority = 0.8
 +++
 
-San Mateo sits right at the center of the Peninsula — the kind of city where a biotech researcher in Bay Meadows, a CalTrain commuter near B Street, and a retiree off Alameda de las Pulgas might all share one thing: a rabbit, a flock of cockatiels, or a bearded dragon who needs someone who actually knows what they're doing. With roughly 100,000 residents spread across neighborhoods as varied as Aragon's quiet streets and the newer mixed-use blocks of Bay Meadows, San Mateo's exotic pet parents deserve more than a generalist sitter filling in between dog walks. Our team of exotic pet specialists travels out from our San Francisco base to provide in-home visits grounded in clinical experience — the same approach our founder, Alexandria, brought to her volunteer work administering subcutaneous RHDV vaccines at the House Rabbit Society. When you leave for a week of conferences in Boston or a weekend up at Tahoe, you want someone who can spot the early signs of GI stasis or recognize that your ball python's humidity has drifted below range. That's the standard we bring to every San Mateo visit.
+San Mateo sits right at the center of the Peninsula — the kind of city where a biotech researcher in Bay Meadows, a CalTrain commuter near B Street, and a retiree off Alameda de las Pulgas might all share one thing: a rabbit, a flock of cockatiels, or a bearded dragon who needs someone who actually knows what they're doing. With roughly 100,000 residents spread across neighborhoods as varied as Aragon's quiet streets and the newer mixed-use blocks of Bay Meadows, San Mateo's exotic pet parents deserve more than a generalist sitter filling in between dog walks. Our team of exotic pet caretakers travels out from our San Francisco base to provide in-home visits grounded in clinical experience — the same approach our founder, Alexandria, brought to her volunteer work administering subcutaneous RHDV vaccines at the House Rabbit Society. When you leave for a week of conferences in Boston or a weekend up at Tahoe, you want someone who can spot the early signs of GI stasis or recognize that your ball python's humidity has drifted below range. That's the standard we bring to every San Mateo visit.
 
 ## What Makes Our San Mateo Exotic Pet Care Different
 
-Exotic pets are our entire practice — and every specialist on our team is trained with that focus in mind, so your little ones are cared for by someone who truly knows their species.
+Exotic pets are our entire practice — and every caretaker on our team is trained with that focus in mind, so your little ones are cared for by someone who truly knows their species.
 
 - **Veterinary background** — Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work; our founder, Alexandria, previously trained and worked at an exotic veterinary hospital and volunteered as a medical assistant with the [House Rabbit Society](/san-francisco-california-exotic-veterinary-experience).
 - **Species specialization** — From prey-species body language in rabbits and guinea pigs to UVB and basking-gradient management for reptiles, we've worked hands-on with the species we care for. No guessing.
@@ -31,7 +31,7 @@ If your species isn't listed, send us a message — there's a good chance someon
 
 ## How Our San Mateo Visits Work
 
-**Meet-and-greet first.** Before your first booking, one of our specialists comes to your San Mateo home for a free consultation. We meet your pets, review their feeding routines, supplement schedules, enclosure setup (enclosure temps, humidity, lighting cycles for reptiles; hay type and pellet ratios for rabbits and guinea pigs), and note emergency contacts and your preferred exotic vet.
+**Meet-and-greet first.** Before your first booking, one of our caretakers comes to your San Mateo home for a free consultation. We meet your pets, review their feeding routines, supplement schedules, enclosure setup (enclosure temps, humidity, lighting cycles for reptiles; hay type and pellet ratios for rabbits and guinea pigs), and note emergency contacts and your preferred exotic vet.
 
 **Scheduling around your trip.** Whether you're headed to SFO from the San Mateo CalTrain station for a two-day work trip or driving down to LA for two weeks, we build a visit schedule that fits. Most pet parents book twice-daily visits for rabbits, guinea pigs, and ferrets; once-daily works for many reptiles and low-maintenance small mammals.
 
@@ -56,7 +56,7 @@ Our team travels throughout San Mateo, including:
 - Shoreview
 - Sugarloaf
 
-With access from both Highway 101 and Highway 92, plus the San Mateo CalTrain station, our specialists can reach most of the city efficiently — whether you're a few blocks from Central Park or closer to the eucalyptus groves and shoreline at Coyote Point.
+With access from both Highway 101 and Highway 92, plus the San Mateo CalTrain station, our caretakers can reach most of the city efficiently — whether you're a few blocks from Central Park or closer to the eucalyptus groves and shoreline at Coyote Point.
 
 ## Pricing for San Mateo In-Home Visits
 

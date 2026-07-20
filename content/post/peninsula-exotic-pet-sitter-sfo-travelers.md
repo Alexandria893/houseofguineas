@@ -1,7 +1,7 @@
 +++
 title = "Traveling Through SFO? Peninsula Exotic Pet Care for Busy Families"
 shortTitle = "SFO Travelers: Peninsula Exotic Pet Care"
-description = "Live in Burlingame, San Mateo, or Foster City and travel often through SFO? Our team of exotic pet specialists provides in-home care for guinea pigs, rabbits, chinchillas, reptiles, and birds — so you can fly with peace of mind."
+description = "Live in Burlingame, San Mateo, or Foster City and travel often through SFO? Our team of exotic pet caretakers provides in-home care for guinea pigs, rabbits, chinchillas, reptiles, and birds — so you can fly with peace of mind."
 date = 2026-04-13
 og_image = "milo.jpeg"
 tags = ["peninsula", "exotic pet care", "SFO", "travel"]
@@ -36,7 +36,7 @@ This is not a knock on generalist sitters. It is a recognition that exotic anima
 
 ## How We Built This Service for Peninsula Travelers
 
-I founded House of Guineas in San Francisco as a solo exotic veterinary assistant making house calls. The demand from the Peninsula grew faster than I could keep up with on my own, so I hired and trained a team of specialists who now handle most of our in-home visits. Every specialist we bring on is held to the same clinical standards I learned as an exotic vet assistant and applied at [House Rabbit Society](https://houserabbit.org/veterinaryinitiative), where I volunteered administering subcutaneous RHDV2 vaccinations.
+I founded House of Guineas in San Francisco as a solo exotic veterinary assistant making house calls. The demand from the Peninsula grew faster than I could keep up with on my own, so I hired and trained a team of caretakers who now handle most of our in-home visits. Every caretaker we bring on is held to the same clinical standards I learned as an exotic vet assistant and applied at [House Rabbit Society](https://houserabbit.org/veterinaryinitiative), where I volunteered administering subcutaneous RHDV2 vaccinations.
 
 Here is what that looks like in practice for a Peninsula household:
 
@@ -50,12 +50,12 @@ The Clinical Series liners I designed for the guinea pigs in our care came direc
 
 ## Cities We Serve Around SFO
 
-Our specialists cover the full Peninsula corridor. The three cities we see the most volume in have dedicated pages:
+Our caretakers cover the full Peninsula corridor. The three cities we see the most volume in have dedicated pages:
 
 - **[Burlingame](/burlingame-exotic-pet-sitter/)** — the closest Peninsula city to SFO. Lots of biotech and tech frequent flyers, lots of early-morning pre-flight visits.
 - **[San Mateo](/san-mateo-exotic-pet-sitter/)** — a real mix, from Hillsdale families to downtown apartment dwellers with a single rabbit or a reptile setup.
 - **[Foster City](/foster-city-exotic-pet-sitter/)** — the Visa and Gilead contingent, plus a lot of townhouse-based bonded rabbit pairs and guinea pig households.
-- **Millbrae, Hillsborough, Redwood City, Belmont, San Carlos** — covered by our specialists too. Reach out for a quote and we will confirm availability for your dates.
+- **Millbrae, Hillsborough, Redwood City, Belmont, San Carlos** — covered by our caretakers too. Reach out for a quote and we will confirm availability for your dates.
 
 ## Planning for a Trip: A Pre-Flight Checklist for Exotic Pet Owners
 

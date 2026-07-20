@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 For a lot of San Francisco families, a guinea pig is the first pet — the one a kid begs for, names on day one, and then, quietly, falls completely in love with. Small mammals have a way of doing that. They are undemanding on the surface and deceptively particular underneath. A guinea pig needs unlimited hay in front of it at all times, fresh vegetables every single day, a steady source of vitamin C its body cannot make on its own, and a caretaker who notices the difference between a pig that is simply napping and a pig that has stopped eating. That last distinction matters more than most people realize, because in a guinea pig — or a rabbit, or a chinchilla — a gut that goes quiet is a genuine emergency, not a wait-and-see. A dog-and-cat sitter, however wonderful, is usually not equipped to weigh a pig on a gram scale, spot the early signs of GI stasis, or syringe critical-care formula into an animal that has gone off its food. That is exactly the gap our team was built to fill.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and the name is not an accident — the whole business grew out of guinea pig care. Small mammals are the heart of what we do. Our specialists provide in-home care across the entire city, so your pigs, chinchillas, ferrets, and pocket pets stay in their own enclosures, on their own routines, eating their own hay, while you are away. (Have a chinchilla, ferret, or rat? See our dedicated [chinchilla & small-mammal sitter](/chinchilla-small-mammal-sitter-san-francisco/) page.)
+House of Guineas Pet Care is based in San Francisco's Inner Sunset, and the name is not an accident — the whole business grew out of guinea pig care. Small mammals are the heart of what we do. Our caretakers provide in-home care across the entire city, so your pigs, chinchillas, ferrets, and pocket pets stay in their own enclosures, on their own routines, eating their own hay, while you are away. (Have a chinchilla, ferret, or rat? See our dedicated [chinchilla & small-mammal sitter](/chinchilla-small-mammal-sitter-san-francisco/) page.)
 
 ## Why San Francisco Small-Mammal Owners Choose Us
 
@@ -37,7 +37,7 @@ Good small-mammal care is quiet, consistent, and detail-driven. At every visit w
 
 ## San Francisco Neighborhoods We Serve
 
-We cover the whole city, from the western avenues out to the bay. Small mammals are family pets, and we see a lot of them in San Francisco's family neighborhoods — [Noe Valley](/noe-valley-exotic-pet-sitter/), [the Sunset District](/sunset-district-exotic-pet-sitter/) right in our own backyard, and [the Richmond District](/richmond-district-exotic-pet-sitter/) — but wherever you are in San Francisco, our specialists can reach you.
+We cover the whole city, from the western avenues out to the bay. Small mammals are family pets, and we see a lot of them in San Francisco's family neighborhoods — [Noe Valley](/noe-valley-exotic-pet-sitter/), [the Sunset District](/sunset-district-exotic-pet-sitter/) right in our own backyard, and [the Richmond District](/richmond-district-exotic-pet-sitter/) — but wherever you are in San Francisco, our caretakers can reach you.
 
 ## Pricing for Small-Mammal Visits
 
@@ -84,7 +84,7 @@ These are in-city San Francisco visits, so there is **no Peninsula travel surcha
 <details class="faq-details">
   <summary class="faq-summary">What if my guinea pig stops eating while I'm away?</summary>
   <div class="faq-answer">
-    <p>A guinea pig that has stopped eating is an emergency, and our specialists are trained to recognize it. We monitor appetite and output at every visit, and we can syringe-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. This is exactly the kind of situation our veterinary-informed team was built to handle — our founder previously worked as an exotic veterinary assistant — and we will reach out to you before you land.</p>
+    <p>A guinea pig that has stopped eating is an emergency, and our caretakers are trained to recognize it. We monitor appetite and output at every visit, and we can syringe-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. This is exactly the kind of situation our veterinary-informed team was built to handle — our founder previously worked as an exotic veterinary assistant — and we will reach out to you before you land.</p>
   </div>
 </details>
 
@@ -131,7 +131,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "What if my guinea pig stops eating while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A guinea pig that has stopped eating is an emergency, and our specialists are trained to recognize it. We monitor appetite and output at every visit, and we can syringe-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. This is exactly the kind of situation our veterinary-informed team was built to handle — our founder previously worked as an exotic veterinary assistant — and we will reach out to you before you land."
+        "text": "A guinea pig that has stopped eating is an emergency, and our caretakers are trained to recognize it. We monitor appetite and output at every visit, and we can syringe-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. This is exactly the kind of situation our veterinary-informed team was built to handle — our founder previously worked as an exotic veterinary assistant — and we will reach out to you before you land."
       }
     },
     {

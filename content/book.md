@@ -91,7 +91,14 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
       <option value="Boarding">Boarding (hosted in San Francisco)</option>
       <option value="Not sure yet">Not sure yet — help me decide</option>
     </select>
+    <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding spots are limited and often fully booked — please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability. If boarding is full for your dates, in-home care is usually the closest fit and has far more availability.</p>
   </div>
+
+  <script>
+    document.getElementById('service').addEventListener('change', function () {
+      document.getElementById('boarding-note').style.display = this.value === 'Boarding' ? 'block' : 'none';
+    });
+  </script>
 
   <div class="form-row">
     <fieldset>

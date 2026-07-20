@@ -23,7 +23,7 @@ Exotic pets have specialized needs that differ significantly from traditional pe
 
 * **Problem Recognition:** Unlike cats and dogs, exotic pets (especially prey animals) tend to hide their symptoms. As such, it is important to hire someone with a keen eye for identifying subtle changes in your pet's behavior, and address them before they become serious. This proactive observation can be **crucial** for early intervention and better health outcomes for your pet.
 
-* **Mitigate Stress and Provide Enrichment:** Many exotic animals are particularly sensitive to changes in their routine and environment. An exotic pet specialist knows how to mitigate stress, while providing proper enrichment for your pet's mental and physical health.
+* **Mitigate Stress and Provide Enrichment:** Many exotic animals are particularly sensitive to changes in their routine and environment. An exotic pet caretaker knows how to mitigate stress, while providing proper enrichment for your pet's mental and physical health.
 
 * **Professional Handling:** Incorrect handling can cause injury to your exotic pet. Knowing and being able to assess your pet’s comfort with handling mitigates unnecessary stress, while respecting your pet’s boundaries.
 

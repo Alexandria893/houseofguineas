@@ -15,7 +15,7 @@ Here is what makes the Sunset different from every other neighborhood we serve: 
 
 The Sunset is full of people who think carefully and plan ahead — engineers, clinicians, educators, and the students and faculty connected to UCSF just up the hill at Parnassus. What exotic pet parents here tell us they need is a sitter who brings the same rigor to animal care that they bring to their own work. Here is what sets us apart:
 
-- **Veterinary background.** Ours is a veterinary-informed team, with backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience). Our founder previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Ours is a veterinary-informed team, with backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience). Our founder previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every caretaker on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That kind of focus is genuinely hard to find anywhere in the city.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory.
 - **We are right here.** Because we are based in the Inner Sunset, we are exceptionally close by. Early-morning visits before a commute or a flight, evening visits after a long day, mid-day medication timing — we build the schedule around your itinerary, and being neighbors makes that easy.
@@ -90,7 +90,7 @@ Because the Sunset is within San Francisco — and is in fact where House of Gui
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines while volunteering with the House Rabbit Society, and that clinical bar carries through our whole team. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines while volunteering with the House Rabbit Society, and that clinical bar carries through our whole team. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
@@ -138,7 +138,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines while volunteering with the House Rabbit Society, and that clinical bar carries through our whole team. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines while volunteering with the House Rabbit Society, and that clinical bar carries through our whole team. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {

@@ -9,19 +9,19 @@ og_image = "beardedDragonPostBath.jpg"
 
 The bearded dragon is the most popular pet reptile in San Francisco, and for good reason — they're curious, expressive, and genuinely bond with their people. But a beardie is also one of the more demanding reptiles to keep well, and finding someone who can actually care for one while you're away, or help you stay on top of the husbandry week to week, is surprisingly hard. Most listings are boarding facilities that want you to pack up and transport your dragon, and moving a bearded dragon means dismantling the one thing that keeps it healthy: a carefully dialed environment. A basking spot at 100–110°F, a genuine cool side, UVB on a schedule, the right diet ratio for its age — that's not a setup you can box up and recreate in a stranger's spare room without stressing the animal. What beardie parents actually want is someone who comes *to* the dragon, leaves the enclosure exactly where it is, and knows precisely what they're looking at. That's what we do.
 
-House of Guineas is based in San Francisco's Inner Sunset, and our team of exotic specialists provides in-home bearded dragon care across the entire city.
+House of Guineas is based in San Francisco's Inner Sunset, and our team of exotic pet caretakers provides in-home bearded dragon care across the entire city.
 <!--more-->
 
 ## Why San Francisco Beardie Parents Choose Us
 
-- **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and every specialist is trained under that same clinical lens — our founder, Alexandria, previously worked as an exotic veterinary assistant at Bay Area Bird & Exotics Hospital.
+- **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and every caretaker is trained under that same clinical lens — our founder, Alexandria, previously worked as an exotic veterinary assistant at Bay Area Bird & Exotics Hospital.
 - **Bearded dragons are a species we know well.** They're the reptile we see most, so their care isn't guesswork. We know the difference between normal brumation and worrying lethargy, what a healthy poop looks like, and when a black beard is stress versus routine.
 - **We read the environment.** On every visit we confirm the temperature gradient, verify the basking spot and cool side, check that UVB is functioning, and watch appetite, activity, and posture for the early signs of trouble.
 - **We come to you.** Your dragon stays on its own basking rock, in its own calibrated enclosure, with every setting exactly where you dialed it in.
 
 ## What In-Home Bearded Dragon Care Involves
 
-Bearded dragon care is environmental care first. Every visit, our specialists:
+Bearded dragon care is environmental care first. Every visit, our caretakers:
 
 - **Verify the temperature gradient** — a proper 100–110°F warm-side basking spot and a genuine cool-side retreat, so your dragon can thermoregulate.
 - **Check UVB output** — inadequate UVB is one of the most common and most preventable causes of metabolic bone disease in captive beardies, so we confirm the bulb is working and on schedule.

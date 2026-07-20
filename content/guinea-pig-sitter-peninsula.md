@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 On the Peninsula, a guinea pig is often the pet that anchors a busy household — the one a kid in San Mateo begged for, the pair that greet a biotech researcher in Foster City after a long day, the little herd that popcorns around a Redwood City living room. Small mammals have a way of becoming the heart of a home while asking for very little on the surface. Underneath, though, they are particular. A guinea pig needs unlimited hay in front of it around the clock, fresh vegetables every day, a steady source of vitamin C its body cannot make on its own, and — most of all — a caretaker who can tell the difference between a pig that is simply napping and a pig that has quietly stopped eating. That last distinction is not a small one, because in a guinea pig, a rabbit, or a chinchilla, a gut that goes silent is a genuine emergency, not a wait-and-see. A generalist sitter who mostly does dogs, however kind, is usually not equipped to weigh a pig on a gram scale, catch the early signs of GI stasis, or syringe critical-care formula into an animal that has gone off its food. That is exactly the gap our Peninsula team was built to fill.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset — the name is no accident, since the whole business grew out of guinea pig care — and our team of exotic specialists travels down the Peninsula to provide in-home visits from Daly City to Redwood City. Your pigs, chinchillas, ferrets, and pocket pets stay in their own enclosures, on their own routines, eating their own hay, while you are away.
+House of Guineas Pet Care is based in San Francisco's Inner Sunset — the name is no accident, since the whole business grew out of guinea pig care — and our team of exotic pet caretakers travels down the Peninsula to provide in-home visits from Daly City to Redwood City. Your pigs, chinchillas, ferrets, and pocket pets stay in their own enclosures, on their own routines, eating their own hay, while you are away.
 
 ## Why Peninsula Small-Mammal Pet Parents Choose Us
 
@@ -35,7 +35,7 @@ Good small-mammal care is quiet, consistent, and detail-driven. At every visit w
 
 ## Peninsula Cities We Serve
 
-Our specialists travel throughout San Mateo County, with the 101 and 280 corridors putting most of the Peninsula within easy reach:
+Our caretakers travel throughout San Mateo County, with the 101 and 280 corridors putting most of the Peninsula within easy reach:
 
 - [Burlingame](/burlingame-exotic-pet-sitter/)
 - [San Mateo](/san-mateo-exotic-pet-sitter/)
@@ -102,7 +102,7 @@ The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** ap
 <details class="faq-details">
   <summary class="faq-summary">What if my guinea pig stops eating while I'm away?</summary>
   <div class="faq-answer">
-    <p>A guinea pig that has stopped eating is an emergency, and our specialists are trained to recognize it. We monitor appetite and output at every visit and can hand-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. Our team's training comes straight from exotic veterinary hospital work, so this is exactly the kind of situation we are prepared for — and we will reach out to you before you land.</p>
+    <p>A guinea pig that has stopped eating is an emergency, and our caretakers are trained to recognize it. We monitor appetite and output at every visit and can hand-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. Our team's training comes straight from exotic veterinary hospital work, so this is exactly the kind of situation we are prepared for — and we will reach out to you before you land.</p>
   </div>
 </details>
 
@@ -150,7 +150,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "What if my guinea pig stops eating while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A guinea pig that has stopped eating is an emergency, and our specialists are trained to recognize it. We monitor appetite and output at every visit and can hand-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. Our team's training comes straight from exotic veterinary hospital work, so this is exactly the kind of situation we are prepared for — and we will reach out to you before you land."
+        "text": "A guinea pig that has stopped eating is an emergency, and our caretakers are trained to recognize it. We monitor appetite and output at every visit and can hand-feed critical-care formula to a pig in GI stasis while getting it to an exotic vet. Our team's training comes straight from exotic veterinary hospital work, so this is exactly the kind of situation we are prepared for — and we will reach out to you before you land."
       }
     },
     {

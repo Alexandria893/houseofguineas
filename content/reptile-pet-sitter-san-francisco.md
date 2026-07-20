@@ -9,11 +9,11 @@ og_image = "beardedDragonPostBath.jpg"
 
 Ask around San Francisco for someone who will actually come to your home and care for a reptile, and you hit the same wall most exotic pet parents do: there is almost nobody. The listings you find are either boarding facilities that want you to pack up and transport your animal, or businesses based over in the East Bay who treat the city as an afterthought. And for a reptile, transport is not a small thing. A bearded dragon's enclosure is a carefully calibrated little ecosystem — a basking spot dialed to the degree, a UVB bulb on a schedule, a humidity range held steady. Move all of that, and you are not just inconveniencing your pet; you are dismantling the system that keeps it healthy. What most reptile parents actually want is simple: someone who comes to the reptile, leaves the enclosure exactly where it is, and knows what they are looking at. That is the gap this page fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic specialists provides in-home reptile care across the entire city. Your dragon stays on its own basking rock, your gecko keeps its own humidity, your tortoise grazes in its own space — and we come to them.
+House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet caretakers provides in-home reptile care across the entire city. Your dragon stays on its own basking rock, your gecko keeps its own humidity, your tortoise grazes in its own space — and we come to them.
 
 ## Why San Francisco Reptile Owners Choose Us
 
-- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience). Our founder previously worked as an exotic veterinary assistant at Bay Area Bird & Exotics Hospital and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every specialist on our team is trained under that same clinical lens.
+- **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience). Our founder previously worked as an exotic veterinary assistant at Bay Area Bird & Exotics Hospital and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every caretaker on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are all we do — reptiles, small mammals, and birds. That kind of focus is genuinely hard to find in San Francisco.
 - **Clinical-grade care.** We can read a temperature gradient across an enclosure, confirm the basking spot and UVB output are where they should be, monitor humidity against your species' target range, and recognize the early signs of illness before they become emergencies.
 - **Flexible scheduling.** Early-morning visits before a flight, evening lights-out checks, mid-day misting or feeding — we build the schedule around your reptile's routine and your itinerary, not the other way around.
@@ -29,7 +29,7 @@ A note on snakes, and one that reflects how closely we follow the animals we wor
 
 ## What In-Home Reptile Care Involves
 
-Reptile care is environmental care first. On every visit our specialists confirm the temperature gradient — a proper warm-side basking spot and a genuine cool-side retreat, so your reptile can thermoregulate the way it needs to. We verify that the UVB lighting is functioning, since inadequate UVB is one of the most common and most preventable causes of illness in captive reptiles. We check humidity against your species' target range and mist when the setup calls for it. We handle feeding to your animal's schedule — fresh greens, appropriately sized insects, calcium and vitamin dusting, and gut-loading where needed — and we spot-clean the enclosure so waste and uneaten food do not sit. And through all of it we are watching: appetite, activity, shedding, posture, and the subtle early signs that something is off, so we can flag it to you before you land.
+Reptile care is environmental care first. On every visit our caretakers confirm the temperature gradient — a proper warm-side basking spot and a genuine cool-side retreat, so your reptile can thermoregulate the way it needs to. We verify that the UVB lighting is functioning, since inadequate UVB is one of the most common and most preventable causes of illness in captive reptiles. We check humidity against your species' target range and mist when the setup calls for it. We handle feeding to your animal's schedule — fresh greens, appropriately sized insects, calcium and vitamin dusting, and gut-loading where needed — and we spot-clean the enclosure so waste and uneaten food do not sit. And through all of it we are watching: appetite, activity, shedding, posture, and the subtle early signs that something is off, so we can flag it to you before you land.
 
 ## San Francisco Neighborhoods We Serve
 
@@ -80,7 +80,7 @@ Because this is in-city San Francisco, there is **no Peninsula travel surcharge*
 <details class="faq-details">
   <summary class="faq-summary">What if my reptile needs medication or assist-feeding while I travel?</summary>
   <div class="faq-answer">
-    <p>Medication and assist-feeding are part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and administering medications on a set protocol — training shaped by our founder's earlier clinical work as an exotic veterinary assistant, which included administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your reptile is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication and assist-feeding are part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and administering medications on a set protocol — training shaped by our founder's earlier clinical work as an exotic veterinary assistant, which included administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your reptile is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
@@ -127,7 +127,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "What if my reptile needs medication or assist-feeding while I travel?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication and assist-feeding are part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and administering medications on a set protocol — training shaped by our founder's earlier clinical work as an exotic veterinary assistant, which included administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your reptile is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication and assist-feeding are part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and administering medications on a set protocol — training shaped by our founder's earlier clinical work as an exotic veterinary assistant, which included administering subcutaneous RHDV2 vaccines with the House Rabbit Society. If your reptile is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {
