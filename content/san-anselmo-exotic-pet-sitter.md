@@ -38,9 +38,11 @@ We start with a free meet-and-greet at your home to learn feeding routines, encl
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 Because our specialist is based in Central Marin, San Anselmo and the Ross Valley fall in our **no-surcharge to $15/visit range**. Text us your address and dates and we will confirm your exact rate.
+
+> **With our caretaker living just minutes away in Central Marin,** many Ross Valley families keep a standing [routine care](/routine-recurring-exotic-pet-care/) visit on the calendar — weekly or every-other-week — so the enclosure deep-clean, weigh-ins, and a gentle health check happen right on schedule between school pickups and soccer practice, and the little ones get unhurried, focused attention every time.
 
 ## Frequently Asked Questions
 

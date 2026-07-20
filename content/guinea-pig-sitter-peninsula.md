@@ -54,9 +54,12 @@ If your town is not on the list, [text us](tel:415-484-6493) — there is a good
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** applies depending on distance — cities closer in often see the lower end.
+
+> **The weekly liner change can quietly take care of itself.** Peninsula guinea pig families often set up recurring [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker handles fresh liners, a full hay restock, gram-scale weigh-ins, and a careful nose-to-tail once-over, so your evenings belong to lap time, wheeks, and popcorning.
+
 ## Frequently Asked Questions
 
 <style>
@@ -113,7 +116,7 @@ The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** ap
 <details class="faq-details">
   <summary class="faq-summary">How much does a Peninsula guinea pig sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -163,7 +166,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "How much does a Peninsula guinea pig sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

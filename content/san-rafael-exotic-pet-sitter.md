@@ -38,9 +38,11 @@ We start with a free meet-and-greet at your home — a walkthrough of feeding ro
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 Because our specialist is based in Central Marin, San Rafael sits in our **no-surcharge to $15/visit range** — nothing like the cost a San Francisco-based sitter would have to charge to cross the bridge. Text us your address and dates and we'll confirm your exact rate.
+
+> **With our caretaker based just down the road in Central Marin,** it's simple to set up standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits that cover the deep enclosure clean, weigh-ins, and a gentle health once-over — so whether you're downtown near Fourth Street or up in Terra Linda, your evenings belong to lap time with your little ones.
 
 ## Frequently Asked Questions
 
@@ -70,7 +72,7 @@ Because our specialist is based in Central Marin, San Rafael sits in our **no-su
 <details class="faq-details">
   <summary class="faq-summary">How much does an exotic pet sitter cost in San Rafael?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care running $140–$190 per day depending on visit length and the number of pets. Because our specialist is based nearby in Central Marin, San Rafael falls in our no-surcharge to $15/visit range — far below what a bridge crossing from the city would add. Text us at 415-484-6493 for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care running $140–$190 per day depending on visit length and the number of pets. Because our specialist is based nearby in Central Marin, San Rafael falls in our no-surcharge to $15/visit range — far below what a bridge crossing from the city would add. Text us at 415-484-6493 for a firm quote.</p>
   </div>
 </details>
 
@@ -116,7 +118,7 @@ Ready to head out of town knowing your little ones are in good hands? [Call or t
       "name": "How much does an exotic pet sitter cost in San Rafael?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care running $140–$190 per day depending on visit length and the number of pets. Because our specialist is based nearby in Central Marin, San Rafael falls in our no-surcharge to $15/visit range — far below what a bridge crossing from the city would add. Text us at 415-484-6493 for a firm quote."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care running $140–$190 per day depending on visit length and the number of pets. Because our specialist is based nearby in Central Marin, San Rafael falls in our no-surcharge to $15/visit range — far below what a bridge crossing from the city would add. Text us at 415-484-6493 for a firm quote."
       }
     },
     {

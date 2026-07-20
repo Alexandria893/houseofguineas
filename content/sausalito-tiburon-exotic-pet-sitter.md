@@ -38,9 +38,11 @@ We start with a free meet-and-greet at your home — a walkthrough of feeding ro
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 Because our specialist is based in Central Marin, Sausalito, Tiburon, and Belvedere fall in our **$15/visit travel range** — a fraction of what a San Francisco-based sitter would have to charge to cross the bridge. Text us your address and dates and we will confirm your exact rate.
+
+> **Because our caretaker is based right here in Marin,** a standing [routine care](/routine-recurring-exotic-pet-care/) schedule is easy to sustain — weekly or every-other-week visits covering the enclosure deep-clean, weigh-ins, and a gentle health check — so even on evenings when the city runs long and the last ferry feels far away, your little ones are already fed, checked, and cozy.
 
 ## Frequently Asked Questions
 

@@ -1,7 +1,7 @@
 +++
-title = "Routine & Recurring Exotic Pet Care in San Francisco & the Peninsula"
+title = "Routine Exotic Pet Care in SF, Peninsula & Marin | Cage Cleaning, Weigh-Ins & Health Checks"
 shortTitle = "Routine Care"
-description = "Weekly or biweekly in-home exotic pet care in San Francisco & the Peninsula. Our team handles the upkeep and health checks in your pet's own home — reclaim your evenings."
+description = "Weekly or biweekly in-home exotic pet care across San Francisco, the Peninsula & Marin — a standing cage-cleaning service plus gentle health checks for guinea pigs, rabbits, birds & reptiles. Reclaim your evenings."
 og_image = "lionheadBunnyWithTreats.jpg"
 [params]
   serviceType = "Recurring Exotic Pet Care"
@@ -16,7 +16,7 @@ You come home tired, the enclosure needs cleaning, and the mental checklist star
 
 ## What a Routine Visit Includes
 
-- **Preventative care with enclosure maintenance** — deep-clean, fresh litter and bedding, liners swapped.
+- **Preventative care with enclosure maintenance** — full cage cleaning and deep-clean, fresh litter and bedding, liners swapped.
 - **Meals & enrichment** — hay restocked, chop prepped, fresh water, plus handling and play.
 - **A gentle wellness check** — gram-scale weigh-ins, habitat temps and UVB, a trained eye for early signs of trouble — with a photo update every visit.
 
@@ -34,11 +34,11 @@ Standing visits on a schedule you choose — every other week or weekly, one or 
 * **1 hour:** $95/visit (~$410/month)
 * **2 hours:** $165/visit (~$710/month)
 
-Monthly estimates assume an average month (~4.3 weeks). No travel charge within ~3 miles of Inner Sunset; from $15–$25/visit farther out and across the Peninsula (see [service areas](/home/services/faqs/#service-areas)).
+Monthly estimates assume an average month (~4.3 weeks). No travel charge within ~3 miles of Inner Sunset; from $15–$25/visit farther out and across the Peninsula (see [service areas](/home/services/faqs/#service-areas)). In Marin, travel is measured from our caretaker's Central Marin base — so most of Central and Southern Marin has little to no travel charge.
 
 <p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Let's Create Your Pet's Custom Care Plan →</a></p>
 
-Serving all of San Francisco and the Peninsula down to Redwood City: [San Francisco](/san-francisco-exotic-pet-sitter/) · [Burlingame](/burlingame-exotic-pet-sitter/) · [San Mateo](/san-mateo-exotic-pet-sitter/) · [Millbrae](/millbrae-exotic-pet-sitter/) · [Foster City](/foster-city-exotic-pet-sitter/) · [Redwood City](/redwood-city-exotic-pet-sitter/).
+Serving all of San Francisco, the Peninsula down to Redwood City, and Marin County: [San Francisco](/san-francisco-exotic-pet-sitter/) · [Burlingame](/burlingame-exotic-pet-sitter/) · [San Mateo](/san-mateo-exotic-pet-sitter/) · [Millbrae](/millbrae-exotic-pet-sitter/) · [Foster City](/foster-city-exotic-pet-sitter/) · [Redwood City](/redwood-city-exotic-pet-sitter/) · [Marin County](/marin-county-exotic-pet-sitter/) · [San Rafael](/san-rafael-exotic-pet-sitter/) · [Mill Valley](/mill-valley-exotic-pet-sitter/) · [Larkspur & Corte Madera](/larkspur-corte-madera-exotic-pet-sitter/).
 
 ## Frequently Asked Questions
 
@@ -64,9 +64,16 @@ Serving all of San Francisco and the Peninsula down to Redwood City: [San Franci
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">How often can you come?</summary>
+  <summary class="faq-summary">How often can you come for routine visits?</summary>
   <div class="faq-answer">
     <p>Routine plans run weekly or every other week, with one- or two-hour visits. Weekly is the sweet spot for keeping most exotic pets' upkeep, feeding, and health monitoring on track — small mammals and birds especially benefit from that rhythm — but we'll recommend the right cadence for your pet at your meet-and-greet.</p>
+  </div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">Is this a cage cleaning service for guinea pigs and rabbits?</summary>
+  <div class="faq-answer">
+    <p>Yes — and a little more. Every routine visit includes the full cage cleaning: liners swapped, litter boxes refreshed, hay restocked, fresh water, enclosure wiped down. What makes it special is who's doing it — a caretaker from our veterinary-informed team who weighs your pet on a gram scale and looks them over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome.</p>
   </div>
 </details>
 
@@ -76,7 +83,7 @@ Serving all of San Francisco and the Peninsula down to Redwood City: [San Franci
   "@type": "Service",
   "name": "Routine & Recurring Exotic Pet Care",
   "serviceType": "Recurring in-home exotic pet care",
-  "description": "Recurring, in-home exotic pet care for busy San Francisco and Peninsula pet parents — weekly or every-other-week visits in your pet's own home, including cage deep-cleans, gram-scale weigh-ins, and health checks, from a veterinary-informed team.",
+  "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — weekly or every-other-week visits in your pet's own home, including full cage cleaning and deep-cleans, gram-scale weigh-ins, and health checks, from a veterinary-informed team.",
   "provider": {
     "@type": "LocalBusiness",
     "@id": "https://www.houseofguineas.com/#localbusiness"
@@ -88,7 +95,15 @@ Serving all of San Francisco and the Peninsula down to Redwood City: [San Franci
     {"@type": "City", "name": "San Mateo", "addressRegion": "CA"},
     {"@type": "City", "name": "Millbrae", "addressRegion": "CA"},
     {"@type": "City", "name": "Foster City", "addressRegion": "CA"},
-    {"@type": "City", "name": "Redwood City", "addressRegion": "CA"}
+    {"@type": "City", "name": "Redwood City", "addressRegion": "CA"},
+    {"@type": "City", "name": "San Rafael", "addressRegion": "CA"},
+    {"@type": "City", "name": "Mill Valley", "addressRegion": "CA"},
+    {"@type": "City", "name": "Larkspur", "addressRegion": "CA"},
+    {"@type": "City", "name": "Corte Madera", "addressRegion": "CA"},
+    {"@type": "City", "name": "San Anselmo", "addressRegion": "CA"},
+    {"@type": "City", "name": "Sausalito", "addressRegion": "CA"},
+    {"@type": "City", "name": "Tiburon", "addressRegion": "CA"},
+    {"@type": "AdministrativeArea", "name": "Marin County, CA"}
   ]
 }
 </script>
@@ -120,6 +135,14 @@ Serving all of San Francisco and the Peninsula down to Redwood City: [San Franci
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Routine plans run weekly or every other week, with one- or two-hour visits. Weekly is the sweet spot for keeping most exotic pets' upkeep, feeding, and health monitoring on track — small mammals and birds especially benefit from that rhythm — but we'll recommend the right cadence for your pet at your meet-and-greet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is this a cage cleaning service for guinea pigs and rabbits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — and a little more. Every routine visit includes the full cage cleaning: liners swapped, litter boxes refreshed, hay restocked, fresh water, enclosure wiped down. What makes it special is who's doing it — a caretaker from our veterinary-informed team who weighs your pet on a gram scale and looks them over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome."
       }
     }
   ]

@@ -33,7 +33,7 @@ Your home is your pet's safe-haven. Our [veterinary-informed team](/san-francisc
 * **Home care** — tidying pet areas, plants, mail, and lights/blinds on request
 * **Peace of mind** — photo updates every visit, so you can enjoy your time away
 
-### Routine Visits (2x/day)
+### Twice-Daily Visits (2x/day)
 * **30 minutes:** $140/day ($70/visit) <!-- prev 60/120 for 30 and  155 for 30/+60/165 -->
 * **30 minute & 60 minute visit combo:** $165/day
 * **60 minutes:** $190/day ($95/visit)

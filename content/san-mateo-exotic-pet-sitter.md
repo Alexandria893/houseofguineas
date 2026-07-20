@@ -70,6 +70,8 @@ San Mateo falls within our Peninsula service tier. A travel surcharge of $15–$
 
 If you'd prefer drop-off boarding instead of in-home visits, our [boarding service](/home/services/exotic-pet-care-services-boarding) is hosted personally by members of our team in their San Francisco homes — San Mateo families are welcome to drop off any time.
 
+> **Routine care visits happen in San Mateo, too.** For families juggling long workweeks between Hillsdale and downtown, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, restocks the hay, logs a weigh-in, and gives everyone a gentle once-over, so your evenings with your little ones are about floor time, not chore time.
+
 ## Frequently Asked Questions
 
 <style>
@@ -126,7 +128,7 @@ If you'd prefer drop-off boarding instead of in-home visits, our [boarding servi
 <details class="faq-details">
   <summary class="faq-summary">What does in-home exotic pet sitting in San Mateo cost?</summary>
   <div class="faq-answer">
-    <p>30-minute visits start at $85 and 60-minute visits start at $115. Most families booking routine twice-daily care fall between $140 and $190 per day depending on species, number of pets, and visit length. San Mateo is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. <a href="tel:415-484-6493">Reach out</a> with your neighborhood and pet list for an exact quote.</p>
+    <p>30-minute visits start at $85 and 60-minute visits start at $115. Most families booking twice-daily care fall between $140 and $190 per day depending on species, number of pets, and visit length. San Mateo is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. <a href="tel:415-484-6493">Reach out</a> with your neighborhood and pet list for an exact quote.</p>
   </div>
 </details>
 
@@ -176,7 +178,7 @@ Ready to set up care? [Call or text us at 415-484-6493](tel:415-484-6493) and we
       "name": "What does in-home exotic pet sitting in San Mateo cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $85 and 60-minute visits start at $115. Most families booking routine twice-daily care fall between $140 and $190 per day depending on species, number of pets, and visit length. San Mateo is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
+        "text": "30-minute visits start at $85 and 60-minute visits start at $115. Most families booking twice-daily care fall between $140 and $190 per day depending on species, number of pets, and visit length. San Mateo is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
       }
     }
   ]

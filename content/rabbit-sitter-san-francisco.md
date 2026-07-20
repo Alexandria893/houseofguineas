@@ -59,9 +59,11 @@ If you're in a neighborhood not listed, [text us your address](tel:415-484-6493)
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of rabbits
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of rabbits
 
 San Francisco is in our primary service tier — no Peninsula travel surcharge. A few outlying pockets may carry a small travel rate; [text us your address and dates](tel:415-484-6493) for a firm quote.
+
+> **Hay restocks and litter-box scrub-downs can come off your weekend list.** Plenty of San Francisco rabbit families set up standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker takes on the full litter-box refresh, hay top-off, gram-scale weigh-in, and a gentle nose-to-tail check, so your evenings stay free for floor time and binkies.
 
 ## Frequently Asked Questions
 

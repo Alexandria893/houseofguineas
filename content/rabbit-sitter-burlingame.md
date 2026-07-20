@@ -54,9 +54,11 @@ We also cover the stretch between Washington Park and Ray Park, homes near Mercy
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of rabbits
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of rabbits
 
 Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. [Text us your address and dates](tel:415-484-6493) for a firm quote.
+
+> **The full enclosure refresh doesn't have to wait for your Saturday.** Many Burlingame rabbit families keep standing [routine care](/routine-recurring-exotic-pet-care/) on the calendar — weekly or every-other-week visits where their caretaker handles the litter-box deep-clean, fresh hay, a gram-scale weigh-in, and a quiet health once-over, so the hours you spend with your bun are all binkies and forehead rubs.
 
 ## Frequently Asked Questions
 

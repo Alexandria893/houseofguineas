@@ -42,9 +42,11 @@ San Bruno stretches from the flats near the old Tanforan area up into the hills 
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF base, so a travel surcharge of $15–$25/visit applies, depending on distance. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+
+> **Routine care stops in San Bruno, too.** With so many San Bruno families commuting up the 280 or working shifts around SFO, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker looks after the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, so the hours you do have at home belong entirely to your little ones.
 
 ## Frequently Asked Questions
 
@@ -102,7 +104,7 @@ San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Bruno exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF base, so travel is modest. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF base, so travel is modest. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -152,7 +154,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "How much does a San Bruno exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF base, so travel is modest. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF base, so travel is modest. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

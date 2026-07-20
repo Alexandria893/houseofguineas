@@ -42,9 +42,11 @@ The Castro packs a lot into a compact, hilly footprint, and we cover all of it. 
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 The Castro is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing here is simple and in-city. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+
+> **Home with your pets more days than you're away?** Plenty of Castro pet parents — many in classic Victorian flats where every square foot counts — keep a standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visit on the calendar. Their caretaker takes on the enclosure deep-clean, weigh-ins, and a gentle nose-to-tail check, leaving evenings free for floor time and lap cuddles.
 
 ## Frequently Asked Questions
 
@@ -102,7 +104,7 @@ The Castro is within San Francisco, our home city, so there is no Peninsula trav
 <details class="faq-details">
   <summary class="faq-summary">How much does a Castro exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Castro is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Castro is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -152,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Castro exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Castro is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Castro is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

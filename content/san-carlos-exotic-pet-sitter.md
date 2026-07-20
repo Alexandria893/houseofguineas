@@ -44,9 +44,11 @@ Because San Carlos sits right between two of our most-requested Peninsula cities
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from our Inner Sunset base. Text us your address and dates and we will confirm your rate.
+
+> **Routine care is available in San Carlos as well.** For families who would rather spend an evening strolling Laurel Street than scrubbing a cage, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, so your little ones get a spotless home and your undivided attention.
 
 ## Frequently Asked Questions
 
@@ -104,7 +106,7 @@ San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Carlos exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. San Carlos sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance. <a href="tel:415-484-6493">Text us your address and dates</a> for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. San Carlos sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance. <a href="tel:415-484-6493">Text us your address and dates</a> for a firm quote.</p>
   </div>
 </details>
 
@@ -154,7 +156,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "How much does a San Carlos exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. San Carlos sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. San Carlos sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance."
       }
     }
   ]

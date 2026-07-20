@@ -67,6 +67,8 @@ If your home sits on Beach Park Boulevard along Central Lake, near Leo J. Ryan M
 
 Boarding is hosted personally by members of our team in their San Francisco homes — Foster City families are welcome to drop off for longer trips, especially when you're flying out of SFO and it's easier to swing through the city first.
 
+> **Routine care crosses over to Foster City, too.** Biotech weeks run long, so we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker takes care of the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, so when you get home along the lagoons, your little ones are fed, fresh, and ready to hang out.
+
 ## Frequently Asked Questions
 
 <style>

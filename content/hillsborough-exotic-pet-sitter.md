@@ -52,10 +52,12 @@ We cover the full town of Hillsborough — the estates near the Crystal Springs 
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 - **Boarding** at our San Francisco home is also available at **$75/night** if your travel makes in-home logistics impractical
 
 Hillsborough is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. For longer trips and complex setups, we typically quote a custom rate. [Text us your address and dates](tel:415-484-6493) for a firm quote.
+
+> **Routine care comes to Hillsborough, too.** For busy households that want every detail of the habitat held to a high standard week after week, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker manages the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, so the hours you spend with your little ones are all the sweet stuff.
 
 ## Frequently Asked Questions
 
@@ -103,7 +105,7 @@ Hillsborough is in our Peninsula service tier, so a travel surcharge of $15–$2
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication or vet attention while I'm away?</summary>
   <div class="faq-answer">
-    <p>Medication administration — oral and topical — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization. Our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic vet directory</a> lists Adobe Animal Hospital in Los Altos and All Pets Hospital in San Mateo as the closest specialty options.</p>
+    <p>Medication administration — oral, topical, and subcutaneous — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization. Our <a href="/san-mateo-peninsula-exotic-veterinarians/">Peninsula exotic vet directory</a> lists Adobe Animal Hospital in Los Altos and All Pets Hospital in San Mateo as the closest specialty options.</p>
   </div>
 </details>
 
@@ -145,7 +147,7 @@ Ready to discuss in-home exotic pet care for your Hillsborough home? [Call or te
       "name": "What if my exotic pet needs medication or vet attention while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration — oral and topical — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization."
+        "text": "Medication administration — oral, topical, and subcutaneous — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization."
       }
     }
   ]

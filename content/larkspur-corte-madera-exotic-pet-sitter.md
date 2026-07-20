@@ -38,9 +38,11 @@ We start with a free meet-and-greet at your home — a walkthrough of feeding, e
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 Larkspur and Corte Madera are our specialist's home base, so **no travel surcharge applies** — the same terms San Francisco pet parents get. Text us your dates and we will confirm your rate.
+
+> **Because Larkspur and Corte Madera are our caretaker's home turf,** standing [routine care](/routine-recurring-exotic-pet-care/) visits slot right into your week — weekly or every-other-week, with the enclosure deep-clean, weigh-ins, and a gentle wellness check finished before your ferry even docks — leaving your evenings for the best parts of life with your little ones.
 
 ## Frequently Asked Questions
 
