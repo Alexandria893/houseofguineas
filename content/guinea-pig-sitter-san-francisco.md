@@ -43,9 +43,11 @@ We cover the whole city, from the western avenues out to the bay. Small mammals 
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 These are in-city San Francisco visits, so there is **no Peninsula travel surcharge**. If you would rather your pet stay with us, boarding is hosted personally by members of our team in their San Francisco homes for **$75/night**. Based down the Peninsula? See our [Peninsula guinea pig sitter](/guinea-pig-sitter-peninsula/) page.
+
+> **Liner swaps and hay restocks make wonderful someone-else's-jobs.** Many San Francisco guinea pig families schedule standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker changes the liners, tops up the hay, records gram-scale weights, and does a gentle health check, so your time with the herd is popcorning and wheeks, not laundry.
 
 ## Frequently Asked Questions
 
@@ -103,7 +105,7 @@ These are in-city San Francisco visits, so there is **no Peninsula travel surcha
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Francisco guinea pig sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. These are in-city San Francisco visits, so there is no Peninsula travel surcharge. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. These are in-city San Francisco visits, so there is no Peninsula travel surcharge. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -153,7 +155,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "How much does a San Francisco guinea pig sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. These are in-city San Francisco visits, so there is no Peninsula travel surcharge. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. These are in-city San Francisco visits, so there is no Peninsula travel surcharge. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

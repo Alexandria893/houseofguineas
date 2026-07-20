@@ -46,9 +46,11 @@ If your town is not listed, [text us your address](tel:415-484-6493) and we will
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 Here is the part that surprises people: because our specialist is based in Central Marin rather than crossing the bridge from the city, **most of Marin falls in our no-surcharge to $15/visit range** — far less than the distance from San Francisco would suggest. Text us your address and dates and we will confirm your exact rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+
+> **Because our caretaker lives right here in Central Marin,** standing [routine care](/routine-recurring-exotic-pet-care/) visits are easy to keep on the calendar — weekly or every-other-week, with the enclosure deep-clean, weigh-ins, and a gentle nose-to-tail check all handled — so evenings with your little ones, anywhere in the county, are for floor time and hand-feeding from start to finish.
 
 ## Frequently Asked Questions
 

@@ -55,10 +55,12 @@ If your neighborhood is not on the list, it is almost certainly still covered �
 
 - **In-home, 30-minute visits** start at **$85**
 - **In-home, 60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 - **Boarding** in a team member's San Francisco home is **$75/night**
 
 San Francisco is our **primary service area, so no travel surcharge applies** — that is reserved for Peninsula visits. [Text us your dates](tel:415-484-6493) and we will confirm your rate.
+
+> **In town most weeks, with a to-do list that keeps growing?** Pet parents across San Francisco — from the Marina to Bernal Heights — keep us on a standing schedule of weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits, where their caretaker takes care of the enclosure deep-clean, weigh-ins, and a gentle health check, so every evening at home belongs to your little ones.
 
 ## Frequently Asked Questions
 
@@ -88,7 +90,7 @@ San Francisco is our **primary service area, so no travel surcharge applies** �
 <details class="faq-details">
   <summary class="faq-summary">How much does an exotic pet sitter cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>In-home exotic pet sitting in San Francisco starts at $85 for a 30-minute visit and $115 for a 60-minute visit; routine twice-daily care runs $140–$190 per day depending on visit length and the number of pets. Overnight boarding in a team member's San Francisco home is $75 per night. San Francisco is our primary service area, so no travel surcharge applies.</p>
+    <p>In-home exotic pet sitting in San Francisco starts at $85 for a 30-minute visit and $115 for a 60-minute visit; twice-daily care runs $140–$190 per day depending on visit length and the number of pets. Overnight boarding in a team member's San Francisco home is $75 per night. San Francisco is our primary service area, so no travel surcharge applies.</p>
   </div>
 </details>
 
@@ -134,7 +136,7 @@ Heading out of town soon? [Call or text us at 415-484-6493](tel:415-484-6493) an
       "name": "How much does an exotic pet sitter cost in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In-home exotic pet sitting in San Francisco starts at $85 for a 30-minute visit and $115 for a 60-minute visit; routine twice-daily care runs $140–$190 per day depending on visit length and the number of pets. Overnight boarding in a team member's San Francisco home is $75 per night. San Francisco is our primary service area, so no travel surcharge applies."
+        "text": "In-home exotic pet sitting in San Francisco starts at $85 for a 30-minute visit and $115 for a 60-minute visit; twice-daily care runs $140–$190 per day depending on visit length and the number of pets. Overnight boarding in a team member's San Francisco home is $75 per night. San Francisco is our primary service area, so no travel surcharge applies."
       }
     },
     {

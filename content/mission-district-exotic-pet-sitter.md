@@ -42,9 +42,11 @@ The Mission is compact, flat, and easy to move through, and we cover all of it. 
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 The Mission is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing here is simple and in-city. Boarding is a separate option, hosted personally by members of our team in their San Francisco homes, and runs **$75/night**. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+
+> **Wish the weekly cage overhaul could take care of itself?** Many Mission families put us on a standing schedule — [routine care](/routine-recurring-exotic-pet-care/) visits every week or every other week, timed around busy Valencia-corridor lives, where their caretaker manages the enclosure deep-clean, tracks weights, and gives each little one a gentle once-over, so your time together stays about play, treats, and popcorning.
 
 ## Frequently Asked Questions
 
@@ -102,7 +104,7 @@ The Mission is within San Francisco, our home city, so there is no Peninsula tra
 <details class="faq-details">
   <summary class="faq-summary">How much does a Mission District exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Mission is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Boarding, hosted personally by members of our team in their San Francisco homes, runs $75 per night. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Mission is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Boarding, hosted personally by members of our team in their San Francisco homes, runs $75 per night. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -152,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Mission District exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Mission is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Boarding, hosted personally by members of our team in their San Francisco homes, runs $75 per night. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Mission is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Boarding, hosted personally by members of our team in their San Francisco homes, runs $75 per night. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

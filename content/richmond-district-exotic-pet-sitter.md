@@ -42,9 +42,11 @@ The Richmond stretches from Golden Gate Park in the south up to the Presidio and
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 The Richmond is within San Francisco — our home city — just across Golden Gate Park from our Inner Sunset base, so there is no Peninsula travel surcharge. Pricing here is simple and in-city. Boarding — hosted personally by members of our team in their San Francisco homes — is a short trip away too. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+
+> **Rather spend your evenings on floor time than fleece changes?** Many Richmond pet parents — just across Golden Gate Park from our base — schedule recurring [routine care](/routine-recurring-exotic-pet-care/) visits weekly or every other week. Their caretaker covers the habitat deep-clean, weight tracking, and a gentle health check, keeping your time at home centered on the animals themselves.
 
 ## Frequently Asked Questions
 
@@ -102,7 +104,7 @@ The Richmond is within San Francisco — our home city — just across Golden Ga
 <details class="faq-details">
   <summary class="faq-summary">How much does a Richmond District exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because the Richmond is within San Francisco, our home city, there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because the Richmond is within San Francisco, our home city, there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -152,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Richmond District exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because the Richmond is within San Francisco, our home city, there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because the Richmond is within San Francisco, our home city, there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

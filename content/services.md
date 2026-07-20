@@ -15,7 +15,7 @@ House of Guineas provides specialized in-home care for **rabbits, guinea pigs, c
 
 Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds**.
 
-**From $85/visit. Twice-daily routine care from $140/day.**
+**From $85/visit. Twice-daily care from $140/day.**
 
 From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals, we help prevent the stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) keeps your pet's world consistent while you're away.
 
@@ -26,7 +26,7 @@ And if your pet ever needs a vet while you're away — a scheduled checkup or a 
 <details style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #eee; border-radius: 8px; background: #fafaf8;">
   <summary style="font-weight: 600; cursor: pointer; font-size: 1.05em;">See all in-home rates</summary>
   <div style="padding-top: 1rem;">
-    <p><strong>Routine Visits (2x/day)</strong></p>
+    <p><strong>Twice-Daily Visits (2x/day)</strong></p>
     <ul>
       <li>30 minutes — $140/day ($70/visit)</li>
       <li>30 + 60 minute combo — $165/day</li>

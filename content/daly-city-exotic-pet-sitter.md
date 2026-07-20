@@ -42,9 +42,11 @@ Daly City is famously foggy and famously hilly, and its neighborhoods each have 
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 Because Daly City sits immediately south of the San Francisco county line, it is a short trip for our SF-based team, so a travel surcharge of $15–$25/visit applies, depending on distance. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+
+> **Routine care is a quick hop to Daly City, too.** For pet parents riding BART into the city every morning, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, so evenings back home in the fog belt are all about your little ones.
 
 ## Frequently Asked Questions
 
@@ -102,7 +104,7 @@ Because Daly City sits immediately south of the San Francisco county line, it is
 <details class="faq-details">
   <summary class="faq-summary">How much does a Daly City exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Daly City sits just south of the San Francisco county line, a travel surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates to book.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Daly City sits just south of the San Francisco county line, a travel surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates to book.</p>
   </div>
 </details>
 
@@ -152,7 +154,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "How much does a Daly City exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Daly City sits just south of the San Francisco county line, a travel surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates to book."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Daly City sits just south of the San Francisco county line, a travel surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates to book."
       }
     }
   ]

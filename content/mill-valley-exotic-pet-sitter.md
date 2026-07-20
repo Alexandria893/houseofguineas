@@ -38,9 +38,11 @@ We begin with a free meet-and-greet at your home to learn feeding routines, encl
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
 Because our specialist is based in Central Marin, Mill Valley falls in our **no-surcharge to $15/visit range** — a real advantage over any sitter driving up from San Francisco. Text us your address and dates and we will confirm your rate.
+
+> **Our caretaker calls Central Marin home,** which makes a standing [routine care](/routine-recurring-exotic-pet-care/) rhythm easy to hold — weekly or every-other-week, with the enclosure deep-clean, weigh-ins, and a gentle health check all taken care of — so you can squeeze in a Mount Tam trail after work and still come home to a fresh habitat and happy, settled little ones.
 
 ## Frequently Asked Questions
 

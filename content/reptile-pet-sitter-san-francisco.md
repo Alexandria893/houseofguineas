@@ -39,9 +39,11 @@ We cover the whole city — from the Sunset and Richmond out west to the eastern
 
 - **30-minute visits** start at **$85**
 - **60-minute visits** start at **$115**
-- **Routine twice-daily care** runs **$140–$190/day** depending on visit length and the complexity of the setup
+- **Twice-daily care** runs **$140–$190/day** depending on visit length and the complexity of the setup
 
 Because this is in-city San Francisco, there is **no Peninsula travel surcharge** — the prices above are what you pay. If you would rather your reptile stay with us, boarding is hosted personally by members of our team in their San Francisco homes for **$75/night**. You can read more on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+
+> **Substrate changes and UVB checks, handled like clockwork.** Plenty of San Francisco reptile keepers book standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker swaps out substrate, verifies temps and UVB output, refreshes water, and does a calm health check, so the habitat stays dialed in and your reptile keeps basking happily.
 
 ## Frequently Asked Questions
 
@@ -99,7 +101,7 @@ Because this is in-city San Francisco, there is **no Peninsula travel surcharge*
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Francisco reptile sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the complexity of the setup. Because this is in-city San Francisco, there is no Peninsula travel surcharge. If you prefer boarding, that is $75 per night, hosted personally by members of our team in their San Francisco homes. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the complexity of the setup. Because this is in-city San Francisco, there is no Peninsula travel surcharge. If you prefer boarding, that is $75 per night, hosted personally by members of our team in their San Francisco homes. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -149,7 +151,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "How much does a San Francisco reptile sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with routine twice-daily care ranging from $140–$190 per day depending on visit length and the complexity of the setup. Because this is in-city San Francisco, there is no Peninsula travel surcharge. If you prefer boarding, that is $75 per night, hosted personally by members of our team in their San Francisco homes. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the complexity of the setup. Because this is in-city San Francisco, there is no Peninsula travel surcharge. If you prefer boarding, that is $75 per night, hosted personally by members of our team in their San Francisco homes. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

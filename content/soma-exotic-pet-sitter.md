@@ -46,6 +46,8 @@ SOMA packs a lot into a flat, walkable footprint, and we cover all of it. That m
 
 SOMA is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing here is simple and in-city. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
+> **Long days at the office, even when it's just a few blocks from home?** Many SOMA pet parents in loft and high-rise condos keep us on a recurring rhythm — weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits where their caretaker handles the full habitat refresh, logs weigh-ins, and does a calm health check, so the hours you do have at home go straight to your little ones.
+
 ## Frequently Asked Questions
 
 <style>
