@@ -1,4 +1,4 @@
-baseURL = 'https://www.houseofguineas.com'
+baseURL = 'https://houseofguineas.com'
 languageCode = 'en-us'
 title = 'House of Guineas: San Francisco & Peninsula Exotic Pet Care'
 theme = 'hugo-initio'
