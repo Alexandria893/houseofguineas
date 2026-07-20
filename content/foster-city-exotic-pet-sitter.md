@@ -143,7 +143,7 @@ If you're a Foster City resident with a bearded dragon that needs consistent UVB
       "name": "Do you come to Foster City? I see you're based in San Francisco.",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Our team of exotic pet caretakers travels from San Francisco to Foster City across Highway 92 for in-home visits. Scheduling can be tight around holidays and summer travel peaks — we recommend reaching out at least two weeks in advance. A travel surcharge applies and depends on your specific Foster City location and our caretakers' availability."
+        "text": "Yes. Our team of exotic pet caretakers travels from San Francisco to Foster City across Highway 92 for in-home visits. Scheduling can be tight around holidays and summer travel peaks \u2014 we recommend reaching out at least two weeks in advance, and earlier if your trip falls over Thanksgiving, winter holidays, or summer conference season. A travel surcharge applies and depends on your specific Foster City location and our caretakers' availability."
       }
     },
     {
@@ -151,7 +151,7 @@ If you're a Foster City resident with a bearded dragon that needs consistent UVB
       "name": "My HOA requires key/code sign-ins — can your team handle condo access?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. A significant portion of Foster City housing is condo or townhome stock with gated entries, fob access, garage codes, and concierge desks. During the meet-and-greet we document building sign-in protocol, gate codes, elevator fobs, visitor parking rules, and package handling. Our caretakers carry access credentials in a secured system and never leave keys or codes in unsecured locations."
+        "text": "Absolutely. A significant portion of Foster City housing is condo or townhome stock with gated entries, fob access, garage codes, and concierge desks \u2014 this is our normal operating environment. During the meet-and-greet we document everything: building sign-in protocol, gate codes, elevator fobs, visitor parking rules, and package handling. Our caretakers store all access credentials in a secured system and never leave keys or codes in unsecured locations. If your HOA requires our team to be added to an approved visitors list, just let us know during the meet-and-greet and we'll provide the necessary info."
       }
     },
     {
@@ -159,7 +159,7 @@ If you're a Foster City resident with a bearded dragon that needs consistent UVB
       "name": "Can you accommodate our frequent work travel schedule?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — frequent, predictable travel is actually easier for us to plan around than one-off trips. We can set up a recurring schedule: standing twice-a-day visits during conference weeks, lighter cadences during shorter trips, and boarding at our San Francisco location for longer travel. After your first trip with us, rebooking is quick and your pet's care plan is already on file."
+        "text": "This is one of the most common asks we get from Foster City pet parents, and yes \u2014 frequent, predictable travel is actually easier for us to plan around than one-off trips. We can set up a recurring schedule: standing twice-a-day visits during conference weeks, a lighter once-daily cadence during shorter trips, and boarding at our SF location for longer travel when that makes more sense. After your first trip with us, rebooking is quick, and your pet's care plan, meds, and preferences are already on file so there's no ramp-up each time."
       }
     },
     {
@@ -167,7 +167,7 @@ If you're a Foster City resident with a bearded dragon that needs consistent UVB
       "name": "Do you know local Peninsula exotic vets if something goes wrong?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Our team maintains a referral list of exotic-experienced veterinary practices across the Peninsula, including All Pets Hospital in San Mateo, Peninsula Pet Hospital in Burlingame, SAGE Veterinary Centers in Redwood City, and Adobe Animal Hospital in Los Altos. We confirm your regular vet and pre-authorize care at an emergency clinic during the meet-and-greet."
+        "text": "Yes. Our team maintains an active referral list of exotic-experienced veterinary practices across the Peninsula, including All Pets Hospital in San Mateo, Peninsula Pet Hospital in Burlingame, SAGE Veterinary Centers in Redwood City, and Adobe Animal Hospital in Los Altos. During the meet-and-greet we'll confirm your pet's regular vet and ask you to pre-authorize care at a specific emergency clinic so there's no delay if we notice a concerning change during a visit. For a broader list of exotic-competent vets across the region, see our San Francisco Bay Area exotic veterinarians guide."
       }
     },
     {
@@ -175,7 +175,7 @@ If you're a Foster City resident with a bearded dragon that needs consistent UVB
       "name": "What's the cost of in-home exotic pet care in Foster City?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Base rates start at $85 for a 30-minute visit and $115 for a 60-minute visit, with standard twice-daily care plans running $140 to $190 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15–$25/visit applies, depending on distance. Boarding at our San Francisco location is $75 per night."
+        "text": "Base rates start at $85 for a 30-minute visit and $115 for a 60-minute visit, with standard twice-daily care plans running $140\u2013$190 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15\u2013$25/visit applies, depending on distance. Boarding at our San Francisco location is $75 per night and is often the better option for travel longer than two weeks. Call or text us to book, based on your species, visit frequency, and trip length."
       }
     }
   ]

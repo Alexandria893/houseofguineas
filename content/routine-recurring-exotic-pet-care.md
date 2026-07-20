@@ -118,7 +118,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
       "name": "How is routine care different from in-home travel care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Both happen in your pet's own home — we always come to you, no drop-off, no kennels. In-home travel care covers your pet for a defined trip and ends when you return. Routine care is an ongoing, standing arrangement — the same caretaker visiting weekly or every other week to handle upkeep, weigh-ins, and health checks. It's for pet parents who are home but busy, not just those who are away. If you'd prefer your pet stay overnight somewhere while you travel, that's our separate boarding service."
+        "text": "Both happen in your pet's own home \u2014 we always come to you, no drop-off, no kennels. In-home travel care covers your pet for a defined trip and ends when you return. Routine care is an ongoing, standing arrangement \u2014 the same caretaker visiting weekly or every other week to handle upkeep, weigh-ins, and health checks. It's for pet parents who are home but busy, not just those who are away. (Prefer your pet stay overnight somewhere while you travel? That's our separate boarding service.)"
       }
     },
     {
@@ -126,7 +126,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
       "name": "Can I get the same caretaker every visit?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do our best to make sure your pet has the same caretaker every visit — that familiarity is what makes routine care special. If their caretaker is ever out with an unforeseen illness, our on-call PRN specialists step in until their caretaker can return. Nothing needs to be reiterated — everything is communicated across our team, so transitions are seamless and someone who knows your pet's routine is always there for them."
+        "text": "We do our best to make sure your pet has the same caretaker every visit \u2014 that familiarity is what makes routine care special. If their caretaker is ever out with an unforeseen illness, that's where our awesome on-call PRN specialists come in, stepping in until their caretaker can return. Nothing needs to be reiterated \u2014 everything is communicated across our team, so transitions are seamless and someone who knows your pet's routine is always there for them."
       }
     },
     {
@@ -134,7 +134,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
       "name": "How often can you come for routine visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Routine plans run weekly or every other week, with one- or two-hour visits. Weekly is the sweet spot for keeping most exotic pets' upkeep, feeding, and health monitoring on track — small mammals and birds especially benefit from that rhythm — but we'll recommend the right cadence for your pet at your meet-and-greet."
+        "text": "Routine plans run weekly or every other week, with one- or two-hour visits. Weekly is the sweet spot for keeping most exotic pets' upkeep, feeding, and health monitoring on track \u2014 small mammals and birds especially benefit from that rhythm \u2014 but we'll recommend the right cadence for your pet at your meet-and-greet."
       }
     },
     {
@@ -142,7 +142,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
       "name": "Is this a cage cleaning service for guinea pigs and rabbits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — and a little more. Every routine visit includes the full cage cleaning: liners swapped, litter boxes refreshed, hay restocked, fresh water, enclosure wiped down. What makes it special is who's doing it — a caretaker from our veterinary-informed team who weighs your pet on a gram scale and looks them over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome."
+        "text": "Yes \u2014 and a little more. Every routine visit includes the full cage cleaning: liners swapped, litter boxes refreshed, hay restocked, fresh water, enclosure wiped down. What makes it special is who's doing it \u2014 a caretaker from our veterinary-informed team who weighs your pet on a gram scale and looks them over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome."
       }
     }
   ]
