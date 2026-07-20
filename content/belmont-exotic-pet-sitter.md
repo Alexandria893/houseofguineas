@@ -83,28 +83,28 @@ Belmont is in our Peninsula service tier, so a travel surcharge of $15–$25/vis
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in Belmont?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
+    <p>Guinea pigs are our namesake, and they are in good company: we also care for rabbits (bonded pairs and trios included), chinchillas, ferrets, hamsters, and rats; reptiles from bearded dragons and geckos to turtles, tortoises, and non-venomous snakes such as ball pythons — legal to keep here in Belmont's canyon hills; and birds ranging from finches and budgies to conures, cockatiels, lovebirds, and parrots. Cats are welcome on the roster as well, and many Belmont households pair one with the exotics. New guinea pig owners can start with our guinea pig care guide.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Every caretaker on our team is trained in oral syringe feeding, topical applications, and nebulizer treatments, with training grounded in real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines as a House Rabbit Society volunteer. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Medication administration is part of our standard service. Every caretaker on our team is trained in oral syringe feeding, topical applications, nebulizer treatments, and subcutaneous injections, with training grounded in real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines as a House Rabbit Society volunteer. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Belmont?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and Belmont families are welcome to make the drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>You can. Boarding runs $75 per night in the San Francisco homes of our team members, who host each stay personally — a straightforward drive up the 280 from Belmont. Spots are limited, so reserve early, and plan to bring your pet's usual enclosure and supplies. Full details are on the boarding page.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a Belmont exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Belmont sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Most Belmont pet parents book twice-daily care, which runs $140–$190 per day depending on visit length and the number of pets; booked on their own, 30-minute visits start at $85 and 60-minute visits at $115. Since our caretakers travel from San Francisco to Belmont's wooded hillside streets, a travel surcharge of $15–$25/visit applies, depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -130,7 +130,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "What kinds of exotic pets do you care for in Belmont?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, ball pythons and other non-venomous snakes, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
+        "text": "Guinea pigs are our namesake, and they are in good company: we also care for rabbits (bonded pairs and trios included), chinchillas, ferrets, hamsters, and rats; reptiles from bearded dragons and geckos to turtles, tortoises, and non-venomous snakes such as ball pythons — legal to keep here in Belmont's canyon hills; and birds ranging from finches and budgies to conures, cockatiels, lovebirds, and parrots. Cats are welcome on the roster as well, and many Belmont households pair one with the exotics. New guinea pig owners can start with our guinea pig care guide."
       }
     },
     {
@@ -138,7 +138,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Every caretaker on our team is trained in oral syringe feeding, topical applications, and nebulizer treatments, with training grounded in real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines as a House Rabbit Society volunteer. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Every caretaker on our team is trained in oral syringe feeding, topical applications, nebulizer treatments, and subcutaneous injections, with training grounded in real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines as a House Rabbit Society volunteer. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
       }
     },
     {
@@ -146,7 +146,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet instead of booking in-home visits in Belmont?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, and Belmont families are welcome to make the drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
+        "text": "You can. Boarding runs $75 per night in the San Francisco homes of our team members, who host each stay personally — a straightforward drive up the 280 from Belmont. Spots are limited, so reserve early, and plan to bring your pet's usual enclosure and supplies. Full details are on the boarding page."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "How much does a Belmont exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Belmont sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Most Belmont pet parents book twice-daily care, which runs $140–$190 per day depending on visit length and the number of pets; booked on their own, 30-minute visits start at $85 and 60-minute visits at $115. Since our caretakers travel from San Francisco to Belmont's wooded hillside streets, a travel surcharge of $15–$25/visit applies, depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

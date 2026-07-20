@@ -94,14 +94,14 @@ Because this is in-city San Francisco, there is **no Peninsula travel surcharge*
 <details class="faq-details">
   <summary class="faq-summary">Do you offer reptile boarding?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes and runs $75 per night. We ask that you bring your reptile's usual enclosure and supplies so its environment stays as consistent as possible. That said, most reptile parents prefer in-home visits precisely because moving a calibrated enclosure is stressful for the animal — we are happy to help you decide which option fits your situation.</p>
+    <p>Yes, though spots are limited. Team members host boarding personally in their own San Francisco homes for $75 per night, and you bring your reptile's usual enclosure and supplies. Because moving a calibrated habitat is stressful for the animal, most reptile families land on in-home visits instead — we are happy to help you weigh the two.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Francisco reptile sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the complexity of the setup. Because this is in-city San Francisco, there is no Peninsula travel surcharge. If you prefer boarding, that is $75 per night, hosted personally by members of our team in their San Francisco homes. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Because the enclosure never moves, you pay only for a caretaker's time in your home: $85 buys a 30-minute check of temperature gradient, UVB, humidity, and feeding; $115 covers a 60-minute visit when the routine runs longer; and twice-daily care lands at $140–$190 per day for habitats that need a morning and an evening cycle. In-city San Francisco visits carry no travel surcharge. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -143,7 +143,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "Do you offer reptile boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes and runs $75 per night. We ask that you bring your reptile's usual enclosure and supplies so its environment stays as consistent as possible. That said, most reptile parents prefer in-home visits precisely because moving a calibrated enclosure is stressful for the animal — we are happy to help you decide which option fits your situation."
+        "text": "Yes, though spots are limited. Team members host boarding personally in their own San Francisco homes for $75 per night, and you bring your reptile's usual enclosure and supplies. Because moving a calibrated habitat is stressful for the animal, most reptile families land on in-home visits instead — we are happy to help you weigh the two."
       }
     },
     {
@@ -151,7 +151,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "How much does a San Francisco reptile sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the complexity of the setup. Because this is in-city San Francisco, there is no Peninsula travel surcharge. If you prefer boarding, that is $75 per night, hosted personally by members of our team in their San Francisco homes. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Because the enclosure never moves, you pay only for a caretaker's time in your home: $85 buys a 30-minute check of temperature gradient, UVB, humidity, and feeding; $115 covers a 60-minute visit when the routine runs longer; and twice-daily care lands at $140–$190 per day for habitats that need a morning and an evening cycle. In-city San Francisco visits carry no travel surcharge. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

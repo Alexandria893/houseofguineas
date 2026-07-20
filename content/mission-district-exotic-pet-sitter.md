@@ -90,21 +90,21 @@ The Mission is within San Francisco, our home city, so there is no Peninsula tra
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in the Mission?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide.</p>
+    <p>Exotic pets and cats, full stop. In the Mission's sun-warmed flats we care for reptiles (bearded dragons, leopard and crested geckos, turtles and tortoises), birds (parrots, conures, cockatiels, budgies, lovebirds, finches), and small mammals (rabbits — bonded pairs and trios welcome — plus guinea pigs, chinchillas, ferrets, hamsters and rats). If a guinea pig just joined the household, our guinea pig care guide will get you oriented.</p>
   </div>
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
+  <summary class="faq-summary">What happens if my pet needs meds while I'm on the road?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our team is trained in oral syringe feeding, topical applications, and nebulizer treatments, and that clinical bar was set by real veterinary experience — our founder previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Nothing changes about your booking — medication care is built into every visit. Our caretakers handle oral syringe meds, topical treatments, and subcutaneous injections as standard scope, plus nebulizer treatments when prescribed. The clinical roots run deep: our founder previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. If your pet is mid-protocol, walk their caretaker through it at the meet-and-greet and every dose will land on time in your Mission flat.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a Mission District exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Mission is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Boarding, hosted personally by members of our team in their San Francisco homes, runs $75 per night. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Here is the Mission math: $85 for a 30-minute visit, $115 for a 60-minute visit, and $140–$190 per day for twice-daily care, with the range depending on visit length and number of pets. Boarding with a member of our team in their San Francisco home runs $75 per night. And because the Mission is in-city for us, there is no Peninsula travel surcharge — the rate holds whether you are in a flat off Valencia or up by Dolores Park. Text 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -138,15 +138,15 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in the Mission?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig owners can start with our guinea pig care guide."
+        "text": "Exotic pets and cats, full stop. In the Mission's sun-warmed flats we care for reptiles (bearded dragons, leopard and crested geckos, turtles and tortoises), birds (parrots, conures, cockatiels, budgies, lovebirds, finches), and small mammals (rabbits — bonded pairs and trios welcome — plus guinea pigs, chinchillas, ferrets, hamsters and rats). If a guinea pig just joined the household, our guinea pig care guide will get you oriented."
       }
     },
     {
       "@type": "Question",
-      "name": "What if my exotic pet needs medication while I'm traveling?",
+      "name": "What happens if my pet needs meds while I'm on the road?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our team is trained in oral syringe feeding, topical applications, and nebulizer treatments, and that clinical bar was set by real veterinary experience — our founder previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Nothing changes about your booking — medication care is built into every visit. Our caretakers handle oral syringe meds, topical treatments, and subcutaneous injections as standard scope, plus nebulizer treatments when prescribed. The clinical roots run deep: our founder previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. If your pet is mid-protocol, walk their caretaker through it at the meet-and-greet and every dose will land on time in your Mission flat."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Mission District exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. The Mission is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing is simple and in-city. Boarding, hosted personally by members of our team in their San Francisco homes, runs $75 per night. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Here is the Mission math: $85 for a 30-minute visit, $115 for a 60-minute visit, and $140–$190 per day for twice-daily care, with the range depending on visit length and number of pets. Boarding with a member of our team in their San Francisco home runs $75 per night. And because the Mission is in-city for us, there is no Peninsula travel surcharge — the rate holds whether you are in a flat off Valencia or up by Dolores Park. Text 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

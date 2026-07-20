@@ -72,7 +72,7 @@ Because our caretaker is based in Central Marin, San Rafael sits in our **no-sur
 <details class="faq-details">
   <summary class="faq-summary">How much does an exotic pet sitter cost in San Rafael?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care running $140–$190 per day depending on visit length and the number of pets. Because our caretaker is based nearby in Central Marin, San Rafael falls in our no-surcharge to $15/visit range — far below what a bridge crossing from the city would add. Text us at 415-484-6493 for a firm quote.</p>
+    <p>Here's where hiring local pays off: our caretaker is based in Central Marin, so San Rafael falls in our no-surcharge to $15/visit range — whether you're downtown near Fourth Street or up in Terra Linda, there's no bridge crossing built into your bill. The visits themselves run $85 for 30 minutes and $115 for 60 minutes, with twice-daily care at $140–$190 per day depending on visit length and the number of pets. Text us at 415-484-6493 for a firm quote.</p>
   </div>
 </details>
 
@@ -118,7 +118,7 @@ Ready to head out of town knowing your little ones are in good hands? [Call or t
       "name": "How much does an exotic pet sitter cost in San Rafael?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care running $140–$190 per day depending on visit length and the number of pets. Because our caretaker is based nearby in Central Marin, San Rafael falls in our no-surcharge to $15/visit range — far below what a bridge crossing from the city would add. Text us at 415-484-6493 for a firm quote."
+        "text": "Here's where hiring local pays off: our caretaker is based in Central Marin, so San Rafael falls in our no-surcharge to $15/visit range — whether you're downtown near Fourth Street or up in Terra Linda, there's no bridge crossing built into your bill. The visits themselves run $85 for 30 minutes and $115 for 60 minutes, with twice-daily care at $140–$190 per day depending on visit length and the number of pets. Text us at 415-484-6493 for a firm quote."
       }
     },
     {

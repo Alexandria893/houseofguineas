@@ -94,7 +94,7 @@ The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** ap
 <details class="faq-details">
   <summary class="faq-summary">Can you maintain my reptile's heat and UVB schedule?</summary>
   <div class="faq-answer">
-    <p>Yes — this is the core of what in-home reptile care is. On every visit we confirm the temperature gradient, verify the basking spot and cool side are where they should be, check that the UVB lighting is functioning, and monitor humidity against your species' target range, misting when the setup calls for it. Inadequate heat or UVB is one of the most common and preventable causes of illness in captive reptiles, so we watch it closely.</p>
+    <p>That's the heart of every reptile visit we make on the Peninsula. Your caretaker confirms the temperature gradient end to end — basking spot, cool side — checks that UVB lighting is doing its job, and tracks humidity against your species' target range, misting whenever the setup calls for it. Heat and UVB problems are among the most preventable causes of illness in captive reptiles, which is exactly why they get checked on every single visit.</p>
   </div>
 </details>
 
@@ -115,7 +115,7 @@ The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** ap
 <details class="faq-details">
   <summary class="faq-summary">How much does a Peninsula reptile sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the complexity of the setup. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Reptile pricing tracks the complexity of the habitat more than the size of the animal. A single bearded dragon or gecko setup usually fits a 30-minute visit at $85 — temps, UVB, feeding, spot-clean — while multi-enclosure rooms, misting-heavy species, and insect feeding days often call for a 60-minute visit at $115. Twice-daily care runs $140–$190 per day. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text 415-484-6493 with your species and setup for a firm quote.</p>
   </div>
 </details>
 
@@ -133,7 +133,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "Do you care for ball pythons and corn snakes on the Peninsula?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Because the Peninsula sits outside San Francisco's city limits, ball pythons, corn snakes, and other common non-venomous snakes are perfectly legal to keep here under California state law, and they are among the reptiles we care for most. We handle thawed-feeder scheduling, humidity and warm-hide checks, and shed monitoring. Inside San Francisco, the municipal code prohibits these species, so our SF service focuses on the reptiles that are legal in the city. Text us at 415-484-6493 with your species and setup."
+        "text": "Yes. Because the Peninsula sits outside San Francisco's city limits, ball pythons, corn snakes, and other common non-venomous snakes are perfectly legal to keep here under California state law, and they are among the reptiles we care for most. We handle thawed-feeder scheduling, humidity and warm-hide checks, and shed monitoring. (Inside San Francisco, the municipal code prohibits these species, so our SF service focuses on the reptiles that are legal in the city.) Text us at 415-484-6493 with your species and setup."
       }
     },
     {
@@ -141,7 +141,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "Can you maintain my reptile's heat and UVB schedule?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — this is the core of what in-home reptile care is. On every visit we confirm the temperature gradient, verify the basking spot and cool side are where they should be, check that the UVB lighting is functioning, and monitor humidity against your species' target range, misting when the setup calls for it. Inadequate heat or UVB is one of the most common and preventable causes of illness in captive reptiles, so we watch it closely."
+        "text": "That's the heart of every reptile visit we make on the Peninsula. Your caretaker confirms the temperature gradient end to end — basking spot, cool side — checks that UVB lighting is doing its job, and tracks humidity against your species' target range, misting whenever the setup calls for it. Heat and UVB problems are among the most preventable causes of illness in captive reptiles, which is exactly why they get checked on every single visit."
       }
     },
     {
@@ -165,7 +165,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "How much does a Peninsula reptile sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the complexity of the setup. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Reptile pricing tracks the complexity of the habitat more than the size of the animal. A single bearded dragon or gecko setup usually fits a 30-minute visit at $85 — temps, UVB, feeding, spot-clean — while multi-enclosure rooms, misting-heavy species, and insect feeding days often call for a 60-minute visit at $115. Twice-daily care runs $140–$190 per day. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text 415-484-6493 with your species and setup for a firm quote."
       }
     }
   ]

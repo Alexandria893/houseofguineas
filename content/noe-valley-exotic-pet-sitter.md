@@ -83,28 +83,28 @@ Noe Valley is within San Francisco — our home city — so there is no Peninsul
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in Noe Valley?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide.</p>
+    <p>Think of it as exotics plus cats. In Noe Valley homes we look after guinea pigs, rabbits (bonded pairs and trios welcome), chinchillas, ferrets, hamsters and rats; reptiles including bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds from finches, budgies and lovebirds up to cockatiels, conures and parrots. Raising a first guinea pig alongside the kids in “Stroller Valley”? Our guinea pig care guide was written for exactly that.</p>
   </div>
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
+  <summary class="faq-summary">Can you give my exotic pet medication while I'm away?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. That standard comes from real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>Absolutely — medication visits are everyday work for our team. Standard scope for every caretaker includes oral syringe meds, topical treatments, and subcutaneous injections, plus nebulizer treatments when your vet prescribes them. That standard traces to real clinical experience: our founder previously administered subcutaneous RHDV2 vaccines while volunteering with the House Rabbit Society. Walk us through the protocol at the meet-and-greet and we will mirror it exactly, even on the steepest hillside block.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Noe Valley?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes — just a short trip from Noe Valley. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>Yes, on a limited basis. Members of our team personally host boarding in their San Francisco homes — an easy hop from Noe Valley — at $75 per night, and we ask that your pet's usual enclosure and supplies come along. The boarding page has the full picture.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a Noe Valley exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Noe Valley is within San Francisco, our home city, there is no Peninsula travel surcharge — pricing stays simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Noe Valley families like a clear number, so here it is: 30-minute visits start at $85, 60-minute visits at $115, and twice-daily care lands between $140 and $190 per day depending on visit length and how many little ones we are looking after. Noe Valley is inside San Francisco — our home city — so there is no Peninsula travel surcharge to tack on. Text us at 415-484-6493 with your address and dates and we will confirm your exact rate.</p>
   </div>
 </details>
 
@@ -130,15 +130,15 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in Noe Valley?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide."
+        "text": "Think of it as exotics plus cats. In Noe Valley homes we look after guinea pigs, rabbits (bonded pairs and trios welcome), chinchillas, ferrets, hamsters and rats; reptiles including bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds from finches, budgies and lovebirds up to cockatiels, conures and parrots. Raising a first guinea pig alongside the kids in “Stroller Valley”? Our guinea pig care guide was written for exactly that."
       }
     },
     {
       "@type": "Question",
-      "name": "What if my exotic pet needs medication while I'm traveling?",
+      "name": "Can you give my exotic pet medication while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. That standard comes from real clinical experience — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "Absolutely — medication visits are everyday work for our team. Standard scope for every caretaker includes oral syringe meds, topical treatments, and subcutaneous injections, plus nebulizer treatments when your vet prescribes them. That standard traces to real clinical experience: our founder previously administered subcutaneous RHDV2 vaccines while volunteering with the House Rabbit Society. Walk us through the protocol at the meet-and-greet and we will mirror it exactly, even on the steepest hillside block."
       }
     },
     {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in Noe Valley?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes — just a short trip from Noe Valley. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
+        "text": "Yes, on a limited basis. Members of our team personally host boarding in their San Francisco homes — an easy hop from Noe Valley — at $75 per night, and we ask that your pet's usual enclosure and supplies come along. The boarding page has the full picture."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Noe Valley exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because Noe Valley is within San Francisco, our home city, there is no Peninsula travel surcharge — pricing stays simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Noe Valley families like a clear number, so here it is: 30-minute visits start at $85, 60-minute visits at $115, and twice-daily care lands between $140 and $190 per day depending on visit length and how many little ones we are looking after. Noe Valley is inside San Francisco — our home city — so there is no Peninsula travel surcharge to tack on. Text us at 415-484-6493 with your address and dates and we will confirm your exact rate."
       }
     }
   ]

@@ -81,30 +81,30 @@ Because the Sunset is within San Francisco — and is in fact where House of Gui
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">What kinds of exotic pets do you care for in the Sunset?</summary>
+  <summary class="faq-summary">Which species do you take care of in the Sunset?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide.</p>
+    <p>Exotics and cats — that is the whole practice. For our Sunset neighbors, the list runs from small mammals (guinea pigs, rabbits including bonded pairs, chinchillas, ferrets, hamsters, rats) to reptiles (bearded dragons, leopard and crested geckos, turtles, tortoises) to birds (cockatiels, conures, budgies, lovebirds, finches, parrots). The fog outside never troubles a well-kept enclosure inside — we make sure of it. Just adopted a guinea pig? Our guinea pig care guide is the place to start.</p>
   </div>
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
+  <summary class="faq-summary">Do your caretakers handle medications and injections?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines while volunteering with the House Rabbit Society, and that clinical bar carries through our whole team. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>They do — consider it covered. Oral syringe meds, topical treatments, and subcutaneous injections are all standard scope for our caretakers, along with nebulizer treatments. Being based right here in the Inner Sunset means tight medication windows are easy to hit, even on a gray Judah-Street morning. For background, our founder previously administered subcutaneous RHDV2 vaccines while volunteering with the House Rabbit Society, and every caretaker trains to that clinical bar.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in the Sunset?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, so drop-off stays easy and in-city for Sunset families. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>Yes — and for Sunset families, drop-off could hardly be closer, since boarding is hosted personally by members of our team in their San Francisco homes. It runs $75 per night with limited spots, and your pet's usual enclosure and supplies come along to keep things familiar. See the boarding page for details.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a Sunset District exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because the Sunset is within San Francisco and is where we are based, there is no Peninsula travel surcharge — pricing stays simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Because the Sunset is our home neighborhood, this is the easiest quote we give: 30-minute visits from $85, 60-minute visits from $115, and twice-daily care between $140 and $190 per day depending on visit length and how many pets we are caring for. There is no Peninsula travel surcharge here — we are already in the neighborhood, fog and all. Text your address and dates to 415-484-6493 and we will confirm your rate.</p>
   </div>
 </details>
 
@@ -127,18 +127,18 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
     },
     {
       "@type": "Question",
-      "name": "What kinds of exotic pets do you care for in the Sunset?",
+      "name": "Which species do you take care of in the Sunset?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide."
+        "text": "Exotics and cats — that is the whole practice. For our Sunset neighbors, the list runs from small mammals (guinea pigs, rabbits including bonded pairs, chinchillas, ferrets, hamsters, rats) to reptiles (bearded dragons, leopard and crested geckos, turtles, tortoises) to birds (cockatiels, conures, budgies, lovebirds, finches, parrots). The fog outside never troubles a well-kept enclosure inside — we make sure of it. Just adopted a guinea pig? Our guinea pig care guide is the place to start."
       }
     },
     {
       "@type": "Question",
-      "name": "What if my exotic pet needs medication while I'm traveling?",
+      "name": "Do your caretakers handle medications and injections?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments — our founder previously administered subcutaneous RHDV2 vaccines while volunteering with the House Rabbit Society, and that clinical bar carries through our whole team. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "They do — consider it covered. Oral syringe meds, topical treatments, and subcutaneous injections are all standard scope for our caretakers, along with nebulizer treatments. Being based right here in the Inner Sunset means tight medication windows are easy to hit, even on a gray Judah-Street morning. For background, our founder previously administered subcutaneous RHDV2 vaccines while volunteering with the House Rabbit Society, and every caretaker trains to that clinical bar."
       }
     },
     {
@@ -146,7 +146,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet instead of booking in-home visits in the Sunset?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, so drop-off stays easy and in-city for Sunset families. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
+        "text": "Yes — and for Sunset families, drop-off could hardly be closer, since boarding is hosted personally by members of our team in their San Francisco homes. It runs $75 per night with limited spots, and your pet's usual enclosure and supplies come along to keep things familiar. See the boarding page for details."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "How much does a Sunset District exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because the Sunset is within San Francisco and is where we are based, there is no Peninsula travel surcharge — pricing stays simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Because the Sunset is our home neighborhood, this is the easiest quote we give: 30-minute visits from $85, 60-minute visits from $115, and twice-daily care between $140 and $190 per day depending on visit length and how many pets we are caring for. There is no Peninsula travel surcharge here — we are already in the neighborhood, fog and all. Text your address and dates to 415-484-6493 and we will confirm your rate."
       }
     }
   ]

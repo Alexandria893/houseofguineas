@@ -83,28 +83,28 @@ The Richmond is within San Francisco — our home city — just across Golden Ga
 <details class="faq-details">
   <summary class="faq-summary">What kinds of exotic pets do you care for in the Richmond?</summary>
   <div class="faq-answer">
-    <p>We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide.</p>
+    <p>The short answer: exotic pets and cats. Spelled out, that means birds (parrots, cockatiels, conures, budgies, lovebirds, finches), small mammals (rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats), and reptiles (bearded dragons, leopard and crested geckos, turtles and tortoises) — in homes from the Inner Richmond avenues to the fog-washed blocks near Ocean Beach. First-time guinea pig parents can lean on our guinea pig care guide.</p>
   </div>
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
+  <summary class="faq-summary">Is medication administration included in Richmond visits?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society — that is the bar our whole team trains to. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly.</p>
+    <p>It is, fully. Oral syringe meds, topical treatments, and subcutaneous injections are all standard scope for every caretaker on our team, and we handle nebulizer treatments too. The training bar was set early — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society — and it holds whether your pet lives near the park or out in the fog belt by Ocean Beach. Share the protocol at your meet-and-greet and every dose stays on time.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in the Richmond?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding is hosted personally by members of our team in their San Francisco homes, just a short trip from the Richmond across Golden Gate Park. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so everything smells like home. Full details are on the boarding page.</p>
+    <p>Yes — a few spots at a time. Boarding is hosted personally by members of our team in their San Francisco homes, just across Golden Gate Park from the Richmond, at $75 per night; your pet's usual enclosure and supplies come with them. Full details live on the boarding page.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a Richmond District exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because the Richmond is within San Francisco, our home city, there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>A 60-minute visit in the Richmond starts at $115, a 30-minute visit at $85, and most traveling pet parents book twice-daily care at $140–$190 per day, with the range set by visit length and number of pets. Inner Richmond off Clement Street or out by Ocean Beach, the price is the same in-city rate — no Peninsula travel surcharge, since we are based just across Golden Gate Park. Text 415-484-6493 with your dates for a firm quote.</p>
   </div>
 </details>
 
@@ -130,15 +130,15 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What kinds of exotic pets do you care for in the Richmond?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We care for exotic pets and cats. That includes small mammals like rabbits, guinea pigs, chinchillas, ferrets, hamsters and rats; reptiles like bearded dragons, leopard and crested geckos, and turtles and tortoises; and birds like parrots, cockatiels, conures, budgies, lovebirds and finches. New guinea pig parents can start with our guinea pig care guide."
+        "text": "The short answer: exotic pets and cats. Spelled out, that means birds (parrots, cockatiels, conures, budgies, lovebirds, finches), small mammals (rabbits, guinea pigs, chinchillas, ferrets, hamsters, rats), and reptiles (bearded dragons, leopard and crested geckos, turtles and tortoises) — in homes from the Inner Richmond avenues to the fog-washed blocks near Ocean Beach. First-time guinea pig parents can lean on our guinea pig care guide."
       }
     },
     {
       "@type": "Question",
-      "name": "What if my exotic pet needs medication while I'm traveling?",
+      "name": "Is medication administration included in Richmond visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. Our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society — that is the bar our whole team trains to. If your pet is on a complex protocol, share it during the meet-and-greet and we will match the schedule exactly."
+        "text": "It is, fully. Oral syringe meds, topical treatments, and subcutaneous injections are all standard scope for every caretaker on our team, and we handle nebulizer treatments too. The training bar was set early — our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society — and it holds whether your pet lives near the park or out in the fog belt by Ocean Beach. Share the protocol at your meet-and-greet and every dose stays on time."
       }
     },
     {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in the Richmond?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding is hosted personally by members of our team in their San Francisco homes, just a short trip from the Richmond across Golden Gate Park. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies so everything smells like home. Full details are on the boarding page."
+        "text": "Yes — a few spots at a time. Boarding is hosted personally by members of our team in their San Francisco homes, just across Golden Gate Park from the Richmond, at $75 per night; your pet's usual enclosure and supplies come with them. Full details live on the boarding page."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Richmond District exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our 30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care ranging from $140–$190 per day depending on visit length and the number of pets. Because the Richmond is within San Francisco, our home city, there is no Peninsula travel surcharge — pricing is simple and in-city. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "A 60-minute visit in the Richmond starts at $115, a 30-minute visit at $85, and most traveling pet parents book twice-daily care at $140–$190 per day, with the range set by visit length and number of pets. Inner Richmond off Clement Street or out by Ocean Beach, the price is the same in-city rate — no Peninsula travel surcharge, since we are based just across Golden Gate Park. Text 415-484-6493 with your dates for a firm quote."
       }
     }
   ]

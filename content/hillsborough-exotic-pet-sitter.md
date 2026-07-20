@@ -123,7 +123,7 @@ Ready to discuss in-home exotic pet care for your Hillsborough home? [Call or te
       "name": "Do you handle large or complex exotic setups?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Climate-controlled reptile rooms, multi-cage aviaries, free-roam rabbit suites, and room-scale enclosures are standard among the Hillsborough families we care for. We walk through the full setup at the meet-and-greet so we can match your routines exactly."
+        "text": "Yes. Climate-controlled reptile rooms, multi-cage aviaries, free-roam rabbit suites, and room-scale enclosures are standard among the Hillsborough families we care for. We walk through the full setup at the meet-and-greet so we can match your routines exactly — humidity controls, lighting cycles, feeding protocols, and any species-specific considerations."
       }
     },
     {
@@ -131,7 +131,7 @@ Ready to discuss in-home exotic pet care for your Hillsborough home? [Call or te
       "name": "How do you handle privacy and discretion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We respect your household. Quiet entry and exit, secure gate handling, no posting about the families we care for on social media, no unnecessary discussion of your travel schedule. What happens at your home stays there."
+        "text": "We respect your household. Quiet entry and exit, secure gate handling, no posting about the families we care for on social media, no unnecessary discussion of your travel schedule. What happens at your home stays there. Our team operates with the same discretion you'd expect from any household professional."
       }
     },
     {
@@ -139,7 +139,7 @@ Ready to discuss in-home exotic pet care for your Hillsborough home? [Call or te
       "name": "Can you handle multi-week trips?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Long trips are common for Hillsborough families, and we're set up for them: hay and feed restocks mid-trip, weight monitoring for animals predisposed to issues, consistent updates, and adjustments to visit cadence based on species and individual needs."
+        "text": "Yes. Long trips are common for Hillsborough families, and we're set up for them: hay and feed restocks mid-trip, weight monitoring for animals predisposed to issues, consistent updates that distinguish \"everything is normal\" from \"let's check in,\" and adjustments to visit cadence based on species and individual needs."
       }
     },
     {
@@ -147,7 +147,7 @@ Ready to discuss in-home exotic pet care for your Hillsborough home? [Call or te
       "name": "What if my exotic pet needs medication or vet attention while I'm away?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration — oral, topical, and subcutaneous — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization."
+        "text": "Medication administration — oral, topical, and subcutaneous — is part of our standard scope. If something escalates beyond medication, we know the local exotic vet landscape and can transport with prior authorization. Our Peninsula exotic vet directory lists Adobe Animal Hospital in Los Altos and All Pets Hospital in San Mateo as the closest specialty options."
       }
     }
   ]
