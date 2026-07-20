@@ -1,13 +1,13 @@
 +++
 title = "Reptile & Amphibian Care Guide | San Francisco Exotic Pet Care"
 shortTitle = "Reptile & Amphibian Care Guide"
-description = "Reptile and amphibian care guide from a San Francisco exotic vet assistant. Species-specific care for bearded dragons, snakes, geckos, turtles and axolotls."
+description = "Reptile and amphibian care guide from a former exotic vet assistant in San Francisco. Species-specific care for bearded dragons, snakes, geckos, turtles and axolotls."
 og_image = "HappilyHoldingSnake.jpg"
 [sitemap]
   priority = 0.8
 +++
 
-Reptiles and amphibians have very specific environmental, dietary, and handling needs that differ dramatically from traditional pets and even from each other. As an exotic veterinary assistant, I've provided hands-on care for bearded dragons, snakes, and turtles — and through my clinical training at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com), I've gained working knowledge of geckos, axolotls, frogs, and other species as well.
+Reptiles and amphibians have very specific environmental, dietary, and handling needs that differ dramatically from traditional pets and even from each other. As a former exotic veterinary assistant, I've provided hands-on care for bearded dragons, snakes, and turtles — and through my clinical training at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com), I've gained working knowledge of geckos, axolotls, frogs, and other species as well.
 
 Below you'll find species-specific care essentials that inform my [in-home care](/home/services/exotic-pet-care-services-in-home) and [boarding](/home/services/exotic-pet-care-services-boarding) services here in San Francisco. Whether you're a first-time reptile owner or an experienced keeper, understanding these fundamentals is key to keeping your pet healthy and thriving.
 

@@ -58,7 +58,7 @@ weight = 3
 
 **Stop buying separate fleece liners, pee pads, and waterproof bases.** The House of Guineas Clinical Series is a single, all-in-one, patent-pending guinea pig fleece liner with every layer built in — waterproof base, medical-grade absorption core, and soft fleece top. The entire liner is antimicrobial, with silver ion technology throughout that inhibits odor-causing bacteria. Pre-activated and ready to use from day one. No prep washes, no piecing together parts from different brands.
 
-**$465 for two complete liners** — about **$78 a year** over their 6+ year lifespan, next to the **$240–480 you would spend on disposable bedding every single year**. Both liners are machine-washable and reusable, so one stays in the cage while the other is in the wash. Designed by an exotic veterinary assistant with an engineering background. Handmade in San Francisco.
+**$465 for two complete liners** — about **$78 a year** over their 6+ year lifespan, next to the **$240–480 you would spend on disposable bedding every single year**. Both liners are machine-washable and reusable, so one stays in the cage while the other is in the wash. Designed by a former exotic veterinary assistant with an engineering background. Handmade in San Francisco.
 
 <div class="text-center" style="margin: 1.5rem 0;">
   <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="btn btn-lg btn-cta-primary" target="_blank" rel="noopener noreferrer">Order Your Liners</a>
@@ -261,7 +261,7 @@ With proper care, each liner pair lasts **6+ years**.
 
 ### Handmade in San Francisco
 
-Every Clinical Series liner is designed and sewn here in San Francisco by Alexandria, the exotic veterinary assistant behind House of Guineas — the same person who cares for guinea pigs in homes across the city through our [in-home guinea pig care](/guinea-pig-sitter-san-francisco/). It is not a mass-produced import; it is the liner she trusts for the animals in her own care.
+Every Clinical Series liner is designed and sewn here in San Francisco by Alexandria, the former exotic veterinary assistant behind House of Guineas — part of the same team that cares for guinea pigs in homes across the city through our [in-home guinea pig care](/guinea-pig-sitter-san-francisco/). It is not a mass-produced import; it is the liner she trusts for the animals in her own care.
 
 That local, clinical background is the whole point. The fabric, the absorption core, and the antimicrobial silver-ion treatment were chosen by someone who weighs guinea pigs on a gram scale for a living — not by a marketing team. Bay Area guinea pig owners often find the liner through our care service, because the two come from the same place. Orders ship nationwide from our Etsy shop.
 
@@ -321,7 +321,7 @@ That local, clinical background is the whole point. The fabric, the absorption c
 <details style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
   <summary style="font-weight: bold; cursor: pointer;">How are these different from GuineaDad liners?</summary>
   <div style="padding-top: 0.75rem;">
-    <p>The Clinical Series is a complete all-in-one liner — you don't need to buy separate pee pads or accessories. The entire fabric is medical-grade, with silver ion antimicrobial technology built into every layer that actively controls odor-causing bacteria. GuineaDad's antimicrobial protection comes from bamboo in its top fleece layer only; our silver-ion technology runs through the whole liner — base, core, and top. Our liners also come pre-activated (no 3-5 prep washes), last 6+ years, and are handmade in San Francisco by an exotic veterinary assistant with an engineering background.</p>
+    <p>The Clinical Series is a complete all-in-one liner — you don't need to buy separate pee pads or accessories. The entire fabric is medical-grade, with silver ion antimicrobial technology built into every layer that actively controls odor-causing bacteria. GuineaDad's antimicrobial protection comes from bamboo in its top fleece layer only; our silver-ion technology runs through the whole liner — base, core, and top. Our liners also come pre-activated (no 3-5 prep washes), last 6+ years, and are handmade in San Francisco by a former exotic veterinary assistant with an engineering background.</p>
   </div>
 </details>
 

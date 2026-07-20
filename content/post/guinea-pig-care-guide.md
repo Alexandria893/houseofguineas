@@ -1,7 +1,7 @@
 +++
 title = "Complete Guinea Pig Care Guide: Housing, Diet, Health & Bedding"
 shortTitle = "Guinea Pig Care Guide"
-description = "Everything you need to know about guinea pig care — housing, cage setup, diet, health signs, bedding, and socialization. Written by a San Francisco exotic veterinary assistant."
+description = "Everything you need to know about guinea pig care — housing, cage setup, diet, health signs, bedding, and socialization. Written by a former exotic veterinary assistant in San Francisco."
 date = 2026-03-24
 og_image = "clinical-series-inuse.jpg"
 tags = ["guinea pig care", "guinea pig housing", "guinea pig diet", "guinea pig health", "bedding"]
@@ -9,7 +9,7 @@ tags = ["guinea pig care", "guinea pig housing", "guinea pig diet", "guinea pig 
   priority = 0.8
 +++
 
-If you'd told me a few years ago that my entire life would revolve around four tiny potatoes with legs, I would have laughed — and then immediately asked to hold one. I'm Alexandria, exotic veterinary assistant in San Francisco and full-time servant to my guinea pigs Milo, Luca, Coco, and Kai. I wrote this guide because I remember how overwhelming it felt when I first started out, and I want to save you from some of the most common mistakes I see new guinea pig owners make.
+If you'd told me a few years ago that my entire life would revolve around four tiny potatoes with legs, I would have laughed — and then immediately asked to hold one. I'm Alexandria, former exotic veterinary assistant in San Francisco and full-time servant to my guinea pigs Milo, Luca, Coco, and Kai. I wrote this guide because I remember how overwhelming it felt when I first started out, and I want to save you from some of the most common mistakes I see new guinea pig owners make.
 
 <!--more-->
 

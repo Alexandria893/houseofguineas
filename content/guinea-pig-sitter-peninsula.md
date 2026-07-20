@@ -1,7 +1,7 @@
 +++
 title = "Guinea Pig Sitter Peninsula | In-Home Small-Mammal Care, San Mateo County"
 shortTitle = "Guinea Pig Sitter Peninsula"
-description = "In-home guinea pig and small-mammal sitting across the Peninsula — Burlingame, San Mateo, Foster City, Redwood City. Clinical-grade care: gram-scale weigh-ins, GI stasis awareness, from exotic vet assistants."
+description = "In-home guinea pig and small-mammal sitting across the Peninsula — Burlingame, San Mateo, Foster City, Redwood City. Clinical-grade care: gram-scale weigh-ins, GI stasis awareness, from a veterinary-informed team."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8

@@ -1,7 +1,7 @@
 +++
 title = "Richmond District Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "Richmond District Exotic Pet Sitter"
-description = "In-home exotic pet sitting in the Richmond District, SF — rabbits, guinea pigs, reptiles, birds. Clinical-grade care from exotic veterinary assistants."
+description = "In-home exotic pet sitting in the Richmond District, SF — rabbits, guinea pigs, reptiles, birds. Clinical-grade care from a veterinary-informed team."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8

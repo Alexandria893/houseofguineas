@@ -32,7 +32,7 @@ Routine (or recurring) care is a standing arrangement: your pet's caretaker come
 - **Habitat verification for reptiles and birds** — temperatures, UVB, humidity confirmed in range
 - **Time with your pet**, plus a written update and photos so you always know how they're doing
 
-Because our team is led by an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), a routine visit isn't just tidying — it's a recurring wellness check by someone who knows what healthy looks like for your species and will flag a problem early, before it becomes a vet emergency.
+Because ours is a [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience), a routine visit isn't just tidying — it's a recurring wellness check by someone who knows what healthy looks like for your species and will flag a problem early, before it becomes a vet emergency.
 
 ## Who this is really for
 

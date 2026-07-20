@@ -1,13 +1,13 @@
 +++
 title = "Exotic Pet Blog | Care Guides & Bay Area Pet Care from House of Guineas"
 shortTitle = "Blog"
-description = "Exotic pet care guides, species-specific advice, and Bay Area pet care articles from Alexandria — a San Francisco exotic veterinary assistant. Birds, reptiles, rabbits, guinea pigs and more."
+description = "Exotic pet care guides, species-specific advice, and Bay Area pet care articles from Alexandria — a former San Francisco exotic veterinary assistant. Birds, reptiles, rabbits, guinea pigs and more."
 og_image = "chinchillaChewingOnTreat.jpg"
 [sitemap]
   priority = 0.8
 +++
 
-Exotic pet care guides and Bay Area pet care articles, written or curated by Alexandria — a San Francisco exotic veterinary assistant who's worked at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) and previously volunteered with the [House Rabbit Society](https://houserabbit.org/veterinaryinitiative).
+Exotic pet care guides and Bay Area pet care articles, written or curated by Alexandria — who worked as an exotic veterinary assistant at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) and previously volunteered with the [House Rabbit Society](https://houserabbit.org/veterinaryinitiative).
 
 ## Featured Care Guides
 

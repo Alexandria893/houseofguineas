@@ -1,7 +1,7 @@
 +++
 title = "How to Prepare Your Reptile for Pet Sitting in San Francisco"
 shortTitle = "Prepare Your Reptile for Pet Sitting"
-description = "A step-by-step guide to preparing your bearded dragon, snake, gecko, or turtle for a pet sitter. Written by a San Francisco exotic veterinary assistant."
+description = "A step-by-step guide to preparing your bearded dragon, snake, gecko, or turtle for a pet sitter. Written by a former exotic veterinary assistant in San Francisco."
 date = 2026-03-07
 og_image = "beardedDragonPostBath.jpg"
 tags = ["reptile care", "pet sitting", "san francisco"]
@@ -81,4 +81,4 @@ Last but definitely not least — make sure your sitter has:
 
 ---
 
-*Need a professional reptile pet sitter in San Francisco? I provide [in-home reptile care](/home/services/exotic-pet-care-services-in-home) and [reptile boarding](/home/services/exotic-pet-care-services-boarding) with veterinary-level attention to your pet's environment, diet, and health.*
+*Need a professional reptile pet sitter in San Francisco? Our team provides [in-home reptile care](/home/services/exotic-pet-care-services-in-home) and [reptile boarding](/home/services/exotic-pet-care-services-boarding) with veterinary-level attention to your pet's environment, diet, and health.*

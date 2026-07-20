@@ -1,7 +1,7 @@
 +++
 title = "Guinea Pig Cage Setup: C&C Cages, Sizing & What Goes Inside"
 shortTitle = "Guinea Pig Cage Setup"
-description = "How to set up the perfect guinea pig cage — minimum sizes, C&C cage assembly, bedding, accessories, and layout. Guide from a San Francisco exotic vet assistant."
+description = "How to set up the perfect guinea pig cage — minimum sizes, C&C cage assembly, bedding, accessories, and layout. Guide from a former exotic vet assistant in San Francisco."
 date = 2026-03-24
 og_image = "clinical-series-inuse.jpg"
 tags = ["guinea pig care", "guinea pig housing", "guinea pig cage", "C&C cage"]
@@ -9,7 +9,7 @@ tags = ["guinea pig care", "guinea pig housing", "guinea pig cage", "C&C cage"]
   priority = 0.7
 +++
 
-Setting up a guinea pig cage seems straightforward — buy a cage, add some bedding, done. But as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) in San Francisco, I've seen how much of a difference proper housing makes for these little guys. The number one mistake I see new guinea pig owners make? Buying a cage that's way too small. So let me walk you through what actually works.
+Setting up a guinea pig cage seems straightforward — buy a cage, add some bedding, done. But as a former [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) in San Francisco, I've seen how much of a difference proper housing makes for these little guys. The number one mistake I see new guinea pig owners make? Buying a cage that's way too small. So let me walk you through what actually works.
 
 <!--more-->
 

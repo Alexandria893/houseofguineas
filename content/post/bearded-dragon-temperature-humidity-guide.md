@@ -1,7 +1,7 @@
 +++
 title = "Bearded Dragon Temperature & Humidity Guide for San Francisco Homes"
 shortTitle = "Bearded Dragon Temperature Guide"
-description = "Bearded dragon temperature and humidity guide for San Francisco's climate. Basking temps, cool side, nighttime ranges, and setup tips from an exotic vet assistant."
+description = "Bearded dragon temperature and humidity guide for San Francisco's climate. Basking temps, cool side, nighttime ranges, and setup tips from a former exotic vet assistant."
 date = 2026-03-07
 og_image = "candidBeardedDragonPic.jpg"
 tags = ["reptile care", "bearded dragons", "san francisco"]

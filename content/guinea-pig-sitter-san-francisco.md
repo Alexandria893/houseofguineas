@@ -1,7 +1,7 @@
 +++
 title = "Guinea Pig & Small-Mammal Sitter in San Francisco | In-Home Exotic Care"
 shortTitle = "Guinea Pig & Small-Mammal Sitter SF"
-description = "In-home guinea pig and small-mammal sitting in San Francisco. Clinical-grade care — gram-scale weigh-ins, GI stasis awareness — from exotic vet assistants."
+description = "In-home guinea pig and small-mammal sitting in San Francisco. Clinical-grade care — gram-scale weigh-ins, GI stasis awareness — from a veterinary-informed team."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.9

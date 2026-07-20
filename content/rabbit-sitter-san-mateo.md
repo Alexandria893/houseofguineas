@@ -1,5 +1,5 @@
 +++
-title = "Rabbit Sitter San Mateo | In-Home Bunny Care from Vet Assistants"
+title = "Rabbit Sitter San Mateo | Veterinary-Informed In-Home Bunny Care"
 shortTitle = "Rabbit Sitter San Mateo"
 description = "In-home rabbit sitting across San Mateo — Hillsdale, Aragon, Baywood Park, Bay Meadows. RHDV-vaccinated bunnies, bonded pairs, vet-trained handling."
 og_image = "lionheadBunnyWithTreats.jpg"
