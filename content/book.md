@@ -59,7 +59,7 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
   <input type="hidden" name="_subject" value="New care request from houseofguineas.com">
   <input type="hidden" name="_template" value="table">
   <input type="hidden" name="_captcha" value="false">
-  <input type="hidden" name="_next" value="https://www.houseofguineas.com/thank-you/">
+  <input type="hidden" name="_next" value="https://houseofguineas.com/thank-you/">
 
   <div class="form-row">
     <label for="name">Your name <span class="required">*</span></label>

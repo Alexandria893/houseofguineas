@@ -86,7 +86,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
   "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — weekly or every-other-week visits in your pet's own home, including full cage cleaning and deep-cleans, gram-scale weigh-ins, and health checks, from a veterinary-informed team.",
   "provider": {
     "@type": "LocalBusiness",
-    "@id": "https://www.houseofguineas.com/#localbusiness"
+    "@id": "https://houseofguineas.com/#localbusiness"
   },
   "areaServed": [
     {"@type": "City", "name": "San Francisco", "addressRegion": "CA"},
