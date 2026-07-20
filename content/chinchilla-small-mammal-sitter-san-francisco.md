@@ -7,9 +7,9 @@ og_image = "chinchillaChewingOnTreat.jpg"
   priority = 0.8
 +++
 
-Chinchillas, ferrets, rats, hamsters, gerbils, hedgehogs — the small mammals beyond guinea pigs and rabbits are some of the most rewarding pets to keep, and some of the easiest to get wrong when you hand them to the wrong sitter. A chinchilla can't tolerate heat or humidity and needs dust baths, not water. A ferret needs a specific high-protein diet and is a champion escape artist. A rat is brilliant and social and hides illness until it's advanced. These are not animals a general dog-and-cat sitter is equipped for — and yet in San Francisco, that's often the only option pet parents can find. That's the gap our team was built to fill: knowledgeable, in-home care for the small mammals other sitters won't touch, delivered by specialists trained under a clinical lens.
+Chinchillas, ferrets, rats, hamsters, gerbils, hedgehogs — the small mammals beyond guinea pigs and rabbits are some of the most rewarding pets to keep, and some of the easiest to get wrong when you hand them to the wrong sitter. A chinchilla can't tolerate heat or humidity and needs dust baths, not water. A ferret needs a specific high-protein diet and is a champion escape artist. A rat is brilliant and social and hides illness until it's advanced. These are not animals a general dog-and-cat sitter is equipped for — and yet in San Francisco, that's often the only option pet parents can find. That's the gap our team was built to fill: knowledgeable, in-home care for the small mammals other sitters won't touch, delivered by caretakers trained under a clinical lens.
 
-House of Guineas is based in San Francisco's Inner Sunset, and small mammals are the heart of what we do — the whole business grew out of small-mammal care. Our specialists come to your home so your chinchilla stays in its own cool, familiar room, your ferret keeps its own routine, and your rats stay in their own trusted space.
+House of Guineas is based in San Francisco's Inner Sunset, and small mammals are the heart of what we do — the whole business grew out of small-mammal care. Our caretakers come to your home so your chinchilla stays in its own cool, familiar room, your ferret keeps its own routine, and your rats stay in their own trusted space.
 <!--more-->
 
 > *"We had the absolute pleasure of having Alexandria care for our chinchilla, Gus... Chinchillas require special care, and she knew exactly how to handle everything—from diet to proper handling techniques."* — Robyn J.
@@ -25,7 +25,7 @@ House of Guineas is based in San Francisco's Inner Sunset, and small mammals are
 
 ## Why San Francisco Small-Mammal Owners Choose Us
 
-- **A veterinary-informed team.** Our team's backgrounds span wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and every specialist is trained under that same clinical lens. Our founder previously worked as an exotic veterinary assistant and previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines.
+- **A veterinary-informed team.** Our team's backgrounds span wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and every caretaker is trained under that same clinical lens. Our founder previously worked as an exotic veterinary assistant and previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines.
 - **Clinical-grade monitoring.** We weigh small mammals on a gram scale to catch weight loss before it's visible, monitor appetite and output, and can syringe-feed critical-care formula to an animal that's gone off its food. In a small mammal, a gut that goes quiet is an emergency — not a wait-and-see.
 - **Species specialization.** Exotics are our whole focus. That kind of expertise is genuinely hard to find in San Francisco.
 
@@ -68,7 +68,7 @@ No Peninsula travel surcharge within San Francisco. Boarding is hosted personall
 <details class="faq-details">
   <summary class="faq-summary">Why not just use a regular pet sitter?</summary>
   <div class="faq-answer">
-    <p>Small mammals are easy to underestimate. A gram-scale weigh-in, spotting the early signs of GI stasis, syringe-feeding critical-care formula, or knowing a chinchilla can't tolerate heat — these aren't things a general dog-and-cat sitter is trained for. Our specialists are, trained to the standard set by our team's exotic veterinary hospital experience.</p>
+    <p>Small mammals are easy to underestimate. A gram-scale weigh-in, spotting the early signs of GI stasis, syringe-feeding critical-care formula, or knowing a chinchilla can't tolerate heat — these aren't things a general dog-and-cat sitter is trained for. Our caretakers are, trained to the standard set by our team's exotic veterinary hospital experience.</p>
   </div>
 </details>
 
@@ -109,7 +109,7 @@ Ready to book care for your small companion? [Call or text 415-484-6493](tel:415
       "name": "Why not just use a regular pet sitter for a small mammal?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Small mammals are easy to underestimate. A gram-scale weigh-in, spotting the early signs of GI stasis, syringe-feeding critical-care formula, or knowing a chinchilla can't tolerate heat — these aren't things a general dog-and-cat sitter is trained for. Our specialists are, trained to the standard set by our team's exotic veterinary hospital experience."
+        "text": "Small mammals are easy to underestimate. A gram-scale weigh-in, spotting the early signs of GI stasis, syringe-feeding critical-care formula, or knowing a chinchilla can't tolerate heat — these aren't things a general dog-and-cat sitter is trained for. Our caretakers are, trained to the standard set by our team's exotic veterinary hospital experience."
       }
     },
     {

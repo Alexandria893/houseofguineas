@@ -81,7 +81,7 @@ We serve all of San Francisco and the Peninsula down through San Mateo, Foster C
 <details class="faq-details">
   <summary class="faq-summary">Will it be the same person each time?</summary>
   <div class="faq-answer">
-    <p>Yes — consistency is the point. We match you with a specialist who gets to know your pet, your home, and your routine, so every visit builds on the last and subtle changes get caught early.</p>
+    <p>We do our best to keep it that way — you're matched with a caretaker who gets to know your pet, your home, and your routine, so every visit builds on the last. If they're ever out with an unforeseen illness, our on-call PRN specialists step in with everything already communicated, so nothing about your pet's care skips a beat.</p>
   </div>
 </details>
 
@@ -115,7 +115,7 @@ Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/bo
       "name": "Will it be the same person each time?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — consistency is the point. We match you with a specialist who gets to know your pet, your home, and your routine, so every visit builds on the last and subtle changes get caught early."
+        "text": "We do our best to keep it that way — you're matched with a caretaker who gets to know your pet, your home, and your routine, so every visit builds on the last. If they're ever out with an unforeseen illness, our on-call PRN specialists step in with everything already communicated, so nothing about your pet's care skips a beat."
       }
     }
   ]

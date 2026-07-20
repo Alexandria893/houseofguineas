@@ -1,7 +1,7 @@
 +++
 title = "Cat & Exotic Pet Sitter San Francisco | Vet-Trained Multi-Pet Care"
 shortTitle = "Cat & Exotic Pet Sitting in San Francisco"
-description = "Cat and exotic pet sitting in San Francisco — multi-pet homes with rabbits, guinea pigs, reptiles, or birds, and cat-only households too. Vet-trained specialists."
+description = "Cat and exotic pet sitting in San Francisco — multi-pet homes with rabbits, guinea pigs, reptiles, or birds, and cat-only households too. Vet-trained caretakers."
 og_image = "catWantingPets.jpg"
 serviceType = "Cat & Exotic Pet Sitting"
 [sitemap]

@@ -17,7 +17,7 @@ If you have ever searched for an exotic pet sitter and felt sticker shock, you a
 
 ## In-Home Visit Rates
 
-In-home visits mean a specialist comes to your home and cares for your pet in their own environment — feeding, fresh water, medication, enrichment, habitat checks, and photo updates. Most exotic pets do best with this, because it keeps their world consistent while you are away.
+In-home visits mean a caretaker comes to your home and cares for your pet in their own environment — feeding, fresh water, medication, enrichment, habitat checks, and photo updates. Most exotic pets do best with this, because it keeps their world consistent while you are away.
 
 ### Individual visits (once a day)
 
@@ -48,9 +48,9 @@ San Francisco is our primary service area, so **there is no travel surcharge for
 
 The short version: exotic animals are a veterinary subspecialty, and the people who can care for them safely are not interchangeable with general pet sitters. The longer version is worth understanding before you compare rates:
 
-- **Clinical training.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work, and every specialist we bring on is trained to the same standards — founder Alexandria previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) at Bay Area Bird & Exotics Hospital. That is a different skill set than walking a dog.
+- **Clinical training.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work, and every caretaker we bring on is trained to the same standards — founder Alexandria previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) at Bay Area Bird & Exotics Hospital. That is a different skill set than walking a dog.
 - **Medication administration.** Oral syringes, topical treatments, and nebulizer sessions are part of our standard service. Alexandria administered subcutaneous RHDV2 vaccines as a House Rabbit Society medical-assistant volunteer. Most generalist sitters cannot offer this at all.
-- **Species-specific knowledge.** Guinea pigs need daily vitamin C and cannot be fed like rabbits. Rabbits in GI stasis can decline in twelve hours. Reptiles need precise temperature and humidity. Birds hide illness until it is advanced. Catching these things early is the entire value of a specialist.
+- **Species-specific knowledge.** Guinea pigs need daily vitamin C and cannot be fed like rabbits. Rabbits in GI stasis can decline in twelve hours. Reptiles need precise temperature and humidity. Birds hide illness until it is advanced. Catching these things early is the entire value of a trained caretaker.
 - **The cost of getting it wrong.** A preventable exotic emergency — a missed shed, an undetected respiratory infection, a rabbit that quietly stopped eating — costs far more in vet bills and heartbreak than the difference in sitter rates.
 
 We are not the cheapest option, and we are honest about that. What you are paying for is care that is rooted in clinical exposure, not guesswork.

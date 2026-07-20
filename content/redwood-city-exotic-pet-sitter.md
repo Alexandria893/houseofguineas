@@ -1,7 +1,7 @@
 +++
 title = "Redwood City Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "Redwood City Exotic Pet Sitter"
-description = "In-home exotic pet sitting in Redwood City — rabbits, guinea pigs, chinchillas, reptiles, birds and small mammals. Vet-trained specialists serving Roosevelt, Mt. Carmel, Farm Hill, Emerald Hills."
+description = "In-home exotic pet sitting in Redwood City — rabbits, guinea pigs, chinchillas, reptiles, birds and small mammals. Vet-trained caretakers serving Roosevelt, Mt. Carmel, Farm Hill, Emerald Hills."
 og_image = "chinchillaChewingOnTreat.jpg"
 [sitemap]
   priority = 0.8
@@ -9,7 +9,7 @@ og_image = "chinchillaChewingOnTreat.jpg"
 
 Redwood City has a wider mix of exotic pet parents than most Peninsula cities — it's the kind of town where a Caltrain commuter heading to a biotech job in South SF and a longtime Roosevelt-area family with three rabbits and a tortoise might live two blocks apart. What ties them together is a need that conventional pet care doesn't address: someone who can actually handle exotics while they're traveling, working long days, or covering kids' weekend events. House of Guineas exists to fill that gap on the Peninsula.
 
-We're based in San Francisco's Inner Sunset, and our team of exotic pet specialists travels down the 101 and 280 corridors to provide in-home care for Redwood City households. Ours is a veterinary-informed team, with backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience) — our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering RHDV2 vaccinations. Every member of our team is trained under that same clinical lens.
+We're based in San Francisco's Inner Sunset, and our team of exotic pet caretakers travels down the 101 and 280 corridors to provide in-home care for Redwood City households. Ours is a veterinary-informed team, with backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience) — our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering RHDV2 vaccinations. Every member of our team is trained under that same clinical lens.
 
 ## Why Redwood City Exotic Pet Parents Choose Our Team
 
@@ -92,7 +92,7 @@ Redwood City is in our Peninsula service tier, so a travel surcharge of $15–$2
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet/">signs your guinea pig needs a vet</a> and our <a href="/post/exotic-pet-emergency-signs/">exotic pet emergency signs</a> resource.</p>
+    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly. For signs that something is escalating, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet/">signs your guinea pig needs a vet</a> and our <a href="/post/exotic-pet-emergency-signs/">exotic pet emergency signs</a> resource.</p>
   </div>
 </details>
 
@@ -132,7 +132,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, and nebulizer treatments. Share your protocol at the meet-and-greet and we'll match the schedule exactly."
       }
     },
     {

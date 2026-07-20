@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 Finding someone to care for an exotic pet in San Francisco is harder than it should be. Most sitters are set up for dogs and cats — not a bonded pair of rabbits, a bearded dragon on a specific UVB schedule, or a parrot who only settles when someone whistles back. House of Guineas Pet Care exists to close that gap. We are the only professional pet care company on this side of the Bay that exclusively caters to, serves, and cares for exotic pets — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds.
 
-We are based in the Inner Sunset, and we offer San Francisco pet parents two ways to get care — **in-home visits** from our team of exotic specialists, or **overnight boarding** hosted personally by members of our team in their San Francisco homes. Both are built around clinical experience, not guesswork.
+We are based in the Inner Sunset, and we offer San Francisco pet parents two ways to get care — **in-home visits** from our team of exotic pet caretakers, or **overnight boarding** hosted personally by members of our team in their San Francisco homes. Both are built around clinical experience, not guesswork.
 
 ## Why San Francisco Exotic Pet Parents Choose Us
 
@@ -45,9 +45,9 @@ We provide in-home exotic pet care across the city, including:
 - [Noe Valley](/noe-valley-exotic-pet-sitter/), [the Castro](/castro-exotic-pet-sitter/), and [the Mission District](/mission-district-exotic-pet-sitter/)
 - Pacific Heights, the Marina District, and [SOMA](/soma-exotic-pet-sitter/)
 
-Just outside the city, we also serve [Daly City](/daly-city-exotic-pet-sitter/), [San Bruno](/san-bruno-exotic-pet-sitter/), and [Pacifica](/pacifica-exotic-pet-sitter/) to the south. To the north, we now cover [Marin County](/marin-county-exotic-pet-sitter/) — including [San Rafael](/san-rafael-exotic-pet-sitter/), [Mill Valley](/mill-valley-exotic-pet-sitter/), [Larkspur and Corte Madera](/larkspur-corte-madera-exotic-pet-sitter/), and [San Anselmo and the Ross Valley](/san-anselmo-exotic-pet-sitter/) — through a specialist based locally in Marin.
+Just outside the city, we also serve [Daly City](/daly-city-exotic-pet-sitter/), [San Bruno](/san-bruno-exotic-pet-sitter/), and [Pacifica](/pacifica-exotic-pet-sitter/) to the south. To the north, we now cover [Marin County](/marin-county-exotic-pet-sitter/) — including [San Rafael](/san-rafael-exotic-pet-sitter/), [Mill Valley](/mill-valley-exotic-pet-sitter/), [Larkspur and Corte Madera](/larkspur-corte-madera-exotic-pet-sitter/), and [San Anselmo and the Ross Valley](/san-anselmo-exotic-pet-sitter/) — through a caretaker based locally in Marin.
 
-Looking for a species specialist? See our [reptile sitter](/reptile-pet-sitter-san-francisco/) and [guinea pig & small-mammal sitter](/guinea-pig-sitter-san-francisco/) pages.
+Looking for species-specific care? See our [reptile sitter](/reptile-pet-sitter-san-francisco/) and [guinea pig & small-mammal sitter](/guinea-pig-sitter-san-francisco/) pages.
 
 If your neighborhood is not on the list, it is almost certainly still covered — [text us your address](tel:415-484-6493) and we will confirm.
 
@@ -111,7 +111,7 @@ San Francisco is our **primary service area, so no travel surcharge applies** �
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, subcutaneous injections for small mammals and reptiles, and nebulizer treatments. Share the protocol at the meet-and-greet and we will match the schedule exactly. For warning signs, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
+    <p>Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, subcutaneous injections for small mammals and reptiles, and nebulizer treatments. Share the protocol at the meet-and-greet and we will match the schedule exactly. For warning signs, see our guide on <a href="/post/signs-your-guinea-pig-needs-a-vet">signs your guinea pig needs a vet</a>.</p>
   </div>
 </details>
 
@@ -160,7 +160,7 @@ Heading out of town soon? [Call or text us at 415-484-6493](tel:415-484-6493) an
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Medication administration is part of our standard service. Our specialists are trained in oral syringe feeding, topical applications, subcutaneous injections for small mammals and reptiles, and nebulizer treatments. Share the protocol at the meet-and-greet and we will match the schedule exactly."
+        "text": "Medication administration is part of our standard service. Our caretakers are trained in oral syringe feeding, topical applications, subcutaneous injections for small mammals and reptiles, and nebulizer treatments. Share the protocol at the meet-and-greet and we will match the schedule exactly."
       }
     },
     {

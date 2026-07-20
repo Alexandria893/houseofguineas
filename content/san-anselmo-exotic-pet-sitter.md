@@ -1,7 +1,7 @@
 +++
 title = "San Anselmo & Ross Valley Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "San Anselmo & Ross Valley Exotic Pet Sitter"
-description = "In-home exotic pet sitting in San Anselmo, Ross, Fairfax and the Ross Valley — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a Marin-based specialist. Little to no travel surcharge."
+description = "In-home exotic pet sitting in San Anselmo, Ross, Fairfax and the Ross Valley — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a Marin-based caretaker. Little to no travel surcharge."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
@@ -9,11 +9,11 @@ og_image = "milo.jpeg"
 
 The Ross Valley — San Anselmo, Ross, Fairfax, Sleepy Hollow — is one of the most family-oriented pockets of Marin, all leafy streets, creek-side homes, and a downtown San Anselmo that feels like a small town from another era. It is exactly the kind of place where a child's first pet is a guinea pig or a pair of rabbits, where a household keeps a talkative parrot, or where someone has spent real effort dialing in a reptile's enclosure. And it is exactly the kind of place that has had nowhere to turn for exotic pet care while traveling — until now. Our team covers the Ross Valley from a base right here in Marin.
 
-House of Guineas is San Francisco's exotic pet care company, and our Marin specialist lives in Central Marin, a short drive from San Anselmo and the surrounding Ross Valley towns. Your pets stay home, on their routines, cared for by someone with genuine clinical training — and because we are local, reaching you costs a fraction of a bridge crossing.
+House of Guineas is San Francisco's exotic pet care company, and our Marin caretaker lives in Central Marin, a short drive from San Anselmo and the surrounding Ross Valley towns. Your pets stay home, on their routines, cared for by someone with genuine clinical training — and because we are local, reaching you costs a fraction of a bridge crossing.
 
 ## Why Ross Valley Exotic Pet Owners Choose Our Team
 
-- **Local to Marin.** No Golden Gate commute in your schedule or your bill. Our specialist reaches San Anselmo, Ross, and Fairfax quickly and can keep visit timing flexible.
+- **Local to Marin.** No Golden Gate commute in your schedule or your bill. Our caretaker reaches San Anselmo, Ross, and Fairfax quickly and can keep visit timing flexible.
 - **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder, Alexandria, previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines — and the whole team is trained under that clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
 - **Clinical-grade care.** We can syringe-feed a stasis rabbit, weigh a guinea pig on a gram scale, verify a reptile's UVB and humidity, and spot early illness in a bird.
@@ -40,7 +40,7 @@ We start with a free meet-and-greet at your home to learn feeding routines, encl
 - **60-minute visits** start at **$115**
 - **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-Because our specialist is based in Central Marin, San Anselmo and the Ross Valley fall in our **no-surcharge to $15/visit range**. Text us your address and dates and we will confirm your exact rate.
+Because our caretaker is based in Central Marin, San Anselmo and the Ross Valley fall in our **no-surcharge to $15/visit range**. Text us your address and dates and we will confirm your exact rate.
 
 > **With our caretaker living just minutes away in Central Marin,** many Ross Valley families keep a standing [routine care](/routine-recurring-exotic-pet-care/) visit on the calendar — weekly or every-other-week — so the enclosure deep-clean, weigh-ins, and a gentle health check happen right on schedule between school pickups and soccer practice, and the little ones get unhurried, focused attention every time.
 
@@ -93,7 +93,7 @@ Because our specialist is based in Central Marin, San Anselmo and the Ross Valle
 <details class="faq-details">
   <summary class="faq-summary">Do you administer medications and injections?</summary>
   <div class="faq-answer">
-    <p>Our specialists routinely handle oral syringe medications, topical treatments, and subcutaneous injections for small mammals and reptiles as part of standard care. If your pet is on a complex protocol, share it at the meet-and-greet and we will tell you honestly what we can cover and match the schedule exactly.</p>
+    <p>Our caretakers routinely handle oral syringe medications, topical treatments, and subcutaneous injections for small mammals and reptiles as part of standard care. If your pet is on a complex protocol, share it at the meet-and-greet and we will tell you honestly what we can cover and match the schedule exactly.</p>
   </div>
 </details>
 
@@ -142,7 +142,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you administer medications and injections?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our specialists routinely handle oral syringe medications, topical treatments, and subcutaneous injections for small mammals and reptiles as part of standard care. If your pet is on a complex protocol, share it at the meet-and-greet and we will tell you honestly what we can cover and match the schedule exactly."
+        "text": "Our caretakers routinely handle oral syringe medications, topical treatments, and subcutaneous injections for small mammals and reptiles as part of standard care. If your pet is on a complex protocol, share it at the meet-and-greet and we will tell you honestly what we can cover and match the schedule exactly."
       }
     },
     {
