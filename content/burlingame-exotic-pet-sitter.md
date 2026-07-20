@@ -1,7 +1,7 @@
 +++
 title = "Burlingame Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "Burlingame Exotic Pet Sitter"
-description = "In-home exotic pet sitting in Burlingame — rabbits, guinea pigs, chinchillas, reptiles, birds and small mammals. Clinical-grade care from exotic veterinary assistants. Perfect for SFO travelers."
+description = "In-home exotic pet sitting in Burlingame — rabbits, guinea pigs, chinchillas, reptiles, birds and small mammals. Clinical-grade care from a veterinary-informed team. Perfect for SFO travelers."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8

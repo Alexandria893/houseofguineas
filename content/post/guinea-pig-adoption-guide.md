@@ -1,7 +1,7 @@
 +++
 title = "Guinea Pig Adoption Guide: What to Know Before You Adopt"
 shortTitle = "Guinea Pig Adoption Guide"
-description = "Everything you need before adopting a guinea pig — where to adopt, costs, supplies checklist, first-week tips. From a San Francisco exotic vet assistant and guinea pig owner."
+description = "Everything you need before adopting a guinea pig — where to adopt, costs, supplies checklist, first-week tips. From a former exotic vet assistant and guinea pig owner in San Francisco."
 date = 2026-03-24
 og_image = "milo.jpeg"
 tags = ["guinea pig care", "guinea pig adoption", "small mammals"]
@@ -9,7 +9,7 @@ tags = ["guinea pig care", "guinea pig adoption", "small mammals"]
   priority = 0.7
 +++
 
-I still remember spotting Milo and Luca on the SFACC website and immediately deciding they were coming home with me. I started buying supplies before I even adopted them — and I called the shelter multiple times to make sure they were still there (I was NOT losing these two). I rushed to pick them up so fast that my supplies hadn't even arrived yet, so they spent their first few days in a makeshift cage while I waited for everything to show up. That was the day everything changed. Within a year I'd added Coco and Kai — because apparently I'm the kind of person who builds a whole herd. As an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) in San Francisco, I've also seen what happens when people adopt without doing their homework. So here's everything I wish I'd known before Milo and Luca came home with me.
+I still remember spotting Milo and Luca on the SFACC website and immediately deciding they were coming home with me. I started buying supplies before I even adopted them — and I called the shelter multiple times to make sure they were still there (I was NOT losing these two). I rushed to pick them up so fast that my supplies hadn't even arrived yet, so they spent their first few days in a makeshift cage while I waited for everything to show up. That was the day everything changed. Within a year I'd added Coco and Kai — because apparently I'm the kind of person who builds a whole herd. As a former [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) in San Francisco, I've also seen what happens when people adopt without doing their homework. So here's everything I wish I'd known before Milo and Luca came home with me.
 
 <!--more-->
 

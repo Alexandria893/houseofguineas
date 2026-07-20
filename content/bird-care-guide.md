@@ -1,7 +1,7 @@
 +++
 title = "Bird Care Guide | Cockatiels, Parakeets & Parrots in San Francisco"
 shortTitle = "Bird Care Guide"
-description = "Bird care guide from a San Francisco exotic vet assistant. Species-specific care for cockatiels, parakeets, conures, parrotlets, and more — written for Bay Area homes."
+description = "Bird care guide from a former exotic vet assistant in San Francisco. Species-specific care for cockatiels, parakeets, conures, parrotlets, and more — written for Bay Area homes."
 og_image = "perchedBird.jpg"
 [sitemap]
   priority = 0.8

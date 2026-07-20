@@ -1,7 +1,7 @@
 +++
 title = "Sunset District Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "Sunset District Exotic Pet Sitter"
-description = "In-home exotic pet sitting in San Francisco's Sunset District — rabbits, guinea pigs, reptiles, birds. Clinical-grade care from exotic vet assistants."
+description = "In-home exotic pet sitting in San Francisco's Sunset District — rabbits, guinea pigs, reptiles, birds. Clinical-grade care from a veterinary-informed team."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8

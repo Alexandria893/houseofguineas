@@ -1,7 +1,7 @@
 +++
 title = "Foster City Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "Foster City Exotic Pet Sitter"
-description = "In-home exotic pet sitting in Foster City — waterfront visits for rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds. Clinical-grade care from exotic veterinary assistants. Perfect for Foster City's tech & biotech commuters."
+description = "In-home exotic pet sitting in Foster City — waterfront visits for rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds. Clinical-grade care from a veterinary-informed team. Perfect for Foster City's tech & biotech commuters."
 og_image = "Coco.jpg"
 [sitemap]
   priority = 0.8

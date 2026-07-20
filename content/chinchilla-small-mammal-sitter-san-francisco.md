@@ -1,7 +1,7 @@
 +++
 title = "Chinchilla & Small-Mammal Sitter San Francisco | In-Home Exotic Care"
 shortTitle = "Chinchilla & Small-Mammal Sitter SF"
-description = "In-home chinchilla, ferret, rat & small-mammal sitter in San Francisco. Clinical-grade care — gram-scale weigh-ins, GI-stasis awareness — from exotic vet assistants."
+description = "In-home chinchilla, ferret, rat & small-mammal sitter in San Francisco. Clinical-grade care — gram-scale weigh-ins, GI-stasis awareness — from a veterinary-informed team."
 og_image = "chinchillaChewingOnTreat.jpg"
 [sitemap]
   priority = 0.8

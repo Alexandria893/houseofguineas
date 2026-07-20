@@ -1,7 +1,7 @@
 +++
 title = "Exotic Pet Emergency Signs: When to Call the Vet Immediately"
 shortTitle = "Exotic Pet Emergency Signs"
-description = "Know the emergency warning signs for reptiles, birds, rabbits, and guinea pigs. A quick-reference guide from a San Francisco exotic veterinary assistant."
+description = "Know the emergency warning signs for reptiles, birds, rabbits, and guinea pigs. A quick-reference guide from a former exotic veterinary assistant in San Francisco."
 date = 2026-03-07
 og_image = "Coco.jpg"
 tags = ["exotic vet", "reptile care", "small mammals", "san francisco"]
@@ -9,7 +9,7 @@ tags = ["exotic vet", "reptile care", "small mammals", "san francisco"]
   priority = 0.6
 +++
 
-Working at Bay Area Bird & Exotics Hospital taught me something that still shapes how I care for animals today: exotic pets don't tell you they're sick until they really can't hide it anymore. By the time you notice something is off, the situation is often already serious. I've seen owners rush in with a pet they thought was "just a little quiet this morning," only for us to find out the animal had been declining for days. As an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) in San Francisco, I put together the emergency signs I wish every exotic pet owner had pinned to their fridge.
+Working at Bay Area Bird & Exotics Hospital taught me something that still shapes how I care for animals today: exotic pets don't tell you they're sick until they really can't hide it anymore. By the time you notice something is off, the situation is often already serious. I've seen owners rush in with a pet they thought was "just a little quiet this morning," only for us to find out the animal had been declining for days. As a former [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) in San Francisco, I put together the emergency signs I wish every exotic pet owner had pinned to their fridge.
 
 <!--more-->
 
@@ -93,7 +93,7 @@ Please, please do this before you need to. The worst time to search for an exoti
 
 ---
 
-*Need an experienced exotic pet sitter who can recognize these warning signs? I provide [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home) and [boarding](/home/services/exotic-pet-care-services-boarding) in San Francisco with veterinary-level attention. My background as an [exotic vet assistant](/san-francisco-california-exotic-veterinary-experience) means I know what to watch for — and when to act.*
+*Need an experienced exotic pet sitter who can recognize these warning signs? Our team provides [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home) and [boarding](/home/services/exotic-pet-care-services-boarding) in San Francisco with veterinary-level attention. My background as an [exotic vet assistant](/san-francisco-california-exotic-veterinary-experience) shaped what we watch for — and when we act.*
 
 ## Frequently Asked Questions
 

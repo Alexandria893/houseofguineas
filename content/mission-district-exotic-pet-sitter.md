@@ -1,7 +1,7 @@
 +++
 title = "Mission District Exotic Pet Sitter | Reptiles, Guinea Pigs, Rabbits & Birds"
 shortTitle = "Mission District Exotic Pet Sitter"
-description = "In-home exotic pet sitting in the Mission District, San Francisco — reptiles, guinea pigs, rabbits, birds. Clinical-grade care from exotic vet assistants."
+description = "In-home exotic pet sitting in the Mission District, San Francisco — reptiles, guinea pigs, rabbits, birds. Clinical-grade care from a veterinary-informed team."
 og_image = "beardedDragonPostBath.jpg"
 [sitemap]
   priority = 0.8

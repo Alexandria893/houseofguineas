@@ -1,7 +1,7 @@
 +++
 title = "Rabbit Care Essentials: A Guide from a Bay Area Exotic Pet Professional"
 shortTitle = "Rabbit Care Essentials"
-description = "Essential rabbit care guide covering diet, housing, health signs, and RHDV vaccinations. Written by a San Francisco exotic vet assistant and House Rabbit Society volunteer."
+description = "Essential rabbit care guide covering diet, housing, health signs, and RHDV vaccinations. Written by a former exotic vet assistant and House Rabbit Society volunteer in San Francisco."
 date = 2026-03-07
 og_image = "2ChungusPuppyDog.jpg"
 tags = ["rabbit care", "small mammals", "san francisco"]

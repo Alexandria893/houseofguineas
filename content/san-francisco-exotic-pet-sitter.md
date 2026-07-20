@@ -1,7 +1,7 @@
 +++
 title = "San Francisco Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "San Francisco Exotic Pet Sitter"
-description = "Exotic pet sitting in San Francisco — in-home visits and SF boarding for rabbits, guinea pigs, chinchillas, reptiles, birds and small mammals. Clinical-grade care from exotic veterinary assistants. No travel surcharge in SF."
+description = "Exotic pet sitting in San Francisco — in-home visits and SF boarding for rabbits, guinea pigs, chinchillas, reptiles, birds and small mammals. Clinical-grade care from a veterinary-informed team. No travel surcharge in SF."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.9

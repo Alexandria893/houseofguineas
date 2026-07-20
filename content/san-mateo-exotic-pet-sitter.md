@@ -1,7 +1,7 @@
 +++
 title = "San Mateo Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "San Mateo Exotic Pet Sitter"
-description = "In-home exotic pet care in San Mateo — rabbits, guinea pigs, chinchillas, reptiles, birds, and small mammals. Clinical-grade visits from exotic veterinary assistants serving Hillsdale, Aragon, Baywood Park, Bay Meadows, and more."
+description = "In-home exotic pet care in San Mateo — rabbits, guinea pigs, chinchillas, reptiles, birds, and small mammals. Clinical-grade visits from a veterinary-informed team serving Hillsdale, Aragon, Baywood Park, Bay Meadows, and more."
 og_image = "Luca.jpg"
 [sitemap]
   priority = 0.8

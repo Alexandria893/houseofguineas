@@ -1,7 +1,7 @@
 +++
 title = "Guinea Pig Diet & Nutrition: Hay, Pellets, Vegetables & Vitamin C"
 shortTitle = "Guinea Pig Diet & Nutrition"
-description = "Complete guinea pig diet guide — what to feed, how much, safe vegetables, vitamin C requirements, and foods to avoid. From an exotic vet assistant."
+description = "Complete guinea pig diet guide — what to feed, how much, safe vegetables, vitamin C requirements, and foods to avoid. From a former exotic vet assistant."
 date = 2026-03-24
 og_image = "Luca.jpg"
 tags = ["guinea pig care", "guinea pig diet", "guinea pig food", "small mammals"]
@@ -9,7 +9,7 @@ tags = ["guinea pig care", "guinea pig diet", "guinea pig food", "small mammals"
   priority = 0.7
 +++
 
-"What do I actually feed this thing?" — it's the first question every new guinea pig owner asks me, and I get it. Pet stores are full of brightly colored bags promising "gourmet guinea pig food" with dried corn, yogurt drops, and seed mixes. Let me save you some money and some vet bills: almost none of that belongs near your guinea pig. As an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who feeds four very opinionated guinea pigs every day, here's what actually works.
+"What do I actually feed this thing?" — it's the first question every new guinea pig owner asks me, and I get it. Pet stores are full of brightly colored bags promising "gourmet guinea pig food" with dried corn, yogurt drops, and seed mixes. Let me save you some money and some vet bills: almost none of that belongs near your guinea pig. As a former [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) who feeds four very opinionated guinea pigs every day, here's what actually works.
 
 <!--more-->
 

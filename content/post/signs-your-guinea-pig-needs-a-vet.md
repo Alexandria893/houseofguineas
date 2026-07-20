@@ -10,7 +10,7 @@ lastmod = 2026-03-24
   priority = 0.6
 +++
 
-Guinea pigs are prey animals — which means they instinctively hide signs of illness until they can't anymore. By the time a guinea pig looks visibly sick, the problem may already be serious. As an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), I've seen how quickly things can escalate when early signs are missed.
+Guinea pigs are prey animals — which means they instinctively hide signs of illness until they can't anymore. By the time a guinea pig looks visibly sick, the problem may already be serious. As a former [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience), I've seen how quickly things can escalate when early signs are missed.
 
 <!--more-->
 

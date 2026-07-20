@@ -1,7 +1,7 @@
 +++
-title = "Exotic Vet Assistant San Francisco | House of Guineas"
-shortTitle = "Why Choose an Exotic Vet Assistant?"
-description = "Why hire an exotic vet assistant for your pet? Specialized reptile, bird and small mammal care in San Francisco from a trained veterinary professional."
+title = "Exotic Veterinary Experience San Francisco | House of Guineas"
+shortTitle = "Our Exotic Veterinary Experience"
+description = "Why choose veterinary-informed exotic pet care? A team with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — specialized reptile, bird and small mammal care in San Francisco."
 og_image = "Kai.jpg"
 [menu.main]
   name = "Vet Experience"
@@ -27,14 +27,14 @@ Exotic pets have specialized needs that differ significantly from traditional pe
 
 * **Professional Handling:** Incorrect handling can cause injury to your exotic pet. Knowing and being able to assess your pet’s comfort with handling mitigates unnecessary stress, while respecting your pet’s boundaries.
 
-## My Exotic Veterinary Background: Expertise You Can Trust
-Place your trust in experienced, professional hands. I previously volunteered as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richmond, California, where I administered RHDV (Rabbit Hemorrhagic Disease Virus) vaccinations and supported the onsite veterinarian with pre- and post-operation surgeries.
+## Our Veterinary-Informed Background: Expertise You Can Trust
+Place your trust in experienced, professional hands. Ours is a veterinary-informed team with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work, and every specialist is trained to the same clinical standard.
 
-I also worked as an **Exotic Veterinary Assistant** at the local [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco, which provided me with a comprehensive understanding of the specialized care exotic pets require. My professional experience at the veterinary hospital involved providing care for a wide variety of animals — from reptiles like snakes, bearded dragons and geckos, to birds such as African greys and budgies, and small mammals including rabbits and guinea pigs.
+Our founder, Alexandria, previously volunteered as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richmond, California, where she administered RHDV (Rabbit Hemorrhagic Disease Virus) vaccinations and supported the onsite veterinarian with pre- and post-operation surgeries. She also worked as an **Exotic Veterinary Assistant** at the local [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco, providing care for a wide variety of animals — from reptiles like snakes, bearded dragons and geckos, to birds such as African greys and budgies, and small mammals including rabbits and guinea pigs.
 
-I’m proficient in essential skills learned in a clinical setting, including:
+Our team is proficient in essential skills grounded in clinical settings, including:
 
-* Administering medications (oral, topical, and subcutaneous injections) and treatments as prescribed by veterinarians
+* Administering medications — oral, topical, and subcutaneous injections for small mammals and reptiles — and treatments as prescribed by veterinarians
 * Safe handling and species-specific care routines, along with gentle restraint techniques
 * Detailed knowledge of normal vs. abnormal behaviors and subtle signs of illness across a wide range of exotic species
 * Post-procedure monitoring and recovery support
@@ -43,7 +43,7 @@ This isn’t just pet sitting; it’s specialized care grounded in real-world ve
 
 ## What We Offer – Expert Care for Diverse Exotic Pets
 
-Our primary focus is providing exceptional, personalized care, ensuring your pets are comfortable and their routines are maintained. We offer tailored care plans for a variety of exotic animals, leveraging our founder's clinical experience to focus on their unique requirements for their environment, diet, and well-being:
+Our primary focus is providing exceptional, personalized care, ensuring your pets are comfortable and their routines are maintained. We offer tailored care plans for a variety of exotic animals, leveraging our team's clinical experience to focus on their unique requirements for their environment, diet, and well-being:
 
 <style>
   .care-details {
@@ -78,7 +78,7 @@ Our primary focus is providing exceptional, personalized care, ensuring your pet
     <ul>
       <li>Expert management of species-specific temperature, humidity, and UVB/UVA lighting.</li>
       <li>Specialized dietary preparation (including live insects, varied greens, appropriate supplements) and careful monitoring of appetite and digestion.</li>
-      <li><strong>Vet Assistant Insight:</strong> Vigilant observation for subtle signs of common reptile issues (e.g., MBD, respiratory infections, shedding problems) for early awareness and proactive care.</li>
+      <li><strong>Clinical Insight:</strong> Vigilant observation for subtle signs of common reptile issues (e.g., MBD, respiratory infections, shedding problems) for early awareness and proactive care.</li>
     </ul>
   </div>
 </details>
@@ -89,7 +89,7 @@ Our primary focus is providing exceptional, personalized care, ensuring your pet
     <ul>
       <li>Daily provision of fresh, species-appropriate diets (pellets, seeds, fruits, vegetables) and clean water; meticulous cage and food/water dish hygiene.</li>
       <li>Monitoring for behavioral changes, feather condition, stress bars, and other indicators of avian health.</li>
-      <li><strong>Vet Assistant Insight:</strong> Deep understanding of avian stress signals, enrichment needs, and environmental requirements to ensure a calm, safe, and healthy setting.</li>
+      <li><strong>Clinical Insight:</strong> Deep understanding of avian stress signals, enrichment needs, and environmental requirements to ensure a calm, safe, and healthy setting.</li>
     </ul>
   </div>
 </details>
@@ -100,7 +100,7 @@ Our primary focus is providing exceptional, personalized care, ensuring your pet
     <ul>
       <li>Tailored diets including unlimited fresh hay, species-specific pellets, and appropriate fresh vegetables/fruits; constant access to clean water.</li>
       <li>Regular enclosure cleaning, bedding changes, and provision of safe environmental enrichment.</li>
-      <li><strong>Vet Assistant Insight:</strong> Experienced in recognizing early signs of common small mammal ailments (e.g., GI stasis in rabbits/guinea pigs, dental issues, respiratory distress, overgrown nails), crucial for their delicate health.</li>
+      <li><strong>Clinical Insight:</strong> Experienced in recognizing early signs of common small mammal ailments (e.g., GI stasis in rabbits/guinea pigs, dental issues, respiratory distress, overgrown nails), crucial for their delicate health.</li>
     </ul>
   </div>
 </details>

@@ -28,5 +28,5 @@ weight = 2
   [[params.features]]
     icon = "fa-solid fa-scissors"
     title = "Handmade in SF"
-    description = "Designed by an exotic veterinary assistant with an engineering background"
+    description = "Designed by a former exotic veterinary assistant with an engineering background"
 +++
