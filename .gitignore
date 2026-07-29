@@ -2,3 +2,17 @@ public/
 .playwright-mcp/
 docs/
 .DS_Store
+
+# Scratch screenshots dropped in the repo root during working sessions.
+# Anchored with a leading slash so this NEVER touches site images —
+# those live in static/ and stay tracked.
+/*.png
+/*.jpg
+/*.jpeg
+/*.gif
+/*.webp
+
+# Claude Code local state. settings.json / agents / skills are still
+# committable; these two are machine-local or a full repo duplicate.
+.claude/settings.local.json
+.claude/worktrees/
