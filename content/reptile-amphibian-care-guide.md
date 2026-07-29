@@ -133,6 +133,6 @@ Below you'll find species-specific care essentials that inform my [in-home care]
 <div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
   <p style="font-size: 1.1em;"><strong>Need professional care for your reptile or amphibian?</strong></p>
   <p>
-    <a href="/home/services/exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-primary">In-Home Pet Care</a>
+    <a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-primary">Routine Care</a> <a href="/home/services/exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-outline">Travel Pet Care</a>
   </p>
 </div>

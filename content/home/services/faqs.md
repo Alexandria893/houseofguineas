@@ -70,7 +70,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
   <summary class="faq-summary">Are you insured? I'm nervous of having someone enter my home.</summary>
   <div class="faq-answer">
       <p>We completely understand — letting someone into your home is a big deal. We treat your home with the same gentle care we give your pets, making sure the fort is locked down and secured during each visit. Our team will check that the doors and windows are locked, your little one is safely settled (if they're in an enclosure), and no unnecessary lights are on.</p>
-      <p>Rest assured, your pet's safety and well-being is our top priority. Our team brings hands-on clinical experience and certifications, including <strong>Pet CPR + CPCR and First Aid</strong>. House of Guineas is <strong>bonded and insured</strong> for your complete peace of mind. As a member of <a href="https://www.petsit.com/pet-sitter-san-francisco-ca-house-of-guineas-llc">Pet Sitters International</a>, the <strong>world's largest pet sitting association</strong>, we adhere to the highest industry standards. Our insurance protects you from unexpected incidents, while our bond provides financial protection against theft or property damage.</p>
+      <p>Rest assured, your pet's safety and well-being is our top priority. Our team brings hands-on clinical experience, and our founder is <strong>Pet CPR + First Aid certified</strong>. House of Guineas is <strong>bonded and insured</strong> for your complete peace of mind. As a member of <a href="https://www.petsit.com/pet-sitter-san-francisco-ca-house-of-guineas-llc">Pet Sitters International</a>, the <strong>world's largest pet sitting association</strong>, we adhere to the highest industry standards. Our insurance protects you from unexpected incidents, while our bond provides financial protection against theft or property damage.</p>
   </div>
 </details>
 
@@ -206,7 +206,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "name": "Are you insured? I'm nervous of having someone enter my home.",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Our team brings hands-on clinical experience and certifications, including Pet CPR + CPCR and First Aid. House of Guineas is bonded and insured. As a member of Pet Sitters International, the world's largest pet sitting association, we adhere to the highest industry standards. Insurance protects against unexpected incidents and bonding provides financial protection against theft or property damage."
+        "text": "Yes. Our team brings hands-on clinical experience, and our founder is Pet CPR + First Aid certified. House of Guineas is bonded and insured. As a member of Pet Sitters International, the world's largest pet sitting association, we adhere to the highest industry standards. Insurance protects against unexpected incidents and bonding provides financial protection against theft or property damage."
       }
     },
     {

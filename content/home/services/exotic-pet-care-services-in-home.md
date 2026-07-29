@@ -2,13 +2,13 @@
 type = "services"
 aliases = ["/home/services/service1/"]
 title = "Reptile & Exotic Pet Sitting in San Francisco & Peninsula | In-Home Care"
-shortTitle = "Professional In-Home Pet Care"
+shortTitle = "Travel Pet Care"
 description = "In-home exotic pet care in San Francisco & the Peninsula — guinea pig, rabbit, chinchilla, reptile, bird, and small mammal visits. Our team of exotic pet caretakers comes to your home."
 weight = 2
 [params]
   og_image = "Coco.jpg"
   serviceType = "Reptile & Exotic Pet Sitting"
-  kicker = "Peace of mind while you travel"
+  kicker = "While you're away"
   price = "$85"
   priceUnit = "/visit"
   priceNote = "starting rate for daily visits"

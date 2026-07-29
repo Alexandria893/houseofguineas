@@ -2,7 +2,7 @@
 title = "From Our Workshop"
 description = "House of Guineas Clinical Series Liners — patent pending medical-grade guinea pig cage liners with 10x absorption and antimicrobial silver ion technology. Handmade in San Francisco."
 type = "product"
-weight = 2
+weight = 3
 [params]
   productName = "House of Guineas Clinical Series Liners"
   tagline = "Patent Pending"

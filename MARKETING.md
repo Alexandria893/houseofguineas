@@ -50,7 +50,7 @@ Do these at [business.google.com](https://business.google.com). Priority order: 
 
 ## GBP business description (738/750 chars — paste as-is)
 
-> House of Guineas provides specialized in-home exotic pet care across San Francisco and the Peninsula, down to San Mateo. We care for guinea pigs, rabbits, chinchillas, ferrets and other small mammals; reptiles such as bearded dragons, geckos, turtles and tortoises; and birds. Choose routine recurring visits for busy pet parents who want steady upkeep, trusted in-home care while you travel, or overnight boarding hosted in San Francisco. Our team is led by Alexandria, an exotic veterinary assistant formerly at Bay Area Bird & Exotics Hospital and a House Rabbit Society vaccine volunteer. Bonded, insured, Pet CPR + First Aid certified, and a member of Pet Sitters International. Call or text 415-484-6493 to arrange a meet-and-greet.
+> House of Guineas provides specialized in-home exotic pet care across San Francisco and the Peninsula, down to San Mateo. We care for guinea pigs, rabbits, chinchillas, ferrets and other small mammals; reptiles such as bearded dragons, geckos, turtles and tortoises; and birds. Choose routine recurring visits for busy pet parents who want steady upkeep, trusted in-home care while you travel, or overnight boarding hosted in San Francisco. Our team is led by Alexandria, an exotic veterinary assistant formerly at Bay Area Bird & Exotics Hospital and a House Rabbit Society vaccine volunteer. Bonded, insured, and a member of Pet Sitters International, with a founder who is Pet CPR + First Aid certified. Call or text 415-484-6493 to arrange a meet-and-greet.
 
 **Shorter alt (~320 chars):**
 
