@@ -9,11 +9,11 @@ title = ""
 <!-- 🐾 [As an exotic pet parent,](\about), I understand the unique and thorough care of exotic pets. the love and care they deserve. Explore my care services below and contact me to discuss how I can best meet you and your pet's needs! -->
 <!-- *Serving San Francisco, California* -->
 
-Specialized care for exotic pets is hard to come by — pet parents know that "finally!" feeling when they discover us. House of Guineas brings veterinary-informed, professional in-home care to exotic pets throughout San Francisco and the Peninsula, treating every pet with the diligence and warmth we give our own.
+Specialized care for exotic pets is hard to come by — pet parents know that "finally!" feeling when they discover us. House of Guineas brings veterinary-informed, professional in-home care to exotic pets throughout San Francisco and the Peninsula, treating every pet with the diligence and warmth we give our own. Routine care is the heart of what we do — standing weekly or every-other-week visits with the upkeep handled and a gentle wellness check every time — and when a trip comes up, we're already the team your pet knows.
 
-**Travel worry-free — or take your evenings back. Either way, we come to your pet's home.**
+**Take your evenings back — and travel worry-free when you need to. Either way, we come to your pet's home.**
 
-<p class="text-center"><a href="/home/services/exotic-pet-care-services-in-home/" class="btn btn-lg btn-cta-outline">Peace of Mind Care When You're Traveling</a> <a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-outline">Reclaim Your Evenings with Routine Care</a></p>
+<p class="text-center"><a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-outline">Reclaim Your Evenings with Routine Care</a> <a href="/home/services/exotic-pet-care-services-in-home/" class="btn btn-lg btn-cta-outline">Peace of Mind Care When You're Traveling</a></p>
 
 <div class="trust-strip" aria-label="House of Guineas credentials">
   <div class="trust-chip">
@@ -22,7 +22,7 @@ Specialized care for exotic pets is hard to come by — pet parents know that "f
   </div>
   <div class="trust-chip">
     <span class="trust-chip__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/><rect x="3" y="6" width="18" height="14" rx="2"/><path d="M12 11v4"/><path d="M14 13h-4"/></svg></span>
-    <span class="trust-chip__body"><strong>Pet CPR + CPCR &amp; First Aid</strong><small>Certified founder &amp; caretakers</small></span>
+    <span class="trust-chip__body"><strong>Pet CPR + First Aid</strong><small>Founder certified</small></span>
   </div>
   <div class="trust-chip">
     <span class="trust-chip__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="6"/><path d="M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"/></svg></span>

@@ -3,6 +3,7 @@ title = "Clinical Series Fleece Liners — All-in-One & Antimicrobial"
 shortTitle = "Clinical Series Fleece Liners"
 description = "The only pre-activated, all-in-one guinea pig fleece liner for 2x4 C&C cages — entirely medical-grade, antimicrobial fabric with silver ion technology throughout. Pre-activated, no prep washes. $465 for two liners that last 6+ years. Handmade in SF."
 type = "product"
+aliases = ["/liners/"]
 [params]
   og_image = "clinical-series-brand.jpg"
 [menu.main]

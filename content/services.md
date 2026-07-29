@@ -1,7 +1,7 @@
 +++
 title = "Exotic Pet Care Services & Rates | San Francisco & Peninsula"
 shortTitle = "Services & Rates"
-description = "Exotic pet care services across San Francisco and the Peninsula — in-home pet sitting for rabbits, guinea pigs, chinchillas, reptiles and birds by veterinary-trained caretakers. View rates and book today."
+description = "Exotic pet care services across San Francisco and the Peninsula — routine weekly care and in-home pet sitting for rabbits, guinea pigs, chinchillas, reptiles and birds by veterinary-trained caretakers. View rates and book today."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.9
@@ -9,9 +9,39 @@ og_image = "milo.jpeg"
 
 House of Guineas provides specialized in-home care for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds** across San Francisco and the Peninsula. Our veterinary-informed team brings backgrounds from wildlife rehabilitation to exotic veterinary hospital work, and is trained specifically in exotic species.
 
+Routine care is the heart of what we do — standing weekly or every-other-week visits that keep the enclosure clean and your pet checked over by expert eyes. And when a trip comes up, our travel sitting means your pet is cared for by a team they already know.
+
 ---
 
-## In-Home Pet Sitting
+## Routine In-Home Care
+
+Standing weekly or every-other-week visits in your pet's own home — the upkeep handled, so your time together is play and cuddles, not chores.
+
+**From $95/visit weekly, or $105/visit every other week.**
+
+Every routine visit covers full enclosure cleaning with fresh litter, bedding and liners, hay restocked and chop prepped, plus a gentle wellness check — gram-scale weigh-ins, habitat temps and UVB, and a trained eye for early signs of trouble. Because exotics hide illness until it's serious, consistent expert eyes catch small things before they become big ones. Photo update every visit.
+
+<details style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #eee; border-radius: 8px; background: #fafaf8;">
+  <summary style="font-weight: 600; cursor: pointer; font-size: 1.05em;">See all routine care plans</summary>
+  <div style="padding-top: 1rem;">
+    <p><strong>Weekly</strong></p>
+    <ul>
+      <li>1 hour — $95/visit (~$410/month)</li>
+      <li>2 hours — $165/visit (~$710/month)</li>
+    </ul>
+    <p style="margin-top: 1rem;"><strong>Every Other Week</strong></p>
+    <ul>
+      <li>1 hour — $105/visit (~$225/month)</li>
+      <li>2 hours — $175/visit (~$375/month)</li>
+    </ul>
+  </div>
+</details>
+
+[See full routine care details →](/routine-recurring-exotic-pet-care/)
+
+---
+
+## In-Home Pet Sitting While You Travel
 
 Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds**.
 

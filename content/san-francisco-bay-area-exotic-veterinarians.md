@@ -223,7 +223,7 @@ Finding a veterinarian who specializes in exotic animals — reptiles, birds, gu
 <div class="text-center" style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #eee;">
   <p style="font-size: 1.1em;"><strong>Ready to create your perfect care plan?</strong></p>
   <p>
-    <a href="/home/services/exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-primary">In-Home Pet Care</a>
+    <a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-primary">Routine Care</a> <a href="/home/services/exotic-pet-care-services-in-home" class="btn btn-lg btn-cta-outline">Travel Pet Care</a>
   </p>
 </div>
 
