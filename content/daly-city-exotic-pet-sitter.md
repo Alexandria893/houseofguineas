@@ -97,7 +97,7 @@ Because Daly City sits immediately south of the San Francisco county line, it is
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Daly City?</summary>
   <div class="faq-answer">
-    <p>Yes — and now you have a local option. Boarding is available in Daly City through our local caretaker, and members of our team also host boarding personally in their San Francisco homes just up the road. Either way it runs $75 per night, your pet gets their own space with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Full details are on the boarding page.</p>
+    <p>Yes — and now you have a local option. Boarding is available in Daly City through our local caretaker, and members of our team also host boarding personally in their San Francisco homes just up the road. Either way it runs $95 per night, your pet gets their own space with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet instead of booking in-home visits in Daly City?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — and now you have a local option. Boarding is available in Daly City through our local caretaker, and members of our team also host boarding personally in their San Francisco homes just up the road. Either way it runs $75 per night, your pet gets their own space with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Full details are on the boarding page."
+        "text": "Yes — and now you have a local option. Boarding is available in Daly City through our local caretaker, and members of our team also host boarding personally in their San Francisco homes just up the road. Either way it runs $95 per night, your pet gets their own space with soothing music, and we ask that you bring their usual enclosure and supplies so everything feels like home. Full details are on the boarding page."
       }
     },
     {

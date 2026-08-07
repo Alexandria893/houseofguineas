@@ -97,7 +97,7 @@ The Castro is within San Francisco, our home city, so there is no Peninsula trav
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in the Castro?</summary>
   <div class="faq-answer">
-    <p>We do offer it. Boarding is hosted personally by members of our team in their San Francisco homes — a short trip from the Castro — at $75 per night, with limited spots, and you bring your pet's usual enclosure and supplies. Details are on the boarding page.</p>
+    <p>We do offer it. Boarding is hosted personally by members of our team in their San Francisco homes — a short trip from the Castro — at $95 per night, with limited spots, and you bring your pet's usual enclosure and supplies. Details are on the boarding page.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in the Castro?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do offer it. Boarding is hosted personally by members of our team in their San Francisco homes — a short trip from the Castro — at $75 per night, with limited spots, and you bring your pet's usual enclosure and supplies. Details are on the boarding page."
+        "text": "We do offer it. Boarding is hosted personally by members of our team in their San Francisco homes — a short trip from the Castro — at $95 per night, with limited spots, and you bring your pet's usual enclosure and supplies. Details are on the boarding page."
       }
     },
     {

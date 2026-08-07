@@ -99,7 +99,7 @@ San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet with you instead of in-home sitting?</summary>
   <div class="faq-answer">
-    <p>Boarding is available at $75 per night, and every stay is hosted personally by a member of our team in their own San Francisco home. Spots are limited, so families here in the City of Good Living should reserve ahead of busy travel weeks — and bring the usual enclosure and supplies so everything feels familiar. Details are on the <a href="/home/services/exotic-pet-care-services-boarding">boarding page</a>.</p>
+    <p>Boarding is available at $95 per night, and every stay is hosted personally by a member of our team in their own San Francisco home. Spots are limited, so families here in the City of Good Living should reserve ahead of busy travel weeks — and bring the usual enclosure and supplies so everything feels familiar. Details are on the <a href="/home/services/exotic-pet-care-services-boarding">boarding page</a>.</p>
   </div>
 </details>
 
@@ -148,7 +148,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet with you instead of in-home sitting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Boarding is available at $75 per night, and every stay is hosted personally by a member of our team in their own San Francisco home. Spots are limited, so families here in the City of Good Living should reserve ahead of busy travel weeks — and bring the usual enclosure and supplies so everything feels familiar. Details are on the boarding page."
+        "text": "Boarding is available at $95 per night, and every stay is hosted personally by a member of our team in their own San Francisco home. Spots are limited, so families here in the City of Good Living should reserve ahead of busy travel weeks — and bring the usual enclosure and supplies so everything feels familiar. Details are on the boarding page."
       }
     },
     {

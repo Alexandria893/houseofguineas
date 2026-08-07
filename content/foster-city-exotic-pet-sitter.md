@@ -61,7 +61,7 @@ If your home sits on Beach Park Boulevard along Central Lake, near Leo J. Ryan M
 | 30-minute in-home visit | from $85 |
 | 60-minute in-home visit | from $115 |
 | Routine 2x/day care | $140–$190/day |
-| Exotic pet boarding (at our SF home) | $75/night |
+| Exotic pet boarding (at our SF home) | $95/night |
 
 *Foster City sits in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. Call or text us to book.*
 
@@ -125,7 +125,7 @@ Boarding is hosted personally by members of our team in their San Francisco home
 <details class="faq-details">
   <summary class="faq-summary">What's the cost of in-home exotic pet care in Foster City?</summary>
   <div class="faq-answer">
-    <p>Base rates start at $85 for a 30-minute visit and $115 for a 60-minute visit, with standard twice-daily care plans running $140–$190 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15–$25/visit applies, depending on distance. Boarding at our San Francisco location is $75 per night and is often the better option for travel longer than two weeks. <a href="tel:415-484-6493">Call or text us</a> to book, based on your species, visit frequency, and trip length.</p>
+    <p>Base rates start at $85 for a 30-minute visit and $115 for a 60-minute visit, with standard twice-daily care plans running $140–$190 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15–$25/visit applies, depending on distance. Boarding at our San Francisco location is $95 per night and is often the better option for travel longer than two weeks. <a href="tel:415-484-6493">Call or text us</a> to book, based on your species, visit frequency, and trip length.</p>
   </div>
 </details>
 
@@ -175,7 +175,7 @@ If you're a Foster City resident with a bearded dragon that needs consistent UVB
       "name": "What's the cost of in-home exotic pet care in Foster City?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Base rates start at $85 for a 30-minute visit and $115 for a 60-minute visit, with standard twice-daily care plans running $140\u2013$190 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15\u2013$25/visit applies, depending on distance. Boarding at our San Francisco location is $75 per night and is often the better option for travel longer than two weeks. Call or text us to book, based on your species, visit frequency, and trip length."
+        "text": "Base rates start at $85 for a 30-minute visit and $115 for a 60-minute visit, with standard twice-daily care plans running $140\u2013$190 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15\u2013$25/visit applies, depending on distance. Boarding at our San Francisco location is $95 per night and is often the better option for travel longer than two weeks. Call or text us to book, based on your species, visit frequency, and trip length."
       }
     }
   ]

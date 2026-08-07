@@ -97,7 +97,7 @@ Because the Sunset is within San Francisco — and is in fact where House of Gui
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in the Sunset?</summary>
   <div class="faq-answer">
-    <p>Yes — and for Sunset families, drop-off could hardly be closer, since boarding is hosted personally by members of our team in their San Francisco homes. It runs $75 per night with limited spots, and your pet's usual enclosure and supplies come along to keep things familiar. See the boarding page for details.</p>
+    <p>Yes — and for Sunset families, drop-off could hardly be closer, since boarding is hosted personally by members of our team in their San Francisco homes. It runs $95 per night with limited spots, and your pet's usual enclosure and supplies come along to keep things familiar. See the boarding page for details.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet instead of booking in-home visits in the Sunset?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — and for Sunset families, drop-off could hardly be closer, since boarding is hosted personally by members of our team in their San Francisco homes. It runs $75 per night with limited spots, and your pet's usual enclosure and supplies come along to keep things familiar. See the boarding page for details."
+        "text": "Yes — and for Sunset families, drop-off could hardly be closer, since boarding is hosted personally by members of our team in their San Francisco homes. It runs $95 per night with limited spots, and your pet's usual enclosure and supplies come along to keep things familiar. See the boarding page for details."
       }
     },
     {

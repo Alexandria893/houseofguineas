@@ -105,7 +105,7 @@ Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet with you instead of in-home sitting?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding happens up in San Francisco, hosted personally by members of our team in their homes, and Burlingame families are very welcome to make the short drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Details are on the <a href="/home/services/exotic-pet-care-services-boarding">boarding page</a>.</p>
+    <p>Yes. Boarding happens up in San Francisco, hosted personally by members of our team in their homes, and Burlingame families are very welcome to make the short drive up. Boarding runs $95 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Details are on the <a href="/home/services/exotic-pet-care-services-boarding">boarding page</a>.</p>
   </div>
 </details>
 
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet with you instead of in-home sitting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding happens up in San Francisco, hosted personally by members of our team in their homes, and Burlingame families are very welcome to make the short drive up. Boarding runs $75 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Details are on the boarding page."
+        "text": "Yes. Boarding happens up in San Francisco, hosted personally by members of our team in their homes, and Burlingame families are very welcome to make the short drive up. Boarding runs $95 per night, your pet gets their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Details are on the boarding page."
       }
     },
     {

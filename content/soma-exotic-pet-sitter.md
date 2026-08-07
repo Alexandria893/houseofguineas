@@ -97,7 +97,7 @@ SOMA is within San Francisco, our home city, so there is no Peninsula travel sur
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in SOMA?</summary>
   <div class="faq-answer">
-    <p>There is a boarding option, yes — hosted personally by members of our team in their San Francisco homes at $75 per night, with your pet's usual enclosure and supplies coming along. Spots are limited, so SOMA pet parents with firm travel dates should ask early. Details are on the boarding page.</p>
+    <p>There is a boarding option, yes — hosted personally by members of our team in their San Francisco homes at $95 per night, with your pet's usual enclosure and supplies coming along. Spots are limited, so SOMA pet parents with firm travel dates should ask early. Details are on the boarding page.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in SOMA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "There is a boarding option, yes — hosted personally by members of our team in their San Francisco homes at $75 per night, with your pet's usual enclosure and supplies coming along. Spots are limited, so SOMA pet parents with firm travel dates should ask early. Details are on the boarding page."
+        "text": "There is a boarding option, yes — hosted personally by members of our team in their San Francisco homes at $95 per night, with your pet's usual enclosure and supplies coming along. Spots are limited, so SOMA pet parents with firm travel dates should ask early. Details are on the boarding page."
       }
     },
     {

@@ -116,8 +116,8 @@ Post from a second Google account, answer from the business profile, upvote your
 - **Do you offer recurring weekly visits, not just vacation sitting?** — Absolutely. Routine care plans bring a specialist to your home 2–3x a week for cage cleaning, feeding, and health checks. Details: houseofguineas.com/routine-recurring-exotic-pet-care/
 - **Do you serve San Mateo and the Peninsula?** — Yes — SF down through Millbrae, Burlingame, Hillsborough, San Mateo, Foster City, and Redwood City. Small per-visit travel amount by distance. Text 415-484-6493 for a quote.
 - **Do you take care of guinea pigs, chinchillas, and rabbits?** — Small mammals are the heart of what we do — with gram-scale weigh-ins and GI-stasis awareness. In-home care and SF boarding available.
-- **Do you board exotic pets?** — Yes — hosted personally in SF at $75/night (small mammals, reptiles, birds; no dogs/cats). Space is limited around holidays, so reach out early. Call/text 415-484-6493.
-- **What are your rates?** — In-home visits from $85 (30 min) / $115 (60 min). Routine plans from $158/week for 2 visits/week. Boarding $75/night. Full breakdown: houseofguineas.com/book/
+- **Do you board exotic pets?** — Yes — hosted personally in SF at $95/night (small mammals, reptiles, birds; no dogs/cats). Space is limited around holidays, so reach out early. Call/text 415-484-6493.
+- **What are your rates?** — In-home visits from $85 (30 min) / $115 (60 min). Routine plans from $158/week for 2 visits/week. Boarding $95/night. Full breakdown: houseofguineas.com/book/
 
 ---
 

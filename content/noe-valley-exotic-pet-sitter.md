@@ -97,7 +97,7 @@ Noe Valley is within San Francisco — our home city — so there is no Peninsul
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Noe Valley?</summary>
   <div class="faq-answer">
-    <p>Yes, on a limited basis. Members of our team personally host boarding in their San Francisco homes — an easy hop from Noe Valley — at $75 per night, and we ask that your pet's usual enclosure and supplies come along. The boarding page has the full picture.</p>
+    <p>Yes, on a limited basis. Members of our team personally host boarding in their San Francisco homes — an easy hop from Noe Valley — at $95 per night, and we ask that your pet's usual enclosure and supplies come along. The boarding page has the full picture.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in Noe Valley?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, on a limited basis. Members of our team personally host boarding in their San Francisco homes — an easy hop from Noe Valley — at $75 per night, and we ask that your pet's usual enclosure and supplies come along. The boarding page has the full picture."
+        "text": "Yes, on a limited basis. Members of our team personally host boarding in their San Francisco homes — an easy hop from Noe Valley — at $95 per night, and we ask that your pet's usual enclosure and supplies come along. The boarding page has the full picture."
       }
     },
     {

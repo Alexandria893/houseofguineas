@@ -99,7 +99,7 @@ Redwood City is in our Peninsula service tier, so a travel surcharge of $15–$2
 <details class="faq-details">
   <summary class="faq-summary">Do you offer boarding for Redwood City families?</summary>
   <div class="faq-answer">
-    <p>We do — $75 per night, with limited spots. Your little one stays in the San Francisco home of one of our team members, hosted personally, and their usual enclosure and supplies come along so the setup feels familiar. It's an easy drive up the 101 from Redwood City; details on the <a href="/home/services/exotic-pet-care-services-boarding/">boarding page</a>.</p>
+    <p>We do — $95 per night, with limited spots. Your little one stays in the San Francisco home of one of our team members, hosted personally, and their usual enclosure and supplies come along so the setup feels familiar. It's an easy drive up the 101 from Redwood City; details on the <a href="/home/services/exotic-pet-care-services-boarding/">boarding page</a>.</p>
   </div>
 </details>
 
@@ -140,7 +140,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you offer boarding for Redwood City families?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do — $75 per night, with limited spots. Your little one stays in the San Francisco home of one of our team members, hosted personally, and their usual enclosure and supplies come along so the setup feels familiar. It's an easy drive up the 101 from Redwood City; details on the boarding page."
+        "text": "We do — $95 per night, with limited spots. Your little one stays in the San Francisco home of one of our team members, hosted personally, and their usual enclosure and supplies come along so the setup feels familiar. It's an easy drive up the 101 from Redwood City; details on the boarding page."
       }
     },
     {

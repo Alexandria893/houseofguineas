@@ -3,13 +3,13 @@ type = "services"
 aliases = ["/home/services/service2/"]
 title = "Exotic Pet Boarding San Francisco & Peninsula | House of Guineas"
 shortTitle = "Exotic Pet Boarding"
-description = "Exotic pet boarding in San Francisco — guinea pig boarding, rabbit boarding, chinchilla boarding, reptile boarding, bird boarding and small mammal boarding. Welcoming pet parents across the Bay Area and Peninsula. Your pet gets their private room with soothing music. $75/night."
+description = "Exotic pet boarding in San Francisco — guinea pig boarding, rabbit boarding, chinchilla boarding, reptile boarding, bird boarding and small mammal boarding. Welcoming pet parents across the Bay Area and Peninsula. Your pet gets their private room with soothing music. $95/night."
 weight = 3
 [params]
   hideFromHomepage = true
   og_image = "Luca.jpg"
   serviceType = "Exotic Pet Boarding"
-  price = "$75"
+  price = "$95"
   priceUnit = "/night"
   priceNote = ""
   animals = ["Reptiles", "Birds", "Small Mammals"]
@@ -22,7 +22,7 @@ weight = 3
   priority = 0.8
 +++
 
-Your pet gets their private room with soothing music — **$75/night** for **Reptiles, Birds and Small Mammals**.
+Your pet gets their private room with soothing music — **$95/night** for **Reptiles, Birds and Small Mammals**.
 <!--more-->
 
 ## Exotic Pet Boarding in San Francisco
@@ -35,7 +35,7 @@ We welcome families from across the Bay Area — whether you're local to San Fra
 
 Whether you need rabbit boarding, guinea pig boarding, chinchilla boarding, ferret boarding, hamster boarding, reptile boarding (bearded dragons, geckos, snakes, turtles, tortoises), bird boarding (parrots, cockatiels, conures, budgies), or small mammal boarding, your pet will receive the same species-specific, professional care we provide during [in-home visits](/home/services/exotic-pet-care-services-in-home). Boarding is hosted at our team's San Francisco homes and we welcome drop-offs from families across the city and the Peninsula — from the Inner Sunset and Richmond District to Noe Valley, the Castro, Pacific Heights, the Marina, SOMA, Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, and beyond.
 
-* **Nightly Rate**: $75/night <!-- previously $65 per night as of 12/25 change to clients before 1/1/26 on 9/26-->
+* **Nightly Rate**: $95/night <!-- raised from $75 to $95 on 2026-08-06; was $65 per night as of 12/25 change to clients before 1/1/26 on 9/26-->
 
 ### What's Included
 
