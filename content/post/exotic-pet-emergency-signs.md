@@ -72,7 +72,7 @@ This is the section closest to my heart. I share my home with four guinea pigs �
 * **Sudden head tilt** — E. cuniculi or inner ear infection
 * **Labored breathing** — pasteurella or other respiratory infection
 
-I also administer subcutaneous RHDV vaccines at House Rabbit Society because protecting rabbits from this virus matters to me on a personal level. Prevention is always better than emergency care.
+I also previously administered subcutaneous RHDV vaccines at House Rabbit Society, because protecting rabbits from this virus matters to me on a personal level. Prevention is always better than emergency care.
 
 ### Chinchillas
 * **Heat stroke** (over 80°F) — chinchillas can't tolerate warm temperatures. Cool them with a fan (not water) and get to a vet

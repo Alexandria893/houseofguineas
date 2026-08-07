@@ -9,7 +9,7 @@ tags = ["rabbit care", "small mammals", "san francisco"]
   priority = 0.6
 +++
 
-If you've been around me for more than five minutes, you probably already know — I am absolutely in love with my rabbits. I share my home with Chungus and Puppy Dog, my bonded pair who are genuinely inseparable, Johnny Wohnny, who I adopted from the [House Rabbit Society](https://houserabbit.org/veterinaryinitiative) after fostering him, and my newest, Princess Lady, who's bonded with Johnny. I also volunteer at HRS in Richmond, where I administer subcutaneous RHDV vaccinations. Rabbits have completely taken over my life, and I wouldn't have it any other way. Here's everything I wish someone had told me when I first started out.
+If you've been around me for more than five minutes, you probably already know — I am absolutely in love with my rabbits. I share my home with Chungus and Puppy Dog, my bonded pair who are genuinely inseparable, Johnny Wohnny, who I adopted from the [House Rabbit Society](https://houserabbit.org/veterinaryinitiative) after fostering him, and my newest, Princess Lady, who's bonded with Johnny. I also previously volunteered at HRS in Richmond, where I administered subcutaneous RHDV vaccinations. Rabbits have completely taken over my life, and I wouldn't have it any other way. Here's everything I wish someone had told me when I first started out.
 
 <!--more-->
 
