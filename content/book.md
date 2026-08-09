@@ -91,7 +91,7 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
       <option value="Boarding">Boarding (hosted in San Francisco)</option>
       <option value="Not sure yet">Not sure yet — help me decide</option>
     </select>
-    <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding spots are limited and often fully booked — please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability. If boarding is full for your dates, in-home care is usually the closest fit and has far more availability.</p>
+    <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding is <strong>$125/night</strong>, and spots are limited and often fully booked. We give priority to pet parents farther from San Francisco, where in-home visits add a travel surcharge — so Peninsula and Marin families are especially welcome to ask. Please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability. If boarding is full for your dates, in-home care is usually the closest fit and has far more availability.</p>
   </div>
 
   <script>
