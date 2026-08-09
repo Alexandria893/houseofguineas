@@ -38,7 +38,7 @@ Twice-daily care is what we recommend for most exotic pets — a morning visit t
 
 ## Boarding Rates
 
-For owners who prefer overnight supervision, our team hosts a small number of exotic pets in their San Francisco homes, starting at **$95 per night**. Your pet gets their own quiet room, species-specific feeding, and daily updates. Boarding fills up quickly around holidays and travel season, so it is worth reaching out as soon as you have dates. You can read more on our [exotic pet boarding](/home/services/exotic-pet-care-services-boarding/) page.
+For owners who prefer overnight supervision, our team hosts a small number of exotic pets in their San Francisco homes, starting at **$125 per night**. Your pet gets their own quiet room, species-specific feeding, and daily updates. Boarding fills up quickly around holidays and travel season, so it is worth reaching out as soon as you have dates. You can read more on our [exotic pet boarding](/home/services/exotic-pet-care-services-boarding/) page.
 
 ## Travel Surcharges
 
@@ -61,7 +61,7 @@ It depends on the length of your trip and your pet:
 
 - **For short trips (a weekend) and most pets,** a single daily in-home visit at $85 is usually both the most affordable and the least stressful — your pet stays in their own environment.
 - **For pets on medication or twice-daily routines,** twice-daily in-home visits ($140–$190/day) cost more but match the care your pet would get at home.
-- **For longer trips or owners who want overnight eyes on their pet,** boarding at $95/night can work out to be the better value, since it bundles round-the-clock supervision into a flat nightly rate.
+- **For longer trips or owners who want overnight eyes on their pet,** boarding at $125/night can work out to be the better value, since it bundles round-the-clock supervision into a flat nightly rate.
 
 If you are not sure which fits, that is exactly what the free meet-and-greet is for — we will look at your pet's needs and your dates and tell you honestly which option makes the most sense.
 
@@ -81,7 +81,7 @@ Every household is a little different — species, number of pets, medication, l
 <details class="faq-details">
   <summary class="faq-summary">How much does exotic pet sitting cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>In-home visits start at $85 for a 30-minute visit and $115 for a 60-minute visit. Twice-daily care ranges from $140 to $190 per day depending on visit length. Boarding, hosted personally by members of our team in their San Francisco homes, starts at $95 per night. San Francisco has no travel surcharge; Peninsula visits add a surcharge starting at $15 per visit.</p>
+    <p>In-home visits start at $85 for a 30-minute visit and $115 for a 60-minute visit. Twice-daily care ranges from $140 to $190 per day depending on visit length. Boarding, hosted personally by members of our team in their San Francisco homes, starts at $125 per night. San Francisco has no travel surcharge; Peninsula visits add a surcharge starting at $15 per visit.</p>
   </div>
 </details>
 
@@ -95,7 +95,7 @@ Every household is a little different — species, number of pets, medication, l
 <details class="faq-details">
   <summary class="faq-summary">Is in-home sitting or boarding more affordable for exotic pets?</summary>
   <div class="faq-answer">
-    <p>For short trips and most pets, a single daily in-home visit at $85 is usually the most affordable and least stressful option. For pets needing twice-daily care, in-home visits run $140 to $190 per day. For longer trips or owners who want overnight supervision, boarding at $95 per night can be the better value. A free meet-and-greet is the best way to decide which fits your pet and dates.</p>
+    <p>For short trips and most pets, a single daily in-home visit at $85 is usually the most affordable and least stressful option. For pets needing twice-daily care, in-home visits run $140 to $190 per day. For longer trips or owners who want overnight supervision, boarding at $125 per night can be the better value. A free meet-and-greet is the best way to decide which fits your pet and dates.</p>
   </div>
 </details>
 
@@ -118,9 +118,9 @@ Every household is a little different — species, number of pets, medication, l
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    { "@type": "Question", "name": "How much does exotic pet sitting cost in San Francisco?", "acceptedAnswer": { "@type": "Answer", "text": "In-home visits start at $85 for a 30-minute visit and $115 for a 60-minute visit. Twice-daily care ranges from $140 to $190 per day depending on visit length. Boarding, hosted personally by members of our team in their San Francisco homes, starts at $95 per night. San Francisco has no travel surcharge; Peninsula visits add a surcharge starting at $15 per visit." } },
+    { "@type": "Question", "name": "How much does exotic pet sitting cost in San Francisco?", "acceptedAnswer": { "@type": "Answer", "text": "In-home visits start at $85 for a 30-minute visit and $115 for a 60-minute visit. Twice-daily care ranges from $140 to $190 per day depending on visit length. Boarding, hosted personally by members of our team in their San Francisco homes, starts at $125 per night. San Francisco has no travel surcharge; Peninsula visits add a surcharge starting at $15 per visit." } },
     { "@type": "Question", "name": "Why does exotic pet sitting cost more than dog or cat sitting?", "acceptedAnswer": { "@type": "Answer", "text": "Exotic animals are a veterinary subspecialty. Our veterinary-informed team — with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — can administer medication, including oral syringes, topical treatments, and nebulizer sessions, which most general pet sitters cannot. They also recognize species-specific warning signs early, like a rabbit in GI stasis or a guinea pig with a respiratory infection. You are paying for clinical training, not general pet care." } },
-    { "@type": "Question", "name": "Is in-home sitting or boarding more affordable for exotic pets?", "acceptedAnswer": { "@type": "Answer", "text": "For short trips and most pets, a single daily in-home visit at $85 is usually the most affordable and least stressful option. For pets needing twice-daily care, in-home visits run $140 to $190 per day. For longer trips or owners who want overnight supervision, boarding at $95 per night can be the better value. A free meet-and-greet is the best way to decide which fits your pet and dates." } },
+    { "@type": "Question", "name": "Is in-home sitting or boarding more affordable for exotic pets?", "acceptedAnswer": { "@type": "Answer", "text": "For short trips and most pets, a single daily in-home visit at $85 is usually the most affordable and least stressful option. For pets needing twice-daily care, in-home visits run $140 to $190 per day. For longer trips or owners who want overnight supervision, boarding at $125 per night can be the better value. A free meet-and-greet is the best way to decide which fits your pet and dates." } },
     { "@type": "Question", "name": "Do you charge a travel fee on the Peninsula?", "acceptedAnswer": { "@type": "Answer", "text": "There is no travel surcharge for in-home visits within San Francisco, our primary service area. For Peninsula cities — Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Belmont, San Carlos, and Redwood City — a surcharge of $15–$25/visit applies, depending on distance — roughly $15 for closer areas and $25+ farther out." } },
     { "@type": "Question", "name": "How do I get an exact quote for my pets?", "acceptedAnswer": { "@type": "Answer", "text": "Call or text us at 415-484-6493 with your species, number of pets, location, and travel dates. We will schedule a free meet-and-greet at your home, walk through your pet's routine and any medication needs, and give you a firm quote. There is no charge or obligation for the meet-and-greet." } }
   ]

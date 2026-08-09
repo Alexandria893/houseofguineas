@@ -97,7 +97,7 @@ San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in San Bruno?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding happens in San Francisco, hosted personally by members of our team in their homes, and since San Bruno is just a short trip up the Peninsula, it is an easy drive. Boarding runs $95 per night, your pet settles into their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>Yes. Boarding happens in San Francisco, hosted personally by members of our team in their homes, and since San Bruno is just a short trip up the Peninsula, it is an easy drive. Boarding runs $125 per night, your pet settles into their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet instead of booking in-home visits in San Bruno?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding happens in San Francisco, hosted personally by members of our team in their homes, and since San Bruno is just a short trip up the Peninsula, it is an easy drive. Boarding runs $95 per night, your pet settles into their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
+        "text": "Yes. Boarding happens in San Francisco, hosted personally by members of our team in their homes, and since San Bruno is just a short trip up the Peninsula, it is an easy drive. Boarding runs $125 per night, your pet settles into their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
       }
     },
     {

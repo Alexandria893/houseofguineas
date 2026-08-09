@@ -40,7 +40,7 @@ Small mammals need *frequent* upkeep: weekly cage deep-cleans, constant fresh ha
 - **Twice-daily care** runs **$140–$190/day**
 - **Recurring plans** available as a flat monthly rate — [see routine care](/routine-recurring-exotic-pet-care/)
 
-No Peninsula travel surcharge within San Francisco. Boarding is hosted personally by members of our team in their San Francisco homes for **$95/night**.
+No Peninsula travel surcharge within San Francisco. Boarding is hosted personally by members of our team in their San Francisco homes for **$125/night**.
 
 ## Frequently Asked Questions
 

@@ -45,7 +45,7 @@ We cover the whole city, from the western avenues out to the bay. Small mammals 
 - **60-minute visits** start at **$115**
 - **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
 
-These are in-city San Francisco visits, so there is **no Peninsula travel surcharge**. If you would rather your pet stay with us, boarding is hosted personally by members of our team in their San Francisco homes for **$95/night**. Based down the Peninsula? See our [Peninsula guinea pig sitter](/guinea-pig-sitter-peninsula/) page.
+These are in-city San Francisco visits, so there is **no Peninsula travel surcharge**. If you would rather your pet stay with us, boarding is hosted personally by members of our team in their San Francisco homes for **$125/night**. Based down the Peninsula? See our [Peninsula guinea pig sitter](/guinea-pig-sitter-peninsula/) page.
 
 > **Liner swaps and hay restocks make wonderful someone-else's-jobs.** Many San Francisco guinea pig families schedule standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker changes the liners, tops up the hay, records gram-scale weights, and does a gentle health check, so your time with the herd is popcorning and wheeks, not laundry.
 
@@ -98,7 +98,7 @@ These are in-city San Francisco visits, so there is **no Peninsula travel surcha
 <details class="faq-details">
   <summary class="faq-summary">Do you offer small-mammal boarding?</summary>
   <div class="faq-answer">
-    <p>We do, in a limited way — a few spots at a time, hosted personally by members of our team in their San Francisco homes at $95 per night. Bring your pigs' usual enclosure and supplies, and nothing about their routine changes but the address.</p>
+    <p>We do, in a limited way — a few spots at a time, hosted personally by members of our team in their San Francisco homes at $125 per night. Bring your pigs' usual enclosure and supplies, and nothing about their routine changes but the address.</p>
   </div>
 </details>
 
@@ -147,7 +147,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "Do you offer small-mammal boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do, in a limited way — a few spots at a time, hosted personally by members of our team in their San Francisco homes at $95 per night. Bring your pigs' usual enclosure and supplies, and nothing about their routine changes but the address."
+        "text": "We do, in a limited way — a few spots at a time, hosted personally by members of our team in their San Francisco homes at $125 per night. Bring your pigs' usual enclosure and supplies, and nothing about their routine changes but the address."
       }
     },
     {

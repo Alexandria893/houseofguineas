@@ -97,7 +97,7 @@ The Richmond is within San Francisco — our home city — just across Golden Ga
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in the Richmond?</summary>
   <div class="faq-answer">
-    <p>Yes — a few spots at a time. Boarding is hosted personally by members of our team in their San Francisco homes, just across Golden Gate Park from the Richmond, at $95 per night; your pet's usual enclosure and supplies come with them. Full details live on the boarding page.</p>
+    <p>Yes — a few spots at a time. Boarding is hosted personally by members of our team in their San Francisco homes, just across Golden Gate Park from the Richmond, at $125 per night; your pet's usual enclosure and supplies come with them. Full details live on the boarding page.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in the Richmond?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — a few spots at a time. Boarding is hosted personally by members of our team in their San Francisco homes, just across Golden Gate Park from the Richmond, at $95 per night; your pet's usual enclosure and supplies come with them. Full details live on the boarding page."
+        "text": "Yes — a few spots at a time. Boarding is hosted personally by members of our team in their San Francisco homes, just across Golden Gate Park from the Richmond, at $125 per night; your pet's usual enclosure and supplies come with them. Full details live on the boarding page."
       }
     },
     {

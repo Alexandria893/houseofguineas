@@ -40,7 +40,7 @@ You don't have to be traveling to book us. Many beardie parents keep us on a **r
 - **Twice-daily care** runs **$140–$190/day** depending on visit length and setup
 - **Recurring plans** are available as a flat monthly rate — [see routine care](/routine-recurring-exotic-pet-care/)
 
-Because this is in-city San Francisco, there's **no Peninsula travel surcharge**. Prefer your dragon stay with us? Boarding is hosted personally by members of our team in their San Francisco homes for **$95/night** (bring the usual enclosure and supplies).
+Because this is in-city San Francisco, there's **no Peninsula travel surcharge**. Prefer your dragon stay with us? Boarding is hosted personally by members of our team in their San Francisco homes for **$125/night** (bring the usual enclosure and supplies).
 
 ## Frequently Asked Questions
 
@@ -68,7 +68,7 @@ Because this is in-city San Francisco, there's **no Peninsula travel surcharge**
 <details class="faq-details">
   <summary class="faq-summary">Do you offer bearded dragon boarding?</summary>
   <div class="faq-answer">
-    <p>Yes — boarding is hosted personally by members of our team in their San Francisco homes for $95/night; bring the usual enclosure and supplies. That said, most pet parents prefer in-home visits precisely because moving a calibrated enclosure is stressful for the animal. We're happy to help you decide which fits.</p>
+    <p>Yes — boarding is hosted personally by members of our team in their San Francisco homes for $125/night; bring the usual enclosure and supplies. That said, most pet parents prefer in-home visits precisely because moving a calibrated enclosure is stressful for the animal. We're happy to help you decide which fits.</p>
   </div>
 </details>
 
@@ -109,7 +109,7 @@ Ready to line up care for your beardie? [Call or text 415-484-6493](tel:415-484-
       "name": "Do you offer bearded dragon boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — boarding is hosted personally by members of our team in their San Francisco homes for $95/night; bring the usual enclosure and supplies. That said, most pet parents prefer in-home visits precisely because moving a calibrated enclosure is stressful for the animal. We're happy to help you decide which fits."
+        "text": "Yes — boarding is hosted personally by members of our team in their San Francisco homes for $125/night; bring the usual enclosure and supplies. That said, most pet parents prefer in-home visits precisely because moving a calibrated enclosure is stressful for the animal. We're happy to help you decide which fits."
       }
     },
     {

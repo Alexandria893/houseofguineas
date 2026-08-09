@@ -97,7 +97,7 @@ Because Pacifica sits just down the coast from San Francisco on Highway 1, it is
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Pacifica?</summary>
   <div class="faq-answer">
-    <p>We do — a small number of spots, hosted personally by members of our team in their San Francisco homes, at $95 per night. Pacifica families just bring the usual enclosure and supplies along for the drive up Highway 1. Full details are on the boarding page.</p>
+    <p>We do — a small number of spots, hosted personally by members of our team in their San Francisco homes, at $125 per night. Pacifica families just bring the usual enclosure and supplies along for the drive up Highway 1. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in Pacifica?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do — a small number of spots, hosted personally by members of our team in their San Francisco homes, at $95 per night. Pacifica families just bring the usual enclosure and supplies along for the drive up Highway 1. Full details are on the boarding page."
+        "text": "We do — a small number of spots, hosted personally by members of our team in their San Francisco homes, at $125 per night. Pacifica families just bring the usual enclosure and supplies along for the drive up Highway 1. Full details are on the boarding page."
       }
     },
     {
