@@ -34,14 +34,14 @@ Your home is your pet's safe-haven. Our [veterinary-informed team](/san-francisc
 * **Peace of mind** — photo updates every visit, so you can enjoy your time away
 
 ### Twice-Daily Visits (2x/day)
-* **30 minutes:** $140/day ($70/visit) <!-- prev 60/120 for 30 and  155 for 30/+60/165 -->
-* **30 minute & 60 minute visit combo:** $165/day
-* **60 minutes:** $190/day ($95/visit)
+* **30 minutes:** $155/day ($77.50/visit) <!-- raised 2026-08-16: 140->155/day, combo 165->180, 190->215/day, 60-min single 115->125; prev 60/120 for 30 and  155 for 30/+60/165 -->
+* **30 minute & 60 minute visit combo:** $180/day
+* **60 minutes:** $215/day ($107.50/visit)
 
 
 ### Individual Visits (1x/day) <!-- 12/25,prev 70 for 30 and 105 for 60; 09/25,prev 65 for 30 and 75 for 60 -->
 * **30 minutes:** $85/visit 
-* **60 minutes:** $115/visit
+* **60 minutes:** $125/visit
 
 <p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Book Care in Your Home</a></p>
 

@@ -36,8 +36,8 @@ Small mammals need *frequent* upkeep: weekly cage deep-cleans, constant fresh ha
 ## Pricing
 
 - **30-minute visits** start at **$85**
-- **60-minute visits** start at **$115**
-- **Twice-daily care** runs **$140–$190/day**
+- **60-minute visits** start at **$125**
+- **Twice-daily care** runs **$155–$215/day**
 - **Recurring plans** available as a flat monthly rate — [see routine care](/routine-recurring-exotic-pet-care/)
 
 No Peninsula travel surcharge within San Francisco. Boarding is hosted personally by members of our team in their San Francisco homes for **$125/night**.
@@ -75,7 +75,7 @@ No Peninsula travel surcharge within San Francisco. Boarding is hosted personall
 <details class="faq-details">
   <summary class="faq-summary">How much does a small-mammal sitter cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care from $140–$190/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. No travel surcharge within San Francisco. Text us at 415-484-6493 for a quote.</p>
+    <p>30-minute visits start at $85 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. No travel surcharge within San Francisco. Text us at 415-484-6493 for a quote.</p>
   </div>
 </details>
 
@@ -117,7 +117,7 @@ Ready to book care for your small companion? [Call or text 415-484-6493](tel:415
       "name": "How much does a small-mammal sitter cost in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care from $140–$190/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. No travel surcharge within San Francisco. Text us at 415-484-6493 for a quote."
+        "text": "30-minute visits start at $85 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. No travel surcharge within San Francisco. Text us at 415-484-6493 for a quote."
       }
     }
   ]

@@ -27,12 +27,12 @@ Every visit is a wellness check from our [veterinary-informed team](/san-francis
 Standing visits on a schedule you choose — every other week or weekly, one or two hours per visit.
 
 ### Every Other Week
-* **1 hour:** $105/visit (~$225/month)
-* **2 hours:** $175/visit (~$375/month)
+* **1 hour:** $115/visit (~$245/month)
+* **2 hours:** $195/visit (~$420/month)
 
 ### Weekly
-* **1 hour:** $95/visit (~$410/month)
-* **2 hours:** $165/visit (~$710/month)
+* **1 hour:** $105/visit (~$450/month)
+* **2 hours:** $185/visit (~$795/month)
 
 Monthly estimates assume an average month (~4.3 weeks). No travel charge within ~3 miles of Inner Sunset; from $15–$25/visit farther out and across the Peninsula (see [service areas](/home/services/faqs/#service-areas)). In Marin, travel is measured from our caretaker's Central Marin base — so most of Central and Southern Marin has little to no travel charge.
 

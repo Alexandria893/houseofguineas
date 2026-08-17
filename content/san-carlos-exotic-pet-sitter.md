@@ -43,8 +43,8 @@ Because San Carlos sits right between two of our most-requested Peninsula cities
 ## Pricing for San Carlos Visits
 
 - **30-minute visits** start at **$85**
-- **60-minute visits** start at **$115**
-- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **60-minute visits** start at **$125**
+- **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
 San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from our Inner Sunset base. Text us your address and dates and we will confirm your rate.
 
@@ -106,7 +106,7 @@ San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Carlos exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>San Carlos visits follow our standard Peninsula rates: $85 for a 30-minute visit, $115 for a 60-minute visit, and $140–$190 per day for twice-daily care, depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies, depending on distance. Wherever you are between the hills and the Caltrain line, <a href="tel:415-484-6493">text us your address and dates</a> and we will confirm your exact rate.</p>
+    <p>San Carlos visits follow our standard Peninsula rates: $85 for a 30-minute visit, $125 for a 60-minute visit, and $155–$215 per day for twice-daily care, depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies, depending on distance. Wherever you are between the hills and the Caltrain line, <a href="tel:415-484-6493">text us your address and dates</a> and we will confirm your exact rate.</p>
   </div>
 </details>
 
@@ -156,7 +156,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "How much does a San Carlos exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "San Carlos visits follow our standard Peninsula rates: $85 for a 30-minute visit, $115 for a 60-minute visit, and $140–$190 per day for twice-daily care, depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies, depending on distance. Wherever you are between the hills and the Caltrain line, text us your address and dates and we will confirm your exact rate."
+        "text": "San Carlos visits follow our standard Peninsula rates: $85 for a 30-minute visit, $125 for a 60-minute visit, and $155–$215 per day for twice-daily care, depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies, depending on distance. Wherever you are between the hills and the Caltrain line, text us your address and dates and we will confirm your exact rate."
       }
     }
   ]

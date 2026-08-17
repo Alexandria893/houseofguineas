@@ -41,8 +41,8 @@ Belmont's terrain is part of the charm and part of the logistics — the wooded 
 ## Pricing for Belmont Visits
 
 - **30-minute visits** start at **$85**
-- **60-minute visits** start at **$115**
-- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **60-minute visits** start at **$125**
+- **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
 Belmont is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from our Inner Sunset base. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
@@ -104,7 +104,7 @@ Belmont is in our Peninsula service tier, so a travel surcharge of $15–$25/vis
 <details class="faq-details">
   <summary class="faq-summary">How much does a Belmont exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Most Belmont pet parents book twice-daily care, which runs $140–$190 per day depending on visit length and the number of pets; booked on their own, 30-minute visits start at $85 and 60-minute visits at $115. Since our caretakers travel from San Francisco to Belmont's wooded hillside streets, a travel surcharge of $15–$25/visit applies, depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Most Belmont pet parents book twice-daily care, which runs $155–$215 per day depending on visit length and the number of pets; booked on their own, 30-minute visits start at $85 and 60-minute visits at $125. Since our caretakers travel from San Francisco to Belmont's wooded hillside streets, a travel surcharge of $15–$25/visit applies, depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -154,7 +154,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "How much does a Belmont exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most Belmont pet parents book twice-daily care, which runs $140–$190 per day depending on visit length and the number of pets; booked on their own, 30-minute visits start at $85 and 60-minute visits at $115. Since our caretakers travel from San Francisco to Belmont's wooded hillside streets, a travel surcharge of $15–$25/visit applies, depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Most Belmont pet parents book twice-daily care, which runs $155–$215 per day depending on visit length and the number of pets; booked on their own, 30-minute visits start at $85 and 60-minute visits at $125. Since our caretakers travel from San Francisco to Belmont's wooded hillside streets, a travel surcharge of $15–$25/visit applies, depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

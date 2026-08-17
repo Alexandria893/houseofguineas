@@ -36,8 +36,8 @@ You don't have to be traveling to book us. Many beardie parents keep us on a **r
 ## Pricing for Bearded Dragon Visits
 
 - **30-minute visits** start at **$85**
-- **60-minute visits** start at **$115**
-- **Twice-daily care** runs **$140–$190/day** depending on visit length and setup
+- **60-minute visits** start at **$125**
+- **Twice-daily care** runs **$155–$215/day** depending on visit length and setup
 - **Recurring plans** are available as a flat monthly rate — [see routine care](/routine-recurring-exotic-pet-care/)
 
 Because this is in-city San Francisco, there's **no Peninsula travel surcharge**. Prefer your dragon stay with us? Boarding is hosted personally by members of our team in their San Francisco homes for **$125/night** (bring the usual enclosure and supplies).
@@ -75,7 +75,7 @@ Because this is in-city San Francisco, there's **no Peninsula travel surcharge**
 <details class="faq-details">
   <summary class="faq-summary">How much does a bearded dragon sitter cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care from $140–$190/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Because this is in-city San Francisco, there's no travel surcharge. Text us at 415-484-6493 for a firm quote.</p>
+    <p>30-minute visits start at $85 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Because this is in-city San Francisco, there's no travel surcharge. Text us at 415-484-6493 for a firm quote.</p>
   </div>
 </details>
 
@@ -117,7 +117,7 @@ Ready to line up care for your beardie? [Call or text 415-484-6493](tel:415-484-
       "name": "How much does a bearded dragon sitter cost in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $85 and 60-minute visits at $115, with twice-daily care from $140–$190/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Because this is in-city San Francisco, there's no travel surcharge. Text us at 415-484-6493 for a firm quote."
+        "text": "30-minute visits start at $85 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Because this is in-city San Francisco, there's no travel surcharge. Text us at 415-484-6493 for a firm quote."
       }
     }
   ]

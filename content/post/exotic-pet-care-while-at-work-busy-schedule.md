@@ -43,7 +43,7 @@ Because ours is a [veterinary-informed team](/san-francisco-california-exotic-ve
 
 ## "Isn't that expensive?"
 
-It's more affordable and predictable than people expect. In San Francisco, standing visits run **$95–$105/visit for one hour** (about $225–$410/month depending on whether you go every other week or weekly), or **$165–$175/visit for two hours**. Peninsula and farther-out pet parents add a per-visit travel amount by distance. You can see the full breakdown on our [routine & recurring care page](/routine-recurring-exotic-pet-care/).
+It's more affordable and predictable than people expect. In San Francisco, standing visits run **$105–$115/visit for one hour** (about $245–$450/month depending on whether you go every other week or weekly), or **$185–$195/visit for two hours**. Peninsula and farther-out pet parents add a per-visit travel amount by distance. You can see the full breakdown on our [routine & recurring care page](/routine-recurring-exotic-pet-care/).
 
 Compare that to what it costs — in stress, in vet bills, in guilt — when upkeep quietly slips for months. A clean environment and early health monitoring is the cheapest preventive medicine there is for an exotic pet.
 

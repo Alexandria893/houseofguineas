@@ -41,8 +41,8 @@ Noe Valley's hills are part of the charm and part of the logistics — the sunny
 ## Pricing for Noe Valley Visits
 
 - **30-minute visits** start at **$85**
-- **60-minute visits** start at **$115**
-- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **60-minute visits** start at **$125**
+- **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
 Noe Valley is within San Francisco — our home city — so there is no Peninsula travel surcharge. Pricing stays simple and in-city. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
@@ -104,7 +104,7 @@ Noe Valley is within San Francisco — our home city — so there is no Peninsul
 <details class="faq-details">
   <summary class="faq-summary">How much does a Noe Valley exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Noe Valley families like a clear number, so here it is: 30-minute visits start at $85, 60-minute visits at $115, and twice-daily care lands between $140 and $190 per day depending on visit length and how many little ones we are looking after. Noe Valley is inside San Francisco — our home city — so there is no Peninsula travel surcharge to tack on. Text us at 415-484-6493 with your address and dates and we will confirm your exact rate.</p>
+    <p>Noe Valley families like a clear number, so here it is: 30-minute visits start at $85, 60-minute visits at $125, and twice-daily care lands between $155 and $215 per day depending on visit length and how many little ones we are looking after. Noe Valley is inside San Francisco — our home city — so there is no Peninsula travel surcharge to tack on. Text us at 415-484-6493 with your address and dates and we will confirm your exact rate.</p>
   </div>
 </details>
 
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Noe Valley exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Noe Valley families like a clear number, so here it is: 30-minute visits start at $85, 60-minute visits at $115, and twice-daily care lands between $140 and $190 per day depending on visit length and how many little ones we are looking after. Noe Valley is inside San Francisco — our home city — so there is no Peninsula travel surcharge to tack on. Text us at 415-484-6493 with your address and dates and we will confirm your exact rate."
+        "text": "Noe Valley families like a clear number, so here it is: 30-minute visits start at $85, 60-minute visits at $125, and twice-daily care lands between $155 and $215 per day depending on visit length and how many little ones we are looking after. Noe Valley is inside San Francisco — our home city — so there is no Peninsula travel surcharge to tack on. Text us at 415-484-6493 with your address and dates and we will confirm your exact rate."
       }
     }
   ]

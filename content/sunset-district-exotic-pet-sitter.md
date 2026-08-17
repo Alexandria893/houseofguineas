@@ -41,8 +41,8 @@ The Sunset's grid is part of the charm and part of the logistics — it runs all
 ## Pricing for Sunset District Visits
 
 - **30-minute visits** start at **$85**
-- **60-minute visits** start at **$115**
-- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **60-minute visits** start at **$125**
+- **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
 Because the Sunset is within San Francisco — and is in fact where House of Guineas is based — there is no Peninsula travel surcharge here. Pricing stays simple and in-city, and we are exceptionally close by. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
@@ -104,7 +104,7 @@ Because the Sunset is within San Francisco — and is in fact where House of Gui
 <details class="faq-details">
   <summary class="faq-summary">How much does a Sunset District exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Because the Sunset is our home neighborhood, this is the easiest quote we give: 30-minute visits from $85, 60-minute visits from $115, and twice-daily care between $140 and $190 per day depending on visit length and how many pets we are caring for. There is no Peninsula travel surcharge here — we are already in the neighborhood, fog and all. Text your address and dates to 415-484-6493 and we will confirm your rate.</p>
+    <p>Because the Sunset is our home neighborhood, this is the easiest quote we give: 30-minute visits from $85, 60-minute visits from $125, and twice-daily care between $155 and $215 per day depending on visit length and how many pets we are caring for. There is no Peninsula travel surcharge here — we are already in the neighborhood, fog and all. Text your address and dates to 415-484-6493 and we will confirm your rate.</p>
   </div>
 </details>
 
@@ -154,7 +154,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "How much does a Sunset District exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Because the Sunset is our home neighborhood, this is the easiest quote we give: 30-minute visits from $85, 60-minute visits from $115, and twice-daily care between $140 and $190 per day depending on visit length and how many pets we are caring for. There is no Peninsula travel surcharge here — we are already in the neighborhood, fog and all. Text your address and dates to 415-484-6493 and we will confirm your rate."
+        "text": "Because the Sunset is our home neighborhood, this is the easiest quote we give: 30-minute visits from $85, 60-minute visits from $125, and twice-daily care between $155 and $215 per day depending on visit length and how many pets we are caring for. There is no Peninsula travel surcharge here — we are already in the neighborhood, fog and all. Text your address and dates to 415-484-6493 and we will confirm your rate."
       }
     }
   ]

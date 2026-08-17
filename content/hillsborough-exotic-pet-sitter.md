@@ -51,8 +51,8 @@ We cover the full town of Hillsborough — the estates near the Crystal Springs 
 ## Pricing for Hillsborough Visits
 
 - **30-minute visits** start at **$85**
-- **60-minute visits** start at **$115**
-- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **60-minute visits** start at **$125**
+- **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 - **Boarding**, hosted personally by members of our team in their San Francisco homes, is also available at **$125/night** if your travel makes in-home logistics impractical
 
 Hillsborough is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. For longer trips and complex setups, we typically quote a custom rate. [Text us your address and dates](tel:415-484-6493) for a firm quote.

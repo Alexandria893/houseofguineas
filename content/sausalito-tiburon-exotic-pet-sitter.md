@@ -37,8 +37,8 @@ We start with a free meet-and-greet at your home — a walkthrough of feeding ro
 ## Pricing for Southern Marin Visits
 
 - **30-minute visits** start at **$85**
-- **60-minute visits** start at **$115**
-- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **60-minute visits** start at **$125**
+- **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
 Because our caretaker is based in Central Marin, Sausalito, Tiburon, and Belvedere fall in our **$15/visit travel range** — a fraction of what a San Francisco-based sitter would have to charge to cross the bridge. Text us your address and dates and we will confirm your exact rate.
 

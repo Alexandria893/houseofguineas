@@ -17,7 +17,7 @@ Routine care is the heart of what we do — standing weekly or every-other-week 
 
 Standing weekly or every-other-week visits in your pet's own home — the upkeep handled, so your time together is play and cuddles, not chores.
 
-**From $95/visit weekly, or $105/visit every other week.**
+**From $105/visit weekly, or $115/visit every other week.**
 
 Every routine visit covers full enclosure cleaning with fresh litter, bedding and liners, hay restocked and chop prepped, plus a gentle wellness check — gram-scale weigh-ins, habitat temps and UVB, and a trained eye for early signs of trouble. Because exotics hide illness until it's serious, consistent expert eyes catch small things before they become big ones. Photo update every visit.
 
@@ -26,13 +26,13 @@ Every routine visit covers full enclosure cleaning with fresh litter, bedding an
   <div style="padding-top: 1rem;">
     <p><strong>Weekly</strong></p>
     <ul>
-      <li>1 hour — $95/visit (~$410/month)</li>
-      <li>2 hours — $165/visit (~$710/month)</li>
+      <li>1 hour — $105/visit (~$450/month)</li>
+      <li>2 hours — $185/visit (~$795/month)</li>
     </ul>
     <p style="margin-top: 1rem;"><strong>Every Other Week</strong></p>
     <ul>
-      <li>1 hour — $105/visit (~$225/month)</li>
-      <li>2 hours — $175/visit (~$375/month)</li>
+      <li>1 hour — $115/visit (~$245/month)</li>
+      <li>2 hours — $195/visit (~$420/month)</li>
     </ul>
   </div>
 </details>
@@ -45,7 +45,7 @@ Every routine visit covers full enclosure cleaning with fresh litter, bedding an
 
 Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds**.
 
-**From $85/visit. Twice-daily care from $140/day.**
+**From $85/visit. Twice-daily care from $155/day.**
 
 From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals, we help prevent the stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) keeps your pet's world consistent while you're away.
 
@@ -58,14 +58,14 @@ And if your pet ever needs a vet while you're away — a scheduled checkup or a 
   <div style="padding-top: 1rem;">
     <p><strong>Twice-Daily Visits (2x/day)</strong></p>
     <ul>
-      <li>30 minutes — $140/day ($70/visit)</li>
-      <li>30 + 60 minute combo — $165/day</li>
-      <li>60 minutes — $190/day ($95/visit)</li>
+      <li>30 minutes — $155/day ($77.50/visit)</li>
+      <li>30 + 60 minute combo — $180/day</li>
+      <li>60 minutes — $215/day ($107.50/visit)</li>
     </ul>
     <p style="margin-top: 1rem;"><strong>Individual Visits (1x/day)</strong></p>
     <ul>
       <li>30 minutes — $85/visit</li>
-      <li>60 minutes — $115/visit</li>
+      <li>60 minutes — $125/visit</li>
     </ul>
   </div>
 </details>

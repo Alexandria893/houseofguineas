@@ -45,8 +45,8 @@ If your town is not listed, [text us your address](tel:415-484-6493) and we will
 ## Pricing for Marin Visits
 
 - **30-minute visits** start at **$85**
-- **60-minute visits** start at **$115**
-- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **60-minute visits** start at **$125**
+- **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
 Here is the part that surprises people: because our caretaker is based in Central Marin rather than crossing the bridge from the city, **most of Marin falls in our no-surcharge to $15/visit range** — far less than the distance from San Francisco would suggest. Text us your address and dates and we will confirm your exact rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 

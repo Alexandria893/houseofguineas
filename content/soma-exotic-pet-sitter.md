@@ -41,8 +41,8 @@ SOMA packs a lot into a flat, walkable footprint, and we cover all of it. That m
 ## Pricing for SOMA Visits
 
 - **30-minute visits** start at **$85**
-- **60-minute visits** start at **$115**
-- **Routine daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **60-minute visits** start at **$125**
+- **Routine daily care** runs **$155–$215/day** depending on visit length and number of pets
 
 SOMA is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing here is simple and in-city. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
@@ -104,7 +104,7 @@ SOMA is within San Francisco, our home city, so there is no Peninsula travel sur
 <details class="faq-details">
   <summary class="faq-summary">How much does a SOMA exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Expect $85 to start for a 30-minute visit and $115 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $140–$190 per day based on visit length and number of pets. High-rise living does not change the price — SOMA is in-city for us, so there is no Peninsula travel surcharge; just leave access notes for your building's front desk. Text 415-484-6493 with your dates and we will quote it firm.</p>
+    <p>Expect $85 to start for a 30-minute visit and $125 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $155–$215 per day based on visit length and number of pets. High-rise living does not change the price — SOMA is in-city for us, so there is no Peninsula travel surcharge; just leave access notes for your building's front desk. Text 415-484-6493 with your dates and we will quote it firm.</p>
   </div>
 </details>
 
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a SOMA exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Expect $85 to start for a 30-minute visit and $115 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $140–$190 per day based on visit length and number of pets. High-rise living does not change the price — SOMA is in-city for us, so there is no Peninsula travel surcharge; just leave access notes for your building's front desk. Text 415-484-6493 with your dates and we will quote it firm."
+        "text": "Expect $85 to start for a 30-minute visit and $125 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $155–$215 per day based on visit length and number of pets. High-rise living does not change the price — SOMA is in-city for us, so there is no Peninsula travel surcharge; just leave access notes for your building's front desk. Text 415-484-6493 with your dates and we will quote it firm."
       }
     }
   ]

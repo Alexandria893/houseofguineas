@@ -37,8 +37,8 @@ We begin with a free meet-and-greet at your home to learn feeding routines, encl
 ## Pricing for Mill Valley Visits
 
 - **30-minute visits** start at **$85**
-- **60-minute visits** start at **$115**
-- **Twice-daily care** runs **$140–$190/day** depending on visit length and number of pets
+- **60-minute visits** start at **$125**
+- **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
 Because our caretaker is based in Central Marin, Mill Valley falls in our **no-surcharge to $15/visit range** — a real advantage over any sitter driving up from San Francisco. Text us your address and dates and we will confirm your rate.
 
