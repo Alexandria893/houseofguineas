@@ -86,8 +86,8 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
     <label for="service">What kind of care do you need? <span class="required">*</span></label>
     <select id="service" name="service" required>
       <option value="" disabled selected>Choose one…</option>
-      <option value="Routine / recurring care">Routine / recurring upkeep (weekly or biweekly)</option>
-      <option value="Travel / vacation care">In-home care while I travel</option>
+      <option value="Routine / recurring care">Routine / recurring upkeep (weekly or biweekly) — from $105/visit</option>
+      <option value="Travel / vacation care">In-home care while I travel — from $85/visit</option>
       <option value="Boarding">Boarding (hosted in San Francisco) — $125/night</option>
       <option value="Not sure yet">Not sure yet — help me decide</option>
     </select>
