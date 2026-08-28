@@ -52,7 +52,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
 <details class="faq-details">
   <summary class="faq-summary">How is routine care different from in-home travel care?</summary>
   <div class="faq-answer">
-    <p>Both happen in your pet's own home — we always come to you, no drop-off, no kennels. In-home travel care covers your pet for a defined trip and ends when you return. Routine care is an ongoing, standing arrangement — the same caretaker visiting weekly or every other week to handle upkeep, weigh-ins, and health checks. It's for pet parents who are home but busy, not just those who are away. (Prefer your pet stay overnight somewhere while you travel? That's our separate <a href="/home/services/exotic-pet-care-services-boarding/">boarding</a> service.)</p>
+    <p>Both happen in your pet's own home — we always come to you, no drop-off, no kennels. In-home travel care covers your pet for a defined trip and ends when you return. Routine care is an ongoing, standing arrangement — the same caretaker visiting weekly or every other week to handle upkeep, weigh-ins, and health checks. It's for pet parents who are home but busy, not just those who are away. (Prefer your pet stay overnight somewhere while you travel? That's our separate <a href="/home/services/exotic-pet-care-services-boarding/">boarding</a> service, reserved for pet parents outside San Francisco.)</p>
   </div>
 </details>
 
@@ -118,7 +118,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
       "name": "How is routine care different from in-home travel care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Both happen in your pet's own home \u2014 we always come to you, no drop-off, no kennels. In-home travel care covers your pet for a defined trip and ends when you return. Routine care is an ongoing, standing arrangement \u2014 the same caretaker visiting weekly or every other week to handle upkeep, weigh-ins, and health checks. It's for pet parents who are home but busy, not just those who are away. (Prefer your pet stay overnight somewhere while you travel? That's our separate boarding service.)"
+        "text": "Both happen in your pet's own home \u2014 we always come to you, no drop-off, no kennels. In-home travel care covers your pet for a defined trip and ends when you return. Routine care is an ongoing, standing arrangement \u2014 the same caretaker visiting weekly or every other week to handle upkeep, weigh-ins, and health checks. It's for pet parents who are home but busy, not just those who are away. (Prefer your pet stay overnight somewhere while you travel? That's our separate boarding service, reserved for pet parents outside San Francisco.)"
       }
     },
     {

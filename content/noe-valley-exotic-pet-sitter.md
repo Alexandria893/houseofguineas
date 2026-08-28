@@ -97,7 +97,7 @@ Noe Valley is within San Francisco — our home city — so there is no Peninsul
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Noe Valley?</summary>
   <div class="faq-answer">
-    <p>Yes, on a limited basis. Members of our team personally host boarding in their San Francisco homes — an easy hop from Noe Valley — at $125 per night, and we ask that your pet's usual enclosure and supplies come along. The boarding page has the full picture.</p>
+    <p>For Noe Valley families, in-home visits are the better fit. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin, where in-home visits mean travel surcharges. Noe Valley is squarely in our no-surcharge city coverage, so in-home care gives you far more availability, and your little ones stay in the home they know.</p>
   </div>
 </details>
 
@@ -110,7 +110,7 @@ Noe Valley is within San Francisco — our home city — so there is no Peninsul
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding), hosted personally by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). Noe Valley is part of our home turf — see all the neighborhoods we cover on our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) page. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in Noe Valley will want our [guinea pig care guide](/post/guinea-pig-care-guide).
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home) or browse the full [FAQ page](/home/services/faqs). Noe Valley is part of our home turf — see all the neighborhoods we cover on our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) page. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in Noe Valley will want our [guinea pig care guide](/post/guinea-pig-care-guide).
 
 <script type="application/ld+json">
 {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in Noe Valley?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, on a limited basis. Members of our team personally host boarding in their San Francisco homes — an easy hop from Noe Valley — at $125 per night, and we ask that your pet's usual enclosure and supplies come along. The boarding page has the full picture."
+        "text": "For Noe Valley families, in-home visits are the better fit. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin, where in-home visits mean travel surcharges. Noe Valley is squarely in our no-surcharge city coverage, so in-home care gives you far more availability, and your little ones stay in the home they know."
       }
     },
     {

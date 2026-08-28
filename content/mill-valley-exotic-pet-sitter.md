@@ -100,7 +100,7 @@ Because our caretaker is based in Central Marin, Mill Valley falls in our **no-s
 <details class="faq-details">
   <summary class="faq-summary">Is boarding available, or only in-home visits?</summary>
   <div class="faq-answer">
-    <p>In-home visits are what we recommend for most Mill Valley pets — they stay in their own space in the redwoods, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by members of our team in their San Francisco homes and occasionally by our Marin caretaker, but space fills up quickly, so reach out early if you think you will need it.</p>
+    <p>In-home visits are what we recommend for most Mill Valley pets — they stay in their own space in the redwoods, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by members of our team in their San Francisco homes and occasionally by our Marin caretaker. Those spots are reserved for pet parents outside San Francisco, so Mill Valley families get priority — but space still fills up quickly, so reach out early if you think you will need it.</p>
   </div>
 </details>
 
@@ -150,7 +150,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Is boarding available, or only in-home visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In-home visits are what we recommend for most Mill Valley pets \u2014 they stay in their own space in the redwoods, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by members of our team in their San Francisco homes and occasionally by our Marin caretaker, but space fills up quickly, so reach out early if you think you will need it."
+        "text": "In-home visits are what we recommend for most Mill Valley pets \u2014 they stay in their own space in the redwoods, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by members of our team in their San Francisco homes and occasionally by our Marin caretaker. Those spots are reserved for pet parents outside San Francisco, so Mill Valley families get priority \u2014 but space still fills up quickly, so reach out early if you think you will need it."
       }
     }
   ]

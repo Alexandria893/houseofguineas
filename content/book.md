@@ -88,10 +88,10 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
       <option value="" disabled selected>Choose one…</option>
       <option value="Routine / recurring care">Routine / recurring upkeep (weekly or biweekly) — from $105/visit</option>
       <option value="Travel / vacation care">In-home care while I travel — from $85/visit</option>
-      <option value="Boarding">Boarding (hosted in San Francisco) — $125/night</option>
+      <option value="Boarding">Boarding, for families outside SF — $125/night</option>
       <option value="Not sure yet">Not sure yet — help me decide</option>
     </select>
-    <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding is <strong>$125/night</strong>, and spots are limited and often fully booked. We give priority to pet parents farther from San Francisco, where in-home visits add a travel surcharge — so Peninsula and Marin families are especially welcome to ask. Please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability. If boarding is full for your dates, in-home care is usually the closest fit and has far more availability.</p>
+    <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding is <strong>$125/night</strong>, spots are limited, and we <strong>reserve them for pet parents outside San Francisco</strong> — Peninsula and Marin families, where in-home visits add a travel surcharge, get priority, and the farther you are the more welcome you are to ask. If you live in San Francisco, in-home care is the better fit: no travel surcharge anywhere in the city, far more availability, and your little ones stay in the home they know. Please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability.</p>
   </div>
 
   <script>

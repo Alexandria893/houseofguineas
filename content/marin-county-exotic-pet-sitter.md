@@ -108,7 +108,7 @@ Here is the part that surprises people: because our caretaker is based in Centra
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits?</summary>
   <div class="faq-answer">
-    <p>For most Marin families, in-home visits are the better fit — your little one stays in their own space, on their own routine, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by members of our team in their San Francisco homes and occasionally by a Marin caretaker, but space is limited and books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits.</p>
+    <p>For most Marin families, in-home visits are the better fit — your little one stays in their own space, on their own routine, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by members of our team in their San Francisco homes and occasionally by a Marin caretaker. Those spots are reserved for pet parents outside San Francisco, so Marin families get priority — but space still books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits.</p>
   </div>
 </details>
 
@@ -158,7 +158,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For most Marin families, in-home visits are the better fit — your little one stays in their own space, on their own routine, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by members of our team in their San Francisco homes and occasionally by a Marin caretaker, but space is limited and books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits."
+        "text": "For most Marin families, in-home visits are the better fit — your little one stays in their own space, on their own routine, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by members of our team in their San Francisco homes and occasionally by a Marin caretaker. Those spots are reserved for pet parents outside San Francisco, so Marin families get priority — but space still books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits."
       }
     }
   ]
