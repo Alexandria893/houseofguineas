@@ -129,7 +129,7 @@ For a full walkthrough of your first week, adoption checklists, and what supplie
 If you already have guinea pigs and need someone you can actually trust while you're away, that's exactly why I built House of Guineas. I provide specialized exotic pet care — not a dog walker who also watches small animals on the side, but a veterinary-trained caretaker who understands guinea pig health, behavior, and dietary needs. Your pigs deserve someone who gets it.
 
 * **[In-home pet sitting](/home/services/exotic-pet-care-services-in-home)** — I come to your home to care for your pigs in their own environment, keeping stress to a minimum.
-* **[Boarding](/home/services/exotic-pet-care-services-boarding)** — your pigs stay with me in a dedicated, climate-controlled space alongside my own herd.
+* **[Boarding](/home/services/exotic-pet-care-services-boarding)** — your pigs stay with me in a dedicated, climate-controlled space alongside my own herd (reserved for families outside San Francisco).
 
 ---
 

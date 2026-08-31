@@ -38,7 +38,7 @@ Twice-daily care is what we recommend for most exotic pets — a morning visit t
 
 ## Boarding Rates
 
-For owners who prefer overnight supervision, our team hosts a small number of exotic pets in their San Francisco homes, starting at **$125 per night**. Your pet gets their own quiet room, species-specific feeding, and daily updates. Boarding fills up quickly around holidays and travel season, so it is worth reaching out as soon as you have dates. You can read more on our [exotic pet boarding](/home/services/exotic-pet-care-services-boarding/) page.
+For owners who prefer overnight supervision, our team hosts a small number of exotic pets in their San Francisco homes, starting at **$125 per night**. Your pet gets their own quiet room, species-specific feeding, and daily updates. Because space is so limited, we reserve boarding for pet parents **outside San Francisco** — Peninsula and Marin families driving in, where in-home visits carry travel surcharges. City families are best served by in-home visits, which have no surcharge anywhere in SF. Boarding fills up quickly around holidays and travel season, so it is worth reaching out as soon as you have dates. You can read more on our [exotic pet boarding](/home/services/exotic-pet-care-services-boarding/) page.
 
 ## Travel Surcharges
 
@@ -61,7 +61,7 @@ It depends on the length of your trip and your pet:
 
 - **For short trips (a weekend) and most pets,** a single daily in-home visit at $85 is usually both the most affordable and the least stressful — your pet stays in their own environment.
 - **For pets on medication or twice-daily routines,** twice-daily in-home visits ($155–$215/day) cost more but match the care your pet would get at home.
-- **For longer trips or owners who want overnight eyes on their pet,** boarding at $125/night can work out to be the better value, since it bundles round-the-clock supervision into a flat nightly rate.
+- **For longer trips or owners who want overnight eyes on their pet,** boarding at $125/night can work out to be the better value, since it bundles round-the-clock supervision into a flat nightly rate. Keep in mind boarding is reserved for pet parents outside San Francisco — if you are in the city, in-home visits are your option (and the better one for your pet anyway).
 
 If you are not sure which fits, that is exactly what the free meet-and-greet is for — we will look at your pet's needs and your dates and tell you honestly which option makes the most sense.
 

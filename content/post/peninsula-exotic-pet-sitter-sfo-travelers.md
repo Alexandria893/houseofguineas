@@ -72,7 +72,7 @@ Whether you end up hiring our team or someone else, here is the checklist I wish
 
 ## Boarding Alternative for Longer Trips
 
-For trips longer than about ten days — or for families who would rather have their pet stay somewhere staffed around the clock — members of our team personally host boarding in their San Francisco homes. It is a quiet, species-appropriate setup where your pet gets the same hands-on care we give our own little ones. Peninsula families are absolutely welcome to drop off on the way to SFO and pick up on the way home. Details are on our [exotic pet boarding page](/home/services/exotic-pet-care-services-boarding).
+For trips longer than about ten days — or for families who would rather have their pet stay somewhere staffed around the clock — members of our team personally host boarding in their San Francisco homes. It is a quiet, species-appropriate setup where your pet gets the same hands-on care we give our own little ones. And here is the part that works in your favor: we reserve our limited boarding spots for pet parents outside San Francisco, so Peninsula families get priority. Drop off on the way to SFO and pick up on the way home. Details are on our [exotic pet boarding page](/home/services/exotic-pet-care-services-boarding).
 
 ## Ready to Fly Without the 11 p.m. Panic?
 

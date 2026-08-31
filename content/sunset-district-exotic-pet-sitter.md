@@ -97,7 +97,7 @@ Because the Sunset is within San Francisco — and is in fact where House of Gui
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in the Sunset?</summary>
   <div class="faq-answer">
-    <p>Yes — and for Sunset families, drop-off could hardly be closer, since boarding is hosted personally by members of our team in their San Francisco homes. It runs $125 per night with limited spots, and your pet's usual enclosure and supplies come along to keep things familiar. See the boarding page for details.</p>
+    <p>For Sunset families, in-home visits are the better call — and the easiest, since the Inner Sunset is literally our home base. Our boarding spots are few and reserved for pet parents outside San Francisco, where in-home visits mean travel surcharges and longer drives. In the Sunset there is no surcharge at all, our caretakers are minutes away, and your little ones stay in the home they know.</p>
   </div>
 </details>
 
@@ -110,7 +110,7 @@ Because the Sunset is within San Francisco — and is in fact where House of Gui
 
 ---
 
-Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) hosted personally by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). For more on how we cover the whole city, see our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) hub. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in the Sunset will want our [guinea pig care guide](/post/guinea-pig-care-guide).
+Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home) or browse the full [FAQ page](/home/services/faqs). For more on how we cover the whole city, see our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) hub. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in the Sunset will want our [guinea pig care guide](/post/guinea-pig-care-guide).
 
 <script type="application/ld+json">
 {
@@ -146,7 +146,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet instead of booking in-home visits in the Sunset?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — and for Sunset families, drop-off could hardly be closer, since boarding is hosted personally by members of our team in their San Francisco homes. It runs $125 per night with limited spots, and your pet's usual enclosure and supplies come along to keep things familiar. See the boarding page for details."
+        "text": "For Sunset families, in-home visits are the better call — and the easiest, since the Inner Sunset is literally our home base. Our boarding spots are few and reserved for pet parents outside San Francisco, where in-home visits mean travel surcharges and longer drives. In the Sunset there is no surcharge at all, our caretakers are minutes away, and your little ones stay in the home they know."
       }
     },
     {

@@ -65,7 +65,7 @@ If your home sits on Beach Park Boulevard along Central Lake, near Leo J. Ryan M
 
 *Foster City sits in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. Call or text us to book.*
 
-Boarding is hosted personally by members of our team in their San Francisco homes — Foster City families are welcome to drop off for longer trips, especially when you're flying out of SFO and it's easier to swing through the city first.
+Boarding is hosted personally by members of our team in their San Francisco homes — and because we reserve those limited spots for pet parents outside San Francisco, Foster City families get priority. Drop off for longer trips, especially when you're flying out of SFO and it's easier to swing through the city first.
 
 > **Routine care crosses over to Foster City, too.** Biotech weeks run long, so we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker takes care of the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, so when you get home along the lagoons, your little ones are fed, fresh, and ready to hang out.
 
@@ -125,7 +125,7 @@ Boarding is hosted personally by members of our team in their San Francisco home
 <details class="faq-details">
   <summary class="faq-summary">What's the cost of in-home exotic pet care in Foster City?</summary>
   <div class="faq-answer">
-    <p>Base rates start at $85 for a 30-minute visit and $125 for a 60-minute visit, with standard twice-daily care plans running $155–$215 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15–$25/visit applies, depending on distance. Boarding, hosted personally by members of our team in their San Francisco homes, is $125 per night and is often the better option for travel longer than two weeks. <a href="tel:415-484-6493">Call or text us</a> to book, based on your species, visit frequency, and trip length.</p>
+    <p>Base rates start at $85 for a 30-minute visit and $125 for a 60-minute visit, with standard twice-daily care plans running $155–$215 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15–$25/visit applies, depending on distance. Boarding, hosted personally by members of our team in their San Francisco homes, is $125 per night and is often the better option for travel longer than two weeks — and since we reserve those spots for pet parents outside San Francisco, Foster City families get priority. <a href="tel:415-484-6493">Call or text us</a> to book, based on your species, visit frequency, and trip length.</p>
   </div>
 </details>
 
@@ -175,7 +175,7 @@ If you're a Foster City resident with a bearded dragon that needs consistent UVB
       "name": "What's the cost of in-home exotic pet care in Foster City?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Base rates start at $85 for a 30-minute visit and $125 for a 60-minute visit, with standard twice-daily care plans running $155\u2013$215 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15\u2013$25/visit applies, depending on distance. Boarding, hosted personally by members of our team in their San Francisco homes, is $125 per night and is often the better option for travel longer than two weeks. Call or text us to book, based on your species, visit frequency, and trip length."
+        "text": "Base rates start at $85 for a 30-minute visit and $125 for a 60-minute visit, with standard twice-daily care plans running $155\u2013$215 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15\u2013$25/visit applies, depending on distance. Boarding, hosted personally by members of our team in their San Francisco homes, is $125 per night and is often the better option for travel longer than two weeks \u2014 and since we reserve those spots for pet parents outside San Francisco, Foster City families get priority. Call or text us to book, based on your species, visit frequency, and trip length."
       }
     }
   ]
