@@ -91,12 +91,23 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
       <option value="Boarding">Boarding, for families outside SF — $125/night</option>
       <option value="Not sure yet">Not sure yet — help me decide</option>
     </select>
+    <p class="form-note" id="routine-note" style="display:none;">Routine visits are standing upkeep for busy pet parents: habitat upkeep (full cage cleaning, fresh bedding, liners swapped), nail trims, and enrichment rotation to keep your little ones' days interesting — with a gentle wellness check built into every visit. Weekly plans are <strong>$105/visit</strong> for one hour or <strong>$185/visit</strong> for two; every-other-week plans are <strong>$115</strong> and <strong>$195</strong>. See the <a href="/routine-recurring-exotic-pet-care/">routine care page</a> for everything a visit includes and monthly estimates.</p>
+    <p class="form-note" id="travel-note" style="display:none;">While you're away, we come to your pet's own home: <strong>$85</strong> for a 30-minute visit, <strong>$125</strong> for a full hour, or twice-daily care at <strong>$155–$215/day</strong> depending on visit lengths. There's no travel surcharge anywhere in San Francisco; farther out, visits add $15–$25 each depending on distance. See the <a href="/home/services/exotic-pet-care-services-in-home/">in-home care page</a> for the full rate card.</p>
     <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding is <strong>$125/night</strong>, spots are limited, and we <strong>reserve them for pet parents outside San Francisco</strong> — Peninsula and Marin families, where in-home visits add a travel surcharge, get priority, and the farther you are the more welcome you are to ask. If you live in San Francisco, in-home care is the better fit: no travel surcharge anywhere in the city, far more availability, and your little ones stay in the home they know. Please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability.</p>
   </div>
 
   <script>
     document.getElementById('service').addEventListener('change', function () {
-      document.getElementById('boarding-note').style.display = this.value === 'Boarding' ? 'block' : 'none';
+      var noteByService = {
+        'Routine / recurring care': 'routine-note',
+        'Travel / vacation care': 'travel-note',
+        'Boarding': 'boarding-note'
+      };
+      ['routine-note', 'travel-note', 'boarding-note'].forEach(function (id) {
+        document.getElementById(id).style.display = 'none';
+      });
+      var noteId = noteByService[this.value];
+      if (noteId) document.getElementById(noteId).style.display = 'block';
     });
   </script>
 
