@@ -59,7 +59,7 @@ We cover the lagoon-adjacent stretches and the pockets along Edgewater, the home
 
 Foster City is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. [Text us your address and dates](tel:415-484-6493) for a firm quote.
 
-> **A truly fresh litter box, every single week, without lifting a scoop.** Lots of Foster City rabbit families put [routine care](/routine-recurring-exotic-pet-care/) on repeat — weekly or every-other-week visits where their caretaker manages the enclosure refresh, keeps the hay rack full, and gives a calm health check, leaving you the best part of rabbit life: the binkies.
+> **A truly fresh litter box, every single week, without lifting a scoop.** Foster City rabbit families can put [routine care](/routine-recurring-exotic-pet-care/) on repeat — weekly or every-other-week visits where their caretaker manages the enclosure refresh, keeps the hay rack full, and gives a calm health check, leaving you the best part of rabbit life: the binkies.
 
 ## Frequently Asked Questions
 

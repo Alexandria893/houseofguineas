@@ -46,7 +46,7 @@ The Richmond stretches from Golden Gate Park in the south up to the Presidio and
 
 The Richmond is within San Francisco — our home city — just across Golden Gate Park from our Inner Sunset base, so there is no Peninsula travel surcharge. Pricing here is simple and in-city. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
-> **Rather spend your evenings on floor time than fleece changes?** Many Richmond pet parents — just across Golden Gate Park from our base — schedule recurring [routine care](/routine-recurring-exotic-pet-care/) visits weekly or every other week. Their caretaker covers the habitat deep-clean and a gentle health check, keeping your time at home centered on the animals themselves.
+> **Rather spend your evenings on floor time than fleece changes?** Richmond pet parents — just across Golden Gate Park from our base — can schedule recurring [routine care](/routine-recurring-exotic-pet-care/) visits weekly or every other week. Their caretaker covers the habitat deep-clean and a gentle health check, keeping your time at home centered on the animals themselves.
 
 ## Frequently Asked Questions
 

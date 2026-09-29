@@ -47,7 +47,7 @@ We cover the whole city, from the western avenues out to the bay. Small mammals 
 
 These are in-city San Francisco visits, so there is **no Peninsula travel surcharge**. Based down the Peninsula? See our [Peninsula guinea pig sitter](/guinea-pig-sitter-peninsula/) page — and note that our [boarding option](/home/services/exotic-pet-care-services-boarding), at **$125/night**, is reserved for families outside San Francisco like you.
 
-> **Liner swaps and hay restocks make wonderful someone-else's-jobs.** Many San Francisco guinea pig families schedule standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker changes the liners, tops up the hay, and does a gentle health check, so your time with the herd is popcorning and wheeks, not laundry.
+> **Liner swaps and hay restocks make wonderful someone-else's-jobs.** San Francisco guinea pig families can schedule standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker changes the liners, tops up the hay, and does a gentle health check, so your time with the herd is popcorning and wheeks, not laundry.
 
 ## Frequently Asked Questions
 

@@ -74,7 +74,7 @@ We serve all of San Francisco and the Peninsula down through San Mateo, Foster C
 <details class="faq-details">
   <summary class="faq-summary">Can you just do a weekly cage cleaning for my guinea pig or rabbit?</summary>
   <div class="faq-answer">
-    <p>Yes — a standing weekly (or every-other-week) deep-clean, litter change, hay and food restock, and health check is one of our most common routine arrangements. We handle the maintenance so you don't have to.</p>
+    <p>Yes — that's exactly what our Deep Clean and Upkeep plans are for: a standing weekly or every-other-week deep-clean, litter change, hay and food restock, and health check. We handle the maintenance so you don't have to.</p>
   </div>
 </details>
 
@@ -107,7 +107,7 @@ Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/bo
       "name": "Can you just do a weekly cage cleaning for my guinea pig or rabbit?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — a standing weekly (or every-other-week) deep-clean, litter change, hay and food restock, and health check is one of our most common routine arrangements. We handle the maintenance so you don't have to."
+        "text": "Yes — that's exactly what our Deep Clean and Upkeep plans are for: a standing weekly or every-other-week deep-clean, litter change, hay and food restock, and health check. We handle the maintenance so you don't have to."
       }
     },
     {

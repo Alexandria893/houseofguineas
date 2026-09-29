@@ -58,7 +58,7 @@ We also cover the stretch between Washington Park and Ray Park, homes near Mercy
 
 Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. [Text us your address and dates](tel:415-484-6493) for a firm quote.
 
-> **The full enclosure refresh doesn't have to wait for your Saturday.** Many Burlingame rabbit families keep standing [routine care](/routine-recurring-exotic-pet-care/) on the calendar — weekly or every-other-week visits where their caretaker handles the litter-box deep-clean, fresh hay, and a quiet health once-over, so the hours you spend with your bun are all binkies and forehead rubs.
+> **The full enclosure refresh doesn't have to wait for your Saturday.** Burlingame rabbit families can keep standing [routine care](/routine-recurring-exotic-pet-care/) on the calendar — weekly or every-other-week visits where their caretaker handles the litter-box deep-clean, fresh hay, and a quiet health once-over, so the hours you spend with your bun are all binkies and forehead rubs.
 
 ## Frequently Asked Questions
 

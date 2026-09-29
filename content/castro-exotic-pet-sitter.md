@@ -46,7 +46,7 @@ The Castro packs a lot into a compact, hilly footprint, and we cover all of it. 
 
 The Castro is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing here is simple and in-city. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
-> **Home with your pets more days than you're away?** Plenty of Castro pet parents — many in classic Victorian flats where every square foot counts — keep a standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visit on the calendar. Their caretaker takes on the enclosure deep-clean and a gentle nose-to-tail check, leaving evenings free for floor time and lap cuddles.
+> **Home with your pets more days than you're away?** Keep a standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visit on the calendar — a natural fit for Castro pet parents in classic Victorian flats where every square foot counts. Their caretaker takes on the enclosure deep-clean and a gentle nose-to-tail check, leaving evenings free for floor time and lap cuddles.
 
 ## Frequently Asked Questions
 

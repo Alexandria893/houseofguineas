@@ -46,7 +46,7 @@ The Mission is compact, flat, and easy to move through, and we cover all of it. 
 
 The Mission is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing here is simple and in-city. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
-> **Wish the weekly cage overhaul could take care of itself?** Many Mission families put us on a standing schedule — [routine care](/routine-recurring-exotic-pet-care/) visits every week or every other week, timed around busy Valencia-corridor lives, where their caretaker manages the enclosure deep-clean and gives each little one a gentle once-over, so your time together stays about play, treats, and popcorning.
+> **Wish the weekly cage overhaul could take care of itself?** Put us on a standing schedule — [routine care](/routine-recurring-exotic-pet-care/) visits every week or every other week, timed around busy Valencia-corridor lives, where their caretaker manages the enclosure deep-clean and gives each little one a gentle once-over, so your time together stays about play, treats, and popcorning.
 
 ## Frequently Asked Questions
 

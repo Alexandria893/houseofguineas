@@ -58,7 +58,7 @@ If your town is not on the list, [text us](tel:415-484-6493) — there is a good
 
 The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** applies depending on distance — cities closer in often see the lower end.
 
-> **The weekly liner change can quietly take care of itself.** Peninsula guinea pig families often set up recurring [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker handles fresh liners, a full hay restock, and a careful nose-to-tail once-over, so your evenings belong to lap time, wheeks, and popcorning.
+> **The weekly liner change can quietly take care of itself.** Peninsula guinea pig families can set up recurring [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker handles fresh liners, a full hay restock, and a careful nose-to-tail once-over, so your evenings belong to lap time, wheeks, and popcorning.
 
 ## Frequently Asked Questions
 

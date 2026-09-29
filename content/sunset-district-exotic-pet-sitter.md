@@ -46,7 +46,7 @@ The Sunset's grid is part of the charm and part of the logistics — it runs all
 
 Because the Sunset is within San Francisco — and is in fact where House of Guineas is based — there is no Peninsula travel surcharge here. Pricing stays simple and in-city, and we are exceptionally close by. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
-> **Home most nights, but short on spare hours?** Since our team is based right here in the Sunset, plenty of fog-belt pet parents keep a standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visit on the books. Their caretaker handles the enclosure deep-clean and a gentle wellness check, so cozy foggy evenings stay reserved for lap time and veggie snacks.
+> **Home most nights, but short on spare hours?** Since our team is based right here in the Sunset, fog-belt pet parents can keep a standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visit on the books. Their caretaker handles the enclosure deep-clean and a gentle wellness check, so cozy foggy evenings stay reserved for lap time and veggie snacks.
 
 ## Frequently Asked Questions
 

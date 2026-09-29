@@ -54,7 +54,7 @@ If your neighborhood is not on the list, it is almost certainly still covered �
 
 San Francisco is our **primary service area, so no travel surcharge applies** — that is reserved for Peninsula visits. [Text us your dates](tel:415-484-6493) and we will confirm your rate.
 
-> **In town most weeks, with a to-do list that keeps growing?** Pet parents across San Francisco — from the Marina to Bernal Heights — keep us on a standing schedule of weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits, where their caretaker takes care of the enclosure deep-clean and a gentle health check, so every evening at home belongs to your little ones.
+> **In town most weeks, with a to-do list that keeps growing?** Pet parents across San Francisco — from the Marina to Bernal Heights — can keep us on a standing schedule of weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits, where their caretaker takes care of the enclosure deep-clean and a gentle health check, so every evening at home belongs to your little ones.
 
 ## Frequently Asked Questions
 

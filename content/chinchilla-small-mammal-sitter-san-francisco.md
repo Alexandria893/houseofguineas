@@ -31,7 +31,7 @@ House of Guineas is based in San Francisco's Inner Sunset, and small mammals are
 
 ## Not Just for Vacations — Recurring Care Too
 
-Small mammals need *frequent* upkeep: weekly cage deep-cleans, constant fresh hay, and dust baths. That's a lot to stay on top of when life is busy — which is exactly why small-mammal pet parents are the families we visit most often on a recurring schedule. Keep us on a standing weekly or biweekly schedule and hand off the maintenance, so your time with your pet is the fun part. See our [routine & recurring care plans](/routine-recurring-exotic-pet-care/).
+Small mammals need *frequent* upkeep: weekly cage deep-cleans, constant fresh hay, and dust baths. That's a lot to stay on top of when life is busy — which is exactly where routine care comes in. Keep us on a standing weekly or biweekly schedule and hand off the maintenance, so your time with your pet is the fun part. See our [routine & recurring care plans](/routine-recurring-exotic-pet-care/).
 
 ## Pricing
 

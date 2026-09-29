@@ -46,7 +46,7 @@ Noe Valley's hills are part of the charm and part of the logistics — the sunny
 
 Noe Valley is within San Francisco — our home city — so there is no Peninsula travel surcharge. Pricing stays simple and in-city. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
-> **Weekends filling up faster than the hay rack empties?** Many Noe Valley families set a standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visit, and their caretaker takes the deep-clean and a gentle head-to-tail check off your plate — leaving Saturday mornings for 24th Street coffee runs and evenings for cuddles.
+> **Weekends filling up faster than the hay rack empties?** Set a standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visit, and a caretaker from our team takes the deep-clean and a gentle head-to-tail check off your plate — leaving Saturday mornings for 24th Street coffee runs and evenings for cuddles.
 
 ## Frequently Asked Questions
 
