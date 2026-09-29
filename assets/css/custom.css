@@ -1458,3 +1458,10 @@ html {
   margin-bottom: 10px;
 }
 .plan-card__head .plan-card__tag { margin-bottom: 0 !important; }
+
+/* Routine care card sits in the middle of the three homepage cards on desktop (first when stacked) */
+@media (min-width: 992px) {
+  .service-card-row > div { order: 3; }
+  .service-card-row > .service-col--lead { order: 2; }
+  .service-card-row > .service-col--lead + div { order: 1; }
+}
