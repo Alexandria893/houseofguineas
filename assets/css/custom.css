@@ -1397,3 +1397,32 @@ html {
 @media (max-width: 767px) {
   .plan-cards { grid-template-columns: 1fr; }
 }
+
+/* --- Routine care benefit list with icons --- */
+.benefit-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 1rem 0;
+}
+.benefit-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  margin-bottom: 14px;
+  line-height: 1.55;
+}
+.benefit-list__icon {
+  flex: 0 0 42px;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: var(--color-bg-alt);
+  color: var(--color-primary);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.benefit-list__icon svg {
+  width: 22px;
+  height: 22px;
+}

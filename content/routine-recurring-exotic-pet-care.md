@@ -14,11 +14,13 @@ og_image = "lionheadBunnyWithTreats.jpg"
 
 ## Why Routine Care
 
-- **Get your time back.** Spend quality time with your pets instead of keeping up with their husbandry.
-- **Catch problems early.** Exotics hide illness — regular visits from our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) spot changes before they get serious.
-- **Private, personalized care.** We are a team of animal lovers that help you spend time with your babies, tailored to their specific needs!
+<ul class="benefit-list">
+  <li><span class="benefit-list__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg></span><span><strong>Get your time back.</strong> Spend quality time with your pets instead of keeping up with their husbandry.</span></li>
+  <li><span class="benefit-list__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 2v2"/><path d="M5 2v2"/><path d="M5 3H4a2 2 0 0 0-2 2v4a6 6 0 0 0 12 0V5a2 2 0 0 0-2-2h-1"/><path d="M8 15a6 6 0 0 0 12 0v-3"/><circle cx="20" cy="10" r="2"/></svg></span><span><strong>Catch problems early.</strong> Exotics hide illness — regular visits from our <a href="/san-francisco-california-exotic-veterinary-experience">veterinary-informed team</a> spot changes before they get serious.</span></li>
+  <li><span class="benefit-list__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="4" r="2"/><circle cx="18" cy="8" r="2"/><circle cx="20" cy="16" r="2"/><path d="M9 10a5 5 0 0 1 5 5v3.5a3.5 3.5 0 0 1-6.84 1.05Q6.52 17.48 4.46 16.84A3.5 3.5 0 0 1 5.5 10Z"/></svg></span><span><strong>Private, personalized care.</strong> We are a team of animal lovers that help you spend time with your babies, tailored to their specific needs!</span></li>
+</ul>
 
-<p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Book a Free Meet-and-Greet</a></p>
+<p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Book a Free Meet&#8209;and&#8209;Greet</a></p>
 
 ## Choose Your Plan
 
