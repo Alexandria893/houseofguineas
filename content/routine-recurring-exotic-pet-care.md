@@ -9,77 +9,71 @@ og_image = "lionheadBunnyWithTreats.jpg"
   priority = 0.9
 +++
 
-**Get your evenings back. Give them your best time.**
-
-You come home tired, the enclosure needs cleaning, and the mental checklist starts all over again. Routine care takes that off your plate — we come to your pet's own home and handle the upkeep, so your time together is play and cuddles, not chores. And because exotics hide illness until it's serious, every visit doubles as prevention: consistent expert eyes catching small things before they become big ones.
+**Your evenings back — and expert eyes on your pet.** We come to your home on a set schedule and handle the upkeep, so your time together is play, not chores.
 <!--more-->
 
-## Three Ways to Keep Your Little Ones on Track
+<p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Book a Free Meet-and-Greet</a></p>
 
-Routine care comes in three standing plans — pick the one that fits your pet, or pair them up. Every visit happens in your pet's own home and comes with a gentle wellness check from our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) (habitat temps and UVB, a trained eye for early signs of trouble) and a photo update. *([Why busy pet parents book routine care →](/post/exotic-pet-care-while-at-work-busy-schedule/))*
+## Why Routine Care
 
-### Deep Clean — weekly or every other week
+- **Get your time back.** No more weekend cage cleaning.
+- **Catch problems early.** Exotics hide illness — regular visits from our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) spot changes before they get serious.
+- **A caretaker who knows your pet.** We do our best to send the same person every visit, with a photo update each time.
 
-The full reset. Everything comes out of the enclosure, surfaces are scrubbed and disinfected, bedding and liners are swapped, litter boxes, hides, and bowls are washed, and everything goes back fresh — so the enclosure never slides into a weekend project.
+## Choose Your Plan
 
-* **Weekly:** $105/visit for 1 hour (~$450/month) · $185/visit for 2 hours (~$795/month)
-* **Every other week:** $115/visit for 1 hour (~$245/month) · $195/visit for 2 hours (~$420/month)
+<div class="plan-cards">
+  <div class="plan-card">
+    <h3>Deep Clean</h3>
+    <p class="plan-card__tag">Weekly or every other week</p>
+    <p>The full enclosure reset — scrubbed, disinfected, fresh bedding and liners.</p>
+    <ul class="plan-card__prices"><li class="plan-card__freq">Weekly</li><li><span>1 hour</span><span>$105</span></li><li><span>2 hours</span><span>$185</span></li><li class="plan-card__freq">Every other week</li><li><span>1 hour</span><span>$115</span></li><li><span>2 hours</span><span>$195</span></li></ul>
+  </div>
+  <div class="plan-card">
+    <h3>Upkeep</h3>
+    <p class="plan-card__tag">Weekly or every other week</p>
+    <p>Fresh hay, water, and bedding, plus rotated toys and enrichment.</p>
+    <ul class="plan-card__prices"><li class="plan-card__freq">Weekly</li><li><span>1 hour</span><span>$105</span></li><li><span>2 hours</span><span>$185</span></li><li class="plan-card__freq">Every other week</li><li><span>1 hour</span><span>$115</span></li><li><span>2 hours</span><span>$195</span></li></ul>
+  </div>
+  <div class="plan-card">
+    <h3>Nail Trims</h3>
+    <p class="plan-card__tag">Every other week</p>
+    <p>Gentle, unhurried trims, a close look at feet and pads, and one-on-one handling time.</p>
+    <ul class="plan-card__prices"><li class="plan-card__freq">Every other week</li><li><span>1 hour</span><span>$115</span></li><li><span>2 hours</span><span>$195</span></li></ul>
+  </div>
+</div>
 
-### Upkeep — weekly or every other week
+<p class="text-center" style="margin: 1.5rem 0 0.5rem;"><a href="/book/" class="btn btn-lg btn-cta-primary">Start Your Routine Care Plan →</a></p>
 
-The steady rhythm that keeps things from building up. Spot-cleaning, liners and litter refreshed, hay restocked, chop prepped, fresh water, and toys and foraging setups rotated so days stay interesting — plus handling and play.
+<p class="plan-note">No travel fee within ~3 miles of the Inner Sunset; $15–$25/visit farther out (<a href="/home/services/faqs/#service-areas">service areas</a>). Serving <a href="/san-francisco-exotic-pet-sitter/">San Francisco</a>, the <a href="/burlingame-exotic-pet-sitter/">Peninsula</a>, and <a href="/marin-county-exotic-pet-sitter/">Marin</a> — Marin travel is measured from our Central Marin caretaker.</p>
 
-* **Weekly:** $105/visit for 1 hour (~$450/month) · $185/visit for 2 hours (~$795/month)
-* **Every other week:** $115/visit for 1 hour (~$245/month) · $195/visit for 2 hours (~$420/month)
-
-### Nail Trims — every other week
-
-Gentle, unhurried nail trims every other week, plus a close look at feet and pads for sores or overgrowth, and some one-on-one handling time so trims stay calm and familiar.
-
-* **1 hour:** $115/visit (~$245/month)
-* **2 hours:** $195/visit (~$420/month)
-
-Monthly estimates assume an average month (~4.3 weeks). No travel charge within ~3 miles of Inner Sunset; from $15–$25/visit farther out and across the Peninsula (see [service areas](/home/services/faqs/#service-areas)). In Marin, travel is measured from our caretaker's Central Marin base — so most of Central and Southern Marin has little to no travel charge.
-
-<p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Let's Create Your Pet's Custom Care Plan →</a></p>
-
-Serving all of San Francisco, the Peninsula down to Redwood City, and Marin County: [San Francisco](/san-francisco-exotic-pet-sitter/) · [Burlingame](/burlingame-exotic-pet-sitter/) · [San Mateo](/san-mateo-exotic-pet-sitter/) · [Millbrae](/millbrae-exotic-pet-sitter/) · [Foster City](/foster-city-exotic-pet-sitter/) · [Redwood City](/redwood-city-exotic-pet-sitter/) · [Marin County](/marin-county-exotic-pet-sitter/) · [San Rafael](/san-rafael-exotic-pet-sitter/) · [Mill Valley](/mill-valley-exotic-pet-sitter/) · [Larkspur & Corte Madera](/larkspur-corte-madera-exotic-pet-sitter/).
-
-## Frequently Asked Questions
+## Questions
 
 <style>
   .faq-details { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
-  .faq-summary { font-weight: bold; font-size: 1.2em; cursor: pointer; list-style: none; }
+  .faq-summary { font-weight: bold; font-size: 1.1em; cursor: pointer; list-style: none; }
   .faq-summary::-webkit-details-marker { display: none; }
-  .faq-answer { padding-top: 1rem; }
+  .faq-answer { padding-top: 0.75rem; }
 </style>
 
 <details class="faq-details">
-  <summary class="faq-summary">How is routine care different from in-home travel care?</summary>
-  <div class="faq-answer">
-    <p>Both happen in your pet's own home — we always come to you, no drop-off, no kennels. In-home travel care covers your pet for a defined trip and ends when you return. Routine care is an ongoing, standing arrangement — the same caretaker visiting weekly or every other week to handle upkeep and health checks. It's for pet parents who are home but busy, not just those who are away. (Prefer your pet stay overnight somewhere while you travel? That's our separate <a href="/home/services/exotic-pet-care-services-boarding/">boarding</a> service, reserved for pet parents outside San Francisco.)</p>
-  </div>
+  <summary class="faq-summary">How is routine care different from travel care?</summary>
+  <div class="faq-answer"><p>Travel care covers your pet while you're away and ends when you're back. Routine care is ongoing — standing visits for pet parents who are home but busy. Both happen in your pet's own home.</p></div>
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">Can I get the same caretaker every visit?</summary>
-  <div class="faq-answer">
-    <p>We do our best to make sure your pet has the same caretaker every visit — that familiarity is what makes routine care special. If their caretaker is ever out with an unforeseen illness, that's where our awesome on-call PRN specialists come in, stepping in until their caretaker can return. Nothing needs to be reiterated — everything is communicated across our team, so transitions are seamless and someone who knows your pet's routine is always there for them.</p>
-  </div>
+  <summary class="faq-summary">Will we have the same caretaker every visit?</summary>
+  <div class="faq-answer"><p>We do our best to keep the same caretaker every visit. If they're ever out sick, our on-call PRN specialists step in, with everything communicated across our team.</p></div>
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">How often are routine visits?</summary>
-  <div class="faq-answer">
-    <p>Deep Clean and Upkeep plans run weekly or every other week, and Nail Trims are every other week — all in one- or two-hour visits. Weekly is the sweet spot for keeping most exotic pets' feeding, enrichment, and health monitoring on track — small mammals and birds especially benefit from that rhythm — and you can mix plans, like weekly Upkeep with an every-other-week Deep Clean. We'll recommend the right mix for your pet at your meet-and-greet.</p>
-  </div>
+  <summary class="faq-summary">Which plan is right for my pet?</summary>
+  <div class="faq-answer"><p>Upkeep keeps things fresh between cleans; Deep Clean is the full reset; Nail Trims keep feet healthy. You can also mix plans, like weekly Upkeep plus an every-other-week Deep Clean — we'll recommend one at your meet-and-greet.</p></div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Is this a cage cleaning service for guinea pigs and rabbits?</summary>
-  <div class="faq-answer">
-    <p>Yes — and a little more. Our Deep Clean is the full reset: everything out, surfaces scrubbed and disinfected, bedding and liners swapped, litter boxes, hides, and bowls washed. Upkeep keeps it fresh in between: spot-cleaning, liners and litter refreshed, hay restocked, fresh water. What makes it special is who's doing it — a caretaker from our veterinary-informed team who looks your pet over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome.</p>
-  </div>
+  <div class="faq-answer"><p>Yes — and more. Our caretakers clean the enclosure and look your pet over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome.</p></div>
 </details>
 
 <script type="application/ld+json">
@@ -136,26 +130,26 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "How is routine care different from in-home travel care?",
+      "name": "How is routine care different from travel care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Both happen in your pet's own home \u2014 we always come to you, no drop-off, no kennels. In-home travel care covers your pet for a defined trip and ends when you return. Routine care is an ongoing, standing arrangement \u2014 the same caretaker visiting weekly or every other week to handle upkeep and health checks. It's for pet parents who are home but busy, not just those who are away. (Prefer your pet stay overnight somewhere while you travel? That's our separate boarding service, reserved for pet parents outside San Francisco.)"
+        "text": "Travel care covers your pet while you're away and ends when you're back. Routine care is ongoing \u2014 standing visits for pet parents who are home but busy. Both happen in your pet's own home."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I get the same caretaker every visit?",
+      "name": "Will we have the same caretaker every visit?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do our best to make sure your pet has the same caretaker every visit \u2014 that familiarity is what makes routine care special. If their caretaker is ever out with an unforeseen illness, that's where our awesome on-call PRN specialists come in, stepping in until their caretaker can return. Nothing needs to be reiterated \u2014 everything is communicated across our team, so transitions are seamless and someone who knows your pet's routine is always there for them."
+        "text": "We do our best to keep the same caretaker every visit. If they're ever out sick, our on-call PRN specialists step in, with everything communicated across our team."
       }
     },
     {
       "@type": "Question",
-      "name": "How often are routine visits?",
+      "name": "Which plan is right for my pet?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Deep Clean and Upkeep plans run weekly or every other week, and Nail Trims are every other week \u2014 all in one- or two-hour visits. Weekly is the sweet spot for keeping most exotic pets' feeding, enrichment, and health monitoring on track \u2014 small mammals and birds especially benefit from that rhythm \u2014 and you can mix plans, like weekly Upkeep with an every-other-week Deep Clean. We'll recommend the right mix for your pet at your meet-and-greet."
+        "text": "Upkeep keeps things fresh between cleans; Deep Clean is the full reset; Nail Trims keep feet healthy. You can also mix plans, like weekly Upkeep plus an every-other-week Deep Clean \u2014 we'll recommend one at your meet-and-greet."
       }
     },
     {
@@ -163,7 +157,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
       "name": "Is this a cage cleaning service for guinea pigs and rabbits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes \u2014 and a little more. Our Deep Clean is the full reset: everything out, surfaces scrubbed and disinfected, bedding and liners swapped, litter boxes, hides, and bowls washed. Upkeep keeps it fresh in between: spot-cleaning, liners and litter refreshed, hay restocked, fresh water. What makes it special is who's doing it \u2014 a caretaker from our veterinary-informed team who looks your pet over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome."
+        "text": "Yes \u2014 and more. Our caretakers clean the enclosure and look your pet over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome."
       }
     }
   ]
