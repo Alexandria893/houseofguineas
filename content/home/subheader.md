@@ -9,7 +9,7 @@ title = ""
 <!-- 🐾 [As an exotic pet parent,](\about), I understand the unique and thorough care of exotic pets. the love and care they deserve. Explore my care services below and contact me to discuss how I can best meet you and your pet's needs! -->
 <!-- *Serving San Francisco, California* -->
 
-Specialized exotic pet care, finally. Our veterinary-informed team comes to your home across San Francisco, the Peninsula, and Marin on a routine schedule — cleaning, upkeep, and nail trims — so you get your evenings back and your pets get expert eyes on them every visit. And when a trip comes up, we're already the team your pet knows.
+Finally — animal lovers that understand your exotic pets! Our veterinary-informed team comes to your home across San Francisco, the Peninsula, and Marin on a routine schedule — cleaning, upkeep, and nail trims — so you get your evenings back and your pets get expert eyes on them every visit. And when a trip comes up, we're already the team your pet knows.
 
 <p class="text-center"><a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-primary">Reclaim Your Evenings with Routine Care</a> <a href="/home/services/exotic-pet-care-services-in-home/" class="btn btn-lg btn-cta-outline">Peace of Mind Care When You're Traveling</a></p>
 
