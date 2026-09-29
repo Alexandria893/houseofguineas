@@ -105,7 +105,7 @@ Repeatable 4-week cycle. Post the same weekday each week. Swap the photo / tweak
 
 - **W1 Routine:** 🏡 Too busy to keep up with your pet's upkeep? You don't have to be traveling to get help. Our routine care plans bring an exotic-pet specialist to your home 2–3x/week for cage deep-cleans, feeding, and health checks — so your time with your pet is the fun part. Serving SF through San Mateo.
 - **W2 Reptile:** 🦎 Leaving town with a bearded dragon, gecko, or tortoise? We come to your reptile — no dismantling a calibrated enclosure. Our veterinary-informed team verifies basking temps, UVB, and humidity every visit. In-home reptile care across SF & the Peninsula.
-- **W3 Small mammal:** 🐹 Chinchillas, ferrets, rats, guinea pigs & rabbits — the small mammals other sitters won't touch are our specialty. Gram-scale weigh-ins, GI-stasis awareness, and clinical-grade care.
+- **W3 Small mammal:** 🐹 Chinchillas, ferrets, rats, guinea pigs & rabbits — the small mammals other sitters won't touch are our specialty. GI-stasis awareness and clinical-grade care.
 - **W4 Tip:** 💡 In a guinea pig, rabbit, or chinchilla, a gut that goes quiet is an emergency — not a wait-and-see. Knowing the early signs is why species-specific care matters. Read our free care guides.
 - **W4 alt Booking:** 🗓️ Planning a trip or want steady weekly help? Meet-and-greets and holiday dates book up fast. Reach out early and we'll build a plan around your pet.
 
@@ -118,7 +118,7 @@ Post from a second Google account, answer from the business profile, upvote your
 - **Do you care for reptiles like bearded dragons and geckos?** — Yes! Reptiles are a core specialty. In-home care across SF and the Peninsula — verifying basking temps, UVB, and humidity every visit — so your reptile never leaves its calibrated enclosure. Handled by our veterinary-informed team. Call/text 415-484-6493.
 - **Do you offer recurring weekly visits, not just vacation sitting?** — Absolutely. Routine care plans bring a caretaker to your home weekly or every other week for Deep Cleans, Upkeep, or Nail Trims, with a health check every visit. Details: houseofguineas.com/routine-recurring-exotic-pet-care/
 - **Do you serve San Mateo and the Peninsula?** — Yes — SF down through Millbrae, Burlingame, Hillsborough, San Mateo, Foster City, and Redwood City. Small per-visit travel amount by distance. Text 415-484-6493 for a quote.
-- **Do you take care of guinea pigs, chinchillas, and rabbits?** — Small mammals are the heart of what we do — with gram-scale weigh-ins and GI-stasis awareness. In-home care and SF boarding available.
+- **Do you take care of guinea pigs, chinchillas, and rabbits?** — Small mammals are the heart of what we do — with GI-stasis awareness and species-specific care. In-home care and SF boarding available.
 - **Do you board exotic pets?** — Yes — hosted personally in SF at $125/night for small mammals, reptiles, and birds. Space is limited around holidays, so reach out early. Call/text 415-484-6493.
 - **What are your rates?** — In-home visits from $85 (30 min) / $125 (60 min); twice-daily care $155–$215/day. Routine standing visits from $105/visit weekly. Boarding $125/night. Full breakdown: houseofguineas.com/book/
 

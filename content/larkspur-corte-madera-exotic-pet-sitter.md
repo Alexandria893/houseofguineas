@@ -16,7 +16,7 @@ House of Guineas is San Francisco's exotic pet care company, and having a careta
 - **We live here.** Our caretaker is based in Larkspur, so visits are quick to schedule, easy to adjust, and carry no travel surcharge for the immediate area. Early-morning, mid-day medication, and late-evening timing are all straightforward.
 - **Veterinary background.** Care here comes from our veterinary-informed team, with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines — and every member of our team is trained under that same clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our whole focus — nothing about this is an afterthought.
-- **Clinical-grade care.** We can syringe-feed a rabbit in stasis, weigh a guinea pig on a gram scale, verify a reptile's UVB and humidity, and read the early warning signs in a bird.
+- **Clinical-grade care.** We can syringe-feed a rabbit in stasis, verify a reptile's UVB and humidity, and read the early warning signs in a bird.
 
 ## Exotic Species We Care For
 
@@ -42,7 +42,7 @@ We start with a free meet-and-greet at your home — a walkthrough of feeding, e
 
 Larkspur and Corte Madera are our team's home base, so **no travel surcharge applies** — the same terms San Francisco pet parents get. Text us your dates and we will confirm your rate.
 
-> **Because Larkspur and Corte Madera are our caretaker's home turf,** standing [routine care](/routine-recurring-exotic-pet-care/) visits slot right into your week — weekly or every-other-week, with the enclosure deep-clean, weigh-ins, and a gentle wellness check finished before your ferry even docks — leaving your evenings for the best parts of life with your little ones.
+> **Because Larkspur and Corte Madera are our caretaker's home turf,** standing [routine care](/routine-recurring-exotic-pet-care/) visits slot right into your week — weekly or every-other-week, with the enclosure deep-clean and a gentle wellness check finished before your ferry even docks — leaving your evenings for the best parts of life with your little ones.
 
 ## Frequently Asked Questions
 

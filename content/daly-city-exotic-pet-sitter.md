@@ -7,7 +7,7 @@ og_image = "milo.jpeg"
   priority = 0.8
 +++
 
-Daly City is the Gateway to the Peninsula — the first town you hit once you cross the county line heading south, and the place where San Francisco's fog likes to settle in for the long haul. It is a city of dense, tightly knit neighborhoods, of homes stacked along the hills above Highway 1, and of families who keep busy lives moving along the I-280 and Mission Street corridors. When one of those families is headed out of town and the household includes a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who expects his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never weighed a guinea pig on a gram scale. That is the gap our team fills.
+Daly City is the Gateway to the Peninsula — the first town you hit once you cross the county line heading south, and the place where San Francisco's fog likes to settle in for the long haul. It is a city of dense, tightly knit neighborhoods, of homes stacked along the hills above Highway 1, and of families who keep busy lives moving along the I-280 and Mission Street corridors. When one of those families is headed out of town and the household includes a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who expects his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never trimmed a guinea pig's nails. That is the gap our team fills.
 
 House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because Daly City sits immediately south of the San Francisco county line, our team of exotic pet caretakers is only a short trip away when we come to provide in-home care. From the homes climbing through St. Francis Heights to the flatter streets of Westlake, and from Crocker over toward Bayshore, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
 
@@ -17,7 +17,7 @@ Daly City is a town full of people who think carefully and plan ahead — nurses
 
 - **Veterinary background.** Your little ones are cared for by our veterinary-informed team, with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every member of our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That kind of focus is genuinely hard to find this side of the county line.
-- **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory.
+- **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before a BART commute or a flight, evening visits after a long day, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
 
 ## Exotic Species We Care For in Daly City
@@ -46,7 +46,7 @@ Daly City is famously foggy and famously hilly, and its neighborhoods each have 
 
 Because Daly City sits immediately south of the San Francisco county line, it is a short trip for our SF-based team, so a travel surcharge of $15–$25/visit applies, depending on distance. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
-> **Routine care is a quick hop to Daly City, too.** For pet parents riding BART into the city every morning, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, so evenings back home in the fog belt are all about your little ones.
+> **Routine care is a quick hop to Daly City, too.** For pet parents riding BART into the city every morning, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, hay restock, and a gentle health check, so evenings back home in the fog belt are all about your little ones.
 
 ## Frequently Asked Questions
 

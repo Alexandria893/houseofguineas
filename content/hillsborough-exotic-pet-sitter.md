@@ -17,9 +17,9 @@ Hillsborough households often have larger and more complex setups than the rest 
 
 - **Vet-trained discretion.** Our team's clinical training means we approach exotic care with proper protocols, not improvisation. We respect the household and the animals equally.
 - **Species specialization.** Exotic pets and cats are our focus — rabbits, rodents, reptiles, and birds. Hillsborough households often have unusual species combinations, and our team is comfortable with them.
-- **Long-trip protocols.** Hillsborough families often travel for two-plus weeks at a time. We're set up for it: hay restocks mid-trip, weight monitoring, consistent updates, and adjustment of visit cadence as needed.
+- **Long-trip protocols.** Hillsborough families often travel for two-plus weeks at a time. We're set up for it: hay restocks mid-trip, consistent updates, and adjustment of visit cadence as needed.
 - **Property-aware service.** We respect the household — quiet entry and exit, secure gate handling, no unnecessary disruption, no chatter on social media about the families we care for. What happens at your home stays there.
-- **Clinical-grade care.** Syringe-feeding a GI stasis rabbit, weighing a guinea pig on a gram scale, maintaining reptile humidity within a 5% range, recognizing crop issues in a parrot — everyday skills, not stretches.
+- **Clinical-grade care.** Syringe-feeding a GI stasis rabbit, maintaining reptile humidity within a 5% range, recognizing crop issues in a parrot — everyday skills, not stretches.
 
 ## Exotic Species We Care For in Hillsborough
 
@@ -57,7 +57,7 @@ We cover the full town of Hillsborough — the estates near the Crystal Springs 
 
 Hillsborough is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. For longer trips and complex setups, we typically quote a custom rate. [Text us your address and dates](tel:415-484-6493) for a firm quote.
 
-> **Routine care comes to Hillsborough, too.** For busy households that want every detail of the habitat held to a high standard week after week, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker manages the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, so the hours you spend with your little ones are all the sweet stuff.
+> **Routine care comes to Hillsborough, too.** For busy households that want every detail of the habitat held to a high standard week after week, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker manages the enclosure deep-clean, hay restock, and a gentle health check, so the hours you spend with your little ones are all the sweet stuff.
 
 ## Frequently Asked Questions
 
@@ -98,7 +98,7 @@ Hillsborough is in our Peninsula service tier, so a travel surcharge of $15–$2
 <details class="faq-details">
   <summary class="faq-summary">Can you handle multi-week trips?</summary>
   <div class="faq-answer">
-    <p>Yes. Long trips are common for Hillsborough families, and we're set up for them: hay and feed restocks mid-trip, weight monitoring for animals predisposed to issues, consistent updates that distinguish "everything is normal" from "let's check in," and adjustments to visit cadence based on species and individual needs.</p>
+    <p>Yes. Long trips are common for Hillsborough families, and we're set up for them: hay and feed restocks mid-trip, consistent updates that distinguish "everything is normal" from "let's check in," and adjustments to visit cadence based on species and individual needs.</p>
   </div>
 </details>
 
@@ -139,7 +139,7 @@ Ready to discuss in-home exotic pet care for your Hillsborough home? [Call or te
       "name": "Can you handle multi-week trips?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Long trips are common for Hillsborough families, and we're set up for them: hay and feed restocks mid-trip, weight monitoring for animals predisposed to issues, consistent updates that distinguish \"everything is normal\" from \"let's check in,\" and adjustments to visit cadence based on species and individual needs."
+        "text": "Yes. Long trips are common for Hillsborough families, and we're set up for them: hay and feed restocks mid-trip, consistent updates that distinguish \"everything is normal\" from \"let's check in,\" and adjustments to visit cadence based on species and individual needs."
       }
     },
     {

@@ -17,7 +17,7 @@ Burlingame is a town full of people who sweat the details — tech professionals
 
 - **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society in Richmond, administering subcutaneous RHDV2 vaccines. Every caretaker on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
-- **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape — Peninsula Pet Hospital right in Burlingame, Adobe Animal Hospital in Los Altos, and All Pets Hospital in San Mateo — so if something goes sideways while you are in Zurich, we know exactly where to go.
+- **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape — Peninsula Pet Hospital right in Burlingame, Adobe Animal Hospital in Los Altos, and All Pets Hospital in San Mateo — so if something goes sideways while you are in Zurich, we know exactly where to go.
 - **Flexible scheduling.** Early-morning visits before an SFO departure, late-night visits after a redeye arrival, and mid-day medication timing — we build the schedule around your flight manifest, not the other way around.
 
 ## Exotic Species We Care For in Burlingame
@@ -54,7 +54,7 @@ We also cover the stretch between Washington Park and Ray Park, homes near Mercy
 
 Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from our Inner Sunset base. Text us your address and dates and we will confirm your rate.
 
-> **Routine care lands in Burlingame, too.** Standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits are built for the stretches between SFO trips when you are home but running on fumes — their caretaker takes on the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, so your time with your little ones stays the easy, happy part.
+> **Routine care lands in Burlingame, too.** Standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits are built for the stretches between SFO trips when you are home but running on fumes — their caretaker takes on the enclosure deep-clean, hay restock, and a gentle health check, so your time with your little ones stays the easy, happy part.
 
 ## Frequently Asked Questions
 

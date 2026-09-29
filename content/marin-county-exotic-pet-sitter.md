@@ -7,7 +7,7 @@ og_image = "milo.jpeg"
   priority = 0.9
 +++
 
-For years, Marin County exotic pet parents have had to choose between the wrong options. Board your rabbits at a dog-and-cat kennel that has never weighed a guinea pig. Drive a bearded dragon up to Santa Rosa or across the bridge to the East Bay. Or hand your parrot to a neighbor and hope the millet and the misting schedule survive the week. Marin is one of the most affluent, pet-loving counties in California, and yet there has been no dedicated in-home sitter who actually specializes in exotics. That has changed — **House of Guineas now has a caretaker based right here in Marin.**
+For years, Marin County exotic pet parents have had to choose between the wrong options. Board your rabbits at a dog-and-cat kennel that has never cared for a guinea pig. Drive a bearded dragon up to Santa Rosa or across the bridge to the East Bay. Or hand your parrot to a neighbor and hope the millet and the misting schedule survive the week. Marin is one of the most affluent, pet-loving counties in California, and yet there has been no dedicated in-home sitter who actually specializes in exotics. That has changed — **House of Guineas now has a caretaker based right here in Marin.**
 
 We are San Francisco's exotic pet care company, and our Marin caretaker lives in Central Marin and covers the county from there. That means your rabbits, guinea pigs, reptiles, and birds stay in their own enclosures, on their own routines, cared for by someone who knows the difference between a healthy gut sound and the silence of GI stasis — and because we are based in the county, there is little to no bridge-toll-style travel surcharge to reach you.
 
@@ -16,7 +16,7 @@ We are San Francisco's exotic pet care company, and our Marin caretaker lives in
 - **A caretaker who actually lives in Marin.** No crossing the Golden Gate on a schedule. They can reach most of the county quickly, which keeps visits flexible and travel costs low.
 - **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and our founder previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every caretaker on our team, in Marin and beyond, is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds. That kind of focus is almost impossible to find north of the bridge.
-- **Clinical-grade care.** We can syringe-feed a rabbit in stasis, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity and UVB, and catch the early signs of a crop problem in a parrot — and we know where the nearest exotic vets are if something goes wrong.
+- **Clinical-grade care.** We can syringe-feed a rabbit in stasis, check a reptile enclosure's humidity and UVB, and catch the early signs of a crop problem in a parrot — and we know where the nearest exotic vets are if something goes wrong.
 
 ## Exotic Species We Care For in Marin
 
@@ -50,7 +50,7 @@ If your town is not listed, [text us your address](tel:415-484-6493) and we will
 
 Here is the part that surprises people: because our caretaker is based in Central Marin rather than crossing the bridge from the city, **most of Marin falls in our no-surcharge to $15/visit range** — far less than the distance from San Francisco would suggest. Text us your address and dates and we will confirm your exact rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
-> **Because our caretaker lives right here in Central Marin,** standing [routine care](/routine-recurring-exotic-pet-care/) visits are easy to keep on the calendar — weekly or every-other-week, with the enclosure deep-clean, weigh-ins, and a gentle nose-to-tail check all handled — so evenings with your little ones, anywhere in the county, are for floor time and hand-feeding from start to finish.
+> **Because our caretaker lives right here in Central Marin,** standing [routine care](/routine-recurring-exotic-pet-care/) visits are easy to keep on the calendar — weekly or every-other-week, with the enclosure deep-clean and a gentle nose-to-tail check all handled — so evenings with your little ones, anywhere in the county, are for floor time and hand-feeding from start to finish.
 
 ## Frequently Asked Questions
 

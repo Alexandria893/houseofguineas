@@ -51,7 +51,7 @@ Pricing follows our standard SF in-home rates:
 
 In multi-pet households, the cat is included when care can be done within the same visit window, and cat-only visits book at the standard rates above. For larger households or longer visit needs, we'll quote a custom rate. [Text us your address and pet count](tel:415-484-6493) for a firm quote.
 
-> **Juggling a whole household of little ones?** Multi-pet families often find a standing schedule is the easiest rhythm — weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits where their caretaker deep-cleans the enclosure, logs weigh-ins, gives the exotics a gentle health check, and keeps the cat's routine on track too, so home time is play time for everyone.
+> **Juggling a whole household of little ones?** Multi-pet families often find a standing schedule is the easiest rhythm — weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits where their caretaker deep-cleans the enclosure, gives the exotics a gentle health check, and keeps the cat's routine on track too, so home time is play time for everyone.
 
 ---
 

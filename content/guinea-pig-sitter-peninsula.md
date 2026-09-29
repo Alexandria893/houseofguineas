@@ -1,13 +1,13 @@
 +++
 title = "Guinea Pig Sitter Peninsula | In-Home Small-Mammal Care, San Mateo County"
 shortTitle = "Guinea Pig Sitter Peninsula"
-description = "In-home guinea pig and small-mammal sitting across the Peninsula — Burlingame, San Mateo, Foster City, Redwood City. Clinical-grade care: gram-scale weigh-ins, GI stasis awareness, from a veterinary-informed team."
+description = "In-home guinea pig and small-mammal sitting across the Peninsula — Burlingame, San Mateo, Foster City, Redwood City. Clinical-grade care: GI stasis awareness and species-specific handling, from a veterinary-informed team."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
 +++
 
-On the Peninsula, a guinea pig is often the pet that anchors a busy household — the one a kid in San Mateo begged for, the pair that greet a biotech researcher in Foster City after a long day, the little herd that popcorns around a Redwood City living room. Small mammals have a way of becoming the heart of a home while asking for very little on the surface. Underneath, though, they are particular. A guinea pig needs unlimited hay in front of it around the clock, fresh vegetables every day, a steady source of vitamin C its body cannot make on its own, and — most of all — a caretaker who can tell the difference between a pig that is simply napping and a pig that has quietly stopped eating. That last distinction is not a small one, because in a guinea pig, a rabbit, or a chinchilla, a gut that goes silent is a genuine emergency, not a wait-and-see. A generalist sitter who mostly does dogs, however kind, is usually not equipped to weigh a pig on a gram scale, catch the early signs of GI stasis, or syringe critical-care formula into an animal that has gone off its food. That is exactly the gap our Peninsula team was built to fill.
+On the Peninsula, a guinea pig is often the pet that anchors a busy household — the one a kid in San Mateo begged for, the pair that greet a biotech researcher in Foster City after a long day, the little herd that popcorns around a Redwood City living room. Small mammals have a way of becoming the heart of a home while asking for very little on the surface. Underneath, though, they are particular. A guinea pig needs unlimited hay in front of it around the clock, fresh vegetables every day, a steady source of vitamin C its body cannot make on its own, and — most of all — a caretaker who can tell the difference between a pig that is simply napping and a pig that has quietly stopped eating. That last distinction is not a small one, because in a guinea pig, a rabbit, or a chinchilla, a gut that goes silent is a genuine emergency, not a wait-and-see. A generalist sitter who mostly does dogs, however kind, is usually not equipped to catch the early signs of GI stasis or syringe critical-care formula into an animal that has gone off its food. That is exactly the gap our Peninsula team was built to fill.
 
 House of Guineas Pet Care is based in San Francisco's Inner Sunset — the name is no accident, since the whole business grew out of guinea pig care — and our team of exotic pet caretakers travels down the Peninsula to provide in-home visits from Daly City to Redwood City. Your pigs, chinchillas, ferrets, and pocket pets stay in their own enclosures, on their own routines, eating their own hay, while you are away.
 
@@ -17,7 +17,7 @@ The Peninsula is full of thoughtful pet parents who do their homework — and th
 
 - **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work, and every caretaker is trained to identify critical health issues early. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) at Bay Area Bird & Exotics Hospital and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines — a clinical standard that shapes how we care for every animal.
 - **Species specialization.** Exotic pets and cats are our whole focus — small mammals above all. That kind of focus is genuinely hard to find on the Peninsula.
-- **Clinical-grade care.** We weigh pets on a gram scale to catch problems before they show, we monitor appetite and output at every visit, and our team can hand-feed and support a pig that has gone off its food while coordinating with your exotic vet — because in a small mammal, those are the numbers that tell you what is really going on.
+- **Clinical-grade care.** We monitor appetite and output at every visit to catch problems before they show, and our team can hand-feed and support a pig that has gone off its food while coordinating with your exotic vet — because in a small mammal, those are the signs that tell you what is really going on.
 - **Flexible scheduling around Peninsula life.** Early-morning visits before an SFO departure, evening feeds after a late CalTrain return, mid-day timing for medications — we build the schedule around your itinerary, not the other way around.
 
 ## Small Mammals We Care For on the Peninsula
@@ -31,7 +31,7 @@ We also care for rabbits, which have their own particular needs — see our dedi
 
 ## What In-Home Small-Mammal Care Involves
 
-Good small-mammal care is quiet, consistent, and detail-driven. At every visit we make sure there is unlimited timothy hay available, because a guinea pig should be grazing on it around the clock. We put out fresh vegetables daily, and for guinea pigs we pay special attention to vitamin C, which they cannot produce themselves. We keep clean water available, spot-clean the enclosure and refresh the fleece liner so your pet stays dry and comfortable, and we weigh each animal to track the trend over time. Most importantly, we watch for the early signs of illness — a guinea pig that has stopped eating is an emergency, and catching it a day early can be the difference that matters.
+Good small-mammal care is quiet, consistent, and detail-driven. At every visit we make sure there is unlimited timothy hay available, because a guinea pig should be grazing on it around the clock. We put out fresh vegetables daily, and for guinea pigs we pay special attention to vitamin C, which they cannot produce themselves. We keep clean water available, spot-clean the enclosure and refresh the fleece liner so your pet stays dry and comfortable. Most importantly, we watch for the early signs of illness — a guinea pig that has stopped eating is an emergency, and catching it a day early can be the difference that matters.
 
 ## Peninsula Cities We Serve
 
@@ -58,7 +58,7 @@ If your town is not on the list, [text us](tel:415-484-6493) — there is a good
 
 The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** applies depending on distance — cities closer in often see the lower end.
 
-> **The weekly liner change can quietly take care of itself.** Peninsula guinea pig families often set up recurring [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker handles fresh liners, a full hay restock, gram-scale weigh-ins, and a careful nose-to-tail once-over, so your evenings belong to lap time, wheeks, and popcorning.
+> **The weekly liner change can quietly take care of itself.** Peninsula guinea pig families often set up recurring [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker handles fresh liners, a full hay restock, and a careful nose-to-tail once-over, so your evenings belong to lap time, wheeks, and popcorning.
 
 ## Frequently Asked Questions
 
@@ -95,7 +95,7 @@ The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** ap
 <details class="faq-details">
   <summary class="faq-summary">Do you care for a bonded pair or a whole herd of guinea pigs?</summary>
   <div class="faq-answer">
-    <p>Herds are welcome — pairs, trios, and full piggy rooms are all in a day's work for our caretakers on the Peninsula. Every pig still gets an individual gram-scale weigh-in and their own appetite-and-output check, because in a group it's easy for one quiet pig to hide a problem. Just walk us through the headcount and setup at your meet-and-greet.</p>
+    <p>Herds are welcome — pairs, trios, and full piggy rooms are all in a day's work for our caretakers on the Peninsula. Every pig still gets their own appetite-and-output check, because in a group it's easy for one quiet pig to hide a problem. Just walk us through the headcount and setup at your meet-and-greet.</p>
   </div>
 </details>
 
@@ -116,7 +116,7 @@ The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** ap
 <details class="faq-details">
   <summary class="faq-summary">How much does a Peninsula guinea pig sitter cost?</summary>
   <div class="faq-answer">
-    <p>A guinea pig visit is mostly hands-on time — hay restock, fresh vegetables with a vitamin C source, a water change, spot-cleaning, and a gram-scale weigh-in — so pricing follows visit length: $85 for 30 minutes, $125 for 60 minutes, and $155–$215 per day for twice-daily care depending on visit length and the number of pets. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>A guinea pig visit is mostly hands-on time — hay restock, fresh vegetables with a vitamin C source, a water change, and spot-cleaning — so pricing follows visit length: $85 for 30 minutes, $125 for 60 minutes, and $155–$215 per day for twice-daily care depending on visit length and the number of pets. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -142,7 +142,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "Do you care for a bonded pair or a whole herd of guinea pigs?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Herds are welcome — pairs, trios, and full piggy rooms are all in a day's work for our caretakers on the Peninsula. Every pig still gets an individual gram-scale weigh-in and their own appetite-and-output check, because in a group it's easy for one quiet pig to hide a problem. Just walk us through the headcount and setup at your meet-and-greet."
+        "text": "Herds are welcome — pairs, trios, and full piggy rooms are all in a day's work for our caretakers on the Peninsula. Every pig still gets their own appetite-and-output check, because in a group it's easy for one quiet pig to hide a problem. Just walk us through the headcount and setup at your meet-and-greet."
       }
     },
     {
@@ -166,7 +166,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "How much does a Peninsula guinea pig sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A guinea pig visit is mostly hands-on time — hay restock, fresh vegetables with a vitamin C source, a water change, spot-cleaning, and a gram-scale weigh-in — so pricing follows visit length: $85 for 30 minutes, $125 for 60 minutes, and $155–$215 per day for twice-daily care depending on visit length and the number of pets. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "A guinea pig visit is mostly hands-on time — hay restock, fresh vegetables with a vitamin C source, a water change, and spot-cleaning — so pricing follows visit length: $85 for 30 minutes, $125 for 60 minutes, and $155–$215 per day for twice-daily care depending on visit length and the number of pets. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

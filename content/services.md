@@ -17,7 +17,7 @@ Routine care is the heart of what we do — Deep Cleans, Upkeep, and Nail Trims 
 
 Standing weekly or every-other-week visits in your pet's own home — the upkeep handled, so your time together is play and cuddles, not chores.
 
-**Three standing plans, from $105/visit.** Every visit comes with a gentle wellness check — gram-scale weigh-ins, habitat temps and UVB, and a trained eye for early signs of trouble — plus a photo update. Because exotics hide illness until it's serious, consistent expert eyes catch small things before they become big ones.
+**Three standing plans, from $105/visit.** Every visit comes with a gentle wellness check — a look at habitat temps and UVB and a trained eye for early signs of trouble — plus a photo update. Because exotics hide illness until it's serious, consistent expert eyes catch small things before they become big ones.
 
 <div style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #eee; border-radius: 8px; background: #fafaf8;">
   <p><strong>Deep Clean — weekly or every other week</strong><br>The full enclosure reset: everything out, surfaces scrubbed and disinfected, bedding and liners swapped, hides and bowls washed.</p>

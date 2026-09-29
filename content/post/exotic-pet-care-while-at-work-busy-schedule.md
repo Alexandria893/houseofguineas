@@ -28,7 +28,7 @@ Routine (or recurring) care is a standing arrangement: your pet's caretaker come
 
 - **A real cage or enclosure clean** — litter and bedding changed, spot-cleaned, fresh setup
 - **Food and water sorted** — hay restocked, chop or greens prepped, bottles and bowls cleaned
-- **A quick health check with actual rigor** — small mammals weighed on a gram scale to catch weight loss early, appetite and output checked, a look for the subtle early signs of trouble
+- **A quick health check with actual rigor** — appetite and output checked, and a look for the subtle early signs of trouble
 - **Habitat verification for reptiles and birds** — temperatures, UVB, humidity confirmed in range
 - **Time with your pet**, plus a written update and photos so you always know how they're doing
 

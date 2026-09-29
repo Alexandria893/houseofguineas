@@ -16,7 +16,7 @@ House of Guineas has an exotic pet caretaker living in Central Marin, a short dr
 - **Based in Marin.** Our caretaker lives minutes away, so Mill Valley visits are easy to schedule and light on travel cost — even up a winding canyon road.
 - **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience) — our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Our whole team is trained under that clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
-- **Clinical-grade care.** We can syringe-feed a stasis rabbit, weigh a guinea pig on a gram scale, verify a reptile's humidity and UVB, and catch the early signs of illness in a bird.
+- **Clinical-grade care.** We can syringe-feed a stasis rabbit, verify a reptile's humidity and UVB, and catch the early signs of illness in a bird.
 
 ## Exotic Species We Care For in Mill Valley
 
@@ -42,7 +42,7 @@ We begin with a free meet-and-greet at your home to learn feeding routines, encl
 
 Because our caretaker is based in Central Marin, Mill Valley falls in our **no-surcharge to $15/visit range** — a real advantage over any sitter driving up from San Francisco. Text us your address and dates and we will confirm your rate.
 
-> **Our caretaker calls Central Marin home,** which makes a standing [routine care](/routine-recurring-exotic-pet-care/) rhythm easy to hold — weekly or every-other-week, with the enclosure deep-clean, weigh-ins, and a gentle health check all taken care of — so you can squeeze in a Mount Tam trail after work and still come home to a fresh habitat and happy, settled little ones.
+> **Our caretaker calls Central Marin home,** which makes a standing [routine care](/routine-recurring-exotic-pet-care/) rhythm easy to hold — weekly or every-other-week, with the enclosure deep-clean and a gentle health check all taken care of — so you can squeeze in a Mount Tam trail after work and still come home to a fresh habitat and happy, settled little ones.
 
 ## Frequently Asked Questions
 
@@ -79,7 +79,7 @@ Because our caretaker is based in Central Marin, Mill Valley falls in our **no-s
 <details class="faq-details">
   <summary class="faq-summary">My kids' guinea pigs have a specific routine — can you keep it exactly?</summary>
   <div class="faq-answer">
-    <p>That is the whole point of in-home care. Guinea pigs thrive on consistency, so we keep their hay topped up, weigh them if you would like us to, follow their exact veggie schedule, and spot-clean their enclosure just as you do. We also send photos so the kids can see their pigs while you are away. New to guinea pigs? Our guinea pig care guide is a good primer.</p>
+    <p>That is the whole point of in-home care. Guinea pigs thrive on consistency, so we keep their hay topped up, follow their exact veggie schedule, and spot-clean their enclosure just as you do. We also send photos so the kids can see their pigs while you are away. New to guinea pigs? Our guinea pig care guide is a good primer.</p>
   </div>
 </details>
 
@@ -126,7 +126,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "My kids' guinea pigs have a specific routine — can you keep it exactly?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "That is the whole point of in-home care. Guinea pigs thrive on consistency, so we keep their hay topped up, weigh them if you would like us to, follow their exact veggie schedule, and spot-clean their enclosure just as you do. We also send photos so the kids can see their pigs while you are away. New to guinea pigs? Our guinea pig care guide is a good primer."
+        "text": "That is the whole point of in-home care. Guinea pigs thrive on consistency, so we keep their hay topped up, follow their exact veggie schedule, and spot-clean their enclosure just as you do. We also send photos so the kids can see their pigs while you are away. New to guinea pigs? Our guinea pig care guide is a good primer."
       }
     },
     {

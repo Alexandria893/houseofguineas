@@ -7,7 +7,7 @@ og_image = "milo.jpeg"
   priority = 0.8
 +++
 
-Noe Valley has a rhythm all its own. Sheltered from the fog that pours over so much of the city, it sits in a sunny little pocket of San Francisco between the Castro, the Mission, and Glen Park, with classic Victorian and Edwardian homes stacked up its steep hills and the 24th Street commercial corridor humming below with cafes and neighborhood shops. It is a neighborhood of young families — locals affectionately call it "Stroller Valley" — and of people who keep busy lives, riding the J-Church Muni line downtown and out again. When those lives include a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who needs his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never weighed a guinea pig on a gram scale. That is the gap our team fills.
+Noe Valley has a rhythm all its own. Sheltered from the fog that pours over so much of the city, it sits in a sunny little pocket of San Francisco between the Castro, the Mission, and Glen Park, with classic Victorian and Edwardian homes stacked up its steep hills and the 24th Street commercial corridor humming below with cafes and neighborhood shops. It is a neighborhood of young families — locals affectionately call it "Stroller Valley" — and of people who keep busy lives, riding the J-Church Muni line downtown and out again. When those lives include a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who needs his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never trimmed a guinea pig's nails. That is the gap our team fills.
 
 House of Guineas Pet Care is based right here in San Francisco, over in the Inner Sunset — so reaching Noe Valley is a quick, same-city trip across town, not a Peninsula drive. Our team of exotic pet caretakers comes to your home, from the sunny blocks along 24th Street to the steep Victorian-lined hills and the quiet streets near Douglass Park, so your pets can stay in their own enclosures, on their own routines, while you are away.
 
@@ -17,7 +17,7 @@ Noe Valley is full of people who think carefully and plan ahead — parents jugg
 
 - **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience). Our founder previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every pet caretaker on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That kind of focus is genuinely hard to find.
-- **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory.
+- **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before a commute or a flight, evening visits after a long day, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
 
 ## Exotic Species We Care For in Noe Valley
@@ -46,7 +46,7 @@ Noe Valley's hills are part of the charm and part of the logistics — the sunny
 
 Noe Valley is within San Francisco — our home city — so there is no Peninsula travel surcharge. Pricing stays simple and in-city. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
-> **Weekends filling up faster than the hay rack empties?** Many Noe Valley families set a standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visit, and their caretaker takes the deep-clean, the weigh-in log, and a gentle head-to-tail check off your plate — leaving Saturday mornings for 24th Street coffee runs and evenings for cuddles.
+> **Weekends filling up faster than the hay rack empties?** Many Noe Valley families set a standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visit, and their caretaker takes the deep-clean and a gentle head-to-tail check off your plate — leaving Saturday mornings for 24th Street coffee runs and evenings for cuddles.
 
 ## Frequently Asked Questions
 

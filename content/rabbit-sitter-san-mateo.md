@@ -59,7 +59,7 @@ We also cover homes near the San Mateo Public Library, the Caltrain corridor for
 
 San Mateo is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. [Text us your address and dates](tel:415-484-6493) for a firm quote.
 
-> **Litter boxes, hay runs, weigh-ins — consider them covered.** San Mateo rabbit families often book recurring [routine care](/routine-recurring-exotic-pet-care/): weekly or every-other-week visits where their caretaker refreshes the whole setup, restocks the hay, logs a gram-scale weight, and does a gentle head-to-tail check, so your time at home goes to zoomies and binkies instead of buckets.
+> **Litter boxes and hay runs — consider them covered.** San Mateo rabbit families often book recurring [routine care](/routine-recurring-exotic-pet-care/): weekly or every-other-week visits where their caretaker refreshes the whole setup, restocks the hay, and does a gentle head-to-tail check, so your time at home goes to zoomies and binkies instead of buckets.
 
 ## Frequently Asked Questions
 
