@@ -11,8 +11,6 @@ title = ""
 
 Finally — animal lovers that understand your exotic pets! Our veterinary-informed team comes to your home across San Francisco and the Peninsula on a routine schedule — cleaning, upkeep, and nail trims — so you get your evenings back and your pets get expert eyes on them every visit.
 
-<p class="text-center"><a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-primary">Reclaim Your Evenings with Routine Care</a></p>
-
 <div class="trust-strip" aria-label="House of Guineas at a glance">
   <div class="trust-chip">
     <span class="trust-chip__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1Z"/><path d="m9 12 2 2 4-4"/></svg></span>
@@ -28,7 +26,7 @@ Finally — animal lovers that understand your exotic pets! Our veterinary-infor
   </div>
 </div>
 
-<p class="text-center" style="margin-top: 25px;"><a href="/book/" class="btn btn-lg btn-cta-primary">Let's get started!</a></p>
+<p class="text-center" style="margin-top: 25px;"><a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-primary">Reclaim Your Evenings with Routine Care</a></p>
 <!-- As an experienced exotic veterinary assistant, I provide specialized in-home care, ensuring your cherished companions receive not just attention, but knowledgeable support tailored to their specific needs. From precise habitat management to recognizing subtle health cues, your pet's well-being is my top priority.  -->
 
 <!-- Ready for peace of mind for your reptile, bird, or unique small mammal? [Contact me](tel:415-484-6493) to discuss your pet's care! -->
