@@ -145,7 +145,33 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
         <label><input type="checkbox" name="pets" value="Cat"> Cat</label>
       </div>
     </fieldset>
+    <p class="form-note" id="nail-trim-note" style="display:none;"></p>
   </div>
+
+  <script>
+    (function () {
+      var service = document.getElementById('service');
+      var note = document.getElementById('nail-trim-note');
+      var noTrim = { 'Bird': 'birds', 'Ferret': 'ferrets', 'Cat': 'cats' };
+      function update() {
+        var picked = Array.prototype.slice.call(document.querySelectorAll('input[name="pets"]:checked'))
+          .map(function (box) { return noTrim[box.value]; })
+          .filter(Boolean);
+        if (service.value.indexOf('Nail Trims') === -1 || !picked.length) {
+          note.style.display = 'none';
+          return;
+        }
+        var list = picked.length === 1 ? picked[0]
+          : picked.slice(0, -1).join(', ') + (picked.length > 2 ? ',' : '') + ' or ' + picked[picked.length - 1];
+        note.textContent = "We don't offer nail trims for " + list + " at this time, but we can absolutely help support you with maintaining their husbandry!";
+        note.style.display = 'block';
+      }
+      service.addEventListener('change', update);
+      Array.prototype.slice.call(document.querySelectorAll('input[name="pets"]')).forEach(function (box) {
+        box.addEventListener('change', update);
+      });
+    })();
+  </script>
 
   <div class="form-row">
     <label for="dates">Dates or schedule</label>
