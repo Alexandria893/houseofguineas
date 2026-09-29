@@ -115,6 +115,18 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
       var noteId = this.value.indexOf('Routine:') === 0 ? 'routine-note' : noteByService[this.value];
       if (noteId) document.getElementById(noteId).style.display = 'block';
     });
+
+    // Arriving from the routine care page (/book/?care=routine): show only the routine options.
+    if (new URLSearchParams(window.location.search).get('care') === 'routine') {
+      var select = document.getElementById('service');
+      Array.prototype.slice.call(select.options).forEach(function (opt) {
+        if (opt.value && opt.value.indexOf('Routine:') !== 0) opt.remove();
+      });
+      Array.prototype.slice.call(select.querySelectorAll('optgroup')).forEach(function (group) {
+        if (!group.children.length) group.remove();
+      });
+      document.getElementById('routine-note').style.display = 'block';
+    }
   </script>
 
   <div class="form-row">

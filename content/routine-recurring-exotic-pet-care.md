@@ -20,7 +20,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
   <li><span class="benefit-list__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="4" r="2"/><circle cx="18" cy="8" r="2"/><circle cx="20" cy="16" r="2"/><path d="M9 10a5 5 0 0 1 5 5v3.5a3.5 3.5 0 0 1-6.84 1.05Q6.52 17.48 4.46 16.84A3.5 3.5 0 0 1 5.5 10Z"/></svg></span><span><strong>Private, personalized care.</strong> We are a team of animal lovers that help you spend time with your babies, tailored to their specific needs!</span></li>
 </ul>
 
-<p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Book a Free Meet&#8209;and&#8209;Greet</a></p>
+<p class="text-center" style="margin: 1.5rem 0;"><a href="/book/?care=routine" class="btn btn-lg btn-cta-primary">Book a Free Meet&#8209;and&#8209;Greet</a></p>
 
 ## Choose Your Plan
 
@@ -46,7 +46,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
   </div>
 </div>
 
-<p class="text-center" style="margin: 1.5rem 0 0.5rem;"><a href="/book/" class="btn btn-lg btn-cta-primary">Start Your Routine Care Plan →</a></p>
+<p class="text-center" style="margin: 1.5rem 0 0.5rem;"><a href="/book/?care=routine" class="btn btn-lg btn-cta-primary">Start Your Routine Care Plan →</a></p>
 
 <p class="plan-note">No travel fee within ~3 miles of the Inner Sunset; $15–$25/visit farther out (<a href="/home/services/faqs/#service-areas">service areas</a>). Serving <a href="/san-francisco-exotic-pet-sitter/">San Francisco</a>, the <a href="/burlingame-exotic-pet-sitter/">Peninsula</a>, and <a href="/marin-county-exotic-pet-sitter/">Marin</a> — Marin travel is measured from our Central Marin caretaker.</p>
 
