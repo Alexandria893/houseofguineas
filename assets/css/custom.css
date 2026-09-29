@@ -1428,7 +1428,7 @@ html {
 }
 
 /* Cleaning (Deep Clean + Upkeep) shares one card beside Nail Trims */
-.plan-cards--two { grid-template-columns: 3fr 2fr; }
+.plan-cards--two { grid-template-columns: 1fr 1fr; }
 .plan-card__options p { margin-bottom: 8px; }
 .plan-card__same {
   font-size: 13px !important;
@@ -1458,3 +1458,10 @@ html {
   margin-bottom: 10px;
 }
 .plan-card__head .plan-card__tag { margin-bottom: 0 !important; }
+
+/* Routine care card sits in the middle of the three homepage cards on desktop (first when stacked) */
+@media (min-width: 992px) {
+  .service-card-row > div { order: 3; }
+  .service-card-row > .service-col--lead { order: 2; }
+  .service-card-row > .service-col--lead + div { order: 1; }
+}
