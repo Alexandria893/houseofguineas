@@ -30,7 +30,7 @@ Standing weekly or every-other-week visits in your pet's own home — the upkeep
     <li>Weekly — $105/visit for 1 hour (~$450/month) · $185/visit for 2 hours (~$795/month)</li>
     <li>Every other week — $115/visit for 1 hour (~$245/month) · $195/visit for 2 hours (~$420/month)</li>
   </ul>
-  <p style="margin-top: 1rem;"><strong>Nail Trims — every other week</strong><br>Gentle, regular nail trims from caretakers who know exotic feet.</p>
+  <p style="margin-top: 1rem;"><strong>Nail Trims — every other week</strong><br>Gentle, unhurried nail trims, a close look at feet and pads for sores or overgrowth, and one-on-one handling time so trims stay calm and familiar.</p>
   <ul>
     <li>1 hour — $115/visit (~$245/month)</li>
     <li>2 hours — $195/visit (~$420/month)</li>

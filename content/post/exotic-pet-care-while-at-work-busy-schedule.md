@@ -67,7 +67,7 @@ We serve all of San Francisco and the Peninsula down through San Mateo, Foster C
 <details class="faq-details">
   <summary class="faq-summary">Do I have to be traveling to book a pet sitter?</summary>
   <div class="faq-answer">
-    <p>Not at all. Many of the families we care for are home but busy — they book standing weekly or biweekly visits purely to keep their exotic pet's upkeep and health monitoring on track. Routine care is designed for exactly that.</p>
+    <p>Not at all. Routine care is designed for pet parents who are home but busy — standing weekly or every-other-week visits that keep your exotic pet's upkeep and health monitoring on track, no trip required.</p>
   </div>
 </details>
 
@@ -99,7 +99,7 @@ Ready to hand off the upkeep and keep the fun? [Request a routine care plan](/bo
       "name": "Do I have to be traveling to book a pet sitter?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Not at all. Many of the families we care for are home but busy — they book standing weekly or biweekly visits purely to keep their exotic pet's upkeep and health monitoring on track. Routine care is designed for exactly that."
+        "text": "Not at all. Routine care is designed for pet parents who are home but busy — standing weekly or every-other-week visits that keep your exotic pet's upkeep and health monitoring on track, no trip required."
       }
     },
     {

@@ -34,8 +34,7 @@ The steady rhythm that keeps things from building up. Spot-cleaning, liners and 
 
 ### Nail Trims — every other week
 
-<!-- PLACEHOLDER — replace with Alexandria's description of what a Nail Trim visit includes -->
-Gentle, regular nail trims from caretakers who know exotic feet, so nails never get long enough to snag, curl, or change how your pet walks.
+Gentle, unhurried nail trims every other week, plus a close look at feet and pads for sores or overgrowth, and some one-on-one handling time so trims stay calm and familiar.
 
 * **1 hour:** $115/visit (~$245/month)
 * **2 hours:** $195/visit (~$420/month)
