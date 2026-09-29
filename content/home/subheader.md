@@ -11,7 +11,7 @@ title = ""
 
 Finally — animal lovers that understand your exotic pets! Our veterinary-informed team comes to your home across San Francisco and the Peninsula on a routine schedule — cleaning, upkeep, and nail trims — so you get your evenings back and your pets get expert eyes on them every visit.
 
-<p class="text-center"><a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-primary">Reclaim Your Evenings with Routine Care</a> <a href="/home/services/exotic-pet-care-services-in-home/" class="btn btn-lg btn-cta-outline">Peace of Mind Care When You're Traveling</a></p>
+<p class="text-center"><a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-primary">Reclaim Your Evenings with Routine Care</a></p>
 
 <div class="trust-strip" aria-label="House of Guineas at a glance">
   <div class="trust-chip">
