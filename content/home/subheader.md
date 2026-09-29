@@ -11,8 +11,6 @@ title = ""
 
 Specialized exotic pet care, finally. Our veterinary-informed team comes to your home across San Francisco, the Peninsula, and Marin on a routine schedule — cleaning, upkeep, and nail trims — so you get your evenings back and your pets get expert eyes on them every visit. And when a trip comes up, we're already the team your pet knows.
 
-**Take your evenings back — and travel worry-free when you need to. Either way, we come to your pet's home.**
-
 <p class="text-center"><a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-primary">Reclaim Your Evenings with Routine Care</a> <a href="/home/services/exotic-pet-care-services-in-home/" class="btn btn-lg btn-cta-outline">Peace of Mind Care When You're Traveling</a></p>
 
 <div class="trust-strip" aria-label="House of Guineas credentials">
@@ -34,7 +32,7 @@ Specialized exotic pet care, finally. Our veterinary-informed team comes to your
   <header class="quick-facts__head">
     <h3 class="quick-facts__title">House of Guineas at a Glance</h3>
     <span class="quick-facts__rule" aria-hidden="true"></span>
-    <p class="quick-facts__sub">Specialized in-home exotic pet care across San Francisco and the Peninsula, plus the Clinical Series guinea pig liner.</p>
+    <p class="quick-facts__sub">Specialized in-home exotic pet care across San Francisco, the Peninsula, and Marin, plus the Clinical Series guinea pig liner.</p>
   </header>
   <div class="quick-facts__grid">
     <div class="qf">
@@ -43,7 +41,7 @@ Specialized exotic pet care, finally. Our veterinary-informed team comes to your
     </div>
     <div class="qf">
       <span class="qf__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg></span>
-      <div class="qf__body"><span class="qf__label">Where we serve</span><span class="qf__value">San Francisco, Daly City, and the Peninsula.</span></div>
+      <div class="qf__body"><span class="qf__label">Where we serve</span><span class="qf__value">San Francisco, Daly City, the Peninsula, and Marin.</span></div>
     </div>
     <div class="qf">
       <span class="qf__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/><path d="M3.5 12h4l1.5-3 2.5 6 2-9 1.5 6h5.5"/></svg></span>
