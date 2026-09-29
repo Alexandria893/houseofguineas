@@ -12,13 +12,13 @@ og_image = "lionheadBunnyWithTreats.jpg"
 **Take back your evenings with routine pet care.** Whether it's a biweekly nail trim or cage upkeep, we help you focus on what matters most: your pets!
 <!--more-->
 
-<p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Book a Free Meet-and-Greet</a></p>
-
 ## Why Routine Care
 
 - **Get your time back.** Spend quality time with your pets instead of keeping up with their husbandry.
 - **Catch problems early.** Exotics hide illness — regular visits from our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) spot changes before they get serious.
 - **Private, personalized care.** We are a team of animal lovers that help you spend time with your babies, tailored to their specific needs!
+
+<p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Book a Free Meet-and-Greet</a></p>
 
 ## Choose Your Plan
 
