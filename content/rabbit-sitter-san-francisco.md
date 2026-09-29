@@ -63,7 +63,7 @@ If you're in a neighborhood not listed, [text us your address](tel:415-484-6493)
 
 San Francisco is in our primary service tier — no Peninsula travel surcharge. A few outlying pockets may carry a small travel rate; [text us your address and dates](tel:415-484-6493) for a firm quote.
 
-> **Hay restocks and litter-box scrub-downs can come off your weekend list.** Plenty of San Francisco rabbit families set up standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker takes on the full litter-box refresh, hay top-off, gram-scale weigh-in, and a gentle nose-to-tail check, so your evenings stay free for floor time and binkies.
+> **Hay restocks and litter-box scrub-downs can come off your weekend list.** San Francisco rabbit families can set up standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker takes on the full litter-box refresh, hay top-off, and a gentle nose-to-tail check, so your evenings stay free for floor time and binkies.
 
 ## Frequently Asked Questions
 

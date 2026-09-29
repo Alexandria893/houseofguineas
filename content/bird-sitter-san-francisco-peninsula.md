@@ -62,7 +62,7 @@ For Peninsula visits, a travel surcharge applies — the exact amount depends on
 
 For multi-bird households, additional birds are typically billed per house, not per bird, when care can be done in one visit window. Walk us through your flock and setup at the meet-and-greet.
 
-> **Cage and grate scrub days can belong to us.** Many bird families across San Francisco and the Peninsula book recurring [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker scrubs the cage and grate, preps fresh chop, refreshes perches and water, and does a gentle health check, so your time together goes to step-ups and songs.
+> **Cage and grate scrub days can belong to us.** Bird families across San Francisco and the Peninsula can book recurring [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker scrubs the cage and grate, preps fresh chop, refreshes perches and water, and does a gentle health check, so your time together goes to step-ups and songs.
 
 ## Frequently Asked Questions
 

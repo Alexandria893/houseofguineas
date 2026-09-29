@@ -17,7 +17,7 @@ Redwood City sits in a tricky spot for exotic pet parents — far enough from a 
 
 - **Veterinary background.** Our team's experience includes clinical work at [Bay Area Bird and Exotics Hospital](/san-francisco-california-exotic-veterinary-experience) and volunteer service with the House Rabbit Society, so we approach every visit with proper exotic protocols.
 - **Species specialization.** Exotic pets and cats are our focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
-- **Clinical-grade care.** Syringe-feeding a GI stasis rabbit, weighing a guinea pig on a gram scale, checking a reptile's enclosure humidity, recognizing crop issues in a bird — these are everyday skills, not stretches.
+- **Clinical-grade care.** Syringe-feeding a GI stasis rabbit, checking a reptile's enclosure humidity, recognizing crop issues in a bird — these are everyday skills, not stretches.
 - **Local vet awareness.** When something goes sideways, we know which Peninsula vets handle exotics and which to skip. See our [Peninsula exotic vet directory](/san-mateo-peninsula-exotic-veterinarians/) for the full list.
 - **Flexible scheduling.** Early-morning visits before a Caltrain commute, late-evening visits after a long day, mid-day medication windows — we build the schedule around your reality.
 
@@ -58,7 +58,7 @@ We also cover homes near Sequoia High School, the Caltrain corridor for commuter
 
 Redwood City is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. [Text us your address and dates](tel:415-484-6493) for a firm quote.
 
-> **Routine care runs to Redwood City on a schedule, too.** For pet parents whose Caltrain days stretch past dinnertime, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, so weekends stay wide open for the fun parts with your little ones.
+> **Routine care runs to Redwood City on a schedule, too.** For pet parents whose Caltrain days stretch past dinnertime, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, hay restock, and a gentle health check, so weekends stay wide open for the fun parts with your little ones.
 
 ## Frequently Asked Questions
 

@@ -51,6 +51,11 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
   .booking-form .hp { position: absolute; left: -5000px; }
   .booking-form .required { color: #C4704B; }
   .booking-form .form-note { font-size: 0.9rem; color: #666; margin-top: 0.35rem; }
+  .booking-form .start-options { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 0.25rem; }
+  .booking-form .start-options label { font-weight: 600; display: flex; align-items: center; gap: 0.45rem; margin: 0; padding: 0.55rem 1rem; border: 2px solid #C4704B; border-radius: 999px; color: #C4704B; cursor: pointer; }
+  .booking-form .start-options input { accent-color: #C4704B; }
+  .booking-form .start-options label:has(input:checked) { background: #C4704B; color: #fff; }
+  .booking-form .start-options label:has(input:checked) input { accent-color: #fff; }
   @media (max-width: 480px) { .booking-form .check-grid { grid-template-columns: 1fr; } }
 </style>
 
@@ -86,12 +91,19 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
     <label for="service">What kind of care do you need? <span class="required">*</span></label>
     <select id="service" name="service" required>
       <option value="" disabled selected>Choose one…</option>
-      <option value="Routine / recurring care">Routine / recurring upkeep (weekly or biweekly) — from $105/visit</option>
-      <option value="Travel / vacation care">In-home care while I travel — from $85/visit</option>
-      <option value="Boarding">Boarding, for families outside SF — $125/night</option>
+      <optgroup label="Routine care — standing visits">
+        <option value="Routine: Cleaning (weekly)">Cleaning (Deep Clean or Upkeep), weekly — from $105/visit</option>
+        <option value="Routine: Cleaning (every other week)">Cleaning (Deep Clean or Upkeep), every other week — from $115/visit</option>
+        <option value="Routine: Nail Trims (every other week)">Nail Trims, every other week — from $115/visit</option>
+        <option value="Routine: not sure which plan">Routine care — help me pick a plan</option>
+      </optgroup>
+      <optgroup label="Care while you're away">
+        <option value="Travel / vacation care">In-home care while I travel — from $85/visit</option>
+        <option value="Boarding">Boarding, for families outside SF — $125/night</option>
+      </optgroup>
       <option value="Not sure yet">Not sure yet — help me decide</option>
     </select>
-    <p class="form-note" id="routine-note" style="display:none;">Routine visits are standing upkeep for busy pet parents: habitat upkeep (full cage cleaning, fresh bedding, liners swapped), nail trims, and enrichment rotation to keep your little ones' days interesting — with a gentle wellness check built into every visit. Weekly plans are <strong>$105/visit</strong> for one hour or <strong>$185/visit</strong> for two; every-other-week plans are <strong>$115</strong> and <strong>$195</strong>. See the <a href="/routine-recurring-exotic-pet-care/">routine care page</a> for everything a visit includes and monthly estimates.</p>
+    <p class="form-note" id="routine-note" style="display:none;">Visits start at <strong>$105</strong> weekly or <strong>$115</strong> every other week — tell us below if you'd like a Deep Clean, Upkeep, or a mix, and we'll fine-tune it at your free meet-and-greet.</p>
     <p class="form-note" id="travel-note" style="display:none;">While you're away, we come to your pet's own home: <strong>$85</strong> for a 30-minute visit, <strong>$125</strong> for a full hour, or twice-daily care at <strong>$155–$215/day</strong> depending on visit lengths. There's no travel surcharge anywhere in San Francisco; farther out, visits add $15–$25 each depending on distance. See the <a href="/home/services/exotic-pet-care-services-in-home/">in-home care page</a> for the full rate card.</p>
     <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding is <strong>$125/night</strong>, spots are limited, and we <strong>reserve them for pet parents outside San Francisco</strong> — Peninsula and Marin families, where in-home visits add a travel surcharge, get priority, and the farther you are the more welcome you are to ask. If you live in San Francisco, in-home care is the better fit: no travel surcharge anywhere in the city, far more availability, and your little ones stay in the home they know. Please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability.</p>
   </div>
@@ -99,16 +111,27 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
   <script>
     document.getElementById('service').addEventListener('change', function () {
       var noteByService = {
-        'Routine / recurring care': 'routine-note',
         'Travel / vacation care': 'travel-note',
         'Boarding': 'boarding-note'
       };
       ['routine-note', 'travel-note', 'boarding-note'].forEach(function (id) {
         document.getElementById(id).style.display = 'none';
       });
-      var noteId = noteByService[this.value];
+      var noteId = this.value.indexOf('Routine:') === 0 ? 'routine-note' : noteByService[this.value];
       if (noteId) document.getElementById(noteId).style.display = 'block';
     });
+
+    // Arriving from the routine care page (/book/?care=routine): show only the routine options.
+    if (new URLSearchParams(window.location.search).get('care') === 'routine') {
+      var select = document.getElementById('service');
+      Array.prototype.slice.call(select.options).forEach(function (opt) {
+        if (opt.value && opt.value.indexOf('Routine:') !== 0) opt.remove();
+      });
+      Array.prototype.slice.call(select.querySelectorAll('optgroup')).forEach(function (group) {
+        if (!group.children.length) group.remove();
+      });
+      document.getElementById('routine-note').style.display = 'block';
+    }
   </script>
 
   <div class="form-row">
@@ -127,12 +150,67 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
         <label><input type="checkbox" name="pets" value="Cat"> Cat</label>
       </div>
     </fieldset>
+    <p class="form-note" id="nail-trim-note" style="display:none;"></p>
+  </div>
+
+  <script>
+    (function () {
+      var service = document.getElementById('service');
+      var note = document.getElementById('nail-trim-note');
+      var noTrim = { 'Bird': 'birds', 'Ferret': 'ferrets', 'Cat': 'cats' };
+      function update() {
+        var picked = Array.prototype.slice.call(document.querySelectorAll('input[name="pets"]:checked'))
+          .map(function (box) { return noTrim[box.value]; })
+          .filter(Boolean);
+        if (service.value.indexOf('Nail Trims') === -1 || !picked.length) {
+          note.style.display = 'none';
+          return;
+        }
+        var list = picked.length === 1 ? picked[0]
+          : picked.slice(0, -1).join(', ') + (picked.length > 2 ? ',' : '') + ' or ' + picked[picked.length - 1];
+        note.textContent = "We don't offer nail trims for " + list + " at this time, but we can absolutely help support you with maintaining their husbandry!";
+        note.style.display = 'block';
+      }
+      service.addEventListener('change', update);
+      Array.prototype.slice.call(document.querySelectorAll('input[name="pets"]')).forEach(function (box) {
+        box.addEventListener('change', update);
+      });
+    })();
+  </script>
+
+  <div class="form-row" id="routine-start" style="display:none;">
+    <fieldset>
+      <legend>Ready to get your evenings back? Pick your start:</legend>
+      <div class="start-options">
+        <label><input type="radio" name="routine_start" value="This week"> This week</label>
+        <label><input type="radio" name="routine_start" value="Next week"> Next week</label>
+      </div>
+      <p class="form-note">We'll confirm your free meet-and-greet and first visit so we can get started right away!</p>
+    </fieldset>
   </div>
 
   <div class="form-row">
-    <label for="dates">Dates or schedule</label>
+    <label for="dates" id="dates-label">Dates or schedule</label>
     <input type="text" id="dates" name="dates" placeholder="e.g. weekly Tuesdays, or Aug 4–11">
   </div>
+
+  <script>
+    (function () {
+      var service = document.getElementById('service');
+      var start = document.getElementById('routine-start');
+      var label = document.getElementById('dates-label');
+      var dates = document.getElementById('dates');
+      function update() {
+        var routine = service.value.indexOf('Routine:') === 0 ||
+          new URLSearchParams(window.location.search).get('care') === 'routine';
+        start.style.display = routine ? 'block' : 'none';
+        label.textContent = routine ? 'Preferred day(s) and time' : 'Dates or schedule';
+        dates.placeholder = routine ? 'e.g. Tuesday or Thursday evenings' : 'e.g. weekly Tuesdays, or Aug 4–11';
+      }
+      service.addEventListener('change', update);
+      update();
+    })();
+  </script>
 
   <div class="form-row">
     <label for="message">Anything else we should know?</label>

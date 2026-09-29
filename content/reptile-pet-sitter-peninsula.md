@@ -57,7 +57,7 @@ Wherever you are on the Peninsula, [text us](tel:415-484-6493) and we will confi
 
 The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** applies depending on distance — cities closer in often see the lower end.
 
-> **A full substrate change can be a standing appointment, not a weekend project.** Many Peninsula reptile families keep [routine care](/routine-recurring-exotic-pet-care/) on a regular schedule — weekly or every-other-week visits where their caretaker refreshes the substrate, logs temperature and UVB readings, and gives a gentle wellness check, so the enclosure stays just right and basking time carries on undisturbed.
+> **A full substrate change can be a standing appointment, not a weekend project.** Peninsula reptile families can keep [routine care](/routine-recurring-exotic-pet-care/) on a regular schedule — weekly or every-other-week visits where their caretaker refreshes the substrate, logs temperature and UVB readings, and gives a gentle wellness check, so the enclosure stays just right and basking time carries on undisturbed.
 
 ## Frequently Asked Questions
 

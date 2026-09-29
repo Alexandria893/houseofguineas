@@ -43,7 +43,7 @@ We cover the whole city — from the Sunset and Richmond out west to the eastern
 
 Because this is in-city San Francisco, there is **no Peninsula travel surcharge** — the prices above are what you pay. You can read more on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
-> **Substrate changes and UVB checks, handled like clockwork.** Plenty of San Francisco reptile keepers book standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker swaps out substrate, verifies temps and UVB output, refreshes water, and does a calm health check, so the habitat stays dialed in and your reptile keeps basking happily.
+> **Substrate changes and UVB checks, handled like clockwork.** San Francisco reptile keepers can book standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker swaps out substrate, verifies temps and UVB output, refreshes water, and does a calm health check, so the habitat stays dialed in and your reptile keeps basking happily.
 
 ## Frequently Asked Questions
 

@@ -15,7 +15,7 @@ We are based in the Inner Sunset, and for San Francisco pet parents the answer i
 
 - **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder, Alexandria, previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society in Richmond, California, where she administered subcutaneous RHDV2 vaccines. Every member of our team is trained under that same clinical lens.
 - **Species specialization.** Our focus on exotic pets and cats — rabbits, rodents, reptiles, and birds — is genuinely hard to find in San Francisco, where most pet sitters treat exotics as an afterthought.
-- **Clinical-grade care.** We can syringe-feed a GI-stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity and UVB, and recognize the early signs of a crop problem in a parrot. We also know the city's exotic-vet landscape — see our [San Francisco Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians) — so if something goes sideways while you are away, we know exactly where to go.
+- **Clinical-grade care.** We can syringe-feed a GI-stasis rabbit, check a reptile enclosure's humidity and UVB, and recognize the early signs of a crop problem in a parrot. We also know the city's exotic-vet landscape — see our [San Francisco Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians) — so if something goes sideways while you are away, we know exactly where to go.
 - **Care that comes to you.** Your pets stay in their own environment — the single best thing for a prey animal or a reptile with a calibrated habitat — and our caretakers come to them, anywhere in the city. (We do host a small amount of [boarding](/home/services/exotic-pet-care-services-boarding), but those spots are reserved for families outside San Francisco.)
 
 ## Exotic Species We Care For in San Francisco
@@ -54,7 +54,7 @@ If your neighborhood is not on the list, it is almost certainly still covered �
 
 San Francisco is our **primary service area, so no travel surcharge applies** — that is reserved for Peninsula visits. [Text us your dates](tel:415-484-6493) and we will confirm your rate.
 
-> **In town most weeks, with a to-do list that keeps growing?** Pet parents across San Francisco — from the Marina to Bernal Heights — keep us on a standing schedule of weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits, where their caretaker takes care of the enclosure deep-clean, weigh-ins, and a gentle health check, so every evening at home belongs to your little ones.
+> **In town most weeks, with a to-do list that keeps growing?** Pet parents across San Francisco — from the Marina to Bernal Heights — can keep us on a standing schedule of weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits, where their caretaker takes care of the enclosure deep-clean and a gentle health check, so every evening at home belongs to your little ones.
 
 ## Frequently Asked Questions
 

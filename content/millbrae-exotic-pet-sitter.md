@@ -17,7 +17,7 @@ Millbrae sits right between Burlingame and South San Francisco in San Mateo Coun
 
 - **Veterinary background.** Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and our founder previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines. Every caretaker on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
-- **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also keep a current map of the [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/), so if something goes sideways while you are mid-flight, we know exactly where to go.
+- **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also keep a current map of the [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/), so if something goes sideways while you are mid-flight, we know exactly where to go.
 - **Flexible scheduling.** Early-morning visits before an SFO departure, late-night visits after a red-eye arrival, and mid-day medication timing — we build the schedule around your flight manifest, not the other way around.
 
 ## Exotic Species We Care For in Millbrae
@@ -46,7 +46,7 @@ Millbrae is compact and easy to navigate, and our team covers all of it — from
 
 Millbrae falls within our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. [Text us](tel:415-484-6493) your address and dates and we will confirm your rate.
 
-> **Routine care reaches Millbrae as well.** Millbrae's BART-and-Caltrain commuters know how short a weekend can feel, so we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker covers the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, leaving your Saturday mornings free for lap time with your little ones.
+> **Routine care reaches Millbrae as well.** Millbrae's BART-and-Caltrain commuters know how short a weekend can feel, so we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker covers the enclosure deep-clean, hay restock, and a gentle health check, leaving your Saturday mornings free for lap time with your little ones.
 
 ## Frequently Asked Questions
 

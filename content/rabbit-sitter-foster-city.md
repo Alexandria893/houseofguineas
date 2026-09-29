@@ -19,7 +19,7 @@ Foster City is a longer drive from a 24/7 exotic ER than Burlingame or San Mateo
 - **RHDV2 vaccine awareness.** California is endemic for Rabbit Hemorrhagic Disease, so to keep every bunny protected, we handle unvaccinated rabbits only in homes where no vaccinated rabbits are present. Haven't gotten yours vaccinated yet? We're happy to talk you through it.
 - **Bonded pair handling.** Bonded pairs need to stay bonded — even temporary separation can break a bond. If one rabbit needs medication and the other doesn't, the protocol is different from a single-rabbit visit. We know the difference.
 - **GI stasis recognition.** A rabbit who's stopped pooping is a medical emergency. We watch for the early signs at every visit — small or absent fecals, hunched posture, refusing favorite greens, teeth grinding.
-- **Long-trip protocols.** Biotech and tech families often travel for two-plus weeks at a time. We're set up for longer visits — restocking hay mid-trip, swapping out litter as needed, monitoring weight if your rabbit is pre-disposed to issues.
+- **Long-trip protocols.** Biotech and tech families often travel for two-plus weeks at a time. We're set up for longer visits — restocking hay mid-trip and swapping out litter as needed.
 - **Litter and hideout cleaning that respects rabbit psychology.** Rabbits are territorial, so while you're away we maintain rather than deep-clean — everything stays smelling like home.
 
 ## What's Included in a Foster City Rabbit Visit
@@ -59,7 +59,7 @@ We cover the lagoon-adjacent stretches and the pockets along Edgewater, the home
 
 Foster City is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. [Text us your address and dates](tel:415-484-6493) for a firm quote.
 
-> **A truly fresh litter box, every single week, without lifting a scoop.** Lots of Foster City rabbit families put [routine care](/routine-recurring-exotic-pet-care/) on repeat — weekly or every-other-week visits where their caretaker manages the enclosure refresh, keeps the hay rack full, records a gram-scale weigh-in, and gives a calm health check, leaving you the best part of rabbit life: the binkies.
+> **A truly fresh litter box, every single week, without lifting a scoop.** Foster City rabbit families can put [routine care](/routine-recurring-exotic-pet-care/) on repeat — weekly or every-other-week visits where their caretaker manages the enclosure refresh, keeps the hay rack full, and gives a calm health check, leaving you the best part of rabbit life: the binkies.
 
 ## Frequently Asked Questions
 
@@ -89,7 +89,7 @@ Foster City is in our Peninsula service tier, so a travel surcharge of $15–$25
 <details class="faq-details">
   <summary class="faq-summary">Do you handle long trips for Foster City families?</summary>
   <div class="faq-answer">
-    <p>Yes — multi-week trips are a big part of life for the Foster City families we care for. We're set up for them: hay restocks mid-trip, weight monitoring if your rabbit is pre-disposed to issues, and consistent updates that tell you the difference between "everything is normal" and "let's check in." If you're going for more than two weeks, we'll usually recommend a small adjustment to visit cadence — let's talk about it at the meet-and-greet.</p>
+    <p>Yes — multi-week trips are a big part of life for the Foster City families we care for. We're set up for them: hay restocks mid-trip and consistent updates that tell you the difference between "everything is normal" and "let's check in." If you're going for more than two weeks, we'll usually recommend a small adjustment to visit cadence — let's talk about it at the meet-and-greet.</p>
   </div>
 </details>
 
@@ -128,7 +128,7 @@ Ready to book in-home rabbit care? [Call or text us at 415-484-6493](tel:415-484
       "name": "Do you handle long trips for Foster City families?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — multi-week trips are a big part of life for the Foster City families we care for. We're set up for them: hay restocks mid-trip, weight monitoring if your rabbit is pre-disposed to issues, and consistent updates that tell you the difference between \"everything is normal\" and \"let's check in.\" If you're going for more than two weeks, we'll usually recommend a small adjustment to visit cadence — let's talk about it at the meet-and-greet."
+        "text": "Yes — multi-week trips are a big part of life for the Foster City families we care for. We're set up for them: hay restocks mid-trip and consistent updates that tell you the difference between \"everything is normal\" and \"let's check in.\" If you're going for more than two weeks, we'll usually recommend a small adjustment to visit cadence — let's talk about it at the meet-and-greet."
       }
     },
     {

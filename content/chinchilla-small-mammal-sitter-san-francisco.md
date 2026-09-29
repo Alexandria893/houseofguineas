@@ -1,7 +1,7 @@
 +++
 title = "Chinchilla & Small-Mammal Sitter San Francisco | In-Home Exotic Care"
 shortTitle = "Chinchilla & Small-Mammal Sitter SF"
-description = "In-home chinchilla, ferret, rat & small-mammal sitter in San Francisco. Clinical-grade care — gram-scale weigh-ins, GI-stasis awareness — from a veterinary-informed team."
+description = "In-home chinchilla, ferret, rat & small-mammal sitter in San Francisco. Clinical-grade care — GI-stasis awareness and species-specific handling — from a veterinary-informed team."
 og_image = "chinchillaChewingOnTreat.jpg"
 [sitemap]
   priority = 0.8
@@ -26,12 +26,12 @@ House of Guineas is based in San Francisco's Inner Sunset, and small mammals are
 ## Why San Francisco Small-Mammal Owners Choose Us
 
 - **A veterinary-informed team.** Our team's backgrounds span wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and every caretaker is trained under that same clinical lens. Our founder previously worked as an exotic veterinary assistant and previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines.
-- **Clinical-grade monitoring.** We weigh small mammals on a gram scale to catch weight loss before it's visible, monitor appetite and output, and can syringe-feed critical-care formula to an animal that's gone off its food. In a small mammal, a gut that goes quiet is an emergency — not a wait-and-see.
+- **Clinical-grade monitoring.** We monitor appetite and output to catch problems early, and can syringe-feed critical-care formula to an animal that's gone off its food. In a small mammal, a gut that goes quiet is an emergency — not a wait-and-see.
 - **Species specialization.** Exotics are our whole focus. That kind of expertise is genuinely hard to find in San Francisco.
 
 ## Not Just for Vacations — Recurring Care Too
 
-Small mammals need *frequent* upkeep: weekly cage deep-cleans, constant fresh hay, dust baths, weigh-ins. That's a lot to stay on top of when life is busy — which is exactly why small-mammal pet parents are the families we visit most often on a recurring schedule. Keep us on a standing weekly or biweekly schedule and hand off the maintenance, so your time with your pet is the fun part. See our [routine & recurring care plans](/routine-recurring-exotic-pet-care/).
+Small mammals need *frequent* upkeep: weekly cage deep-cleans, constant fresh hay, and dust baths. That's a lot to stay on top of when life is busy — which is exactly where routine care comes in. Keep us on a standing weekly or biweekly schedule and hand off the maintenance, so your time with your pet is the fun part. See our [routine & recurring care plans](/routine-recurring-exotic-pet-care/).
 
 ## Pricing
 
@@ -68,7 +68,7 @@ No Peninsula travel surcharge within San Francisco. (We do host a small amount o
 <details class="faq-details">
   <summary class="faq-summary">Why not just use a regular pet sitter?</summary>
   <div class="faq-answer">
-    <p>Small mammals are easy to underestimate. A gram-scale weigh-in, spotting the early signs of GI stasis, syringe-feeding critical-care formula, or knowing a chinchilla can't tolerate heat — these aren't things a general dog-and-cat sitter is trained for. Our caretakers are, trained to the standard set by our team's exotic veterinary hospital experience.</p>
+    <p>Small mammals are easy to underestimate. Spotting the early signs of GI stasis, syringe-feeding critical-care formula, or knowing a chinchilla can't tolerate heat — these aren't things a general dog-and-cat sitter is trained for. Our caretakers are, trained to the standard set by our team's exotic veterinary hospital experience.</p>
   </div>
 </details>
 
@@ -109,7 +109,7 @@ Ready to book care for your small companion? [Call or text 415-484-6493](tel:415
       "name": "Why not just use a regular pet sitter?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Small mammals are easy to underestimate. A gram-scale weigh-in, spotting the early signs of GI stasis, syringe-feeding critical-care formula, or knowing a chinchilla can't tolerate heat — these aren't things a general dog-and-cat sitter is trained for. Our caretakers are, trained to the standard set by our team's exotic veterinary hospital experience."
+        "text": "Small mammals are easy to underestimate. Spotting the early signs of GI stasis, syringe-feeding critical-care formula, or knowing a chinchilla can't tolerate heat — these aren't things a general dog-and-cat sitter is trained for. Our caretakers are, trained to the standard set by our team's exotic veterinary hospital experience."
       }
     },
     {

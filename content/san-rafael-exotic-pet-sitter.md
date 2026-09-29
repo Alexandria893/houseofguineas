@@ -16,7 +16,7 @@ House of Guineas has an exotic pet caretaker based in Central Marin, minutes fro
 - **Local to Marin.** Our caretaker lives in the county, so San Rafael visits are quick to schedule and light on travel cost — no Golden Gate commute baked into your bill.
 - **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every pet caretaker on our team is trained under that same clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus — not an afterthought squeezed in between dog walks.
-- **Clinical-grade care.** We can syringe-feed a rabbit in GI stasis, weigh a guinea pig on a gram scale, check a reptile's humidity and UVB, and recognize the early warning signs in a bird. If something seems off while you're away, we know the nearest exotic vets.
+- **Clinical-grade care.** We can syringe-feed a rabbit in GI stasis, check a reptile's humidity and UVB, and recognize the early warning signs in a bird. If something seems off while you're away, we know the nearest exotic vets.
 
 ## Exotic Species We Care For in San Rafael
 
@@ -42,7 +42,7 @@ We start with a free meet-and-greet at your home — a walkthrough of feeding ro
 
 Because our caretaker is based in Central Marin, San Rafael sits in our **no-surcharge to $15/visit range** — nothing like the cost a San Francisco-based sitter would have to charge to cross the bridge. Text us your address and dates and we'll confirm your exact rate.
 
-> **With our caretaker based just down the road in Central Marin,** it's simple to set up standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits that cover the deep enclosure clean, weigh-ins, and a gentle health once-over — so whether you're downtown near Fourth Street or up in Terra Linda, your evenings belong to lap time with your little ones.
+> **With our caretaker based just down the road in Central Marin,** it's simple to set up standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits that cover the deep enclosure clean and a gentle health once-over — so whether you're downtown near Fourth Street or up in Terra Linda, your evenings belong to lap time with your little ones.
 
 ## Frequently Asked Questions
 

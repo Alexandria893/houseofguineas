@@ -16,7 +16,7 @@ House of Guineas is San Francisco's exotic pet care company, and our Marin caret
 - **Local to Marin.** No Golden Gate commute in your schedule or your bill. Our caretaker reaches San Anselmo, Ross, and Fairfax quickly and can keep visit timing flexible.
 - **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder, Alexandria, previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines — and the whole team is trained under that clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
-- **Clinical-grade care.** We can syringe-feed a stasis rabbit, weigh a guinea pig on a gram scale, verify a reptile's UVB and humidity, and spot early illness in a bird.
+- **Clinical-grade care.** We can syringe-feed a stasis rabbit, verify a reptile's UVB and humidity, and spot early illness in a bird.
 
 ## Exotic Species We Care For in the Ross Valley
 
@@ -42,7 +42,7 @@ We start with a free meet-and-greet at your home to learn feeding routines, encl
 
 Because our caretaker is based in Central Marin, San Anselmo and the Ross Valley fall in our **no-surcharge to $15/visit range**. Text us your address and dates and we will confirm your exact rate.
 
-> **With our caretaker living just minutes away in Central Marin,** many Ross Valley families keep a standing [routine care](/routine-recurring-exotic-pet-care/) visit on the calendar — weekly or every-other-week — so the enclosure deep-clean, weigh-ins, and a gentle health check happen right on schedule between school pickups and soccer practice, and the little ones get unhurried, focused attention every time.
+> **With our caretaker living just minutes away in Central Marin,** Ross Valley families can keep a standing [routine care](/routine-recurring-exotic-pet-care/) visit on the calendar — weekly or every-other-week — so the enclosure deep-clean and a gentle health check happen right on schedule between school pickups and soccer practice, and the little ones get unhurried, focused attention every time.
 
 ## Frequently Asked Questions
 

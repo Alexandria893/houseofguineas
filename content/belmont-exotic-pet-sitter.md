@@ -7,7 +7,7 @@ og_image = "milo.jpeg"
   priority = 0.8
 +++
 
-Belmont is one of those Peninsula towns that quietly runs on a commuter rhythm. Tucked into the hilly, wooded folds of San Mateo County between San Mateo and San Carlos, it is full of professionals who spend their weeks on the Caltrain corridor, the 101, and the 280 — and whose weekends and vacations depend on someone reliable holding down the home front. When that home front includes a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who needs his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never weighed a guinea pig on a gram scale. That is the gap our team fills.
+Belmont is one of those Peninsula towns that quietly runs on a commuter rhythm. Tucked into the hilly, wooded folds of San Mateo County between San Mateo and San Carlos, it is full of professionals who spend their weeks on the Caltrain corridor, the 101, and the 280 — and whose weekends and vacations depend on someone reliable holding down the home front. When that home front includes a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who needs his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never trimmed a guinea pig's nails. That is the gap our team fills.
 
 House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet caretakers travels down the Peninsula to provide in-home care for Belmont households. From the homes climbing toward Water Dog Lake to the Carlmont neighborhoods near the high school, and the quiet streets off Ralston Avenue, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
 
@@ -17,7 +17,7 @@ Belmont is a town full of people who think carefully and plan ahead — engineer
 
 - **Veterinary-informed care.** Our team's backgrounds span wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience) — including our founder, Alexandria, who previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every member of our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That kind of focus is genuinely hard to find on the Peninsula.
-- **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory.
+- **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before a commute or a flight, evening visits after a long day, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
 
 ## Exotic Species We Care For in Belmont
@@ -46,7 +46,7 @@ Belmont's terrain is part of the charm and part of the logistics — the wooded 
 
 Belmont is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from our Inner Sunset base. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
-> **Routine care makes the trip to Belmont, too.** Between school runs and those winding canyon-hill commutes, weekly cage day has a way of slipping — so we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits, where their caretaker takes on the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, and you keep the cuddles.
+> **Routine care makes the trip to Belmont, too.** Between school runs and those winding canyon-hill commutes, weekly cage day has a way of slipping — so we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits, where their caretaker takes on the enclosure deep-clean, hay restock, and a gentle health check, and you keep the cuddles.
 
 ## Frequently Asked Questions
 

@@ -70,7 +70,7 @@ San Mateo falls within our Peninsula service tier. A travel surcharge of $15–$
 
 If you'd prefer drop-off boarding instead of in-home visits, our [boarding service](/home/services/exotic-pet-care-services-boarding) is hosted personally by members of our team in their San Francisco homes — and because we reserve those limited spots for pet parents outside San Francisco, San Mateo families get priority.
 
-> **Routine care visits happen in San Mateo, too.** For families juggling long workweeks between Hillsdale and downtown, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, restocks the hay, logs a weigh-in, and gives everyone a gentle once-over, so your evenings with your little ones are about floor time, not chore time.
+> **Routine care visits happen in San Mateo, too.** For families juggling long workweeks between Hillsdale and downtown, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, restocks the hay, and gives everyone a gentle once-over, so your evenings with your little ones are about floor time, not chore time.
 
 ## Frequently Asked Questions
 

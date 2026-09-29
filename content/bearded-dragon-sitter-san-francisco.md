@@ -31,7 +31,7 @@ Bearded dragon care is environmental care first. Every visit, our caretakers:
 
 ## Recurring Habitat Checks — Not Just Vacation Cover
 
-You don't have to be traveling to book us. Many beardie parents keep us on a **recurring schedule** — a periodic professional check on the enclosure they'd rather not get wrong: UVB bulb age (they lose output long before they burn out), basking and ambient temps, and a general wellness look at the dragon itself. If you'd like steady, ongoing peace of mind rather than one-off trip coverage, see our [routine & recurring care plans](/routine-recurring-exotic-pet-care/).
+You don't have to be traveling to book us. You can also keep us on a **recurring schedule** — a periodic professional check on the enclosure they'd rather not get wrong: UVB bulb age (they lose output long before they burn out), basking and ambient temps, and a general wellness look at the dragon itself. If you'd like steady, ongoing peace of mind rather than one-off trip coverage, see our [routine & recurring care plans](/routine-recurring-exotic-pet-care/).
 
 ## Pricing for Bearded Dragon Visits
 

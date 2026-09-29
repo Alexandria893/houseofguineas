@@ -1,7 +1,7 @@
 +++
 title = "Exotic Pet Care Services & Rates | San Francisco & Peninsula"
 shortTitle = "Services & Rates"
-description = "Exotic pet care services across San Francisco and the Peninsula — routine weekly care and in-home pet sitting for rabbits, guinea pigs, chinchillas, reptiles and birds by veterinary-trained caretakers. View rates and book today."
+description = "Exotic pet care services across San Francisco and the Peninsula — routine Deep Cleans, Upkeep and Nail Trims, plus in-home travel sitting for rabbits, guinea pigs, chinchillas, reptiles and birds by veterinary-trained caretakers. View rates and book today."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.9
@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 House of Guineas provides specialized in-home care for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds** across San Francisco and the Peninsula. Our veterinary-informed team brings backgrounds from wildlife rehabilitation to exotic veterinary hospital work, and is trained specifically in exotic species.
 
-Routine care is the heart of what we do — standing weekly or every-other-week visits that keep the enclosure clean and your pet checked over by expert eyes. And when a trip comes up, our travel sitting means your pet is cared for by a team they already know.
+Routine care is the heart of what we do — Deep Cleans, Upkeep, and Nail Trims on a standing schedule, keeping the enclosure clean and your pet checked over by expert eyes. And when a trip comes up, our travel sitting means your pet is cared for by a team they already know.
 
 ---
 
@@ -17,25 +17,25 @@ Routine care is the heart of what we do — standing weekly or every-other-week 
 
 Standing weekly or every-other-week visits in your pet's own home — the upkeep handled, so your time together is play and cuddles, not chores.
 
-**From $105/visit weekly, or $115/visit every other week.**
+**Three standing plans, from $105/visit.** Every visit comes with a gentle wellness check — a look at habitat temps and UVB and a trained eye for early signs of trouble — plus a photo update. Because exotics hide illness until it's serious, consistent expert eyes catch small things before they become big ones.
 
-Every routine visit covers full enclosure cleaning with fresh litter, bedding and liners, hay restocked and chop prepped, plus a gentle wellness check — gram-scale weigh-ins, habitat temps and UVB, and a trained eye for early signs of trouble. Because exotics hide illness until it's serious, consistent expert eyes catch small things before they become big ones. Photo update every visit.
-
-<details style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #eee; border-radius: 8px; background: #fafaf8;">
-  <summary style="font-weight: 600; cursor: pointer; font-size: 1.05em;">See all routine care plans</summary>
-  <div style="padding-top: 1rem;">
-    <p><strong>Weekly</strong></p>
-    <ul>
-      <li>1 hour — $105/visit (~$450/month)</li>
-      <li>2 hours — $185/visit (~$795/month)</li>
-    </ul>
-    <p style="margin-top: 1rem;"><strong>Every Other Week</strong></p>
-    <ul>
-      <li>1 hour — $115/visit (~$245/month)</li>
-      <li>2 hours — $195/visit (~$420/month)</li>
-    </ul>
-  </div>
-</details>
+<div style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #eee; border-radius: 8px; background: #fafaf8;">
+  <p><strong>Deep Clean — weekly or every other week</strong><br>The full enclosure reset: everything out, surfaces scrubbed and disinfected, bedding and liners swapped, hides and bowls washed.</p>
+  <ul>
+    <li>Weekly — $105/visit for 1 hour (~$450/month) · $185/visit for 2 hours (~$795/month)</li>
+    <li>Every other week — $115/visit for 1 hour (~$245/month) · $195/visit for 2 hours (~$420/month)</li>
+  </ul>
+  <p style="margin-top: 1rem;"><strong>Upkeep — weekly or every other week</strong><br>Spot-cleaning, liners and litter refreshed, hay restocked, chop prepped, fresh water, and enrichment rotated.</p>
+  <ul>
+    <li>Weekly — $105/visit for 1 hour (~$450/month) · $185/visit for 2 hours (~$795/month)</li>
+    <li>Every other week — $115/visit for 1 hour (~$245/month) · $195/visit for 2 hours (~$420/month)</li>
+  </ul>
+  <p style="margin-top: 1rem;"><strong>Nail Trims — every other week</strong><br>Gentle, unhurried trims, a close look at feet and pads, and one-on-one handling time in the comfort of their home.</p>
+  <ul>
+    <li>1 hour — $115/visit (~$245/month)</li>
+    <li>2 hours — $195/visit (~$420/month)</li>
+  </ul>
+</div>
 
 [See full routine care details →](/routine-recurring-exotic-pet-care/)
 

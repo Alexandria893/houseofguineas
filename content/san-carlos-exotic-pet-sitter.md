@@ -17,7 +17,7 @@ San Carlos is full of people who pay attention to detail — engineers, clinicia
 
 - **Veterinary-informed team.** Our team's backgrounds span wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience). Our founder previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every caretaker on our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That focus is hard to find on the Peninsula.
-- **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, weigh a guinea pig on a gram scale, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also keep a current sense of the local exotic vet landscape, so if something goes sideways while you are out of town, we know where to go — see our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory.
+- **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, check a reptile's enclosure humidity, and recognize the early signs of a crop issue in a parrot. We also keep a current sense of the local exotic vet landscape, so if something goes sideways while you are out of town, we know where to go — see our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before a flight out of SFO, late-night visits after a redeye, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
 
 ## Exotic Species We Care For in San Carlos
@@ -48,7 +48,7 @@ Because San Carlos sits right between two of our most-requested Peninsula cities
 
 San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from our Inner Sunset base. Text us your address and dates and we will confirm your rate.
 
-> **Routine care is available in San Carlos as well.** For families who would rather spend an evening strolling Laurel Street than scrubbing a cage, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, hay restock, weigh-ins, and a gentle health check, so your little ones get a spotless home and your undivided attention.
+> **Routine care is available in San Carlos as well.** For families who would rather spend an evening strolling Laurel Street than scrubbing a cage, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, hay restock, and a gentle health check, so your little ones get a spotless home and your undivided attention.
 
 ## Frequently Asked Questions
 
