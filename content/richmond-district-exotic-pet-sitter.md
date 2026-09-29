@@ -44,7 +44,7 @@ The Richmond stretches from Golden Gate Park in the south up to the Presidio and
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-The Richmond is within San Francisco — our home city — just across Golden Gate Park from our Inner Sunset base, so there is no Peninsula travel surcharge. Pricing here is simple and in-city. Boarding — hosted personally by members of our team in their San Francisco homes — is a short trip away too. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+The Richmond is within San Francisco — our home city — just across Golden Gate Park from our Inner Sunset base, so there is no Peninsula travel surcharge. Pricing here is simple and in-city. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 > **Rather spend your evenings on floor time than fleece changes?** Many Richmond pet parents — just across Golden Gate Park from our base — schedule recurring [routine care](/routine-recurring-exotic-pet-care/) visits weekly or every other week. Their caretaker covers the habitat deep-clean, weight tracking, and a gentle health check, keeping your time at home centered on the animals themselves.
 
@@ -97,7 +97,7 @@ The Richmond is within San Francisco — our home city — just across Golden Ga
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in the Richmond?</summary>
   <div class="faq-answer">
-    <p>Yes — a few spots at a time. Boarding is hosted personally by members of our team in their San Francisco homes, just across Golden Gate Park from the Richmond, at $125 per night; your pet's usual enclosure and supplies come with them. Full details live on the boarding page.</p>
+    <p>For Richmond families, in-home visits are the better fit. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin, where in-home visits mean travel surcharges. The Richmond is just across Golden Gate Park from our Inner Sunset base, with no surcharge and plenty of caretaker availability, and your little ones stay in the home they know.</p>
   </div>
 </details>
 
@@ -110,7 +110,7 @@ The Richmond is within San Francisco — our home city — just across Golden Ga
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding), hosted personally by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). Looking across the rest of the city? Start with our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) hub. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in the Richmond will want our [guinea pig care guide](/post/guinea-pig-care-guide).
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home) or browse the full [FAQ page](/home/services/faqs). Looking across the rest of the city? Start with our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) hub. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in the Richmond will want our [guinea pig care guide](/post/guinea-pig-care-guide).
 
 <script type="application/ld+json">
 {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in the Richmond?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — a few spots at a time. Boarding is hosted personally by members of our team in their San Francisco homes, just across Golden Gate Park from the Richmond, at $125 per night; your pet's usual enclosure and supplies come with them. Full details live on the boarding page."
+        "text": "For Richmond families, in-home visits are the better fit. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin, where in-home visits mean travel surcharges. The Richmond is just across Golden Gate Park from our Inner Sunset base, with no surcharge and plenty of caretaker availability, and your little ones stay in the home they know."
       }
     },
     {

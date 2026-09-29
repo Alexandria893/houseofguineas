@@ -97,7 +97,7 @@ Belmont is in our Peninsula service tier, so a travel surcharge of $15–$25/vis
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Belmont?</summary>
   <div class="faq-answer">
-    <p>You can. Boarding runs $125 per night in the San Francisco homes of our team members, who host each stay personally — a straightforward drive up the 280 from Belmont. Spots are limited, so reserve early, and plan to bring your pet's usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>You can. Boarding runs $125 per night in the San Francisco homes of our team members, who host each stay personally — a straightforward drive up the 280 from Belmont. Spots are limited, but we reserve them for pet parents outside San Francisco, so Belmont families get priority — just reserve early and plan to bring your pet's usual enclosure and supplies. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet instead of booking in-home visits in Belmont?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can. Boarding runs $125 per night in the San Francisco homes of our team members, who host each stay personally — a straightforward drive up the 280 from Belmont. Spots are limited, so reserve early, and plan to bring your pet's usual enclosure and supplies. Full details are on the boarding page."
+        "text": "You can. Boarding runs $125 per night in the San Francisco homes of our team members, who host each stay personally — a straightforward drive up the 280 from Belmont. Spots are limited, but we reserve them for pet parents outside San Francisco, so Belmont families get priority — just reserve early and plan to bring your pet's usual enclosure and supplies. Full details are on the boarding page."
       }
     },
     {

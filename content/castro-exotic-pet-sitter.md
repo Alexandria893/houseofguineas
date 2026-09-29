@@ -97,7 +97,7 @@ The Castro is within San Francisco, our home city, so there is no Peninsula trav
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in the Castro?</summary>
   <div class="faq-answer">
-    <p>We do offer it. Boarding is hosted personally by members of our team in their San Francisco homes — a short trip from the Castro — at $125 per night, with limited spots, and you bring your pet's usual enclosure and supplies. Details are on the boarding page.</p>
+    <p>For Castro families, in-home visits are the answer. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin, where in-home visits mean travel surcharges. Since the Castro is squarely in our no-surcharge city coverage, in-home care gives you far more availability, and your little ones stay in the home they know.</p>
   </div>
 </details>
 
@@ -110,7 +110,7 @@ The Castro is within San Francisco, our home city, so there is no Peninsula trav
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding), hosted personally by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). Want to see the whole city we cover? Start with our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) hub. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in the Castro will want our [guinea pig care guide](/post/guinea-pig-care-guide).
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home) or browse the full [FAQ page](/home/services/faqs). Want to see the whole city we cover? Start with our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) hub. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in the Castro will want our [guinea pig care guide](/post/guinea-pig-care-guide).
 
 <script type="application/ld+json">
 {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in the Castro?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do offer it. Boarding is hosted personally by members of our team in their San Francisco homes — a short trip from the Castro — at $125 per night, with limited spots, and you bring your pet's usual enclosure and supplies. Details are on the boarding page."
+        "text": "For Castro families, in-home visits are the answer. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin, where in-home visits mean travel surcharges. Since the Castro is squarely in our no-surcharge city coverage, in-home care gives you far more availability, and your little ones stay in the home they know."
       }
     },
     {

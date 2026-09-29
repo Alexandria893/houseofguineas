@@ -55,4 +55,4 @@ In multi-pet households, the cat is included when care can be done within the sa
 
 ---
 
-Ready to book? [Call or text us at 415-484-6493](tel:415-484-6493) and we'll set up a free meet-and-greet to walk through your full household — exotics, cat, and all. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home/), our [boarding option](/home/services/exotic-pet-care-services-boarding/), or our broader [services and rates page](/services/).
+Ready to book? [Call or text us at 415-484-6493](tel:415-484-6493) and we'll set up a free meet-and-greet to walk through your full household — exotics, cat, and all. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home/) or our broader [services and rates page](/services/).

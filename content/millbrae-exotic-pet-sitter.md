@@ -97,7 +97,7 @@ Millbrae falls within our Peninsula service tier, so a travel surcharge of $15�
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet with you instead of in-home sitting?</summary>
   <div class="faq-answer">
-    <p>Absolutely — members of our team host boarding personally in their San Francisco homes, an easy hop up the 101 from Millbrae. It runs $125 per night, spots are limited, and we ask that you bring your pet's usual enclosure and supplies.</p>
+    <p>Absolutely — members of our team host boarding personally in their San Francisco homes, an easy hop up the 101 from Millbrae. It runs $125 per night, and while spots are limited, we reserve them for pet parents outside San Francisco — so Peninsula families like you get priority. Just bring your pet's usual enclosure and supplies.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet with you instead of in-home sitting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely — members of our team host boarding personally in their San Francisco homes, an easy hop up the 101 from Millbrae. It runs $125 per night, spots are limited, and we ask that you bring your pet's usual enclosure and supplies."
+        "text": "Absolutely — members of our team host boarding personally in their San Francisco homes, an easy hop up the 101 from Millbrae. It runs $125 per night, and while spots are limited, we reserve them for pet parents outside San Francisco — so Peninsula families like you get priority. Just bring your pet's usual enclosure and supplies."
       }
     },
     {

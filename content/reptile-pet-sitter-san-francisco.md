@@ -41,7 +41,7 @@ We cover the whole city — from the Sunset and Richmond out west to the eastern
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and the complexity of the setup
 
-Because this is in-city San Francisco, there is **no Peninsula travel surcharge** — the prices above are what you pay. If you would rather your reptile stay with us, boarding is hosted personally by members of our team in their San Francisco homes for **$125/night**. You can read more on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+Because this is in-city San Francisco, there is **no Peninsula travel surcharge** — the prices above are what you pay. You can read more on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 > **Substrate changes and UVB checks, handled like clockwork.** Plenty of San Francisco reptile keepers book standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker swaps out substrate, verifies temps and UVB output, refreshes water, and does a calm health check, so the habitat stays dialed in and your reptile keeps basking happily.
 
@@ -94,7 +94,7 @@ Because this is in-city San Francisco, there is **no Peninsula travel surcharge*
 <details class="faq-details">
   <summary class="faq-summary">Do you offer reptile boarding?</summary>
   <div class="faq-answer">
-    <p>Yes, though spots are limited. Team members host boarding personally in their own San Francisco homes for $125 per night, and you bring your reptile's usual enclosure and supplies. Because moving a calibrated habitat is stressful for the animal, most reptile families land on in-home visits instead — we are happy to help you weigh the two.</p>
+    <p>We do host reptile boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it is an easy call anyway: moving a calibrated habitat is stressful for the animal, and our caretakers come to your reptile anywhere in SF with no travel surcharge — the enclosure never has to move an inch.</p>
   </div>
 </details>
 
@@ -107,7 +107,7 @@ Because this is in-city San Francisco, there is **no Peninsula travel surcharge*
 
 ---
 
-Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding), hosted by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). For species-specific fundamentals, see our [reptile and amphibian care guide](/reptile-amphibian-care-guide), and if you are still getting set up with a vet, our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start.
+Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home) or browse the full [FAQ page](/home/services/faqs). For species-specific fundamentals, see our [reptile and amphibian care guide](/reptile-amphibian-care-guide), and if you are still getting set up with a vet, our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start.
 
 <script type="application/ld+json">
 {
@@ -143,7 +143,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "Do you offer reptile boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, though spots are limited. Team members host boarding personally in their own San Francisco homes for $125 per night, and you bring your reptile's usual enclosure and supplies. Because moving a calibrated habitat is stressful for the animal, most reptile families land on in-home visits instead — we are happy to help you weigh the two."
+        "text": "We do host reptile boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it is an easy call anyway: moving a calibrated habitat is stressful for the animal, and our caretakers come to your reptile anywhere in SF with no travel surcharge — the enclosure never has to move an inch."
       }
     },
     {

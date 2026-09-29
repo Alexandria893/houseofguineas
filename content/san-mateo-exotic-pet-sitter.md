@@ -68,7 +68,7 @@ Our base rates are straightforward:
 
 San Mateo falls within our Peninsula service tier. A travel surcharge of $15–$25/visit applies, depending on distance — families near Hillsdale Mall or downtown off the 101/92 junction often see lower surcharges than more distant pockets. [Call or text us at 415-484-6493](tel:415-484-6493) for a quote specific to your address and pet lineup.
 
-If you'd prefer drop-off boarding instead of in-home visits, our [boarding service](/home/services/exotic-pet-care-services-boarding) is hosted personally by members of our team in their San Francisco homes — San Mateo families are welcome to drop off any time.
+If you'd prefer drop-off boarding instead of in-home visits, our [boarding service](/home/services/exotic-pet-care-services-boarding) is hosted personally by members of our team in their San Francisco homes — and because we reserve those limited spots for pet parents outside San Francisco, San Mateo families get priority.
 
 > **Routine care visits happen in San Mateo, too.** For families juggling long workweeks between Hillsdale and downtown, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, restocks the hay, logs a weigh-in, and gives everyone a gentle once-over, so your evenings with your little ones are about floor time, not chore time.
 

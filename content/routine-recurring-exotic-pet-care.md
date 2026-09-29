@@ -1,7 +1,7 @@
 +++
 title = "Routine Exotic Pet Care in SF, Peninsula & Marin | Cage Cleaning, Weigh-Ins & Health Checks"
 shortTitle = "Routine Care"
-description = "Weekly or biweekly in-home exotic pet care across San Francisco, the Peninsula & Marin — a standing cage-cleaning service plus gentle health checks for guinea pigs, rabbits, birds & reptiles. Reclaim your evenings."
+description = "Weekly or biweekly in-home exotic pet care across San Francisco, the Peninsula & Marin — a standing cage-cleaning service with nail trims, enrichment rotation & gentle health checks for guinea pigs, rabbits, birds & reptiles. Reclaim your evenings."
 og_image = "lionheadBunnyWithTreats.jpg"
 [params]
   serviceType = "Recurring Exotic Pet Care"
@@ -17,8 +17,8 @@ You come home tired, the enclosure needs cleaning, and the mental checklist star
 ## What a Routine Visit Includes
 
 - **Preventative care with enclosure maintenance** — full cage cleaning and deep-clean, fresh litter and bedding, liners swapped.
-- **Meals & enrichment** — hay restocked, chop prepped, fresh water, plus handling and play.
-- **A gentle wellness check** — gram-scale weigh-ins, habitat temps and UVB, a trained eye for early signs of trouble — with a photo update every visit.
+- **Meals & enrichment rotation** — hay restocked, chop prepped, fresh water, toys and foraging setups rotated so things stay interesting, plus handling and play.
+- **A gentle wellness check** — gram-scale weigh-ins, nail trims as needed, habitat temps and UVB, a trained eye for early signs of trouble — with a photo update every visit.
 
 Every visit is a wellness check from our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) — people who know what healthy looks like for your species. *([Why busy pet parents book routine care →](/post/exotic-pet-care-while-at-work-busy-schedule/))*
 
@@ -52,7 +52,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
 <details class="faq-details">
   <summary class="faq-summary">How is routine care different from in-home travel care?</summary>
   <div class="faq-answer">
-    <p>Both happen in your pet's own home — we always come to you, no drop-off, no kennels. In-home travel care covers your pet for a defined trip and ends when you return. Routine care is an ongoing, standing arrangement — the same caretaker visiting weekly or every other week to handle upkeep, weigh-ins, and health checks. It's for pet parents who are home but busy, not just those who are away. (Prefer your pet stay overnight somewhere while you travel? That's our separate <a href="/home/services/exotic-pet-care-services-boarding/">boarding</a> service.)</p>
+    <p>Both happen in your pet's own home — we always come to you, no drop-off, no kennels. In-home travel care covers your pet for a defined trip and ends when you return. Routine care is an ongoing, standing arrangement — the same caretaker visiting weekly or every other week to handle upkeep, weigh-ins, and health checks. It's for pet parents who are home but busy, not just those who are away. (Prefer your pet stay overnight somewhere while you travel? That's our separate <a href="/home/services/exotic-pet-care-services-boarding/">boarding</a> service, reserved for pet parents outside San Francisco.)</p>
   </div>
 </details>
 
@@ -73,7 +73,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
 <details class="faq-details">
   <summary class="faq-summary">Is this a cage cleaning service for guinea pigs and rabbits?</summary>
   <div class="faq-answer">
-    <p>Yes — and a little more. Every routine visit includes the full cage cleaning: liners swapped, litter boxes refreshed, hay restocked, fresh water, enclosure wiped down. What makes it special is who's doing it — a caretaker from our veterinary-informed team who weighs your pet on a gram scale and looks them over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome.</p>
+    <p>Yes — and a little more. Every routine visit includes the full cage cleaning: liners swapped, litter boxes refreshed, hay restocked, fresh water, enclosure wiped down. What makes it special is who's doing it — a caretaker from our veterinary-informed team who weighs your pet on a gram scale, trims nails as needed, and looks them over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome.</p>
   </div>
 </details>
 
@@ -83,7 +83,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
   "@type": "Service",
   "name": "Routine & Recurring Exotic Pet Care",
   "serviceType": "Recurring in-home exotic pet care",
-  "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — weekly or every-other-week visits in your pet's own home, including full cage cleaning and deep-cleans, gram-scale weigh-ins, and health checks, from a veterinary-informed team.",
+  "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — weekly or every-other-week visits in your pet's own home, including full cage cleaning and deep-cleans, nail trims, enrichment rotation, gram-scale weigh-ins, and health checks, from a veterinary-informed team.",
   "provider": {
     "@type": "LocalBusiness",
     "@id": "https://houseofguineas.com/#localbusiness"
@@ -118,7 +118,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
       "name": "How is routine care different from in-home travel care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Both happen in your pet's own home \u2014 we always come to you, no drop-off, no kennels. In-home travel care covers your pet for a defined trip and ends when you return. Routine care is an ongoing, standing arrangement \u2014 the same caretaker visiting weekly or every other week to handle upkeep, weigh-ins, and health checks. It's for pet parents who are home but busy, not just those who are away. (Prefer your pet stay overnight somewhere while you travel? That's our separate boarding service.)"
+        "text": "Both happen in your pet's own home \u2014 we always come to you, no drop-off, no kennels. In-home travel care covers your pet for a defined trip and ends when you return. Routine care is an ongoing, standing arrangement \u2014 the same caretaker visiting weekly or every other week to handle upkeep, weigh-ins, and health checks. It's for pet parents who are home but busy, not just those who are away. (Prefer your pet stay overnight somewhere while you travel? That's our separate boarding service, reserved for pet parents outside San Francisco.)"
       }
     },
     {
@@ -142,7 +142,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
       "name": "Is this a cage cleaning service for guinea pigs and rabbits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes \u2014 and a little more. Every routine visit includes the full cage cleaning: liners swapped, litter boxes refreshed, hay restocked, fresh water, enclosure wiped down. What makes it special is who's doing it \u2014 a caretaker from our veterinary-informed team who weighs your pet on a gram scale and looks them over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome."
+        "text": "Yes \u2014 and a little more. Every routine visit includes the full cage cleaning: liners swapped, litter boxes refreshed, hay restocked, fresh water, enclosure wiped down. What makes it special is who's doing it \u2014 a caretaker from our veterinary-informed team who weighs your pet on a gram scale, trims nails as needed, and looks them over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome."
       }
     }
   ]
