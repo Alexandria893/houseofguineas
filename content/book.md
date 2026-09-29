@@ -51,6 +51,11 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
   .booking-form .hp { position: absolute; left: -5000px; }
   .booking-form .required { color: #C4704B; }
   .booking-form .form-note { font-size: 0.9rem; color: #666; margin-top: 0.35rem; }
+  .booking-form .start-options { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 0.25rem; }
+  .booking-form .start-options label { font-weight: 600; display: flex; align-items: center; gap: 0.45rem; margin: 0; padding: 0.55rem 1rem; border: 2px solid #C4704B; border-radius: 999px; color: #C4704B; cursor: pointer; }
+  .booking-form .start-options input { accent-color: #C4704B; }
+  .booking-form .start-options label:has(input:checked) { background: #C4704B; color: #fff; }
+  .booking-form .start-options label:has(input:checked) input { accent-color: #fff; }
   @media (max-width: 480px) { .booking-form .check-grid { grid-template-columns: 1fr; } }
 </style>
 
@@ -173,10 +178,40 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
     })();
   </script>
 
+  <div class="form-row" id="routine-start" style="display:none;">
+    <fieldset>
+      <legend>Ready to get your evenings back? Pick your start:</legend>
+      <div class="start-options">
+        <label><input type="radio" name="routine_start" value="This week"> This week</label>
+        <label><input type="radio" name="routine_start" value="Next week"> Next week</label>
+        <label><input type="radio" name="routine_start" value="Later"> A little later</label>
+      </div>
+      <p class="form-note">We'll confirm your free meet-and-greet and first visit right away.</p>
+    </fieldset>
+  </div>
+
   <div class="form-row">
-    <label for="dates">Dates or schedule</label>
+    <label for="dates" id="dates-label">Dates or schedule</label>
     <input type="text" id="dates" name="dates" placeholder="e.g. weekly Tuesdays, or Aug 4–11">
   </div>
+
+  <script>
+    (function () {
+      var service = document.getElementById('service');
+      var start = document.getElementById('routine-start');
+      var label = document.getElementById('dates-label');
+      var dates = document.getElementById('dates');
+      function update() {
+        var routine = service.value.indexOf('Routine:') === 0 ||
+          new URLSearchParams(window.location.search).get('care') === 'routine';
+        start.style.display = routine ? 'block' : 'none';
+        label.textContent = routine ? 'Preferred day(s) and time' : 'Dates or schedule';
+        dates.placeholder = routine ? 'e.g. Tuesday or Thursday evenings' : 'e.g. weekly Tuesdays, or Aug 4–11';
+      }
+      service.addEventListener('change', update);
+      update();
+    })();
+  </script>
 
   <div class="form-row">
     <label for="message">Anything else we should know?</label>
