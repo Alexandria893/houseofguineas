@@ -1449,3 +1449,12 @@ html {
   .plan-card__price-cols { grid-template-columns: 1fr; gap: 0; }
   .plan-card__price-cols .plan-card__prices + .plan-card__prices { border-top: none; padding-top: 8px; }
 }
+
+/* Plan card header: icon beside the plan name */
+.plan-card__head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+.plan-card__head .plan-card__tag { margin-bottom: 0 !important; }
