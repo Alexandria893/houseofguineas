@@ -16,9 +16,9 @@ og_image = "lionheadBunnyWithTreats.jpg"
 
 ## Why Routine Care
 
-- **Get your time back.** No more weekend cage cleaning.
+- **Get your time back.** Spend quality time with your pets instead of keeping up with their husbandry.
 - **Catch problems early.** Exotics hide illness — regular visits from our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) spot changes before they get serious.
-- **A caretaker who knows your pet.** We do our best to send the same person every visit, with a photo update each time.
+- **Private, personalized care.** We are a team of animal lovers that help you spend time with your babies, tailored to their specific needs!
 
 ## Choose Your Plan
 
