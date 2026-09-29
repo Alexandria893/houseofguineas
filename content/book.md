@@ -87,10 +87,8 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
     <select id="service" name="service" required>
       <option value="" disabled selected>Choose one…</option>
       <optgroup label="Routine care — standing visits">
-        <option value="Routine: Deep Clean (weekly)">Deep Clean, weekly — from $105/visit</option>
-        <option value="Routine: Deep Clean (every other week)">Deep Clean, every other week — from $115/visit</option>
-        <option value="Routine: Upkeep (weekly)">Upkeep, weekly — from $105/visit</option>
-        <option value="Routine: Upkeep (every other week)">Upkeep, every other week — from $115/visit</option>
+        <option value="Routine: Cleaning (weekly)">Cleaning (Deep Clean or Upkeep), weekly — from $105/visit</option>
+        <option value="Routine: Cleaning (every other week)">Cleaning (Deep Clean or Upkeep), every other week — from $115/visit</option>
         <option value="Routine: Nail Trims (every other week)">Nail Trims, every other week — from $115/visit</option>
         <option value="Routine: not sure which plan">Routine care — help me pick a plan</option>
       </optgroup>
@@ -100,7 +98,7 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
       </optgroup>
       <option value="Not sure yet">Not sure yet — help me decide</option>
     </select>
-    <p class="form-note" id="routine-note" style="display:none;">Routine care is standing care for busy pet parents, with a gentle wellness check and photo update every visit. <strong>Deep Clean</strong> is the full enclosure reset, and <strong>Upkeep</strong> keeps hay, water, bedding, and enrichment fresh. Either one runs weekly — <strong>$105/visit</strong> for one hour or <strong>$185</strong> for two — or every other week at <strong>$115</strong> or <strong>$195</strong>. <strong>Nail Trims</strong> (every other week) are <strong>$115</strong> or <strong>$195</strong>. You can also mix plans, like weekly Upkeep with an every-other-week Deep Clean. See the <a href="/routine-recurring-exotic-pet-care/">routine care page</a> for everything each plan includes.</p>
+    <p class="form-note" id="routine-note" style="display:none;"><strong>Cleaning</strong> is either a <strong>Deep Clean</strong> (the full enclosure reset) or <strong>Upkeep</strong> (fresh hay, water, bedding, and enrichment) — same rates for either: weekly at <strong>$105/visit</strong> for one hour or <strong>$185</strong> for two, or every other week at <strong>$115</strong> or <strong>$195</strong>. <strong>Nail Trims</strong> (every other week) are <strong>$115</strong> or <strong>$195</strong>. Let us know below which cleaning you'd like, or a mix — we're happy to help you choose at your free meet-and-greet. See the <a href="/routine-recurring-exotic-pet-care/">routine care page</a> for details.</p>
     <p class="form-note" id="travel-note" style="display:none;">While you're away, we come to your pet's own home: <strong>$85</strong> for a 30-minute visit, <strong>$125</strong> for a full hour, or twice-daily care at <strong>$155–$215/day</strong> depending on visit lengths. There's no travel surcharge anywhere in San Francisco; farther out, visits add $15–$25 each depending on distance. See the <a href="/home/services/exotic-pet-care-services-in-home/">in-home care page</a> for the full rate card.</p>
     <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding is <strong>$125/night</strong>, spots are limited, and we <strong>reserve them for pet parents outside San Francisco</strong> — Peninsula and Marin families, where in-home visits add a travel surcharge, get priority, and the farther you are the more welcome you are to ask. If you live in San Francisco, in-home care is the better fit: no travel surcharge anywhere in the city, far more availability, and your little ones stay in the home they know. Please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability.</p>
   </div>
