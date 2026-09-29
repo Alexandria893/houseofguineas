@@ -1,7 +1,7 @@
 +++
-title = "Routine Exotic Pet Care in SF, Peninsula & Marin | Cage Cleaning, Weigh-Ins & Health Checks"
+title = "Routine Exotic Pet Care in SF, Peninsula & Marin | Cage Deep Cleans, Upkeep & Nail Trims"
 shortTitle = "Routine Care"
-description = "Weekly or biweekly in-home exotic pet care across San Francisco, the Peninsula & Marin — a standing cage-cleaning service with nail trims, enrichment rotation & gentle health checks for guinea pigs, rabbits, birds & reptiles. Reclaim your evenings."
+description = "Routine in-home exotic pet care across San Francisco, the Peninsula & Marin — weekly or every-other-week Deep Cleans and Upkeep, plus every-other-week Nail Trims, for guinea pigs, rabbits, birds & reptiles, with a wellness check every visit. From $105/visit."
 og_image = "lionheadBunnyWithTreats.jpg"
 [params]
   serviceType = "Recurring Exotic Pet Care"
@@ -14,25 +14,31 @@ og_image = "lionheadBunnyWithTreats.jpg"
 You come home tired, the enclosure needs cleaning, and the mental checklist starts all over again. Routine care takes that off your plate — we come to your pet's own home and handle the upkeep, so your time together is play and cuddles, not chores. And because exotics hide illness until it's serious, every visit doubles as prevention: consistent expert eyes catching small things before they become big ones.
 <!--more-->
 
-## What a Routine Visit Includes
+## Three Ways to Keep Your Little Ones on Track
 
-- **Preventative care with enclosure maintenance** — full cage cleaning and deep-clean, fresh litter and bedding, liners swapped.
-- **Meals & enrichment rotation** — hay restocked, chop prepped, fresh water, toys and foraging setups rotated so things stay interesting, plus handling and play.
-- **A gentle wellness check** — gram-scale weigh-ins, nail trims as needed, habitat temps and UVB, a trained eye for early signs of trouble — with a photo update every visit.
+Routine care comes in three standing plans — pick the one that fits your pet, or pair them up. Every visit happens in your pet's own home and comes with a gentle wellness check from our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) (gram-scale weigh-in, habitat temps and UVB, a trained eye for early signs of trouble) and a photo update. *([Why busy pet parents book routine care →](/post/exotic-pet-care-while-at-work-busy-schedule/))*
 
-Every visit is a wellness check from our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) — people who know what healthy looks like for your species. *([Why busy pet parents book routine care →](/post/exotic-pet-care-while-at-work-busy-schedule/))*
+### Deep Clean — weekly or every other week
 
-## Routine Care Plans
+The full reset. Everything comes out of the enclosure, surfaces are scrubbed and disinfected, bedding and liners are swapped, litter boxes, hides, and bowls are washed, and everything goes back fresh — so the enclosure never slides into a weekend project.
 
-Standing visits on a schedule you choose — every other week or weekly, one or two hours per visit.
+* **Weekly:** $105/visit for 1 hour (~$450/month) · $185/visit for 2 hours (~$795/month)
+* **Every other week:** $115/visit for 1 hour (~$245/month) · $195/visit for 2 hours (~$420/month)
 
-### Every Other Week
+### Upkeep — weekly or every other week
+
+The steady rhythm that keeps things from building up. Spot-cleaning, liners and litter refreshed, hay restocked, chop prepped, fresh water, and toys and foraging setups rotated so days stay interesting — plus handling and play.
+
+* **Weekly:** $105/visit for 1 hour (~$450/month) · $185/visit for 2 hours (~$795/month)
+* **Every other week:** $115/visit for 1 hour (~$245/month) · $195/visit for 2 hours (~$420/month)
+
+### Nail Trims — every other week
+
+<!-- PLACEHOLDER — replace with Alexandria's description of what a Nail Trim visit includes -->
+Gentle, regular nail trims from caretakers who know exotic feet, so nails never get long enough to snag, curl, or change how your pet walks.
+
 * **1 hour:** $115/visit (~$245/month)
 * **2 hours:** $195/visit (~$420/month)
-
-### Weekly
-* **1 hour:** $105/visit (~$450/month)
-* **2 hours:** $185/visit (~$795/month)
 
 Monthly estimates assume an average month (~4.3 weeks). No travel charge within ~3 miles of Inner Sunset; from $15–$25/visit farther out and across the Peninsula (see [service areas](/home/services/faqs/#service-areas)). In Marin, travel is measured from our caretaker's Central Marin base — so most of Central and Southern Marin has little to no travel charge.
 
@@ -64,16 +70,16 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">How often can you come for routine visits?</summary>
+  <summary class="faq-summary">How often are routine visits?</summary>
   <div class="faq-answer">
-    <p>Routine plans run weekly or every other week, with one- or two-hour visits. Weekly is the sweet spot for keeping most exotic pets' upkeep, feeding, and health monitoring on track — small mammals and birds especially benefit from that rhythm — but we'll recommend the right cadence for your pet at your meet-and-greet.</p>
+    <p>Deep Clean and Upkeep plans run weekly or every other week, and Nail Trims are every other week — all in one- or two-hour visits. Weekly is the sweet spot for keeping most exotic pets' feeding, enrichment, and health monitoring on track — small mammals and birds especially benefit from that rhythm — and you can mix plans, like weekly Upkeep with an every-other-week Deep Clean. We'll recommend the right mix for your pet at your meet-and-greet.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Is this a cage cleaning service for guinea pigs and rabbits?</summary>
   <div class="faq-answer">
-    <p>Yes — and a little more. Every routine visit includes the full cage cleaning: liners swapped, litter boxes refreshed, hay restocked, fresh water, enclosure wiped down. What makes it special is who's doing it — a caretaker from our veterinary-informed team who weighs your pet on a gram scale, trims nails as needed, and looks them over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome.</p>
+    <p>Yes — and a little more. Our Deep Clean is the full reset: everything out, surfaces scrubbed and disinfected, bedding and liners swapped, litter boxes, hides, and bowls washed. Upkeep keeps it fresh in between: spot-cleaning, liners and litter refreshed, hay restocked, fresh water. What makes it special is who's doing it — a caretaker from our veterinary-informed team who weighs your pet on a gram scale and looks them over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome.</p>
   </div>
 </details>
 
@@ -83,10 +89,26 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
   "@type": "Service",
   "name": "Routine & Recurring Exotic Pet Care",
   "serviceType": "Recurring in-home exotic pet care",
-  "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — weekly or every-other-week visits in your pet's own home, including full cage cleaning and deep-cleans, nail trims, enrichment rotation, gram-scale weigh-ins, and health checks, from a veterinary-informed team.",
+  "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — three standing plans in your pet's own home: Deep Cleans and Upkeep visits (weekly or every other week) and every-other-week Nail Trims, each with a gram-scale weigh-in and health check from a veterinary-informed team.",
   "provider": {
     "@type": "LocalBusiness",
     "@id": "https://houseofguineas.com/#localbusiness"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Routine care plans",
+    "itemListElement": [
+      {"@type": "Offer", "name": "Deep Clean \u2014 weekly, 1 hour", "price": "105.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Deep Clean \u2014 weekly, 2 hours", "price": "185.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Deep Clean \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Deep Clean \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Upkeep \u2014 weekly, 1 hour", "price": "105.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Upkeep \u2014 weekly, 2 hours", "price": "185.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Upkeep \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Upkeep \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"}
+    ]
   },
   "areaServed": [
     {"@type": "City", "name": "San Francisco", "addressRegion": "CA"},
@@ -131,10 +153,10 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
     },
     {
       "@type": "Question",
-      "name": "How often can you come for routine visits?",
+      "name": "How often are routine visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Routine plans run weekly or every other week, with one- or two-hour visits. Weekly is the sweet spot for keeping most exotic pets' upkeep, feeding, and health monitoring on track \u2014 small mammals and birds especially benefit from that rhythm \u2014 but we'll recommend the right cadence for your pet at your meet-and-greet."
+        "text": "Deep Clean and Upkeep plans run weekly or every other week, and Nail Trims are every other week \u2014 all in one- or two-hour visits. Weekly is the sweet spot for keeping most exotic pets' feeding, enrichment, and health monitoring on track \u2014 small mammals and birds especially benefit from that rhythm \u2014 and you can mix plans, like weekly Upkeep with an every-other-week Deep Clean. We'll recommend the right mix for your pet at your meet-and-greet."
       }
     },
     {
@@ -142,7 +164,7 @@ Serving all of San Francisco, the Peninsula down to Redwood City, and Marin Coun
       "name": "Is this a cage cleaning service for guinea pigs and rabbits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes \u2014 and a little more. Every routine visit includes the full cage cleaning: liners swapped, litter boxes refreshed, hay restocked, fresh water, enclosure wiped down. What makes it special is who's doing it \u2014 a caretaker from our veterinary-informed team who weighs your pet on a gram scale, trims nails as needed, and looks them over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome."
+        "text": "Yes \u2014 and a little more. Our Deep Clean is the full reset: everything out, surfaces scrubbed and disinfected, bedding and liners swapped, litter boxes, hides, and bowls washed. Upkeep keeps it fresh in between: spot-cleaning, liners and litter refreshed, hay restocked, fresh water. What makes it special is who's doing it \u2014 a caretaker from our veterinary-informed team who weighs your pet on a gram scale and looks them over while they work, so small changes get noticed early. Guinea pigs, rabbits, chinchillas, birds, and reptiles are all welcome."
       }
     }
   ]

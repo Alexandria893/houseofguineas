@@ -1321,3 +1321,10 @@ html {
     font-size: 22px;
   }
 }
+
+/* Routine care is the lead service — give its homepage card a quiet accent frame */
+.service-card--featured {
+  border: 2px solid var(--color-accent);
+  border-radius: 10px;
+  padding: 0 14px 14px;
+}

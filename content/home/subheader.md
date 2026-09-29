@@ -9,11 +9,11 @@ title = ""
 <!-- 🐾 [As an exotic pet parent,](\about), I understand the unique and thorough care of exotic pets. the love and care they deserve. Explore my care services below and contact me to discuss how I can best meet you and your pet's needs! -->
 <!-- *Serving San Francisco, California* -->
 
-Specialized care for exotic pets is hard to come by — pet parents know that "finally!" feeling when they discover us. House of Guineas brings veterinary-informed, professional in-home care to exotic pets throughout San Francisco and the Peninsula, treating every pet with the diligence and warmth we give our own. Routine care is the heart of what we do — standing weekly or every-other-week visits with the upkeep handled and a gentle wellness check every time — and when a trip comes up, we're already the team your pet knows.
+Specialized care for exotic pets is hard to come by — pet parents know that "finally!" feeling when they discover us. House of Guineas brings veterinary-informed, professional in-home care to exotic pets throughout San Francisco and the Peninsula, treating every pet with the diligence and warmth we give our own. Routine care is the heart of what we do — Deep Cleans and Upkeep visits weekly or every other week, plus every-other-week Nail Trims, with a gentle wellness check every time — and when a trip comes up, we're already the team your pet knows.
 
 **Take your evenings back — and travel worry-free when you need to. Either way, we come to your pet's home.**
 
-<p class="text-center"><a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-outline">Reclaim Your Evenings with Routine Care</a> <a href="/home/services/exotic-pet-care-services-in-home/" class="btn btn-lg btn-cta-outline">Peace of Mind Care When You're Traveling</a></p>
+<p class="text-center"><a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-primary">Reclaim Your Evenings with Routine Care</a> <a href="/home/services/exotic-pet-care-services-in-home/" class="btn btn-lg btn-cta-outline">Peace of Mind Care When You're Traveling</a></p>
 
 <div class="trust-strip" aria-label="House of Guineas credentials">
   <div class="trust-chip">

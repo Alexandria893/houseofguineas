@@ -86,12 +86,21 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
     <label for="service">What kind of care do you need? <span class="required">*</span></label>
     <select id="service" name="service" required>
       <option value="" disabled selected>Choose one…</option>
-      <option value="Routine / recurring care">Routine / recurring upkeep (weekly or biweekly) — from $105/visit</option>
-      <option value="Travel / vacation care">In-home care while I travel — from $85/visit</option>
-      <option value="Boarding">Boarding, for families outside SF — $125/night</option>
+      <optgroup label="Routine care — standing visits">
+        <option value="Routine: Deep Clean (weekly)">Deep Clean, weekly — from $105/visit</option>
+        <option value="Routine: Deep Clean (every other week)">Deep Clean, every other week — from $115/visit</option>
+        <option value="Routine: Upkeep (weekly)">Upkeep, weekly — from $105/visit</option>
+        <option value="Routine: Upkeep (every other week)">Upkeep, every other week — from $115/visit</option>
+        <option value="Routine: Nail Trims (every other week)">Nail Trims, every other week — from $115/visit</option>
+        <option value="Routine: not sure which plan">Routine care — help me pick a plan</option>
+      </optgroup>
+      <optgroup label="Care while you're away">
+        <option value="Travel / vacation care">In-home care while I travel — from $85/visit</option>
+        <option value="Boarding">Boarding, for families outside SF — $125/night</option>
+      </optgroup>
       <option value="Not sure yet">Not sure yet — help me decide</option>
     </select>
-    <p class="form-note" id="routine-note" style="display:none;">Routine visits are standing upkeep for busy pet parents: habitat upkeep (full cage cleaning, fresh bedding, liners swapped), nail trims, and enrichment rotation to keep your little ones' days interesting — with a gentle wellness check built into every visit. Weekly plans are <strong>$105/visit</strong> for one hour or <strong>$185/visit</strong> for two; every-other-week plans are <strong>$115</strong> and <strong>$195</strong>. See the <a href="/routine-recurring-exotic-pet-care/">routine care page</a> for everything a visit includes and monthly estimates.</p>
+    <p class="form-note" id="routine-note" style="display:none;">Routine care is standing care for busy pet parents, with a gentle wellness check and photo update every visit. <strong>Deep Clean</strong> is the full enclosure reset, and <strong>Upkeep</strong> keeps hay, water, bedding, and enrichment fresh. Either one runs weekly — <strong>$105/visit</strong> for one hour or <strong>$185</strong> for two — or every other week at <strong>$115</strong> or <strong>$195</strong>. <strong>Nail Trims</strong> (every other week) are <strong>$115</strong> or <strong>$195</strong>. You can also mix plans, like weekly Upkeep with an every-other-week Deep Clean. See the <a href="/routine-recurring-exotic-pet-care/">routine care page</a> for everything each plan includes.</p>
     <p class="form-note" id="travel-note" style="display:none;">While you're away, we come to your pet's own home: <strong>$85</strong> for a 30-minute visit, <strong>$125</strong> for a full hour, or twice-daily care at <strong>$155–$215/day</strong> depending on visit lengths. There's no travel surcharge anywhere in San Francisco; farther out, visits add $15–$25 each depending on distance. See the <a href="/home/services/exotic-pet-care-services-in-home/">in-home care page</a> for the full rate card.</p>
     <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding is <strong>$125/night</strong>, spots are limited, and we <strong>reserve them for pet parents outside San Francisco</strong> — Peninsula and Marin families, where in-home visits add a travel surcharge, get priority, and the farther you are the more welcome you are to ask. If you live in San Francisco, in-home care is the better fit: no travel surcharge anywhere in the city, far more availability, and your little ones stay in the home they know. Please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability.</p>
   </div>
@@ -99,14 +108,13 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
   <script>
     document.getElementById('service').addEventListener('change', function () {
       var noteByService = {
-        'Routine / recurring care': 'routine-note',
         'Travel / vacation care': 'travel-note',
         'Boarding': 'boarding-note'
       };
       ['routine-note', 'travel-note', 'boarding-note'].forEach(function (id) {
         document.getElementById(id).style.display = 'none';
       });
-      var noteId = noteByService[this.value];
+      var noteId = this.value.indexOf('Routine:') === 0 ? 'routine-note' : noteByService[this.value];
       if (noteId) document.getElementById(noteId).style.display = 'block';
     });
   </script>

@@ -12,8 +12,10 @@ and more bookings from **reptile** and **small-mammal** owners.
 ## What's live on the site
 
 - **Routine & Recurring Care** page — `/routine-recurring-exotic-pet-care/` (in top nav)
-  - Weekly: **$105/visit (1 hr, ~$450/month)** · **$185/visit (2 hr, ~$795/month)**
-  - Every other week: **$115/visit (1 hr, ~$245/month)** · **$195/visit (2 hr, ~$420/month)**
+  - Three plans (lead service):
+  - Deep Clean or Upkeep, weekly: **$105/visit (1 hr, ~$450/month)** · **$185/visit (2 hr, ~$795/month)**
+  - Deep Clean or Upkeep, every other week: **$115/visit (1 hr, ~$245/month)** · **$195/visit (2 hr, ~$420/month)**
+  - Nail Trims, every other week: **$115/visit (1 hr, ~$245/month)** · **$195/visit (2 hr, ~$420/month)**
   - Travel by distance (SF 3–6 mi from $15; 6+ mi & Peninsula from $25)
 - **Bearded Dragon Sitter SF** — `/bearded-dragon-sitter-san-francisco/`
 - **Chinchilla & Small-Mammal Sitter SF** — `/chinchilla-small-mammal-sitter-san-francisco/`
