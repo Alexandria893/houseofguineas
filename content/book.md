@@ -185,7 +185,7 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
         <label><input type="radio" name="routine_start" value="This week"> This week</label>
         <label><input type="radio" name="routine_start" value="Next week"> Next week</label>
       </div>
-      <p class="form-note">We'll confirm your free meet-and-greet and first visit right away.</p>
+      <p class="form-note">We'll confirm your free meet-and-greet and first visit so we can get started right away!</p>
     </fieldset>
   </div>
 
