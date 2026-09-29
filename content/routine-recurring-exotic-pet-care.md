@@ -9,7 +9,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
   priority = 0.9
 +++
 
-**Your evenings back — and expert eyes on your pet.** We come to your home on a set schedule and handle the upkeep, so your time together is play, not chores.
+**Take back your evenings with routine pet care.** Whether it's a biweekly nail trim or cage upkeep, we help you focus on what matters most: your pets!
 <!--more-->
 
 <p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Book a Free Meet-and-Greet</a></p>
