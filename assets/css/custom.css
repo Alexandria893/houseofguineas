@@ -1426,3 +1426,26 @@ html {
   width: 22px;
   height: 22px;
 }
+
+/* Cleaning (Deep Clean + Upkeep) shares one card beside Nail Trims */
+.plan-cards--two { grid-template-columns: 3fr 2fr; }
+.plan-card__options p { margin-bottom: 8px; }
+.plan-card__same {
+  font-size: 13px !important;
+  font-style: italic;
+  color: var(--color-text-light) !important;
+}
+.plan-card__price-cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-top: auto;
+}
+.plan-card__price-cols .plan-card__prices { margin-top: 0; }
+@media (max-width: 767px) {
+  .plan-cards--two { grid-template-columns: 1fr; }
+}
+@media (max-width: 400px) {
+  .plan-card__price-cols { grid-template-columns: 1fr; gap: 0; }
+  .plan-card__price-cols .plan-card__prices + .plan-card__prices { border-top: none; padding-top: 8px; }
+}

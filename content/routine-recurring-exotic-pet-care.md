@@ -24,18 +24,19 @@ og_image = "lionheadBunnyWithTreats.jpg"
 
 ## Choose Your Plan
 
-<div class="plan-cards">
+<div class="plan-cards plan-cards--two">
   <div class="plan-card">
-    <h3>Deep Clean</h3>
+    <h3>Cleaning</h3>
     <p class="plan-card__tag">Weekly or every other week</p>
-    <p>The full enclosure reset — scrubbed, disinfected, fresh bedding and liners.</p>
-    <ul class="plan-card__prices"><li class="plan-card__freq">Weekly</li><li><span>1 hour</span><span>$105</span></li><li><span>2 hours</span><span>$185</span></li><li class="plan-card__freq">Every other week</li><li><span>1 hour</span><span>$115</span></li><li><span>2 hours</span><span>$195</span></li></ul>
-  </div>
-  <div class="plan-card">
-    <h3>Upkeep</h3>
-    <p class="plan-card__tag">Weekly or every other week</p>
-    <p>Fresh hay, water, and bedding, plus rotated toys and enrichment.</p>
-    <ul class="plan-card__prices"><li class="plan-card__freq">Weekly</li><li><span>1 hour</span><span>$105</span></li><li><span>2 hours</span><span>$185</span></li><li class="plan-card__freq">Every other week</li><li><span>1 hour</span><span>$115</span></li><li><span>2 hours</span><span>$195</span></li></ul>
+    <div class="plan-card__options">
+      <p><strong>Deep Clean</strong> — the full enclosure reset: scrubbed, disinfected, fresh bedding and liners.</p>
+      <p><strong>Upkeep</strong> — fresh hay, water, and bedding, plus rotated toys and enrichment.</p>
+    </div>
+    <p class="plan-card__same">Same rates for either — pick one or mix them.</p>
+    <div class="plan-card__price-cols">
+      <ul class="plan-card__prices"><li class="plan-card__freq">Weekly</li><li><span>1 hour</span><span>$105</span></li><li><span>2 hours</span><span>$185</span></li></ul>
+      <ul class="plan-card__prices"><li class="plan-card__freq">Every other week</li><li><span>1 hour</span><span>$115</span></li><li><span>2 hours</span><span>$195</span></li></ul>
+    </div>
   </div>
   <div class="plan-card">
     <h3>Nail Trims</h3>
