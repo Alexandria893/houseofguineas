@@ -9,7 +9,7 @@ title = ""
 <!-- 🐾 [As an exotic pet parent,](\about), I understand the unique and thorough care of exotic pets. the love and care they deserve. Explore my care services below and contact me to discuss how I can best meet you and your pet's needs! -->
 <!-- *Serving San Francisco, California* -->
 
-Specialized care for exotic pets is hard to come by — pet parents know that "finally!" feeling when they discover us. House of Guineas brings veterinary-informed, professional in-home care to exotic pets throughout San Francisco and the Peninsula, treating every pet with the diligence and warmth we give our own. Routine care is the heart of what we do — Deep Cleans and Upkeep visits weekly or every other week, plus every-other-week Nail Trims, with a gentle wellness check every time — and when a trip comes up, we're already the team your pet knows.
+Specialized exotic pet care, finally. Our veterinary-informed team comes to your home across San Francisco, the Peninsula, and Marin on a routine schedule — cleaning, upkeep, and nail trims — so you get your evenings back and your pets get expert eyes on them every visit. And when a trip comes up, we're already the team your pet knows.
 
 **Take your evenings back — and travel worry-free when you need to. Either way, we come to your pet's home.**
 
