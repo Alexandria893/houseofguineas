@@ -41,7 +41,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
   <div class="plan-card">
     <h3>Nail Trims</h3>
     <p class="plan-card__tag">Every other week</p>
-    <p>Gentle, unhurried trims, a close look at feet and pads, and one-on-one handling time.</p>
+    <p>Gentle, unhurried trims, a close look at feet and pads, and one-on-one handling time in the comfort of their home.</p>
     <ul class="plan-card__prices"><li class="plan-card__freq">Every other week</li><li><span>1 hour</span><span>$115</span></li><li><span>2 hours</span><span>$195</span></li></ul>
   </div>
 </div>
