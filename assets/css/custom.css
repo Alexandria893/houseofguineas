@@ -1428,7 +1428,7 @@ html {
 }
 
 /* Cleaning (Deep Clean + Upkeep) shares one card beside Nail Trims */
-.plan-cards--two { grid-template-columns: 3fr 2fr; }
+.plan-cards--two { grid-template-columns: 1fr 1fr; }
 .plan-card__options p { margin-bottom: 8px; }
 .plan-card__same {
   font-size: 13px !important;
