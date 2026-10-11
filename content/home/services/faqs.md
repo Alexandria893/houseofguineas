@@ -95,7 +95,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
   <summary class="faq-summary">What would service payments look like?</summary>
   <div class="faq-answer">
     <p>At the end of our meet and greet, a booking deposit is due. The booking deposit will include <strong>half of the total care.</strong> After the final visit, the remaining half of the care is due, along with any additional charges if applicable.</p>
-    <p>We accept <strong>Zelle, Venmo, checks and cash.</strong> For memo areas, please make them payable to: <em>House of Guineas LLC</em>.</p>
+    <p>We accept <strong>credit cards and bank transfers.</strong></p>
   </div>
 </details>
 
@@ -230,7 +230,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "name": "What would service payments look like?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A booking deposit of half the total care is due at the end of the meet and greet. The remaining half is due after the final visit, along with any additional charges. We accept Zelle, Venmo, checks and cash, payable to House of Guineas LLC."
+        "text": "A booking deposit of half the total care is due at the end of the meet and greet. The remaining half is due after the final visit, along with any additional charges. We accept credit cards and bank transfers."
       }
     },
     {
