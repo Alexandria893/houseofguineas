@@ -39,7 +39,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
   <summary class="faq-summary">Which animals does House of Guineas Pet Care service?</summary>
   <div class="faq-answer">
-    <p>House of Guineas Pet Care offers specialized care for exotic animals. Our veterinary-informed team brings a wide range of backgrounds — from <strong>wildlife rehabilitation to exotic veterinary hospital work</strong> — and is trained to provide the best care for your pets. Founder Alexandria previously worked as an exotic veterinary assistant and volunteered as a medical assistant at the <a href="https://houserabbit.org/veterinaryinitiative">House Rabbit Society in Richmond, California</a>.</p>
+    <p>House of Guineas Pet Care offers specialized care for exotic animals. Our <strong>veterinary-informed team of exotic pet professionals</strong> is trained to provide the best care for your pets. Founder Alexandria previously worked as an exotic veterinary assistant and volunteered as a medical assistant at the <a href="https://houserabbit.org/veterinaryinitiative">House Rabbit Society in Richmond, California</a>.</p>
     <p>We care for a wide range of exotic pets including <strong>rabbits, guinea pigs, chinchillas, ferrets, hamsters and other small mammals; reptiles such as bearded dragons, geckos, snakes, turtles and tortoises; and birds such as parrots, cockatiels, conures and budgies.</strong> An expansive list of pets we care for can be found on the about page.</p>
     
   </div>

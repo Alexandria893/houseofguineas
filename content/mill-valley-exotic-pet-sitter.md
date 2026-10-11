@@ -14,7 +14,7 @@ House of Guineas has an exotic pet caretaker living in Central Marin, a short dr
 ## Why Mill Valley Exotic Pet Parents Choose Our Team
 
 - **Based in Marin.** Our caretaker lives minutes away, so Mill Valley visits are easy to schedule and light on travel cost — even up a winding canyon road.
-- **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience) — our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Our whole team is trained under that clinical lens.
+- **Veterinary background.** Ours is a [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) of exotic pet professionals — our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Our whole team is trained under that clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
 - **Clinical-grade care.** We can syringe-feed a stasis rabbit, verify a reptile's humidity and UVB, and catch the early signs of illness in a bird.
 

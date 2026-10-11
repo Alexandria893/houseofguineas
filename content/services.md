@@ -7,7 +7,7 @@ og_image = "milo.jpeg"
   priority = 0.9
 +++
 
-House of Guineas provides specialized in-home care for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds** across San Francisco and the Peninsula. Our veterinary-informed team brings backgrounds from wildlife rehabilitation to exotic veterinary hospital work, and is trained specifically in exotic species.
+House of Guineas provides specialized in-home care for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds** across San Francisco and the Peninsula. Ours is a veterinary-informed team of exotic pet professionals, trained specifically in exotic species.
 
 Routine care is the heart of what we do — Deep Cleans, Upkeep, and Nail Trims on a standing schedule, keeping the enclosure clean and your pet checked over by expert eyes. And when a trip comes up, our travel sitting means your pet is cared for by a team they already know.
 

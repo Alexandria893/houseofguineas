@@ -1,7 +1,7 @@
 +++
 title = "Exotic Veterinary Experience San Francisco | House of Guineas"
 shortTitle = "Our Exotic Veterinary Experience"
-description = "Why choose veterinary-informed exotic pet care? A team with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — specialized reptile, bird and small mammal care in San Francisco."
+description = "Why choose veterinary-informed exotic pet care? A team of exotic pet professionals — specialized reptile, bird and small mammal care in San Francisco."
 og_image = "Kai.jpg"
 [menu.main]
   name = "Vet Experience"
@@ -28,7 +28,7 @@ Exotic pets have specialized needs that differ significantly from traditional pe
 * **Professional Handling:** Incorrect handling can cause injury to your exotic pet. Knowing and being able to assess your pet’s comfort with handling mitigates unnecessary stress, while respecting your pet’s boundaries.
 
 ## Our Veterinary-Informed Background: Expertise You Can Trust
-Place your trust in experienced, professional hands. Ours is a veterinary-informed team with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work, and every specialist is trained to the same clinical standard.
+Place your trust in experienced, professional hands. Ours is a veterinary-informed team of exotic pet professionals, and every specialist is trained to the same clinical standard.
 
 Our founder, Alexandria, previously volunteered as a [Medical Assistant](https://houserabbit.org/veterinaryinitiative) at the House Rabbit Society in Richmond, California, where she administered RHDV (Rabbit Hemorrhagic Disease Virus) vaccinations and supported the onsite veterinarian with pre- and post-operation surgeries. She also worked as an **Exotic Veterinary Assistant** at the local [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com) in San Francisco, providing care for a wide variety of animals — from reptiles like snakes, bearded dragons and geckos, to birds such as African greys and budgies, and small mammals including rabbits and guinea pigs.
 

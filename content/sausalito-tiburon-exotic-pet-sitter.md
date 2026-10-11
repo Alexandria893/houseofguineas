@@ -14,7 +14,7 @@ House of Guineas is San Francisco's exotic pet care company, and our Marin caret
 ## Why Southern Marin Exotic Pet Parents Choose Our Team
 
 - **Based in Marin, not across the bridge.** Our caretaker lives in the county, so Sausalito and Tiburon visits are quick to schedule and light on travel cost.
-- **Veterinary-informed care.** Our team's backgrounds span wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience) — including a founder who previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every visit happens under that clinical lens.
+- **Veterinary-informed care.** Ours is a [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) of exotic pet professionals — including a founder who previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every visit happens under that clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
 - **Comfortable in every kind of home.** Hillside condo, a house up a steep Tiburon lane, or a floating home on the Sausalito waterfront — we adapt to the space and the access.
 

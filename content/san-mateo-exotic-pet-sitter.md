@@ -13,7 +13,7 @@ San Mateo sits right at the center of the Peninsula — the kind of city where a
 
 Exotic pets are our entire practice — and every caretaker on our team is trained with that focus in mind, so your little ones are cared for by someone who truly knows their species.
 
-- **Veterinary background** — Our veterinary-informed team brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work; our founder, Alexandria, previously trained and worked at an exotic veterinary hospital and volunteered as a medical assistant with the [House Rabbit Society](/san-francisco-california-exotic-veterinary-experience).
+- **Veterinary background** — Ours is a veterinary-informed team of exotic pet professionals; our founder, Alexandria, previously trained and worked at an exotic veterinary hospital and volunteered as a medical assistant with the [House Rabbit Society](/san-francisco-california-exotic-veterinary-experience).
 - **Species specialization** — From prey-species body language in rabbits and guinea pigs to UVB and basking-gradient management for reptiles, we've worked hands-on with the species we care for. No guessing.
 - **Clinical-grade care in your home** — We can administer oral medications, monitor incisions and surgical recovery, handle Critical Care syringe feeds, and coordinate directly with your exotic vet if something changes while you're away.
 - **Flexible scheduling around Peninsula life** — San Mateo residents' schedules are all over the map — early CalTrain departures, late-evening returns from SFO, weekend trips to Santa Cruz. Our visit windows flex to match that rhythm.

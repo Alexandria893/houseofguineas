@@ -14,7 +14,7 @@ House of Guineas is San Francisco's exotic pet care company, and having a careta
 ## Why Larkspur & Corte Madera Pet Parents Choose Our Team
 
 - **We live here.** Our caretaker is based in Larkspur, so visits are quick to schedule, easy to adjust, and carry no travel surcharge for the immediate area. Early-morning, mid-day medication, and late-evening timing are all straightforward.
-- **Veterinary background.** Care here comes from our veterinary-informed team, with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines — and every member of our team is trained under that same clinical lens.
+- **Veterinary background.** Care here comes from our veterinary-informed team of exotic pet professionals. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines — and every member of our team is trained under that same clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our whole focus — nothing about this is an afterthought.
 - **Clinical-grade care.** We can syringe-feed a rabbit in stasis, verify a reptile's UVB and humidity, and read the early warning signs in a bird.
 

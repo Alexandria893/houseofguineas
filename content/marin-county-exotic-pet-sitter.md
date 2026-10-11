@@ -14,7 +14,7 @@ We are San Francisco's exotic pet care company, and our Marin caretaker lives in
 ## Why Marin Exotic Pet Owners Choose Our Team
 
 - **A caretaker who actually lives in Marin.** No crossing the Golden Gate on a schedule. They can reach most of the county quickly, which keeps visits flexible and travel costs low.
-- **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and our founder previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every caretaker on our team, in Marin and beyond, is trained under that same clinical lens.
+- **Veterinary background.** Ours is a [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) of exotic pet professionals, and our founder previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every caretaker on our team, in Marin and beyond, is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds. That kind of focus is almost impossible to find north of the bridge.
 - **Clinical-grade care.** We can syringe-feed a rabbit in stasis, check a reptile enclosure's humidity and UVB, and catch the early signs of a crop problem in a parrot — and we know where the nearest exotic vets are if something goes wrong.
 
