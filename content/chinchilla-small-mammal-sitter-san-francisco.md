@@ -25,7 +25,7 @@ House of Guineas is based in San Francisco's Inner Sunset, and small mammals are
 
 ## Why San Francisco Small-Mammal Owners Choose Us
 
-- **A veterinary-informed team.** Our team's backgrounds span wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and every caretaker is trained under that same clinical lens. Our founder previously worked as an exotic veterinary assistant and previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines.
+- **A veterinary-informed team.** We're [exotic pet professionals](/san-francisco-california-exotic-veterinary-experience), and every caretaker is trained under that same clinical lens. Our founder previously worked as an exotic veterinary assistant and previously volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines.
 - **Clinical-grade monitoring.** We monitor appetite and output to catch problems early, and can syringe-feed critical-care formula to an animal that's gone off its food. In a small mammal, a gut that goes quiet is an emergency — not a wait-and-see.
 - **Species specialization.** Exotics are our whole focus. That kind of expertise is genuinely hard to find in San Francisco.
 

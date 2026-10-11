@@ -14,7 +14,7 @@ House of Guineas is based in San Francisco's Inner Sunset, and our team of exoti
 
 ## Why San Francisco Beardie Parents Choose Us
 
-- **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to [exotic veterinary hospital work](/san-francisco-california-exotic-veterinary-experience), and every caretaker is trained under that same clinical lens — our founder, Alexandria, previously worked as an exotic veterinary assistant at Bay Area Bird & Exotics Hospital.
+- **Veterinary background.** Ours is a [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) of exotic pet professionals, and every caretaker is trained under that same clinical lens — our founder, Alexandria, previously worked as an exotic veterinary assistant at Bay Area Bird & Exotics Hospital.
 - **Bearded dragons are a species we know well.** They're the reptile we see most, so their care isn't guesswork. We know the difference between normal brumation and worrying lethargy, what a healthy poop looks like, and when a black beard is stress versus routine.
 - **We read the environment.** On every visit we confirm the temperature gradient, verify the basking spot and cool side, check that UVB is functioning, and watch appetite, activity, and posture for the early signs of trouble.
 - **We come to you.** Your dragon stays on its own basking rock, in its own calibrated enclosure, with every setting exactly where you dialed it in.

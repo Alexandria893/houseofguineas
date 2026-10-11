@@ -15,7 +15,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because 
 
 Daly City is a town full of people who think carefully and plan ahead — nurses and hospital staff, commuters who anchor their days to the BART schedule, families who have lived on the same block for decades. What exotic pet parents here tell us they need is a sitter who brings the same rigor to animal care that they bring to their own lives. Here is what sets us apart:
 
-- **Veterinary background.** Your little ones are cared for by our veterinary-informed team, with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every member of our team is trained under that same clinical lens.
+- **Veterinary background.** Your little ones are cared for by our veterinary-informed team of exotic pet professionals. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society, administering subcutaneous RHDV2 vaccines — and every member of our team is trained under that same clinical lens.
 - **Species specialization.** Exotic pets and cats are our whole focus — rabbits, rodents, reptiles, and birds. That kind of focus is genuinely hard to find this side of the county line.
 - **Clinical-grade care.** We can syringe-feed a GI stasis rabbit, check a reptile enclosure's humidity, and recognize the early signs of a crop issue in a parrot. We also know the local exotic vet landscape, so if something seems off while you are in another time zone, we know where to turn — see our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory.
 - **Flexible scheduling.** Early-morning visits before a BART commute or a flight, evening visits after a long day, and mid-day medication timing — we build the schedule around your itinerary, not the other way around.
@@ -90,7 +90,7 @@ Because Daly City sits immediately south of the San Francisco county line, it is
 <details class="faq-details">
   <summary class="faq-summary">What if my exotic pet needs medication while I'm traveling?</summary>
   <div class="faq-answer">
-    <p>Yes — and that includes injections. Our caretakers handle oral syringe feeding, topical applications, subcutaneous injections, and nebulizer treatments as part of every standard visit, with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society, and the whole team trains under that same clinical lens. Walk us through the protocol at the meet-and-greet and we will keep every dose on time, even when the evening round lands deep in the fog belt.</p>
+    <p>Yes — and that includes injections. Our caretakers handle oral syringe feeding, topical applications, subcutaneous injections, and nebulizer treatments as part of every standard visit — we're a veterinary-informed team of exotic pet professionals. Our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society, and the whole team trains under that same clinical lens. Walk us through the protocol at the meet-and-greet and we will keep every dose on time, even when the evening round lands deep in the fog belt.</p>
   </div>
 </details>
 
@@ -138,7 +138,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "What if my exotic pet needs medication while I'm traveling?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — and that includes injections. Our caretakers handle oral syringe feeding, topical applications, subcutaneous injections, and nebulizer treatments as part of every standard visit, with backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work. Our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society, and the whole team trains under that same clinical lens. Walk us through the protocol at the meet-and-greet and we will keep every dose on time, even when the evening round lands deep in the fog belt."
+        "text": "Yes — and that includes injections. Our caretakers handle oral syringe feeding, topical applications, subcutaneous injections, and nebulizer treatments as part of every standard visit — we're a veterinary-informed team of exotic pet professionals. Our founder previously administered subcutaneous RHDV2 vaccines with the House Rabbit Society, and the whole team trains under that same clinical lens. Walk us through the protocol at the meet-and-greet and we will keep every dose on time, even when the evening round lands deep in the fog belt."
       }
     },
     {

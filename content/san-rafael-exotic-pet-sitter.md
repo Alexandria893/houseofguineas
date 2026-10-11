@@ -14,7 +14,7 @@ House of Guineas has an exotic pet caretaker based in Central Marin, minutes fro
 ## Why San Rafael Exotic Pet Parents Choose Our Team
 
 - **Local to Marin.** Our caretaker lives in the county, so San Rafael visits are quick to schedule and light on travel cost — no Golden Gate commute baked into your bill.
-- **Veterinary background.** Our veterinary-informed team has backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every pet caretaker on our team is trained under that same clinical lens.
+- **Veterinary background.** Ours is a veterinary-informed team of exotic pet professionals — our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every pet caretaker on our team is trained under that same clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus — not an afterthought squeezed in between dog walks.
 - **Clinical-grade care.** We can syringe-feed a rabbit in GI stasis, check a reptile's humidity and UVB, and recognize the early warning signs in a bird. If something seems off while you're away, we know the nearest exotic vets.
 

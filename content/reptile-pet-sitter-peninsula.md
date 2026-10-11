@@ -13,7 +13,7 @@ House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team
 
 ## Why Peninsula Reptile Owners Choose Us
 
-- **Veterinary background.** Our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) brings backgrounds spanning wildlife rehabilitation to exotic veterinary hospital work — our founder, Alexandria, previously worked at Bay Area Bird & Exotics Hospital and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. That clinical standard means every caretaker on our team is trained to catch little problems before they become big ones.
+- **Veterinary background.** Ours is a [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) of exotic pet professionals — our founder, Alexandria, previously worked at Bay Area Bird & Exotics Hospital and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. That clinical standard means every caretaker on our team is trained to catch little problems before they become big ones.
 - **Species specialization.** Exotic pets and cats are all we do — reptiles, small mammals, and birds. That kind of focus is genuinely hard to find on the Peninsula.
 - **Clinical-grade care.** We can read a temperature gradient across an enclosure, confirm the basking spot and UVB output are where they should be, monitor humidity against your species' target range, and recognize the early signs of illness before they become emergencies.
 - **Flexible scheduling.** Early-morning visits before an SFO departure, evening lights-out checks, mid-day misting or feeding — we build the schedule around your reptile's routine and your itinerary, not the other way around.
