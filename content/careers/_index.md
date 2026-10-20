@@ -1,6 +1,7 @@
 +++
 title = "Careers | Exotic Pet Sitter & Caretaker Jobs in San Francisco & the Peninsula | House of Guineas"
 shortTitle = "Careers"
+aliases = ["/jobs/"]
 description = "Exotic pet sitter jobs in San Francisco and the Peninsula. Join House of Guineas, an in-home exotic pet care team, in part-time and PRN (as-needed) W-2 roles caring for small mammals, reptiles and birds."
 og_image = "HappilyHoldingSnake.jpg"
 [menu.main]
