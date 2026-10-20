@@ -143,7 +143,7 @@ Most days run smoothly. This is care for living animals, so here's how the rare 
 Send your resume and a summary of your species experience to [alexandria@houseofguineas.com](mailto:alexandria@houseofguineas.com?subject=Exotic%20Pet%20Caretaker%20Application), with answers to the following:
 
 1. This role centers on hands-on husbandry: cleaning, feeding and habitat upkeep, often working independently. What draws you to that kind of work?
-2. Which exotic animals have you cared for, for how long, and in what setting (your own pets, a rescue, a facility, a clinic)? Include your experience with routine care such as nail trims.
+2. Which exotic animals have you cared for, for how long, and in what setting (your own pets, a rescue, a facility, a clinic)? Include your experience with routine care such as nail trims, and with handling live or frozen feeder insects or feeder animals for reptiles.
 3. Which days and blocks are you available? For example, "Midday and Evening Monday through Friday, plus Saturday Morning."
 4. Please confirm your availability for Thanksgiving week and Christmas week (Monday through Sunday), plus December 31–January 1, our peak care dates.
 5. How do you picture a typical week of visits with us?
