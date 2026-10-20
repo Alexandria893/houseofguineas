@@ -10,7 +10,6 @@ weight = 2
 [params.job]
   title = "PRN Exotic Pet Caretaker (As-Needed, In-Home Care)"
   datePosted = "2026-10-20"
-  validThrough = "2026-11-20T23:59:00-08:00"
   employmentType = "PER_DIEM"
   employmentLabel = "PRN (as-needed) · W-2"
   payLabel = "$30/hr"

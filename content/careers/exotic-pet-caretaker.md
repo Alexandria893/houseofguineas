@@ -10,7 +10,6 @@ weight = 1
 [params.job]
   title = "Exotic Pet Caretaker (Pet Sitter)"
   datePosted = "2026-10-20"
-  validThrough = "2026-11-20T23:59:00-08:00"
   employmentType = "PART_TIME"
   employmentLabel = "Part-time · W-2"
   payLabel = "$30/hr"
