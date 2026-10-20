@@ -38,7 +38,7 @@ weight = 1
   a = "Yes. Thanksgiving week and Christmas week (Monday through Sunday), plus December 31–January 1, are our peak care dates, and major holidays are paid at time-and-a-half."
 [[params.faqs]]
   q = "Where do our caretakers live?"
-  a = "Our caretakers live between San Francisco and San Mateo, close enough for a comfortable commute to our primary SF clients."
+  a = "Our caretakers live in San Francisco and along the Peninsula, close enough for a comfortable commute to our primary SF clients."
 [[params.faqs]]
   q = "Do I need a car?"
   a = "Yes, a valid driver's license and an operable vehicle are required. All work driving is reimbursed at the current IRS rate, including your drive to your first visit and back home after your last."
