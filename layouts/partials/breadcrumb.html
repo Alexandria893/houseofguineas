@@ -11,6 +11,9 @@
     {{- with $parent }}
     <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
     {{- end }}
+    {{- if and (eq .Section "careers") .IsPage }}
+    <li><a href="/careers/">Careers</a></li>
+    {{- end }}
     <li aria-current="page">{{ with .Params.shortTitle }}{{ . }}{{ else }}{{ .Title }}{{ end }}</li>
   </ol>
 </nav>

@@ -1,0 +1,42 @@
+{{ define "main" }}
+<main id="main">
+
+	<div class="container">
+
+		{{ partial "breadcrumb.html" . }}
+
+		<div class="row topspace">
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<article class="post">
+					<header class="entry-header">
+						<h1 class="entry-title">Careers at House of Guineas</h1>
+					</header>
+					<div class="entry-content">
+						{{ .Content }}
+
+						<h2>Open Roles</h2>
+						<div class="job-cards">
+						{{ range .Pages.ByWeight }}
+							<div class="job-card">
+								<p class="plan-card__tag">{{ .Params.job.employmentLabel }}</p>
+								<h3><a href="{{ .RelPermalink }}">{{ .Params.shortTitle }}</a></h3>
+								<ul class="job-facts job-facts--compact">
+									<li><span>Pay</span><span>{{ .Params.job.payLabel }}</span></li>
+									<li><span>Location</span><span>{{ .Params.job.locationLabel }}</span></li>
+								</ul>
+								<p>{{ .Summary | plainify | htmlUnescape }}</p>
+								<p class="job-card__cta"><a href="{{ .RelPermalink }}" class="btn btn-cta-primary">View Role &amp; Apply</a></p>
+							</div>
+						{{ end }}
+						</div>
+					</div>
+				</article>
+
+			</div>
+		</div>
+
+	</div>	<!-- /container -->
+
+</main>
+{{ end }}

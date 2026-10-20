@@ -1465,3 +1465,57 @@ html {
   .service-card-row > .service-col--lead { order: 2; }
   .service-card-row > .service-col--lead + div { order: 1; }
 }
+
+/* --- Careers: role cards and job quick facts --- */
+.job-cards {
+  display: grid;
+  gap: 16px;
+  margin: 1rem 0 1.5rem;
+}
+.job-card {
+  background: #fff;
+  border: 1px solid #e6ddd2;
+  border-radius: 10px;
+  padding: 18px 20px;
+}
+.job-card h3 { margin: 0 0 8px !important; font-size: 1.3em; }
+.job-card p { font-size: 15px; line-height: 1.5; }
+.job-card__cta { margin: 12px 0 0; }
+.job-facts {
+  list-style: none;
+  padding: 4px 18px;
+  margin: 1rem 0 1.25rem;
+  background: #fff;
+  border: 1px solid #e6ddd2;
+  border-radius: 10px;
+}
+.job-facts li {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 12px;
+  padding: 10px 0;
+  border-top: 1px solid #eee;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.job-facts li:first-child { border-top: none; }
+.job-facts li span:first-child {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-text-light);
+  padding-top: 2px;
+}
+.job-facts--compact { padding: 0; border: none; margin: 0 0 8px; }
+.job-facts--compact li { grid-template-columns: 90px 1fr; padding: 4px 0; border-top: none; }
+.job-callout {
+  background: var(--color-bg-alt);
+  border-left: 4px solid var(--color-accent);
+  border-radius: var(--radius-sm);
+  padding: 14px 18px;
+  margin: 1.25rem 0;
+}
+@media (max-width: 480px) {
+  .job-facts li { grid-template-columns: 1fr; gap: 2px; }
+}

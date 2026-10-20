@@ -225,6 +225,45 @@
 </script>
 {{ end }}
 
+{{ with and (eq .Section "careers") .IsPage .Params.job }}
+<!-- Structured Data: JobPosting (Google for Jobs) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": {{ .title | jsonify | safeJS }},
+  "description": {{ $.Content | jsonify | safeJS }},
+  "datePosted": "{{ .datePosted }}",
+  "employmentType": "{{ .employmentType }}",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "House of Guineas LLC",
+    "sameAs": "{{ $.Site.BaseURL }}",
+    "logo": "{{ $.Site.BaseURL }}logo-square.png"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Francisco",
+      "addressRegion": "CA",
+      "addressCountry": "US"
+    }
+  },
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": {{ .hourlyRate }},
+      "unitText": "HOUR"
+    }
+  },
+  "directApply": false
+}
+</script>
+{{ end }}
+
 {{ if eq .Type "product" }}
 <!-- Structured Data: Product -->
 <script type="application/ld+json">
