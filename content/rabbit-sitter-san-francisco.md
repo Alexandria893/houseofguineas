@@ -57,7 +57,7 @@ If you're in a neighborhood not listed, [text us your address](tel:415-484-6493)
 
 ## Pricing for San Francisco Rabbit Visits
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of rabbits
 

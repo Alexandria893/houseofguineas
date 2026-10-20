@@ -40,7 +40,7 @@ San Bruno stretches from the flats near the old Tanforan area up into the hills 
 
 ## Pricing for San Bruno Visits
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
@@ -104,7 +104,7 @@ San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Bruno exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Whether you are working early shifts near SFO or commuting down the 280, the rates stay simple: $85 for a 30-minute visit, $125 for 60 minutes, and $155–$215 per day for twice-daily care depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies, depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Whether you are working early shifts near SFO or commuting down the 280, the rates stay simple: $95 for a 30-minute visit, $125 for 60 minutes, and $155–$215 per day for twice-daily care depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies, depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -154,7 +154,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "How much does a San Bruno exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Whether you are working early shifts near SFO or commuting down the 280, the rates stay simple: $85 for a 30-minute visit, $125 for 60 minutes, and $155–$215 per day for twice-daily care depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies, depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Whether you are working early shifts near SFO or commuting down the 280, the rates stay simple: $95 for a 30-minute visit, $125 for 60 minutes, and $155–$215 per day for twice-daily care depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies, depending on distance. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

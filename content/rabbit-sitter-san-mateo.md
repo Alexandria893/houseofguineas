@@ -53,7 +53,7 @@ We also cover homes near the San Mateo Public Library, the Caltrain corridor for
 
 ## Pricing for San Mateo Rabbit Visits
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of rabbits
 

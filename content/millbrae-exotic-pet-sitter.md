@@ -40,7 +40,7 @@ Millbrae is compact and easy to navigate, and our team covers all of it — from
 
 ## Pricing for Millbrae Visits
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
@@ -104,7 +104,7 @@ Millbrae falls within our Peninsula service tier, so a travel surcharge of $15�
 <details class="faq-details">
   <summary class="faq-summary">How much does a Millbrae exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Most Millbrae families flying out of SFO book twice-daily care, which runs $155–$215 per day depending on visit length and the number of pets. On their own, 30-minute visits are $85 and 60-minute visits are $125. Millbrae falls within our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance — text us at 415-484-6493 with your address and dates and we will confirm your exact rate.</p>
+    <p>Most Millbrae families flying out of SFO book twice-daily care, which runs $155–$215 per day depending on visit length and the number of pets. On their own, 30-minute visits are $95 and 60-minute visits are $125. Millbrae falls within our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance — text us at 415-484-6493 with your address and dates and we will confirm your exact rate.</p>
   </div>
 </details>
 
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Millbrae exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most Millbrae families flying out of SFO book twice-daily care, which runs $155–$215 per day depending on visit length and the number of pets. On their own, 30-minute visits are $85 and 60-minute visits are $125. Millbrae falls within our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance — text us at 415-484-6493 with your address and dates and we will confirm your exact rate."
+        "text": "Most Millbrae families flying out of SFO book twice-daily care, which runs $155–$215 per day depending on visit length and the number of pets. On their own, 30-minute visits are $95 and 60-minute visits are $125. Millbrae falls within our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance — text us at 415-484-6493 with your address and dates and we will confirm your exact rate."
       }
     }
   ]
