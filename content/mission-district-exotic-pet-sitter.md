@@ -40,7 +40,7 @@ The Mission is compact, flat, and easy to move through, and we cover all of it. 
 
 ## Pricing for Mission District Visits
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
@@ -104,7 +104,7 @@ The Mission is within San Francisco, our home city, so there is no Peninsula tra
 <details class="faq-details">
   <summary class="faq-summary">How much does a Mission District exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Here is the Mission math: $85 for a 30-minute visit, $125 for a 60-minute visit, and $155–$215 per day for twice-daily care, with the range depending on visit length and number of pets. And because the Mission is in-city for us, there is no Peninsula travel surcharge — the rate holds whether you are in a flat off Valencia or up by Dolores Park. Text 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Here is the Mission math: $95 for a 30-minute visit, $125 for a 60-minute visit, and $155–$215 per day for twice-daily care, with the range depending on visit length and number of pets. And because the Mission is in-city for us, there is no Peninsula travel surcharge — the rate holds whether you are in a flat off Valencia or up by Dolores Park. Text 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Mission District exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Here is the Mission math: $85 for a 30-minute visit, $125 for a 60-minute visit, and $155–$215 per day for twice-daily care, with the range depending on visit length and number of pets. And because the Mission is in-city for us, there is no Peninsula travel surcharge — the rate holds whether you are in a flat off Valencia or up by Dolores Park. Text 415-484-6493 with your address and dates for a firm quote."
+        "text": "Here is the Mission math: $95 for a 30-minute visit, $125 for a 60-minute visit, and $155–$215 per day for twice-daily care, with the range depending on visit length and number of pets. And because the Mission is in-city for us, there is no Peninsula travel surcharge — the rate holds whether you are in a flat off Valencia or up by Dolores Park. Text 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

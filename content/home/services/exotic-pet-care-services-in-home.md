@@ -9,7 +9,7 @@ weight = 2
   og_image = "Coco.jpg"
   serviceType = "Reptile & Exotic Pet Sitting"
   kicker = "While you're away"
-  price = "$85"
+  price = "$95"
   priceUnit = "/visit"
   priceNote = "starting rate for daily visits"
   animals = ["Reptiles", "Birds", "Small Mammals"]
@@ -22,7 +22,7 @@ weight = 2
   priority = 0.8
 +++
 
-Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds** — starting at **$85/visit**.
+Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds** — starting at **$95/visit**.
 <!--more-->
 
 ## Benefits of In-Home Reptile & Exotic Pet Sitting
@@ -40,7 +40,7 @@ Your home is your pet's safe-haven. Our [veterinary-informed team](/san-francisc
 
 
 ### Individual Visits (1x/day) <!-- 12/25,prev 70 for 30 and 105 for 60; 09/25,prev 65 for 30 and 75 for 60 -->
-* **30 minutes:** $85/visit 
+* **30 minutes:** $95/visit 
 * **60 minutes:** $125/visit
 
 <p class="text-center" style="margin: 1.5rem 0;"><a href="/book/" class="btn btn-lg btn-cta-primary">Book Care in Your Home</a></p>

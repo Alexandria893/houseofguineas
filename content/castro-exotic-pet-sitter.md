@@ -40,7 +40,7 @@ The Castro packs a lot into a compact, hilly footprint, and we cover all of it. 
 
 ## Pricing for Castro Visits
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
@@ -104,7 +104,7 @@ The Castro is within San Francisco, our home city, so there is no Peninsula trav
 <details class="faq-details">
   <summary class="faq-summary">What does exotic pet sitting cost in the Castro?</summary>
   <div class="faq-answer">
-    <p>Pricing in the Castro is the same simple in-city rate we charge across San Francisco — no Peninsula travel surcharge, even up the steep blocks toward Twin Peaks. A 30-minute visit starts at $85, a 60-minute visit at $125, and twice-daily care runs $155–$215 per day depending on visit length and how many pets are on the roster. Text 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Pricing in the Castro is the same simple in-city rate we charge across San Francisco — no Peninsula travel surcharge, even up the steep blocks toward Twin Peaks. A 30-minute visit starts at $95, a 60-minute visit at $125, and twice-daily care runs $155–$215 per day depending on visit length and how many pets are on the roster. Text 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What does exotic pet sitting cost in the Castro?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pricing in the Castro is the same simple in-city rate we charge across San Francisco — no Peninsula travel surcharge, even up the steep blocks toward Twin Peaks. A 30-minute visit starts at $85, a 60-minute visit at $125, and twice-daily care runs $155–$215 per day depending on visit length and how many pets are on the roster. Text 415-484-6493 with your address and dates for a firm quote."
+        "text": "Pricing in the Castro is the same simple in-city rate we charge across San Francisco — no Peninsula travel surcharge, even up the steep blocks toward Twin Peaks. A 30-minute visit starts at $95, a 60-minute visit at $125, and twice-daily care runs $155–$215 per day depending on visit length and how many pets are on the roster. Text 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

@@ -51,7 +51,7 @@ Wherever you are on the Peninsula, [text us](tel:415-484-6493) and we will confi
 
 ## Pricing for Reptile Visits
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and the complexity of the setup
 
@@ -115,7 +115,7 @@ The Peninsula falls in our travel tier, so a surcharge of **$15–$25/visit** ap
 <details class="faq-details">
   <summary class="faq-summary">How much does a Peninsula reptile sitter cost?</summary>
   <div class="faq-answer">
-    <p>Reptile pricing tracks the complexity of the habitat more than the size of the animal. A single bearded dragon or gecko setup usually fits a 30-minute visit at $85 — temps, UVB, feeding, spot-clean — while multi-enclosure rooms, misting-heavy species, and insect feeding days often call for a 60-minute visit at $125. Twice-daily care runs $155–$215 per day. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text 415-484-6493 with your species and setup for a firm quote.</p>
+    <p>Reptile pricing tracks the complexity of the habitat more than the size of the animal. A single bearded dragon or gecko setup usually fits a 30-minute visit at $95 — temps, UVB, feeding, spot-clean — while multi-enclosure rooms, misting-heavy species, and insect feeding days often call for a 60-minute visit at $125. Twice-daily care runs $155–$215 per day. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text 415-484-6493 with your species and setup for a firm quote.</p>
   </div>
 </details>
 
@@ -165,7 +165,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "How much does a Peninsula reptile sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Reptile pricing tracks the complexity of the habitat more than the size of the animal. A single bearded dragon or gecko setup usually fits a 30-minute visit at $85 — temps, UVB, feeding, spot-clean — while multi-enclosure rooms, misting-heavy species, and insect feeding days often call for a 60-minute visit at $125. Twice-daily care runs $155–$215 per day. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text 415-484-6493 with your species and setup for a firm quote."
+        "text": "Reptile pricing tracks the complexity of the habitat more than the size of the animal. A single bearded dragon or gecko setup usually fits a 30-minute visit at $95 — temps, UVB, feeding, spot-clean — while multi-enclosure rooms, misting-heavy species, and insect feeding days often call for a 60-minute visit at $125. Twice-daily care runs $155–$215 per day. The Peninsula falls in our travel tier, so a surcharge of $15–$25/visit applies depending on distance. Text 415-484-6493 with your species and setup for a firm quote."
       }
     }
   ]

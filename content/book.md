@@ -98,13 +98,13 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
         <option value="Routine: not sure which plan">Routine care — help me pick a plan</option>
       </optgroup>
       <optgroup label="Care while you're away">
-        <option value="Travel / vacation care">In-home care while I travel — from $85/visit</option>
+        <option value="Travel / vacation care">In-home care while I travel — from $95/visit</option>
         <option value="Boarding">Boarding, for families outside SF — $125/night</option>
       </optgroup>
       <option value="Not sure yet">Not sure yet — help me decide</option>
     </select>
     <p class="form-note" id="routine-note" style="display:none;">Visits start at <strong>$105</strong> weekly or <strong>$115</strong> every other week — tell us below if you'd like a Deep Clean, Upkeep, or a mix, and we'll fine-tune it at your free meet-and-greet.</p>
-    <p class="form-note" id="travel-note" style="display:none;">While you're away, we come to your pet's own home: <strong>$85</strong> for a 30-minute visit, <strong>$125</strong> for a full hour, or twice-daily care at <strong>$155–$215/day</strong> depending on visit lengths. There's no travel surcharge anywhere in San Francisco; farther out, visits add $15–$25 each depending on distance. See the <a href="/home/services/exotic-pet-care-services-in-home/">in-home care page</a> for the full rate card.</p>
+    <p class="form-note" id="travel-note" style="display:none;">While you're away, we come to your pet's own home: <strong>$95</strong> for a 30-minute visit, <strong>$125</strong> for a full hour, or twice-daily care at <strong>$155–$215/day</strong> depending on visit lengths. There's no travel surcharge anywhere in San Francisco; farther out, visits add $15–$25 each depending on distance. See the <a href="/home/services/exotic-pet-care-services-in-home/">in-home care page</a> for the full rate card.</p>
     <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding is <strong>$125/night</strong>, spots are limited, and we <strong>reserve them for pet parents outside San Francisco</strong> — Peninsula and Marin families, where in-home visits add a travel surcharge, get priority, and the farther you are the more welcome you are to ask. If you live in San Francisco, in-home care is the better fit: no travel surcharge anywhere in the city, far more availability, and your little ones stay in the home they know. Please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability.</p>
   </div>
 

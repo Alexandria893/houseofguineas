@@ -52,7 +52,7 @@ We also cover the stretch between Washington Park and Ray Park, homes near Mercy
 
 ## Pricing for Burlingame Rabbit Visits
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of rabbits
 

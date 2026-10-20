@@ -56,7 +56,7 @@ For Peninsula visits, a travel surcharge applies — the exact amount depends on
 
 ## Pricing for Bird Visits
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of birds
 

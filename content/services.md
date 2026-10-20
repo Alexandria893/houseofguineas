@@ -45,7 +45,7 @@ Standing weekly or every-other-week visits in your pet's own home — the upkeep
 
 Visits in the comfort of your pet's home for **rabbits, guinea pigs, chinchillas, ferrets, hamsters, reptiles and birds**.
 
-**From $85/visit. Twice-daily care from $155/day.**
+**From $95/visit. Twice-daily care from $155/day.**
 
 From precise [reptile habitat management](/reptile-amphibian-care-guide) and avian dietary needs, to the gentle handling of small mammals, we help prevent the stress and anxiety often caused by abrupt changes in their environment. Your home is your pet's safe-haven; our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) keeps your pet's world consistent while you're away.
 
@@ -64,7 +64,7 @@ And if your pet ever needs a vet while you're away — a scheduled checkup or a 
     </ul>
     <p style="margin-top: 1rem;"><strong>Individual Visits (1x/day)</strong></p>
     <ul>
-      <li>30 minutes — $85/visit</li>
+      <li>30 minutes — $95/visit</li>
       <li>60 minutes — $125/visit</li>
     </ul>
   </div>

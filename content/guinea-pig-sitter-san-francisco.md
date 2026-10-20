@@ -41,7 +41,7 @@ We cover the whole city, from the western avenues out to the bay. Small mammals 
 
 ## Pricing for Small-Mammal Visits
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
@@ -105,7 +105,7 @@ These are in-city San Francisco visits, so there is **no Peninsula travel surcha
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Francisco guinea pig sitter cost?</summary>
   <div class="faq-answer">
-    <p>For a single pig or a bonded pair in the city, a 30-minute visit at $85 usually covers hay and vegetables with their daily vitamin C comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $125. Pet parents who want morning and evening feeds book twice-daily care at $155–$215 per day depending on visit length and how many pigs are in the herd. These are in-city San Francisco visits, so no travel surcharge applies. Text 415-484-6493 with your dates for an exact quote.</p>
+    <p>For a single pig or a bonded pair in the city, a 30-minute visit at $95 usually covers hay and vegetables with their daily vitamin C comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $125. Pet parents who want morning and evening feeds book twice-daily care at $155–$215 per day depending on visit length and how many pigs are in the herd. These are in-city San Francisco visits, so no travel surcharge applies. Text 415-484-6493 with your dates for an exact quote.</p>
   </div>
 </details>
 
@@ -155,7 +155,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "How much does a San Francisco guinea pig sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For a single pig or a bonded pair in the city, a 30-minute visit at $85 usually covers hay and vegetables with their daily vitamin C comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $125. Pet parents who want morning and evening feeds book twice-daily care at $155–$215 per day depending on visit length and how many pigs are in the herd. These are in-city San Francisco visits, so no travel surcharge applies. Text 415-484-6493 with your dates for an exact quote."
+        "text": "For a single pig or a bonded pair in the city, a 30-minute visit at $95 usually covers hay and vegetables with their daily vitamin C comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $125. Pet parents who want morning and evening feeds book twice-daily care at $155–$215 per day depending on visit length and how many pigs are in the herd. These are in-city San Francisco visits, so no travel surcharge applies. Text 415-484-6493 with your dates for an exact quote."
       }
     }
   ]

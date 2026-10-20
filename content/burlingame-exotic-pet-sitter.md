@@ -48,7 +48,7 @@ We also cover the stretch between Washington Park and Ray Park, homes near Mercy
 
 ## Pricing for Burlingame Visits
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
@@ -112,7 +112,7 @@ Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">How much does a Burlingame exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Plan on $85 for a 30-minute visit and $125 for a full hour. Most traveling families book twice-daily care, which runs $155–$215 per day depending on visit length and how many little ones are on the roster. Burlingame sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance — <a href="tel:415-484-6493">text us your address and travel dates</a> and we will confirm your exact rate before you ever reach the SFO security line.</p>
+    <p>Plan on $95 for a 30-minute visit and $125 for a full hour. Most traveling families book twice-daily care, which runs $155–$215 per day depending on visit length and how many little ones are on the roster. Burlingame sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance — <a href="tel:415-484-6493">text us your address and travel dates</a> and we will confirm your exact rate before you ever reach the SFO security line.</p>
   </div>
 </details>
 
@@ -162,7 +162,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Burlingame exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Plan on $85 for a 30-minute visit and $125 for a full hour. Most traveling families book twice-daily care, which runs $155–$215 per day depending on visit length and how many little ones are on the roster. Burlingame sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance — text us your address and travel dates and we will confirm your exact rate before you ever reach the SFO security line."
+        "text": "Plan on $95 for a 30-minute visit and $125 for a full hour. Most traveling families book twice-daily care, which runs $155–$215 per day depending on visit length and how many little ones are on the roster. Burlingame sits in our Peninsula tier, so a travel surcharge of $15–$25/visit applies, depending on distance — text us your address and travel dates and we will confirm your exact rate before you ever reach the SFO security line."
       }
     }
   ]

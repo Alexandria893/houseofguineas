@@ -45,7 +45,7 @@ If you're on the Peninsula, our [in-home exotic pet care](/home/services/exotic-
 
 Pricing follows our standard SF in-home rates:
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length
 

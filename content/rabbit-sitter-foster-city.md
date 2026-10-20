@@ -53,7 +53,7 @@ We cover the lagoon-adjacent stretches and the pockets along Edgewater, the home
 
 ## Pricing for Foster City Rabbit Visits
 
-- **30-minute visits** start at **$85**
+- **30-minute visits** start at **$95**
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of rabbits
 

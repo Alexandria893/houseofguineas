@@ -48,7 +48,7 @@ If your neighborhood is not on the list, it is almost certainly still covered �
 
 ## Pricing for San Francisco Exotic Pet Care
 
-- **In-home, 30-minute visits** start at **$85**
+- **In-home, 30-minute visits** start at **$95**
 - **In-home, 60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
@@ -84,7 +84,7 @@ San Francisco is our **primary service area, so no travel surcharge applies** �
 <details class="faq-details">
   <summary class="faq-summary">How much does an exotic pet sitter cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>In-home exotic pet sitting in San Francisco starts at $85 for a 30-minute visit and $125 for a 60-minute visit; twice-daily care runs $155–$215 per day depending on visit length and the number of pets. San Francisco is our primary service area, so no travel surcharge applies.</p>
+    <p>In-home exotic pet sitting in San Francisco starts at $95 for a 30-minute visit and $125 for a 60-minute visit; twice-daily care runs $155–$215 per day depending on visit length and the number of pets. San Francisco is our primary service area, so no travel surcharge applies.</p>
   </div>
 </details>
 
@@ -130,7 +130,7 @@ Heading out of town soon? [Call or text us at 415-484-6493](tel:415-484-6493) an
       "name": "How much does an exotic pet sitter cost in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In-home exotic pet sitting in San Francisco starts at $85 for a 30-minute visit and $125 for a 60-minute visit; twice-daily care runs $155–$215 per day depending on visit length and the number of pets. San Francisco is our primary service area, so no travel surcharge applies."
+        "text": "In-home exotic pet sitting in San Francisco starts at $95 for a 30-minute visit and $125 for a 60-minute visit; twice-daily care runs $155–$215 per day depending on visit length and the number of pets. San Francisco is our primary service area, so no travel surcharge applies."
       }
     },
     {

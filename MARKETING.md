@@ -120,7 +120,7 @@ Post from a second Google account, answer from the business profile, upvote your
 - **Do you serve San Mateo and the Peninsula?** — Yes — SF down through Millbrae, Burlingame, Hillsborough, San Mateo, Foster City, and Redwood City. Small per-visit travel amount by distance. Text 415-484-6493 for a quote.
 - **Do you take care of guinea pigs, chinchillas, and rabbits?** — Small mammals are the heart of what we do — with GI-stasis awareness and species-specific care. In-home care and SF boarding available.
 - **Do you board exotic pets?** — Yes — hosted personally in SF at $125/night for small mammals, reptiles, and birds. Space is limited around holidays, so reach out early. Call/text 415-484-6493.
-- **What are your rates?** — In-home visits from $85 (30 min) / $125 (60 min); twice-daily care $155–$215/day. Routine standing visits from $105/visit weekly. Boarding $125/night. Full breakdown: houseofguineas.com/book/
+- **What are your rates?** — In-home visits from $95 (30 min) / $125 (60 min); twice-daily care $155–$215/day. Routine standing visits from $105/visit weekly. Boarding $125/night. Full breakdown: houseofguineas.com/book/
 
 ---
 
