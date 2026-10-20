@@ -225,6 +225,69 @@
 </script>
 {{ end }}
 
+{{ with and (eq .Section "careers") .IsPage .Params.job }}
+<!-- Structured Data: JobPosting (Google for Jobs) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": {{ .title | jsonify | safeJS }},
+  "description": {{ $.Content | jsonify | safeJS }},
+  "datePosted": "{{ .datePosted }}",{{ with .validThrough }}
+  "validThrough": "{{ . }}",{{ end }}
+  "employmentType": "{{ .employmentType }}",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "House of Guineas LLC",
+    "sameAs": "{{ $.Site.BaseURL }}",
+    "logo": "{{ $.Site.BaseURL }}logo-square.png"
+  },
+  "jobLocation": [
+    {{- range $i, $city := .locations | default (slice "San Francisco") }}{{ if $i }},{{ end }}
+    {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "{{ $city }}",
+        "addressRegion": "CA",
+        "addressCountry": "US"
+      }
+    }
+    {{- end }}
+  ],
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": {{ .hourlyRate }},
+      "unitText": "HOUR"
+    }
+  },
+  "directApply": false
+}
+</script>
+{{ end }}
+
+{{ with and (eq .Section "careers") .IsPage .Params.faqs }}
+<!-- Structured Data: FAQPage (job posting questions) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $i, $f := . }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $f.q | jsonify | safeJS }},
+      "acceptedAnswer": {"@type": "Answer", "text": {{ $f.a | jsonify | safeJS }}}
+    }
+    {{- end }}
+  ]
+}
+</script>
+{{ end }}
+
 {{ if eq .Type "product" }}
 <!-- Structured Data: Product -->
 <script type="application/ld+json">
