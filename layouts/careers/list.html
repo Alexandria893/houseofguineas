@@ -20,7 +20,7 @@
 						{{ range .Pages.ByWeight }}
 							<div class="job-card">
 								<p class="plan-card__tag">{{ .Params.job.employmentLabel }}</p>
-								<h3><a href="{{ .RelPermalink }}">{{ .Params.shortTitle }}</a></h3>
+								<h3><a href="{{ .RelPermalink }}">{{ .Params.job.title }}</a></h3>
 								<ul class="job-facts job-facts--compact">
 									<li><span>Pay</span><span>{{ .Params.job.payLabel }}</span></li>
 									<li><span>Location</span><span>{{ .Params.job.locationLabel }}</span></li>

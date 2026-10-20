@@ -1,25 +1,51 @@
 +++
-title = "Exotic Pet Caretaker (Part-Time, In-Home Care) | San Francisco & Peninsula | House of Guineas"
-shortTitle = "Exotic Pet Caretaker"
-description = "Part-time W-2 exotic pet caretaker job in San Francisco & the Peninsula. $30/hr, every 30-minute visit paid as a full hour, mileage reimbursed, holiday time-and-a-half."
+title = "Exotic Pet Caretaker (Pet Sitter), Part-Time | San Francisco & Peninsula Jobs | House of Guineas"
+shortTitle = "Exotic Pet Caretaker (Pet Sitter), Part-Time"
+description = "Part-time W-2 exotic pet sitter and caretaker job in San Francisco & the Peninsula. $30/hr, every 30-minute visit paid as a full hour, mileage reimbursed, holidays at time-and-a-half."
 summary = "In-home care visits for small mammals, reptiles and birds, coming back to the same clients trip after trip. Hands-on exotics experience required."
 og_image = "HappilyHoldingSnake.jpg"
 weight = 1
 [params]
   hideCtaBlock = true
 [params.job]
-  title = "Exotic Pet Caretaker"
+  title = "Exotic Pet Caretaker (Pet Sitter)"
   datePosted = "2026-10-20"
+  validThrough = "2026-11-20T23:59:00-08:00"
   employmentType = "PART_TIME"
   employmentLabel = "Part-time · W-2"
   payLabel = "$30/hr"
   hourlyRate = 30
   locationLabel = "San Francisco & the Peninsula"
+  locations = ["San Francisco", "Daly City", "San Bruno", "Millbrae", "Burlingame", "Hillsborough", "San Mateo", "Foster City", "Belmont", "San Carlos", "Redwood City"]
+
+[[params.faqs]]
+  q = "What does this exotic pet sitter job pay?"
+  a = "$30/hr. Every 30-minute care visit is paid as a full 1-hour block to cover travel and charting, major holidays are paid at time-and-a-half, all work driving is reimbursed at the current IRS mileage rate, and there's a $50/month smartphone reimbursement in any month you work."
+[[params.faqs]]
+  q = "Is this a W-2 job or an independent contractor gig?"
+  a = "It's a part-time W-2 position with workers' compensation coverage."
+[[params.faqs]]
+  q = "Do I need veterinary experience?"
+  a = "Hands-on exotics experience is required, and it can come from years of keeping your own reptiles, rabbits, birds or small mammals; working or volunteering at a rescue, shelter, boarding facility or breeder; or a veterinary setting. A veterinary background is welcome."
+[[params.faqs]]
+  q = "Which animals will I care for?"
+  a = "Small mammals, reptiles and birds, in their own homes across San Francisco and the Peninsula. That includes handling live and frozen feeders for reptile clients and nail trims for small mammals and reptiles."
+[[params.faqs]]
+  q = "What's the schedule?"
+  a = "Visits run in three blocks by arrival time: Morning (8–11am), Midday (12–3pm) and Evening (4–7pm). We're looking for caretakers available Midday and Evening, Monday through Friday, plus weekends."
+[[params.faqs]]
+  q = "Do I have to work the holidays?"
+  a = "Yes. Thanksgiving week and Christmas week (Monday through Sunday), plus December 31–January 1, are our peak care dates, and major holidays are paid at time-and-a-half."
+[[params.faqs]]
+  q = "Do I need a car?"
+  a = "Yes, a valid driver's license and an operable vehicle are required. All work driving is reimbursed at the current IRS rate, including your drive to your first visit and back home after your last."
 [sitemap]
   priority = 0.6
 +++
 
 <p class="plan-card__tag">House of Guineas LLC — San Francisco &amp; the Peninsula</p>
+
+We're hiring a part-time exotic pet sitter for in-home care visits with small mammals, reptiles and birds across San Francisco and the Peninsula.
 
 <ul class="job-facts">
   <li><span>Location</span><span>Visits run throughout San Francisco and along the Peninsula. A reliable commute to our primary SF clients is required, and all work driving, including your commute to and from visits, is reimbursed at the current IRS mileage rate.</span></li>
@@ -105,6 +131,10 @@ Most days run smoothly. This is care for living animals, so here's how the rare 
 * **Smartphone Reimbursement:** $50/month in any month you work.
 * **Workers' Compensation Coverage.**
 * **Team Pet Perks:** 20% off House of Guineas care visits for your own pets, plus 50% off our medical-grade cage liners.
+
+## Questions
+
+{{< job-faq >}}
 
 <h2 id="to-apply">To Apply</h2>
 

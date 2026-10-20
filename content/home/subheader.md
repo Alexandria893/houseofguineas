@@ -27,6 +27,7 @@ Finally — animal lovers that understand your exotic pets! Our veterinary-infor
 </div>
 
 <p class="text-center" style="margin-top: 25px;"><a href="/routine-recurring-exotic-pet-care/" class="btn btn-lg btn-cta-primary">Reclaim Your Evenings with Routine Care</a></p>
+<p class="text-center" style="font-size: 14px;">Experienced with exotics? <a href="/careers/">We're hiring part-time pet sitters for the holidays →</a></p>
 <!-- As an experienced exotic veterinary assistant, I provide specialized in-home care, ensuring your cherished companions receive not just attention, but knowledgeable support tailored to their specific needs. From precise habitat management to recognizing subtle health cues, your pet's well-being is my top priority.  -->
 
 <!-- Ready for peace of mind for your reptile, bird, or unique small mammal? [Contact me](tel:415-484-6493) to discuss your pet's care! -->

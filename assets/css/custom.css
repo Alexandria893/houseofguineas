@@ -1519,3 +1519,9 @@ html {
 @media (max-width: 480px) {
   .job-facts li { grid-template-columns: 1fr; gap: 2px; }
 }
+
+/* Careers FAQ (same look as the inline FAQ styles on the routine care page) */
+.faq-details { margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #eee; }
+.faq-summary { font-weight: bold; font-size: 1.1em; cursor: pointer; list-style: none; }
+.faq-summary::-webkit-details-marker { display: none; }
+.faq-answer { padding-top: 0.75rem; }
