@@ -16,7 +16,7 @@ weight = 1
   payLabel = "$30/hr"
   hourlyRate = 30
   locationLabel = "San Francisco & the Peninsula"
-  locations = ["San Francisco", "Daly City", "San Bruno", "Millbrae", "Burlingame", "Hillsborough", "San Mateo", "Foster City", "Belmont", "San Carlos", "Redwood City"]
+  locations = ["San Francisco", "Daly City", "Pacifica", "South San Francisco", "San Bruno", "Millbrae", "Burlingame", "San Mateo"]
 
 [[params.faqs]]
   q = "What does this exotic pet sitter job pay?"
