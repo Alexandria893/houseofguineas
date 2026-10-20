@@ -88,7 +88,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
   "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — three standing plans in your pet's own home: Deep Cleans and Upkeep visits (weekly or every other week) and every-other-week Nail Trims, each with a health check from a veterinary-informed team.",
   "provider": {
     "@type": "LocalBusiness",
-    "@id": "https://houseofguineas.com/#localbusiness"
+    "@id": "https://www.houseofguineas.com/#localbusiness"
   },
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
