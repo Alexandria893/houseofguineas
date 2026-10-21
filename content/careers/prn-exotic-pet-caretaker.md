@@ -36,6 +36,9 @@ weight = 2
   q = "What's the schedule?"
   a = "Visits run in three blocks by arrival time: Morning (8–11am), Midday (12–3pm) and Evening (4–7pm). We're looking for PRNs available Midday and Evening, Monday through Friday, plus weekends. The availability you share on our team calendar shows us when we can offer you visits."
 [[params.faqs]]
+  q = "How many hours a week is this?"
+  a = "We're growing, and right now PRN work is occasional: some weeks bring nothing, and July–August and the holidays bring the most requests. Every visit is paid as a full hour. It isn't a replacement for other income, and it fits best alongside other work or school. As our client base grows, so does the coverage we need."
+[[params.faqs]]
   q = "Do I have to work the holidays?"
   a = "Yes. Thanksgiving week and Christmas week (Monday through Sunday), plus December 31–January 1, are our peak care dates. Major holidays are paid at time-and-a-half, and combine with the short-notice premium for double time."
 [[params.faqs]]
@@ -56,7 +59,11 @@ We're hiring PRN (as-needed) exotic pet sitters for in-home care visits with sma
   <li><span>Schedule</span><span>Visits run in three blocks, by arrival time: Morning (8–11am), Midday (12–3pm) and Evening (4–7pm). We're looking for PRNs available Midday and Evening, Monday through Friday, plus weekends. PRNs with more blocks and more days get priority.</span></li>
 </ul>
 
-As a PRN, you're the team's flexible coverage. Visits are offered to you when bookings grow beyond our core caretakers' schedules or a teammate is out. Each one is an in-home care visit with one household and its animals. The availability you share on our team calendar shows us when we can offer you visits, and you confirm each coverage request with a same-day yes or no. As our client base grows, visits come in throughout the year, with our fullest schedules during July–August and November–December.
+As a PRN, you're the team's flexible coverage. Visits are offered to you when bookings grow beyond our core caretakers' schedules or a teammate is out. Each one is an in-home care visit with one household and its animals. The availability you share on our team calendar shows us when we can offer you visits, and you confirm each coverage request with a same-day yes or no.
+
+<div class="job-callout">
+  <strong>A note on hours:</strong> We're growing, and we want to be upfront about where we are today. PRN visits are offered when our core caretakers are full or out, so this is occasional work: some weeks bring nothing, and July–August and the holidays bring the most requests. It isn't a replacement for other income, and it fits best alongside other work or school. As our client base grows, so does the coverage we need.
+</div>
 
 <div class="job-callout">
   <strong>Holiday availability is required:</strong> Thanksgiving week and Christmas week (Monday through Sunday), plus December 31–January 1, are our peak care dates.

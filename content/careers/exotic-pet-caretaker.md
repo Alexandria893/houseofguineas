@@ -33,6 +33,9 @@ weight = 1
   q = "What's the schedule?"
   a = "Visits run in three blocks by arrival time: Morning (8–11am), Midday (12–3pm) and Evening (4–7pm). We're looking for caretakers available Midday and Evening, Monday through Friday, plus weekends."
 [[params.faqs]]
+  q = "How many hours a week is this?"
+  a = "We're growing, and right now this is a few visits a week, not a full schedule. Quiet weeks might bring one or two visits, and July–August and the holidays bring several, so it isn't enough to be your only income yet. Every visit is paid as a full hour, caretakers with more availability are offered more visits, and hours grow as our client base grows."
+[[params.faqs]]
   q = "Do I have to work the holidays?"
   a = "Yes. Thanksgiving week and Christmas week (Monday through Sunday), plus December 31–January 1, are our peak care dates, and major holidays are paid at time-and-a-half."
 [[params.faqs]]
@@ -56,7 +59,11 @@ We're hiring a part-time exotic pet sitter for in-home care visits with small ma
   <li><span>Schedule</span><span>Visits run in three blocks, by arrival time: Morning (8–11am), Midday (12–3pm) and Evening (4–7pm). We're looking for caretakers available Midday and Evening, Monday through Friday, plus weekends. Caretakers with more blocks and more days get priority.</span></li>
 </ul>
 
-Our visits follow our clients' travel schedules. Each one is an in-home care visit with one household and its animals, and our caretakers get to know each client and come back trip after trip. The blocks you share are the windows when we can offer you visits. As our client base grows, visits come in throughout the year, with our fullest schedules during July–August and November–December.
+Our visits follow our clients' travel schedules. Each one is an in-home care visit with one household and its animals, and our caretakers get to know each client and come back trip after trip. The blocks you share are the windows when we can offer you visits.
+
+<div class="job-callout">
+  <strong>A note on hours:</strong> We're growing, and we want to be upfront about where we are today. This is a few visits a week, not a full schedule. Quiet weeks might bring one or two visits, and July–August and the holidays bring several, so it isn't enough to be your only income yet. Every new client we take on adds visits, caretakers with more availability are offered more of them, and the role grows as we do. It fits best alongside other work or school.
+</div>
 
 <div class="job-callout">
   <strong>Holiday availability is required:</strong> Thanksgiving week and Christmas week (Monday through Sunday), plus December 31–January 1, are our peak care dates.
