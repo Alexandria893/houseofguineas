@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 San Bruno is a San Mateo County city that keeps a lot of quiet momentum. Sitting just south of the San Francisco county line at the foot of San Bruno Mountain, it is a town of tight residential grids, hillside neighborhoods, and families whose weeks run on the rhythm of SFO, the tech campuses to the south, and the Caltrain and BART lines that thread through the middle of it. A lot of San Bruno households also happen to be small-mammal households — homes where a bonded pair of guinea pigs squeals for breakfast, a rabbit gets her morning salad, or a pair of rats waits for evening lap time. When one of those families is headed out of town, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never trimmed a guinea pig's nails. That is the gap our team fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because San Bruno sits just down the Peninsula — a short trip south on the 101 or 280 — our team of exotic pet caretakers is only a quick drive away when we come to provide in-home care. From the homes climbing toward the Crestmoor and Rollingwood neighborhoods to the Portola Highlands above the city, and from the streets near the old Tanforan area over toward the Caltrain and BART stations, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
+House of Guineas Pet Care is based in San Francisco, and because San Bruno sits just down the Peninsula — a short trip south on the 101 or 280 — our team of exotic pet caretakers is only a quick drive away when we come to provide in-home care. From the homes climbing toward the Crestmoor and Rollingwood neighborhoods to the Portola Highlands above the city, and from the streets near the old Tanforan area over toward the Caltrain and BART stations, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
 
 ## Why San Bruno Exotic Pet Owners Choose Our Team
 
@@ -44,7 +44,7 @@ San Bruno stretches from the flats near the old Tanforan area up into the hills 
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF base, so a travel surcharge of $15–$25/visit applies, depending on distance. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+San Bruno sits in San Mateo County, a short trip down the 101 or 280 from San Francisco, so a travel surcharge of $15–$25/visit applies, depending on distance. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 > **Routine care stops in San Bruno, too.** With so many San Bruno families commuting up the 280 or working shifts around SFO, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker looks after the enclosure deep-clean, hay restock, and a gentle health check, so the hours you do have at home belong entirely to your little ones.
 
@@ -76,7 +76,7 @@ San Bruno sits in San Mateo County, a short trip down the 101 or 280 from our SF
 <details class="faq-details">
   <summary class="faq-summary">Do you really travel to San Bruno for exotic pet care?</summary>
   <div class="faq-answer">
-    <p>Yes. Our team is based in San Francisco's Inner Sunset, and San Bruno sits just down the Peninsula in San Mateo County, a short trip south on the 101 or 280. In-home exotic care in San Bruno is a regular part of our route.</p>
+    <p>Yes. Our team is based in San Francisco, and San Bruno sits just down the Peninsula in San Mateo County, a short trip south on the 101 or 280. In-home exotic care in San Bruno is a regular part of our route.</p>
   </div>
 </details>
 
@@ -122,7 +122,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Do you really travel to San Bruno for exotic pet care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Our team is based in San Francisco's Inner Sunset, and San Bruno sits just down the Peninsula in San Mateo County, a short trip south on the 101 or 280. In-home exotic care in San Bruno is a regular part of our route."
+        "text": "Yes. Our team is based in San Francisco, and San Bruno sits just down the Peninsula in San Mateo County, a short trip south on the 101 or 280. In-home exotic care in San Bruno is a regular part of our route."
       }
     },
     {

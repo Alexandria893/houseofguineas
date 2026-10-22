@@ -82,7 +82,7 @@ San Francisco residents — see our dedicated [San Francisco exotic pet sitter](
 
 Peninsula residents — see our dedicated pages for [Burlingame](/burlingame-exotic-pet-sitter/), [Millbrae](/millbrae-exotic-pet-sitter/), [San Mateo](/san-mateo-exotic-pet-sitter/), [Hillsborough](/hillsborough-exotic-pet-sitter/), [Belmont](/belmont-exotic-pet-sitter/), [San Carlos](/san-carlos-exotic-pet-sitter/), [Foster City](/foster-city-exotic-pet-sitter/), and [Redwood City](/redwood-city-exotic-pet-sitter/).
 
-* Peninsula travel surcharge: **$15–$25/visit** depending on distance from our Inner Sunset base (no surcharge within San Francisco). See our [service areas](/home/services/faqs/#service-areas).
+* Travel surcharge: most of San Francisco has none; outlying neighborhoods such as the Marina and Bayview are **$15/visit**; the Peninsula is **$15–$25/visit** depending on distance from San Francisco. We confirm your exact rate when you text us your address. See our [service areas](/home/services/faqs/#service-areas).
 
 Cat care is available in San Francisco too — whether your cat shares the home with exotics or is the only pet. See [cat and exotic pet sitting in San Francisco](/cat-and-exotic-pet-sitter-san-francisco/) for details.
 

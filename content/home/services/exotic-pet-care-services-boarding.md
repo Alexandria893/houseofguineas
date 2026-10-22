@@ -27,7 +27,7 @@ Your pet gets their private room with soothing music — **$125/night** for **Re
 
 ## Exotic Pet Boarding in San Francisco
 
-**Please note:** Boarding is hosted personally by members of our team, so we can only take a small number of pets at a time — and we reserve those spots for pet parents **outside San Francisco**, where in-home visits mean travel surcharges and longer drives. If you live in the city, [in-home care](/home/services/exotic-pet-care-services-in-home) is the better fit: your little ones stay in the home they know, there's no travel surcharge anywhere in San Francisco, and our caretakers have far more availability.
+**Please note:** Boarding is hosted personally by members of our team, so we can only take a small number of pets at a time — and we reserve those spots for pet parents **outside San Francisco**, where in-home visits mean travel surcharges and longer drives. If you live in the city, [in-home care](/home/services/exotic-pet-care-services-in-home) is the better fit: your little ones stay in the home they know, there's no travel surcharge across most of San Francisco, and our caretakers have far more availability.
 
 Changes in your pet's environment can cause discomfort and stress. With that said, we understand that there are times where their home may not be the best option while you are away. Our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) will work with you to make sure their home-away-from-home is the next best thing.
 

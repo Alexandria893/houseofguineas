@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 If you live in Burlingame, odds are you are at SFO more often than you would like — and the one question that keeps coming up the night before a 6 a.m. flight is *who is going to watch the chinchilla?* Burlingame has the unusual distinction of being the closest Peninsula city to the airport, which means the pet parents we visit here tend to be frequent flyers: biotech folks heading to Boston, product managers catching the red-eye to JFK, families flying out of SFO for a long weekend in Kauai. Exotic pets do not travel well, and most conventional boarding facilities are not equipped to handle a bonded pair of rabbits, a bearded dragon with a specific UVB schedule, or a cockatiel who only eats if someone whistles back. That is the gap our team fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet caretakers travels down the Peninsula to provide in-home care for Burlingame families and their little ones. We handle everything from the Easton Addition to Mills Estate, and we are comfortable driving past the Hyatt Regency at 4:45 a.m. so you can make your boarding call on time.
+House of Guineas Pet Care is based in San Francisco, and our team of exotic pet caretakers travels down the Peninsula to provide in-home care for Burlingame families and their little ones. We handle everything from the Easton Addition to Mills Estate, and we are comfortable driving past the Hyatt Regency at 4:45 a.m. so you can make your boarding call on time.
 
 ## Why Burlingame Exotic Pet Owners Choose Our Team
 
@@ -52,7 +52,7 @@ We also cover the stretch between Washington Park and Ray Park, homes near Mercy
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from our Inner Sunset base. Text us your address and dates and we will confirm your rate.
+Burlingame is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from San Francisco. Text us your address and dates and we will confirm your rate.
 
 > **Routine care lands in Burlingame, too.** Standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits are built for the stretches between SFO trips when you are home but running on fumes — their caretaker takes on the enclosure deep-clean, hay restock, and a gentle health check, so your time with your little ones stays the easy, happy part.
 

@@ -9,7 +9,7 @@ og_image = "beardedDragonPostBath.jpg"
 
 SOMA — South of Market — is the tech and startup heart of San Francisco, a district of dense high-rise condos and converted lofts stacked between the Embarcadero, Oracle Park, Yerba Buena, and the Moscone Center, with the Caltrain terminus anchoring the southern edge at 4th & King. It is a neighborhood built for people who move fast: young professionals in glass-tower apartments, founders and engineers who travel for work at a moment's notice, and renters who have learned that a low-footprint pet fits city life far better than a dog that needs a backyard. That is exactly why so many SOMA homes house a bearded dragon under a UVB lamp, a leopard gecko in a tidy terrarium, or a bonded pair of guinea pigs on a C&C grid. And when a trip or a conference comes up, the question that surfaces the night before is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never checked a reptile enclosure's humidity or trimmed a guinea pig's nails. That is the gap our team fills.
 
-House of Guineas Pet Care is based right here in San Francisco, in the Inner Sunset, which makes SOMA a quick, same-city trip for us. We come to your pets so they can stay in their own enclosures, on their own routines, in the home they already know — whether you are in a high-rise condo near the Embarcadero, a loft off Folsom or Bryant, or a building a few blocks from the Caltrain station at 4th & King.
+House of Guineas Pet Care is based right here in San Francisco, which makes SOMA a same-city trip for us. We come to your pets so they can stay in their own enclosures, on their own routines, in the home they already know — whether you are in a high-rise condo near the Embarcadero, a loft off Folsom or Bryant, or a building a few blocks from the Caltrain station at 4th & King.
 
 ## Why SOMA Exotic Pet Parents Choose Our Team
 
@@ -44,7 +44,7 @@ SOMA packs a lot into a flat, walkable footprint, and we cover all of it. That m
 - **60-minute visits** start at **$125**
 - **Routine daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-SOMA is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing here is simple and in-city. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+SOMA is within San Francisco, our home city, and carries no travel surcharge — pricing here is simple and in-city. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 > **Long days at the office, even when it's just a few blocks from home?** SOMA pet parents in loft and high-rise condos can keep us on a recurring rhythm — weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits where their caretaker handles the full habitat refresh and does a calm health check, so the hours you do have at home go straight to your little ones.
 
@@ -76,7 +76,7 @@ SOMA is within San Francisco, our home city, so there is no Peninsula travel sur
 <details class="faq-details">
   <summary class="faq-summary">Do you cover SOMA for exotic pet care?</summary>
   <div class="faq-answer">
-    <p>Yes. We are based in San Francisco's Inner Sunset, so SOMA is a quick same-city trip for us. In-home exotic care throughout South of Market — from the Embarcadero high-rises to the lofts near Oracle Park and the Caltrain terminus at 4th & King — is a regular part of what we do.</p>
+    <p>Yes. We are based in San Francisco, so SOMA is a same-city trip for us. In-home exotic care throughout South of Market — from the Embarcadero high-rises to the lofts near Oracle Park and the Caltrain terminus at 4th & King — is a regular part of what we do.</p>
   </div>
 </details>
 
@@ -104,7 +104,7 @@ SOMA is within San Francisco, our home city, so there is no Peninsula travel sur
 <details class="faq-details">
   <summary class="faq-summary">How much does a SOMA exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Expect $95 to start for a 30-minute visit and $125 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $155–$215 per day based on visit length and number of pets. High-rise living does not change the price — SOMA is in-city for us, so there is no Peninsula travel surcharge; just leave access notes for your building's front desk. Text 415-484-6493 with your dates and we will quote it firm.</p>
+    <p>Expect $95 to start for a 30-minute visit and $125 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $155–$215 per day based on visit length and number of pets. High-rise living does not change the price — SOMA carries no travel surcharge; just leave access notes for your building's front desk. Text 415-484-6493 with your dates and we will quote it firm.</p>
   </div>
 </details>
 
@@ -122,7 +122,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you cover SOMA for exotic pet care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We are based in San Francisco's Inner Sunset, so SOMA is a quick same-city trip for us. In-home exotic care throughout South of Market — from the Embarcadero high-rises to the lofts near Oracle Park and the Caltrain terminus at 4th & King — is a regular part of what we do."
+        "text": "Yes. We are based in San Francisco, so SOMA is a same-city trip for us. In-home exotic care throughout South of Market — from the Embarcadero high-rises to the lofts near Oracle Park and the Caltrain terminus at 4th & King — is a regular part of what we do."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a SOMA exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Expect $95 to start for a 30-minute visit and $125 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $155–$215 per day based on visit length and number of pets. High-rise living does not change the price — SOMA is in-city for us, so there is no Peninsula travel surcharge; just leave access notes for your building's front desk. Text 415-484-6493 with your dates and we will quote it firm."
+        "text": "Expect $95 to start for a 30-minute visit and $125 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $155–$215 per day based on visit length and number of pets. High-rise living does not change the price — SOMA carries no travel surcharge; just leave access notes for your building's front desk. Text 415-484-6493 with your dates and we will quote it firm."
       }
     }
   ]

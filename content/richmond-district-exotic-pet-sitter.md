@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 The Richmond District has a rhythm all its own. Spread out across the foggy, residential blocks north of Golden Gate Park, it is one of San Francisco's great family neighborhoods — quiet avenues of flats and single-family homes that give way to the bustle of Clement Street and Geary Boulevard, a renowned hub of Chinese and Russian restaurants and businesses sometimes called the city's "New Chinatown." It is the kind of place where people put down roots, raise kids, and keep animals. When that household includes a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who needs his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never trimmed a guinea pig's nails. That is the gap our team fills.
 
-House of Guineas Pet Care is based just across Golden Gate Park in San Francisco's Inner Sunset, which makes the Richmond a quick, same-city trip — no Peninsula drive, no leaving town. We come to your pets so they can stay in their own enclosures, on their own routines, while you are away, whether you are tucked into the Inner Richmond near the park's northern edge or out toward the coast in the Outer Richmond.
+House of Guineas Pet Care is based in San Francisco, which makes the Richmond a same-city trip — no Peninsula drive, no leaving town. We come to your pets so they can stay in their own enclosures, on their own routines, while you are away, whether you are tucked into the Inner Richmond near the park's northern edge or out toward the coast in the Outer Richmond.
 
 ## Why Richmond District Exotic Pet Owners Choose Our Team
 
@@ -30,7 +30,7 @@ If your species is not listed, [call or text us](tel:415-484-6493) — if we hav
 
 ## How It Works in the Richmond
 
-We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For Richmond pet parents, this usually lands on a weekend or an after-work window, and since we are just across the park in the Inner Sunset, getting over to your block on Clement, Geary, or one of the numbered avenues is easy to arrange.
+We start with a free meet-and-greet at your home — a real-time walkthrough of feeding routines, enclosure setup, medication schedules, and your pet's quirks. For Richmond pet parents, this usually lands on a weekend or an after-work window, and getting over to your block on Clement, Geary, or one of the numbered avenues is easy to arrange.
 
 Once you book, we schedule visits around your travel itinerary. Most exotic pets do well with twice-daily visits — morning and evening — so the rabbits get a fresh salad before the day starts and the reptile enclosure gets a proper lights-out check after dinner. We send photo and video updates from every visit, plus written notes on appetite, output, and behavior. If something seems off, we reach out before you land.
 
@@ -44,9 +44,9 @@ The Richmond stretches from Golden Gate Park in the south up to the Presidio and
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-The Richmond is within San Francisco — our home city — just across Golden Gate Park from our Inner Sunset base, so there is no Peninsula travel surcharge. Pricing here is simple and in-city. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+The Richmond is within San Francisco — our home city — and carries no travel surcharge. Pricing here is simple and in-city. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
-> **Rather spend your evenings on floor time than fleece changes?** Richmond pet parents — just across Golden Gate Park from our base — can schedule recurring [routine care](/routine-recurring-exotic-pet-care/) visits weekly or every other week. Their caretaker covers the habitat deep-clean and a gentle health check, keeping your time at home centered on the animals themselves.
+> **Rather spend your evenings on floor time than fleece changes?** Richmond pet parents can schedule recurring [routine care](/routine-recurring-exotic-pet-care/) visits weekly or every other week. Their caretaker covers the habitat deep-clean and a gentle health check, keeping your time at home centered on the animals themselves.
 
 ## Frequently Asked Questions
 
@@ -76,7 +76,7 @@ The Richmond is within San Francisco — our home city — just across Golden Ga
 <details class="faq-details">
   <summary class="faq-summary">Do you cover the Richmond District for exotic pet care?</summary>
   <div class="faq-answer">
-    <p>Yes. We are based just across Golden Gate Park in the Inner Sunset, so the Richmond is a quick, same-city trip for us. We cover the full district, from the Inner Richmond near the park to the Outer Richmond out toward Ocean Beach and Lands End. In-home exotic care here is a regular part of our routine.</p>
+    <p>Yes. We are based in San Francisco, so the Richmond is a same-city trip for us. We cover the full district, from the Inner Richmond near the park to the Outer Richmond out toward Ocean Beach and Lands End. In-home exotic care here is a regular part of our routine.</p>
   </div>
 </details>
 
@@ -97,14 +97,14 @@ The Richmond is within San Francisco — our home city — just across Golden Ga
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in the Richmond?</summary>
   <div class="faq-answer">
-    <p>For Richmond families, in-home visits are the better fit. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin, where in-home visits mean travel surcharges. The Richmond is just across Golden Gate Park from our Inner Sunset base, with no surcharge and plenty of caretaker availability, and your little ones stay in the home they know.</p>
+    <p>For Richmond families, in-home visits are the better fit. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin, where in-home visits mean travel surcharges. The Richmond carries no travel surcharge and has plenty of caretaker availability, and your little ones stay in the home they know.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a Richmond District exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>A 60-minute visit in the Richmond starts at $125, a 30-minute visit at $95, and most traveling pet parents book twice-daily care at $155–$215 per day, with the range set by visit length and number of pets. Inner Richmond off Clement Street or out by Ocean Beach, the price is the same in-city rate — no Peninsula travel surcharge, since we are based just across Golden Gate Park. Text 415-484-6493 with your dates for a firm quote.</p>
+    <p>A 60-minute visit in the Richmond starts at $125, a 30-minute visit at $95, and most traveling pet parents book twice-daily care at $155–$215 per day, with the range set by visit length and number of pets. Inner Richmond off Clement Street or out by Ocean Beach, the price is the same in-city rate — no travel surcharge in the Richmond. Text 415-484-6493 with your dates for a firm quote.</p>
   </div>
 </details>
 
@@ -122,7 +122,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you cover the Richmond District for exotic pet care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We are based just across Golden Gate Park in the Inner Sunset, so the Richmond is a quick, same-city trip for us. We cover the full district, from the Inner Richmond near the park to the Outer Richmond out toward Ocean Beach and Lands End. In-home exotic care here is a regular part of our routine."
+        "text": "Yes. We are based in San Francisco, so the Richmond is a same-city trip for us. We cover the full district, from the Inner Richmond near the park to the Outer Richmond out toward Ocean Beach and Lands End. In-home exotic care here is a regular part of our routine."
       }
     },
     {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in the Richmond?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For Richmond families, in-home visits are the better fit. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin, where in-home visits mean travel surcharges. The Richmond is just across Golden Gate Park from our Inner Sunset base, with no surcharge and plenty of caretaker availability, and your little ones stay in the home they know."
+        "text": "For Richmond families, in-home visits are the better fit. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin, where in-home visits mean travel surcharges. The Richmond carries no travel surcharge and has plenty of caretaker availability, and your little ones stay in the home they know."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Richmond District exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A 60-minute visit in the Richmond starts at $125, a 30-minute visit at $95, and most traveling pet parents book twice-daily care at $155–$215 per day, with the range set by visit length and number of pets. Inner Richmond off Clement Street or out by Ocean Beach, the price is the same in-city rate — no Peninsula travel surcharge, since we are based just across Golden Gate Park. Text 415-484-6493 with your dates for a firm quote."
+        "text": "A 60-minute visit in the Richmond starts at $125, a 30-minute visit at $95, and most traveling pet parents book twice-daily care at $155–$215 per day, with the range set by visit length and number of pets. Inner Richmond off Clement Street or out by Ocean Beach, the price is the same in-city rate — no travel surcharge in the Richmond. Text 415-484-6493 with your dates for a firm quote."
       }
     }
   ]

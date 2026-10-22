@@ -9,7 +9,7 @@ og_image = "beardedDragonPostBath.jpg"
 
 Ask around the Peninsula for someone who will actually come to your home and care for a reptile, and you hit the same wall most exotic pet parents do: there is almost nobody. The listings you find are either boarding facilities that want you to pack up and transport your animal, or generalist sitters who work mainly with dogs and cats. And for a reptile, transport is not a small thing. A bearded dragon's enclosure is a carefully calibrated little ecosystem — a basking spot dialed to the degree, a UVB bulb on a schedule, a humidity range held steady. Move all of that, and you are not just inconveniencing your pet; you are dismantling the system that keeps them healthy. What most reptile parents actually want is simple: someone who comes to the reptile, leaves the enclosure exactly where it is, and knows what they are looking at. That is the gap this page fills, from Daly City down to Redwood City.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet caretakers travels down the Peninsula to provide in-home reptile care. Your dragon stays on its own basking rock, your gecko keeps its own humidity, your python holds its own warm hide, your tortoise grazes in its own space — and we come to them.
+House of Guineas Pet Care is based in San Francisco, and our team of exotic pet caretakers travels down the Peninsula to provide in-home reptile care. Your dragon stays on its own basking rock, your gecko keeps its own humidity, your python holds its own warm hide, your tortoise grazes in its own space — and we come to them.
 
 ## Why Peninsula Reptile Owners Choose Us
 

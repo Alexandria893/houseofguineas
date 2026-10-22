@@ -9,7 +9,7 @@ og_image = "beardedDragonPostBath.jpg"
 
 The Mission District is San Francisco at its most vibrant — a dense, historically Latino neighborhood where the murals of Balmy and Clarion alleys spill color onto the walls, the Valencia and Mission Street corridors hum from morning coffee to late-night taquerías, and Dolores Park fills with sunbathers the moment the fog burns off. And burn off it does: the Mission is the sunniest, warmest pocket of the city, which is part of why it draws so many young professionals, artists, and renters into its flats and converted buildings. Those apartments are increasingly home to exotic pets — and given the space constraints of city living, they skew reptile-friendly: a bearded dragon under a UVB lamp, a leopard gecko in a tidy tank, a corn snake who barely needs a square foot. There are plenty of rabbits, guinea pigs, and birds here too. So when a trip comes up, the question that surfaces the night before is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never checked a reptile enclosure's humidity or trimmed a guinea pig's nails. That is the gap our team fills.
 
-House of Guineas Pet Care is based right here in San Francisco, in the Inner Sunset over the hill, which makes the Mission a quick, same-city trip for us. We come to your pets so they can stay in their own enclosures, on their own routines, in the home they already know — whether you are in a flat off Valencia Street, a converted building near 24th Street, or a walk-up a few blocks from Dolores Park.
+House of Guineas Pet Care is based right here in San Francisco, which makes the Mission a same-city trip for us. We come to your pets so they can stay in their own enclosures, on their own routines, in the home they already know — whether you are in a flat off Valencia Street, a converted building near 24th Street, or a walk-up a few blocks from Dolores Park.
 
 ## Why Mission District Exotic Pet Owners Choose Our Team
 
@@ -44,7 +44,7 @@ The Mission is compact, flat, and easy to move through, and we cover all of it. 
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-The Mission is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing here is simple and in-city. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+The Mission is within San Francisco, our home city, and carries no travel surcharge — pricing here is simple and in-city. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 > **Wish the weekly cage overhaul could take care of itself?** Put us on a standing schedule — [routine care](/routine-recurring-exotic-pet-care/) visits every week or every other week, timed around busy Valencia-corridor lives, where their caretaker manages the enclosure deep-clean and gives each little one a gentle once-over, so your time together stays about play, treats, and popcorning.
 
@@ -76,7 +76,7 @@ The Mission is within San Francisco, our home city, so there is no Peninsula tra
 <details class="faq-details">
   <summary class="faq-summary">Do you cover the Mission District for exotic pet care?</summary>
   <div class="faq-answer">
-    <p>Yes. We are based in San Francisco's Inner Sunset, just over the hill, so the Mission is a quick same-city trip for us. In-home exotic care throughout the Mission — from the Valencia Street corridor to the streets around Dolores Park and 24th Street — is a regular part of what we do.</p>
+    <p>Yes. We are based in San Francisco, so the Mission is a same-city trip for us. In-home exotic care throughout the Mission — from the Valencia Street corridor to the streets around Dolores Park and 24th Street — is a regular part of what we do.</p>
   </div>
 </details>
 
@@ -104,7 +104,7 @@ The Mission is within San Francisco, our home city, so there is no Peninsula tra
 <details class="faq-details">
   <summary class="faq-summary">How much does a Mission District exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Here is the Mission math: $95 for a 30-minute visit, $125 for a 60-minute visit, and $155–$215 per day for twice-daily care, with the range depending on visit length and number of pets. And because the Mission is in-city for us, there is no Peninsula travel surcharge — the rate holds whether you are in a flat off Valencia or up by Dolores Park. Text 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Here is the Mission math: $95 for a 30-minute visit, $125 for a 60-minute visit, and $155–$215 per day for twice-daily care, with the range depending on visit length and number of pets. And because the Mission carries no travel surcharge, the rate holds whether you are in a flat off Valencia or up by Dolores Park. Text 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -122,7 +122,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you cover the Mission District for exotic pet care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We are based in San Francisco's Inner Sunset, just over the hill, so the Mission is a quick same-city trip for us. In-home exotic care throughout the Mission — from the Valencia Street corridor to the streets around Dolores Park and 24th Street — is a regular part of what we do."
+        "text": "Yes. We are based in San Francisco, so the Mission is a same-city trip for us. In-home exotic care throughout the Mission — from the Valencia Street corridor to the streets around Dolores Park and 24th Street — is a regular part of what we do."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Mission District exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Here is the Mission math: $95 for a 30-minute visit, $125 for a 60-minute visit, and $155–$215 per day for twice-daily care, with the range depending on visit length and number of pets. And because the Mission is in-city for us, there is no Peninsula travel surcharge — the rate holds whether you are in a flat off Valencia or up by Dolores Park. Text 415-484-6493 with your address and dates for a firm quote."
+        "text": "Here is the Mission math: $95 for a 30-minute visit, $125 for a 60-minute visit, and $155–$215 per day for twice-daily care, with the range depending on visit length and number of pets. And because the Mission carries no travel surcharge, the rate holds whether you are in a flat off Valencia or up by Dolores Park. Text 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

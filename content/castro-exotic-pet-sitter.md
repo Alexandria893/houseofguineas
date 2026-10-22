@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 The Castro is one of those San Francisco neighborhoods that wears its history on its sleeve — one of the most storied LGBTQ neighborhoods in the world, anchored by the bustling commercial heart of Castro Street, the rainbow crosswalks at 18th and Castro, and the marquee of the landmark Castro Theatre glowing over it all. It is a neighborhood of dense Victorian flats and newer condos stacked along streets that climb out of Eureka Valley toward the slopes of Twin Peaks. The people who live here are deeply attached to their homes and their routines, and increasingly those homes include exotic pets — a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, a conure who expects his evening millet. So when a trip comes up, the question that surfaces the night before is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never trimmed a guinea pig's nails. That is the gap our team fills.
 
-House of Guineas Pet Care is based right here in San Francisco, in the Inner Sunset just over the hill, which makes the Castro a quick, same-city trip for us. We come to your pets so they can stay in their own enclosures, on their own routines, in the home they already know — whether you are in a Victorian flat near Castro Street, a condo up toward Twin Peaks, or a building tucked into the quieter Eureka Valley blocks.
+House of Guineas Pet Care is based right here in San Francisco, which makes the Castro a same-city trip for us. We come to your pets so they can stay in their own enclosures, on their own routines, in the home they already know — whether you are in a Victorian flat near Castro Street, a condo up toward Twin Peaks, or a building tucked into the quieter Eureka Valley blocks.
 
 ## Why Castro Exotic Pet Parents Choose Our Team
 
@@ -44,7 +44,7 @@ The Castro packs a lot into a compact, hilly footprint, and we cover all of it. 
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-The Castro is within San Francisco, our home city, so there is no Peninsula travel surcharge — pricing here is simple and in-city. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+The Castro is within San Francisco, our home city, and carries no travel surcharge — pricing here is simple and in-city. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 > **Home with your pets more days than you're away?** Keep a standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visit on the calendar — a natural fit for Castro pet parents in classic Victorian flats where every square foot counts. Their caretaker takes on the enclosure deep-clean and a gentle nose-to-tail check, leaving evenings free for floor time and lap cuddles.
 
@@ -76,7 +76,7 @@ The Castro is within San Francisco, our home city, so there is no Peninsula trav
 <details class="faq-details">
   <summary class="faq-summary">Do you cover the Castro for exotic pet care?</summary>
   <div class="faq-answer">
-    <p>Yes. We are based in San Francisco's Inner Sunset, just over the hill, so the Castro is a quick same-city trip for us. In-home exotic care throughout the Castro, Eureka Valley, and up toward Twin Peaks is a regular part of what we do.</p>
+    <p>Yes. We are based in San Francisco, so the Castro is a same-city trip for us. In-home exotic care throughout the Castro, Eureka Valley, and up toward Twin Peaks is a regular part of what we do.</p>
   </div>
 </details>
 
@@ -104,7 +104,7 @@ The Castro is within San Francisco, our home city, so there is no Peninsula trav
 <details class="faq-details">
   <summary class="faq-summary">What does exotic pet sitting cost in the Castro?</summary>
   <div class="faq-answer">
-    <p>Pricing in the Castro is the same simple in-city rate we charge across San Francisco — no Peninsula travel surcharge, even up the steep blocks toward Twin Peaks. A 30-minute visit starts at $95, a 60-minute visit at $125, and twice-daily care runs $155–$215 per day depending on visit length and how many pets are on the roster. Text 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Pricing in the Castro is our simple in-city rate — no travel surcharge, even up the steep blocks toward Twin Peaks. A 30-minute visit starts at $95, a 60-minute visit at $125, and twice-daily care runs $155–$215 per day depending on visit length and how many pets are on the roster. Text 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -122,7 +122,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you cover the Castro for exotic pet care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We are based in San Francisco's Inner Sunset, just over the hill, so the Castro is a quick same-city trip for us. In-home exotic care throughout the Castro, Eureka Valley, and up toward Twin Peaks is a regular part of what we do."
+        "text": "Yes. We are based in San Francisco, so the Castro is a same-city trip for us. In-home exotic care throughout the Castro, Eureka Valley, and up toward Twin Peaks is a regular part of what we do."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "What does exotic pet sitting cost in the Castro?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Pricing in the Castro is the same simple in-city rate we charge across San Francisco — no Peninsula travel surcharge, even up the steep blocks toward Twin Peaks. A 30-minute visit starts at $95, a 60-minute visit at $125, and twice-daily care runs $155–$215 per day depending on visit length and how many pets are on the roster. Text 415-484-6493 with your address and dates for a firm quote."
+        "text": "Pricing in the Castro is our simple in-city rate — no travel surcharge, even up the steep blocks toward Twin Peaks. A 30-minute visit starts at $95, a 60-minute visit at $125, and twice-daily care runs $155–$215 per day depending on visit length and how many pets are on the roster. Text 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]

@@ -1,7 +1,7 @@
 +++
 title = "San Francisco Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "San Francisco Exotic Pet Sitter"
-description = "Exotic pet sitting in San Francisco — in-home visits for rabbits, guinea pigs, chinchillas, reptiles, birds and small mammals. Clinical-grade care from a veterinary-informed team. No travel surcharge in SF."
+description = "Exotic pet sitting in San Francisco — in-home visits for rabbits, guinea pigs, chinchillas, reptiles, birds and small mammals. Clinical-grade care from a veterinary-informed team. No travel surcharge across most of SF."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.9
@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 Finding someone to care for an exotic pet in San Francisco is harder than it should be. Most sitters are set up for dogs and cats — not a bonded pair of rabbits, a bearded dragon on a specific UVB schedule, or a parrot who only settles when someone whistles back. House of Guineas Pet Care exists to close that gap. We are the only professional pet care company on this side of the Bay that exclusively caters to, serves, and cares for exotic pets — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds.
 
-We are based in the Inner Sunset, and for San Francisco pet parents the answer is **in-home visits** from our team of exotic pet caretakers — your little ones stay in the home they know, with no travel surcharge anywhere in the city. Every visit is built around clinical experience, not guesswork.
+We are based in San Francisco, and for San Francisco pet parents the answer is **in-home visits** from our team of exotic pet caretakers — your little ones stay in the home they know, with no travel surcharge across most of the city. Every visit is built around clinical experience, not guesswork.
 
 ## Why San Francisco Exotic Pet Parents Choose Us
 
@@ -52,7 +52,7 @@ If your neighborhood is not on the list, it is almost certainly still covered �
 - **In-home, 60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-San Francisco is our **primary service area, so no travel surcharge applies** — that is reserved for Peninsula visits. [Text us your dates](tel:415-484-6493) and we will confirm your rate.
+San Francisco is our **primary service area, and most of the city carries no travel surcharge**; outlying neighborhoods such as the Marina and Bayview are $15/visit, and Peninsula visits add $15–$25/visit depending on distance. [Text us your address and dates](tel:415-484-6493) and we will confirm your exact rate.
 
 > **In town most weeks, with a to-do list that keeps growing?** Pet parents across San Francisco — from the Marina to Bernal Heights — can keep us on a standing schedule of weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits, where their caretaker takes care of the enclosure deep-clean and a gentle health check, so every evening at home belongs to your little ones.
 
@@ -84,14 +84,14 @@ San Francisco is our **primary service area, so no travel surcharge applies** �
 <details class="faq-details">
   <summary class="faq-summary">How much does an exotic pet sitter cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>In-home exotic pet sitting in San Francisco starts at $95 for a 30-minute visit and $125 for a 60-minute visit; twice-daily care runs $155–$215 per day depending on visit length and the number of pets. San Francisco is our primary service area, so no travel surcharge applies.</p>
+    <p>In-home exotic pet sitting in San Francisco starts at $95 for a 30-minute visit and $125 for a 60-minute visit; twice-daily care runs $155–$215 per day depending on visit length and the number of pets. San Francisco is our primary service area: most of the city carries no travel surcharge, and outlying neighborhoods such as the Marina and Bayview are $15/visit. We confirm your exact rate when you text us your address.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Should I choose in-home visits or boarding?</summary>
   <div class="faq-answer">
-    <p>For San Francisco families, in-home visits — your pets do best in their own environment, especially prey animals and reptiles with calibrated habitats, and our caretakers cover the whole city with no travel surcharge. We do host a small amount of <a href="/home/services/exotic-pet-care-services-boarding">boarding</a>, but because space is so limited we reserve those spots for pet parents outside San Francisco, where in-home visits mean travel surcharges and longer drives. In-home visits include species-specific feeding, medication if needed, and daily photo updates — see the <a href="/home/services/exotic-pet-care-services-in-home">in-home care page</a> for details.</p>
+    <p>For San Francisco families, in-home visits — your pets do best in their own environment, especially prey animals and reptiles with calibrated habitats, and our caretakers cover the whole city, with no travel surcharge across most of it. We do host a small amount of <a href="/home/services/exotic-pet-care-services-boarding">boarding</a>, but because space is so limited we reserve those spots for pet parents outside San Francisco, where in-home visits mean travel surcharges and longer drives. In-home visits include species-specific feeding, medication if needed, and daily photo updates — see the <a href="/home/services/exotic-pet-care-services-in-home">in-home care page</a> for details.</p>
   </div>
 </details>
 
@@ -130,7 +130,7 @@ Heading out of town soon? [Call or text us at 415-484-6493](tel:415-484-6493) an
       "name": "How much does an exotic pet sitter cost in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In-home exotic pet sitting in San Francisco starts at $95 for a 30-minute visit and $125 for a 60-minute visit; twice-daily care runs $155–$215 per day depending on visit length and the number of pets. San Francisco is our primary service area, so no travel surcharge applies."
+        "text": "In-home exotic pet sitting in San Francisco starts at $95 for a 30-minute visit and $125 for a 60-minute visit; twice-daily care runs $155–$215 per day depending on visit length and the number of pets. San Francisco is our primary service area: most of the city carries no travel surcharge, and outlying neighborhoods such as the Marina and Bayview are $15/visit. We confirm your exact rate when you text us your address."
       }
     },
     {
@@ -138,7 +138,7 @@ Heading out of town soon? [Call or text us at 415-484-6493](tel:415-484-6493) an
       "name": "Should I choose in-home visits or boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For San Francisco families, in-home visits — your pets do best in their own environment, especially prey animals and reptiles with calibrated habitats, and our caretakers cover the whole city with no travel surcharge. We do host a small amount of boarding, but because space is so limited we reserve those spots for pet parents outside San Francisco, where in-home visits mean travel surcharges and longer drives. In-home visits include species-specific feeding, medication if needed, and daily photo updates."
+        "text": "For San Francisco families, in-home visits — your pets do best in their own environment, especially prey animals and reptiles with calibrated habitats, and our caretakers cover the whole city, with no travel surcharge across most of it. We do host a small amount of boarding, but because space is so limited we reserve those spots for pet parents outside San Francisco, where in-home visits mean travel surcharges and longer drives. In-home visits include species-specific feeding, medication if needed, and daily photo updates."
       }
     },
     {

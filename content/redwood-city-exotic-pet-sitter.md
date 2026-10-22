@@ -9,7 +9,7 @@ og_image = "chinchillaChewingOnTreat.jpg"
 
 Redwood City has a wider mix of exotic pet parents than most Peninsula cities — it's the kind of town where a Caltrain commuter heading to a biotech job in South SF and a longtime Roosevelt-area family with three rabbits and a tortoise might live two blocks apart. What ties them together is a need that conventional pet care doesn't address: someone who can actually handle exotics while they're traveling, working long days, or covering kids' weekend events. House of Guineas exists to fill that gap on the Peninsula.
 
-We're based in San Francisco's Inner Sunset, and our team of exotic pet caretakers travels down the 101 and 280 corridors to provide in-home care for Redwood City households. Ours is a [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) of exotic pet professionals — our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering RHDV2 vaccinations. Every member of our team is trained under that same clinical lens.
+We're based in San Francisco, and our team of exotic pet caretakers travels down the 101 and 280 corridors to provide in-home care for Redwood City households. Ours is a [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) of exotic pet professionals — our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering RHDV2 vaccinations. Every member of our team is trained under that same clinical lens.
 
 ## Why Redwood City Exotic Pet Parents Choose Our Team
 

@@ -48,7 +48,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
 
 <p class="text-center" style="margin: 1.5rem 0 0.5rem;"><a href="/book/?care=routine" class="btn btn-lg btn-cta-primary">Start Your Routine Care Plan →</a></p>
 
-<p class="plan-note">No travel fee within ~3 miles of the Inner Sunset; $15–$25/visit farther out (<a href="/home/services/faqs/#service-areas">service areas</a>). Serving <a href="/san-francisco-exotic-pet-sitter/">San Francisco</a>, the <a href="/burlingame-exotic-pet-sitter/">Peninsula</a>, and <a href="/marin-county-exotic-pet-sitter/">Marin</a> — Marin travel is measured from our Central Marin caretaker.</p>
+<p class="plan-note">No travel fee across most of San Francisco; $15–$25/visit for outlying SF neighborhoods and the Peninsula (<a href="/home/services/faqs/#service-areas">service areas</a>). Serving <a href="/san-francisco-exotic-pet-sitter/">San Francisco</a>, the <a href="/burlingame-exotic-pet-sitter/">Peninsula</a>, and <a href="/marin-county-exotic-pet-sitter/">Marin</a> — Marin travel is measured from our Central Marin caretaker.</p>
 
 ## Questions
 

@@ -16,7 +16,7 @@ and more bookings from **reptile** and **small-mammal** owners.
   - Deep Clean or Upkeep, weekly: **$105/visit (1 hr, ~$450/month)** · **$185/visit (2 hr, ~$795/month)**
   - Deep Clean or Upkeep, every other week: **$115/visit (1 hr, ~$245/month)** · **$195/visit (2 hr, ~$420/month)**
   - Nail Trims, every other week: **$115/visit (1 hr, ~$245/month)** · **$195/visit (2 hr, ~$420/month)**
-  - Travel by distance (SF 3–6 mi from $15; 6+ mi & Peninsula from $25)
+  - Travel by area (most of SF none; outlying SF neighborhoods such as the Marina and Bayview $15/visit; Peninsula $15–$25/visit)
 - **Bearded Dragon Sitter SF** — `/bearded-dragon-sitter-san-francisco/`
 - **Chinchilla & Small-Mammal Sitter SF** — `/chinchilla-small-mammal-sitter-san-francisco/`
 - **Booking form** — `/book/` → **thank-you** page `/thank-you/`
@@ -117,7 +117,7 @@ Post from a second Google account, answer from the business profile, upvote your
 
 - **Do you care for reptiles like bearded dragons and geckos?** — Yes! Reptiles are a core specialty. In-home care across SF and the Peninsula — verifying basking temps, UVB, and humidity every visit — so your reptile never leaves its calibrated enclosure. Handled by our veterinary-informed team. Call/text 415-484-6493.
 - **Do you offer recurring weekly visits, not just vacation sitting?** — Absolutely. Routine care plans bring a caretaker to your home weekly or every other week for Deep Cleans, Upkeep, or Nail Trims, with a health check every visit. Details: houseofguineas.com/routine-recurring-exotic-pet-care/
-- **Do you serve San Mateo and the Peninsula?** — Yes — SF down through Millbrae, Burlingame, Hillsborough, San Mateo, Foster City, and Redwood City. Small per-visit travel amount by distance. Text 415-484-6493 for a quote.
+- **Do you serve San Mateo and the Peninsula?** — Yes — SF down through Millbrae, Burlingame, Hillsborough, San Mateo, Foster City, and Redwood City. Travel surcharge of $15–$25/visit depending on distance from SF. Text 415-484-6493 for a quote.
 - **Do you take care of guinea pigs, chinchillas, and rabbits?** — Small mammals are the heart of what we do — with GI-stasis awareness and species-specific care. In-home care and SF boarding available.
 - **Do you board exotic pets?** — Yes — hosted personally in SF at $125/night for small mammals, reptiles, and birds. Space is limited around holidays, so reach out early. Call/text 415-484-6493.
 - **What are your rates?** — In-home visits from $95 (30 min) / $125 (60 min); twice-daily care $155–$215/day. Routine standing visits from $105/visit weekly. Boarding $125/night. Full breakdown: houseofguineas.com/book/

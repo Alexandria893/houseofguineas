@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 San Carlos earned its nickname — "The City of Good Living" — for a reason, and the people who settle here tend to be exactly the kind of pet parents who would never leave their little ones with just anyone. Tucked between Belmont and Redwood City in San Mateo County, San Carlos is a residential, professional community strung along the Caltrain, 101, and 280 corridors. Its residents travel — for work conferences, for business meetings, for the long weekends that make living on the Peninsula worth it — and the night before they leave, the same question surfaces: *who is going to take care of the rabbits?* Exotic pets do not board well, and most kennels are not equipped to handle a bonded pair of bunnies, a bearded dragon with a precise UVB schedule, or a conure who refuses to eat unless someone talks back. That is the gap our team fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet caretakers travels down the Peninsula to provide in-home care for San Carlos households. From the neighborhoods up in the hills to the homes near downtown, we are comfortable working around the rhythms of a city that runs on Caltrain timetables and after-work walks along Laurel Street.
+House of Guineas Pet Care is based in San Francisco, and our team of exotic pet caretakers travels down the Peninsula to provide in-home care for San Carlos households. From the neighborhoods up in the hills to the homes near downtown, we are comfortable working around the rhythms of a city that runs on Caltrain timetables and after-work walks along Laurel Street.
 
 ## Why San Carlos Exotic Pet Parents Choose Our Team
 
@@ -46,7 +46,7 @@ Because San Carlos sits right between two of our most-requested Peninsula cities
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from our Inner Sunset base. Text us your address and dates and we will confirm your rate.
+San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from San Francisco. Text us your address and dates and we will confirm your rate.
 
 > **Routine care is available in San Carlos as well.** For families who would rather spend an evening strolling Laurel Street than scrubbing a cage, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, hay restock, and a gentle health check, so your little ones get a spotless home and your undivided attention.
 

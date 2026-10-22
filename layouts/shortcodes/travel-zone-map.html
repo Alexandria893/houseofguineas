@@ -161,7 +161,7 @@
 
 <div class="travel-zone-checker">
   <h3>Check Your Travel Rate</h3>
-  <p class="travel-zone-checker__subtitle">Enter your address to see which service zone you're in. Our caretakers serve San Francisco and the Peninsula — travel surcharges depend on your location and caretaker availability.</p>
+  <p class="travel-zone-checker__subtitle">Enter your address to see which travel tier you're in. Our caretakers serve San Francisco and the Peninsula: most of the city carries no travel surcharge, outlying San Francisco neighborhoods are $15/visit, and the Peninsula is $15–$25/visit. We confirm your exact rate when you text us your address.</p>
   <div class="travel-zone-checker__input-row">
     <label for="tz-address" class="sr-only">Street address</label>
     <input type="text" id="tz-address" autocomplete="street-address" placeholder="Enter your SF or Peninsula address..." />
@@ -176,14 +176,16 @@
 
 <script>
 (function () {
-  /* General Inner Sunset area — not a specific address */
-  var CENTER = [37.7637, -122.4661];
+  /* Geographic center of San Francisco (Twin Peaks) — a reference point for the distance
+     estimate only, not an office or a team address. Tiers are set by area (see the
+     service-areas FAQ): most of SF none, outlying SF neighborhoods $15, Peninsula $15–$25. */
+  var CENTER = [37.7544, -122.4477];
   /* Multiplier to approximate worst-case driving distance from straight-line */
   var DRIVING_FACTOR = 1.5;
   var ZONES = [
-    { radius: 3, color: '#6B8F71', fillOpacity: 0.15, dash: null, label: 'Primary (0-3 mi)' },
-    { radius: 6, color: '#D4A843', fillOpacity: 0.10, dash: null, label: 'Secondary (3-6 mi)' },
-    { radius: 10, color: '#C4704B', fillOpacity: 0.08, dash: '8 6', label: 'Tertiary (6+ mi)' }
+    { radius: 4.5, color: '#6B8F71', fillOpacity: 0.15, dash: null, label: 'San Francisco — no surcharge' },
+    { radius: 9, color: '#D4A843', fillOpacity: 0.10, dash: null, label: 'Outlying SF / near Peninsula — $15/visit' },
+    { radius: 14, color: '#C4704B', fillOpacity: 0.08, dash: '8 6', label: 'Peninsula — $25/visit' }
   ];
 
   /* Miles to meters */
@@ -202,15 +204,16 @@
     return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
   }
 
-  /* Classify zone */
+  /* Classify tier. Tiers are area-based (see the service-areas FAQ); the radius is only an
+     estimate, so an outlying San Francisco address can land in the $15 tier. */
   function classifyZone(miles) {
-    if (miles <= 3) {
-      return { name: 'Primary Service Area', miles: miles, surcharge: null, cssClass: 'tz-zone-primary', markerColor: '#6B8F71', noteText: "No travel surcharge \u2014 you\u2019re in the primary service area!", noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Call {{ .Site.Params.phone }} to book.' };
+    if (miles <= 4.5) {
+      return { name: 'San Francisco \u2014 no travel surcharge', miles: miles, surcharge: null, cssClass: 'tz-zone-primary', markerColor: '#6B8F71', noteText: 'Most of San Francisco carries no travel surcharge \u2014 our base rates cover your visits.', noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Call {{ .Site.Params.phone }} to book.' };
     }
-    if (miles <= 6) {
-      return { name: 'Secondary Service Area', miles: miles, surcharge: 15, cssClass: 'tz-zone-secondary', markerColor: '#D4A843', noteText: 'Travel surcharge starts from $15/visit, depending on our caretakers\u2019 availability.', noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Call {{ .Site.Params.phone }} to book.' };
+    if (miles <= 9) {
+      return { name: 'Outlying San Francisco or near Peninsula \u2014 $15/visit', miles: miles, surcharge: 15, cssClass: 'tz-zone-secondary', markerColor: '#D4A843', noteText: 'Outlying San Francisco neighborhoods (such as the Marina and Bayview) are $15/visit, and the nearest Peninsula cities start at $15/visit. We confirm your exact rate when you text us your address.', noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Text {{ .Site.Params.phone }} to book.' };
     }
-    return { name: 'Tertiary Service Area', miles: miles, surcharge: 25, cssClass: 'tz-zone-tertiary', markerColor: '#C4704B', noteText: 'Travel surcharge starts from $25/visit, depending on our caretakers\u2019 availability. Peninsula pet parents (Burlingame, San Mateo, etc.) welcome \u2014 rates vary by location.', noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Call {{ .Site.Params.phone }} to discuss next steps.' };
+    return { name: 'Peninsula \u2014 $25/visit', miles: miles, surcharge: 25, cssClass: 'tz-zone-tertiary', markerColor: '#C4704B', noteText: 'Peninsula visits (Burlingame, San Mateo, Redwood City and beyond) carry a $25/visit travel surcharge. We confirm your exact rate when you text us your address.', noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Text {{ .Site.Params.phone }} to book.' };
   }
 
   /* Show result card using safe DOM construction */
@@ -230,7 +233,7 @@
     var strong = document.createElement('strong');
     strong.textContent = zone.surcharge ? '+$' + zone.surcharge + '/visit' : 'No surcharge';
     p1.appendChild(strong);
-    p1.appendChild(document.createTextNode(' \u2014 ~' + zone.miles.toFixed(1) + ' miles estimated driving distance'));
+    p1.appendChild(document.createTextNode(' \u2014 ~' + zone.miles.toFixed(1) + ' miles estimated driving distance from central San Francisco'));
     inner.appendChild(p1);
 
     var p2 = document.createElement('p');
@@ -256,15 +259,19 @@
     document.getElementById('tz-result').style.display = 'none';
   }
 
-  /* Initialize map */
+  /* Initialize map (fail soft if Leaflet did not load) */
+  if (typeof L === 'undefined') {
+    showError('The map could not load. Text us your address and we will confirm your travel rate.');
+    return;
+  }
   var map = L.map('tz-map', { scrollWheelZoom: false }).setView(CENTER, 12);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     maxZoom: 18
   }).addTo(map);
 
-  /* Home marker */
-  L.marker(CENTER).addTo(map).bindPopup('House of Guineas<br>Inner Sunset, SF');
+  /* Reference marker */
+  L.marker(CENTER).addTo(map).bindPopup('House of Guineas<br>San Francisco');
 
   var lastRequestTime = 0;
   var userMarker = null;
@@ -301,7 +308,7 @@
         btn.textContent = 'Check Rate';
 
         if (!data || data.length === 0) {
-          showError('Address not found. Please try a more specific San Francisco address.');
+          showError('Address not found. Please try a more specific San Francisco or Peninsula address.');
           return;
         }
 
