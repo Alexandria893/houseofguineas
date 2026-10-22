@@ -1,7 +1,7 @@
 +++
 title = "Exotic Pet Caretaker (Pet Sitter), Part-Time | San Francisco & Peninsula Jobs | House of Guineas"
 shortTitle = "Exotic Pet Caretaker (Pet Sitter), Part-Time"
-description = "Part-time W-2 exotic pet sitter and caretaker job in San Francisco & the Peninsula. $35/hr, every 30-minute visit paid as a full hour, mileage reimbursed, holidays at time-and-a-half."
+description = "Part-time W-2 exotic pet sitter and caretaker job in San Francisco & the Peninsula. $40/hr, every 30-minute visit paid as a full hour, mileage reimbursed, holidays at time-and-a-half."
 summary = "In-home care visits for small mammals, reptiles and birds, coming back to the same clients trip after trip. Hands-on exotics experience required."
 og_image = "HappilyHoldingSnake.jpg"
 weight = 1
@@ -12,14 +12,14 @@ weight = 1
   datePosted = "2026-10-20"
   employmentType = "PART_TIME"
   employmentLabel = "Part-time · W-2"
-  payLabel = "$35/hr"
-  hourlyRate = 35
+  payLabel = "$40/hr"
+  hourlyRate = 40
   locationLabel = "San Francisco & the Peninsula"
   locations = ["San Francisco", "Daly City", "Pacifica", "South San Francisco", "San Bruno", "Millbrae", "Burlingame", "San Mateo"]
 
 [[params.faqs]]
   q = "What does this exotic pet sitter job pay?"
-  a = "$35/hr. Every 30-minute care visit is paid as a full 1-hour block to cover travel and charting, major holidays are paid at time-and-a-half, all work driving is reimbursed at the current IRS mileage rate, and there's a $50/month smartphone reimbursement in any month you work."
+  a = "$40/hr. Every 30-minute care visit is paid as a full 1-hour block to cover travel and charting, major holidays are paid at time-and-a-half, all work driving is reimbursed at the current IRS mileage rate, and there's a $50/month smartphone reimbursement in any month you work."
 [[params.faqs]]
   q = "Is this a W-2 job or an independent contractor gig?"
   a = "It's a part-time W-2 position with workers' compensation coverage."
@@ -55,7 +55,7 @@ We're hiring a part-time exotic pet sitter for in-home care visits with small ma
 <ul class="job-facts">
   <li><span>Location</span><span>Visits run throughout San Francisco and along the Peninsula. A reliable commute to our primary SF clients is required, and all work driving, including your commute to and from visits, is reimbursed at the current IRS mileage rate.</span></li>
   <li><span>Position Type</span><span>Part-time, W-2.</span></li>
-  <li><span>Pay</span><span><strong>$35/hr.</strong> Every 30-minute care visit is paid as a full 1-hour block to cover travel and charting. Major holidays are paid at time-and-a-half.</span></li>
+  <li><span>Pay</span><span><strong>$40/hr.</strong> Every 30-minute care visit is paid as a full 1-hour block to cover travel and charting. Major holidays are paid at time-and-a-half.</span></li>
   <li><span>Schedule</span><span>Visits run in three blocks, by arrival time: Morning (8–11am), Midday (12–3pm) and Evening (4–7pm). We're looking for caretakers available Midday and Evening, Monday through Friday, plus weekends. Caretakers with more blocks and more days get priority.</span></li>
 </ul>
 
