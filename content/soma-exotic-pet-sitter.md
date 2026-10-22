@@ -44,7 +44,7 @@ SOMA packs a lot into a flat, walkable footprint, and we cover all of it. That m
 - **60-minute visits** start at **$125**
 - **Routine daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-SOMA is within San Francisco, our home city, and carries no travel surcharge — pricing here is simple and in-city. Text us your address and dates and we will give you a straightforward quote. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+SOMA is within San Francisco, our home city, and sits in our outlying-neighborhood tier, so a $15/visit travel surcharge applies on top of our simple in-city rates. Text us your address and dates and we will confirm your exact rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 > **Long days at the office, even when it's just a few blocks from home?** SOMA pet parents in loft and high-rise condos can keep us on a recurring rhythm — weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits where their caretaker handles the full habitat refresh and does a calm health check, so the hours you do have at home go straight to your little ones.
 
@@ -97,14 +97,14 @@ SOMA is within San Francisco, our home city, and carries no travel surcharge —
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in SOMA?</summary>
   <div class="faq-answer">
-    <p>For SOMA families, in-home visits are the way to go. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin, where in-home visits mean travel surcharges. SOMA sits squarely in our no-surcharge city coverage, so in-home care gives you far more availability, and your pet's carefully dialed enclosure never has to move.</p>
+    <p>For SOMA families, in-home visits are the way to go. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin. SOMA carries a $15/visit travel surcharge, but in-home care still gives you far more availability, and your pet's carefully dialed enclosure never has to move.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a SOMA exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Expect $95 to start for a 30-minute visit and $125 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $155–$215 per day based on visit length and number of pets. High-rise living does not change the price — SOMA carries no travel surcharge; just leave access notes for your building's front desk. Text 415-484-6493 with your dates and we will quote it firm.</p>
+    <p>Expect $95 to start for a 30-minute visit and $125 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $155–$215 per day based on visit length and number of pets. High-rise living does not change the price, though SOMA sits in our outlying-neighborhood tier, so a $15/visit travel surcharge applies; just leave access notes for your building's front desk. Text 415-484-6493 with your address and dates and we will confirm your exact rate.</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in SOMA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For SOMA families, in-home visits are the way to go. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin, where in-home visits mean travel surcharges. SOMA sits squarely in our no-surcharge city coverage, so in-home care gives you far more availability, and your pet's carefully dialed enclosure never has to move."
+        "text": "For SOMA families, in-home visits are the way to go. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin. SOMA carries a $15/visit travel surcharge, but in-home care still gives you far more availability, and your pet's carefully dialed enclosure never has to move."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a SOMA exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Expect $95 to start for a 30-minute visit and $125 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $155–$215 per day based on visit length and number of pets. High-rise living does not change the price — SOMA carries no travel surcharge; just leave access notes for your building's front desk. Text 415-484-6493 with your dates and we will quote it firm."
+        "text": "Expect $95 to start for a 30-minute visit and $125 for a 60-minute visit; pet parents traveling more than a night usually book twice-daily care, which runs $155–$215 per day based on visit length and number of pets. High-rise living does not change the price, though SOMA sits in our outlying-neighborhood tier, so a $15/visit travel surcharge applies; just leave access notes for your building's front desk. Text 415-484-6493 with your address and dates and we will confirm your exact rate."
       }
     }
   ]

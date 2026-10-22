@@ -58,7 +58,7 @@ In-home exotic pet sitting across all of San Francisco — Inner & Outer Sunset,
 
 **Bird owners** — see our [bird sitter page](/bird-sitter-san-francisco-peninsula/) and [bird care guide](/bird-care-guide/).
 
-* Travel surcharge: most of San Francisco has none; outlying neighborhoods such as the Marina and Bayview are **$15/visit**; the Peninsula is **$15–$25/visit** depending on distance from San Francisco. We confirm your exact rate when you text us your address. See our [service areas](/home/services/faqs/#service-areas)
+* Travel surcharge: most of San Francisco has none; outlying neighborhoods such as the Marina, SOMA and Bayview are **$15/visit**; the Peninsula is **$15–$25/visit** depending on distance from San Francisco. We confirm your exact rate when you text us your address. See our [service areas](/home/services/faqs/#service-areas)
 
 {{< travel-zone-map >}}
 

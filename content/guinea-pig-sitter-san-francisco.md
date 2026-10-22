@@ -45,7 +45,7 @@ We cover the whole city, from the western avenues out to the bay. Small mammals 
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-These are in-city San Francisco visits: most of the city carries **no travel surcharge**, and outlying neighborhoods such as the Marina and Bayview add $15/visit. Based down the Peninsula? See our [Peninsula guinea pig sitter](/guinea-pig-sitter-peninsula/) page — and note that our [boarding option](/home/services/exotic-pet-care-services-boarding), at **$125/night**, is reserved for families outside San Francisco like you.
+These are in-city San Francisco visits: most of the city carries **no travel surcharge**, and outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Based down the Peninsula? See our [Peninsula guinea pig sitter](/guinea-pig-sitter-peninsula/) page — and note that our [boarding option](/home/services/exotic-pet-care-services-boarding), at **$125/night**, is reserved for families outside San Francisco like you.
 
 > **Liner swaps and hay restocks make wonderful someone-else's-jobs.** San Francisco guinea pig families can schedule standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker changes the liners, tops up the hay, and does a gentle health check, so your time with the herd is popcorning and wheeks, not laundry.
 
@@ -105,7 +105,7 @@ These are in-city San Francisco visits: most of the city carries **no travel sur
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Francisco guinea pig sitter cost?</summary>
   <div class="faq-answer">
-    <p>For a single pig or a bonded pair in the city, a 30-minute visit at $95 usually covers hay and vegetables with their daily vitamin C comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $125. Pet parents who want morning and evening feeds book twice-daily care at $155–$215 per day depending on visit length and how many pigs are in the herd. Most San Francisco visits carry no travel surcharge; outlying neighborhoods such as the Marina and Bayview add $15/visit. Text 415-484-6493 with your dates for an exact quote.</p>
+    <p>For a single pig or a bonded pair in the city, a 30-minute visit at $95 usually covers hay and vegetables with their daily vitamin C comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $125. Pet parents who want morning and evening feeds book twice-daily care at $155–$215 per day depending on visit length and how many pigs are in the herd. Most San Francisco visits carry no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text 415-484-6493 with your dates for an exact quote.</p>
   </div>
 </details>
 
@@ -155,7 +155,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "How much does a San Francisco guinea pig sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For a single pig or a bonded pair in the city, a 30-minute visit at $95 usually covers hay and vegetables with their daily vitamin C comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $125. Pet parents who want morning and evening feeds book twice-daily care at $155–$215 per day depending on visit length and how many pigs are in the herd. Most San Francisco visits carry no travel surcharge; outlying neighborhoods such as the Marina and Bayview add $15/visit. Text 415-484-6493 with your dates for an exact quote."
+        "text": "For a single pig or a bonded pair in the city, a 30-minute visit at $95 usually covers hay and vegetables with their daily vitamin C comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $125. Pet parents who want morning and evening feeds book twice-daily care at $155–$215 per day depending on visit length and how many pigs are in the herd. Most San Francisco visits carry no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text 415-484-6493 with your dates for an exact quote."
       }
     }
   ]

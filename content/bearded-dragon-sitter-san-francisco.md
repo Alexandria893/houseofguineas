@@ -40,7 +40,7 @@ You don't have to be traveling to book us. You can also keep us on a **recurring
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and setup
 - **Recurring plans** are available as a flat monthly rate — [see routine care](/routine-recurring-exotic-pet-care/)
 
-Most of San Francisco carries **no travel surcharge**; outlying neighborhoods such as the Marina and Bayview add $15/visit, and we confirm your exact rate when you text us your address.
+Most of San Francisco carries **no travel surcharge**; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit, and we confirm your exact rate when you text us your address.
 
 ## Frequently Asked Questions
 
@@ -75,7 +75,7 @@ Most of San Francisco carries **no travel surcharge**; outlying neighborhoods su
 <details class="faq-details">
   <summary class="faq-summary">How much does a bearded dragon sitter cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina and Bayview add $15/visit. Text us at 415-484-6493 for a firm quote.</p>
+    <p>30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text us at 415-484-6493 for a firm quote.</p>
   </div>
 </details>
 
@@ -117,7 +117,7 @@ Ready to line up care for your beardie? [Call or text 415-484-6493](tel:415-484-
       "name": "How much does a bearded dragon sitter cost in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina and Bayview add $15/visit. Text us at 415-484-6493 for a firm quote."
+        "text": "30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text us at 415-484-6493 for a firm quote."
       }
     }
   ]

@@ -40,7 +40,7 @@ Small mammals need *frequent* upkeep: weekly cage deep-cleans, constant fresh ha
 - **Twice-daily care** runs **$155–$215/day**
 - **Recurring plans** available as a flat monthly rate — [see routine care](/routine-recurring-exotic-pet-care/)
 
-Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina and Bayview add $15/visit, and we confirm your exact rate when you text us your address. (We do host a small amount of [boarding](/home/services/exotic-pet-care-services-boarding) at **$125/night**, but those spots are reserved for families outside San Francisco — for city families, in-home visits are the better fit.)
+Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit, and we confirm your exact rate when you text us your address. (We do host a small amount of [boarding](/home/services/exotic-pet-care-services-boarding) at **$125/night**, but those spots are reserved for families outside San Francisco — for city families, in-home visits are the better fit.)
 
 ## Frequently Asked Questions
 
@@ -75,7 +75,7 @@ Most of San Francisco carries no travel surcharge; outlying neighborhoods such a
 <details class="faq-details">
   <summary class="faq-summary">How much does a small-mammal sitter cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina and Bayview add $15/visit. Text us at 415-484-6493 with your address for an exact quote.</p>
+    <p>30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text us at 415-484-6493 with your address for an exact quote.</p>
   </div>
 </details>
 
@@ -117,7 +117,7 @@ Ready to book care for your small companion? [Call or text 415-484-6493](tel:415
       "name": "How much does a small-mammal sitter cost in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina and Bayview add $15/visit. Text us at 415-484-6493 with your address for an exact quote."
+        "text": "30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text us at 415-484-6493 with your address for an exact quote."
       }
     }
   ]

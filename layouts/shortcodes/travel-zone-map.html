@@ -116,6 +116,10 @@
     border-left-color: var(--color-accent, #C4704B);
   }
 
+  .tz-zone-ask {
+    border-left-color: #6B5E52;
+  }
+
   .travel-zone-checker__error {
     padding: 12px 16px;
     border-radius: var(--radius-sm, 8px);
@@ -161,10 +165,10 @@
 
 <div class="travel-zone-checker">
   <h3>Check Your Travel Rate</h3>
-  <p class="travel-zone-checker__subtitle">Enter your address to see which travel tier you're in. Our caretakers serve San Francisco and the Peninsula: most of the city carries no travel surcharge, outlying San Francisco neighborhoods are $15/visit, and the Peninsula is $15–$25/visit. We confirm your exact rate when you text us your address.</p>
+  <p class="travel-zone-checker__subtitle">Enter your address to see which travel tier you're in. Our caretakers serve San Francisco and the Peninsula: most of the city carries no travel surcharge, outlying San Francisco neighborhoods such as the Marina, SOMA and Bayview are $15/visit, and the Peninsula is $15–$25/visit. We confirm your exact rate when you text us your address.</p>
   <div class="travel-zone-checker__input-row">
     <label for="tz-address" class="sr-only">Street address</label>
-    <input type="text" id="tz-address" autocomplete="street-address" placeholder="Enter your SF or Peninsula address..." />
+    <input type="text" id="tz-address" autocomplete="street-address" placeholder="Enter your SF, Peninsula or Marin address..." />
     <button id="tz-search" class="btn btn-primary travel-zone-checker__btn">Check Rate</button>
   </div>
   <div id="tz-map" class="travel-zone-checker__map"></div>
@@ -176,21 +180,37 @@
 
 <script>
 (function () {
-  /* Geographic center of San Francisco (Twin Peaks) — a reference point for the distance
-     estimate only, not an office or a team address. Tiers are set by area (see the
-     service-areas FAQ): most of SF none, outlying SF neighborhoods $15, Peninsula $15–$25. */
-  var CENTER = [37.7544, -122.4477];
-  /* Multiplier to approximate worst-case driving distance from straight-line */
-  var DRIVING_FACTOR = 1.5;
-  var ZONES = [
-    { radius: 4.5, color: '#6B8F71', fillOpacity: 0.15, dash: null, label: 'San Francisco — no surcharge' },
-    { radius: 9, color: '#D4A843', fillOpacity: 0.10, dash: null, label: 'Outlying SF / near Peninsula — $15/visit' },
-    { radius: 14, color: '#C4704B', fillOpacity: 0.08, dash: '8 6', label: 'Peninsula — $25/visit' }
-  ];
+  var PHONE = '{{ .Site.Params.phone }}';
+  var CONFIRM = 'We confirm your exact rate when you text us your address.';
+  var EXAMPLES = 'Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview are $15/visit.';
 
-  /* Miles to meters */
-  function milesToMeters(mi) {
-    return mi * 1609.344;
+  /* Geographic center of San Francisco (Twin Peaks): the map's starting view, and the
+     reference point for the rare address Nominatim returns with no neighborhood field.
+     Not an office or a team address. */
+  var CENTER = [37.7544, -122.4477];
+  var DRIVING_FACTOR = 1.5;
+  var SF_ESTIMATE_CUTOFF_MILES = 4;
+
+  /* San Francisco neighborhoods in the $15/visit tier, matched (case-insensitively,
+     punctuation stripped) against every neighborhood-level field Nominatim returns.
+     Everything else inside San Francisco is the no-surcharge tier. */
+  var SF_SURCHARGE_PATTERNS = [
+    /\bmarina\b/, /\bcow hollow\b/, /\bpresidio heights\b/, /\bpacific heights\b/, /\bpac heights\b/,
+    /\brussian hill\b/, /\bnob hill\b/, /\bnorth beach\b/, /\btelegraph hill\b/,
+    /\bfinancial district\b/, /\bfidi\b/, /\bchinatown\b/, /\bembarcadero\b/,
+    /\bsoma\b/, /\bsouth of market\b/, /\bmission bay\b/,
+    /\btreasure island\b/, /\byerba buena island\b/,
+    /\bbayview\b/, /\bhunters point\b/, /\bvisitacion valley\b/,
+    /\bportola\b/, /\bexcelsior\b/, /\bcrocker amazon\b/
+  ];
+  /* ZIP codes that sit entirely inside the $15 tier; consulted only when Nominatim
+     returns no neighborhood field at all (Treasure Island is the usual case). */
+  var SF_SURCHARGE_ZIPS = ['94130', '94124', '94134', '94123', '94111', '94104', '94105', '94133', '94108', '94158', '94103'];
+  var NEAR_PENINSULA = ['daly city', 'colma', 'brisbane', 'south san francisco', 'san bruno', 'pacifica', 'broadmoor'];
+  var NEIGHBORHOOD_FIELDS = ['neighbourhood', 'quarter', 'suburb', 'city_district', 'residential', 'borough'];
+
+  function norm(s) {
+    return String(s || '').toLowerCase().replace(/['’]/g, '').replace(/[\-–—\/]+/g, ' ').replace(/\s+/g, ' ').trim();
   }
 
   /* Haversine distance in miles */
@@ -204,48 +224,125 @@
     return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
   }
 
-  /* Classify tier. Tiers are area-based (see the service-areas FAQ); the radius is only an
-     estimate, so an outlying San Francisco address can land in the $15 tier. */
-  function classifyZone(miles) {
-    if (miles <= 4.5) {
-      return { name: 'San Francisco \u2014 no travel surcharge', miles: miles, surcharge: null, cssClass: 'tz-zone-primary', markerColor: '#6B8F71', noteText: 'Most of San Francisco carries no travel surcharge \u2014 our base rates cover your visits.', noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Call {{ .Site.Params.phone }} to book.' };
+  function inSurchargeList(name) {
+    var n = norm(name);
+    if (!n) return false;
+    for (var i = 0; i < SF_SURCHARGE_PATTERNS.length; i++) {
+      if (SF_SURCHARGE_PATTERNS[i].test(n)) return true;
     }
-    if (miles <= 9) {
-      return { name: 'Outlying San Francisco or near Peninsula \u2014 $15/visit', miles: miles, surcharge: 15, cssClass: 'tz-zone-secondary', markerColor: '#D4A843', noteText: 'Outlying San Francisco neighborhoods (such as the Marina and Bayview) are $15/visit, and the nearest Peninsula cities start at $15/visit. We confirm your exact rate when you text us your address.', noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Text {{ .Site.Params.phone }} to book.' };
+    return false;
+  }
+
+  function placeName(addr) {
+    return addr.city || addr.town || addr.village || addr.municipality || '';
+  }
+
+  /* Decide the tier from Nominatim's address fields. Mirrors the service-areas FAQ.
+     Returns { area: sf|near_peninsula|peninsula|marin|outside, tier: none|15|25|ask, estimated, place } */
+  function decide(addr, lat, lon) {
+    addr = addr || {};
+    var state = norm(addr.state);
+    var county = norm(addr.county);
+    var city = norm(placeName(addr));
+    var isCalifornia = state === 'california' || state === 'ca';
+
+    if (isCalifornia && (city === 'san francisco' || county.indexOf('san francisco') !== -1)) {
+      var hoods = [];
+      for (var i = 0; i < NEIGHBORHOOD_FIELDS.length; i++) {
+        if (addr[NEIGHBORHOOD_FIELDS[i]]) hoods.push(addr[NEIGHBORHOOD_FIELDS[i]]);
+      }
+      for (var j = 0; j < hoods.length; j++) {
+        if (inSurchargeList(hoods[j])) return { area: 'sf', tier: '15', estimated: false, place: hoods[j] };
+      }
+      if (hoods.length) return { area: 'sf', tier: 'none', estimated: false, place: hoods[0] };
+      var zip = String(addr.postcode || '').slice(0, 5);
+      if (SF_SURCHARGE_ZIPS.indexOf(zip) !== -1) return { area: 'sf', tier: '15', estimated: false, place: 'ZIP ' + zip };
+      var miles = haversine(CENTER[0], CENTER[1], lat, lon) * DRIVING_FACTOR;
+      return { area: 'sf', tier: miles <= SF_ESTIMATE_CUTOFF_MILES ? 'none' : '15', estimated: true, place: 'San Francisco' };
     }
-    return { name: 'Peninsula \u2014 $25/visit', miles: miles, surcharge: 25, cssClass: 'tz-zone-tertiary', markerColor: '#C4704B', noteText: 'Peninsula visits (Burlingame, San Mateo, Redwood City and beyond) carry a $25/visit travel surcharge. We confirm your exact rate when you text us your address.', noteLink: 'tel:{{ .Site.Params.phone }}', noteLinkText: 'Text {{ .Site.Params.phone }} to book.' };
+    if (isCalifornia && county.indexOf('san mateo') !== -1) {
+      var near = NEAR_PENINSULA.indexOf(city) !== -1;
+      return { area: near ? 'near_peninsula' : 'peninsula', tier: near ? '15' : '25', estimated: false, place: placeName(addr) || 'This address' };
+    }
+    if (isCalifornia && county.indexOf('marin') !== -1) {
+      return { area: 'marin', tier: 'ask', estimated: false, place: placeName(addr) || 'Marin County' };
+    }
+    return { area: 'outside', tier: 'ask', estimated: false, place: '' };
+  }
+
+  /* Turn a decision into the card copy. Never names a base; never $25 for an SF address. */
+  function present(d) {
+    var textLink = { href: 'tel:' + PHONE, text: 'Text ' + PHONE + '.' };
+    var bookLink = { href: 'tel:' + PHONE, text: 'Call or text ' + PHONE + ' to book.' };
+    if (d.area === 'sf' && d.estimated) {
+      var likely15 = d.tier === '15';
+      return { name: likely15 ? 'San Francisco — likely $15/visit' : 'San Francisco — likely no travel surcharge',
+        tierText: likely15 ? 'Likely +$15/visit' : 'Likely no surcharge',
+        cssClass: likely15 ? 'tz-zone-secondary' : 'tz-zone-primary', markerColor: likely15 ? '#D4A843' : '#6B8F71',
+        note: 'We could not pin down the neighborhood for this address. ' + EXAMPLES + ' ' + CONFIRM, links: [textLink] };
+    }
+    if (d.area === 'sf' && d.tier === '15') {
+      return { name: 'San Francisco — outlying neighborhood', tierText: '+$15/visit', cssClass: 'tz-zone-secondary', markerColor: '#D4A843',
+        note: 'This part of San Francisco is in our outlying-neighborhood tier, alongside the Marina, SOMA and Bayview, so a $15/visit travel surcharge applies. ' + CONFIRM, links: [textLink] };
+    }
+    if (d.area === 'sf') {
+      return { name: 'San Francisco — no travel surcharge', tierText: 'No surcharge', cssClass: 'tz-zone-primary', markerColor: '#6B8F71',
+        note: 'Most of San Francisco carries no travel surcharge — our base rates cover your visits.', links: [bookLink] };
+    }
+    if (d.area === 'near_peninsula') {
+      return { name: 'Near Peninsula — $15/visit', tierText: '+$15/visit', cssClass: 'tz-zone-secondary', markerColor: '#D4A843',
+        note: d.place + ' is in our near-Peninsula tier, so a $15/visit travel surcharge applies. ' + CONFIRM, links: [textLink] };
+    }
+    if (d.area === 'peninsula') {
+      return { name: 'Peninsula — $25/visit', tierText: '+$25/visit', cssClass: 'tz-zone-tertiary', markerColor: '#C4704B',
+        note: d.place + ' is in our Peninsula tier, so a $25/visit travel surcharge applies. ' + CONFIRM, links: [textLink] };
+    }
+    if (d.area === 'marin') {
+      return { name: 'Marin County', tierText: 'Priced from Marin', cssClass: 'tz-zone-ask', markerColor: '#6B5E52',
+        note: 'Marin visits are priced from our Marin caretaker’s base, not from San Francisco, so the tiers above do not apply. ' + CONFIRM,
+        links: [{ href: '/marin-county-exotic-pet-sitter/', text: 'See our Marin County page.' }, textLink] };
+    }
+    return { name: 'Outside our regular area', tierText: 'Text us', cssClass: 'tz-zone-ask', markerColor: '#6B5E52',
+      note: 'This address is outside our regular service area. Text us and we will see if we are a good fit for each other.', links: [textLink] };
+  }
+
+  /* Usage signal for Google Tag Manager: area and tier only, never the address or coordinates. */
+  function track(d) {
+    try {
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({ event: 'travel_zone_lookup', tz_area: d.area, tz_tier: d.tier });
+    } catch (e) { /* analytics must never break the lookup */ }
   }
 
   /* Show result card using safe DOM construction */
-  function showResult(zone) {
+  function showResult(view) {
     var el = document.getElementById('tz-result');
     var inner = document.getElementById('tz-result-inner');
     while (inner.firstChild) inner.removeChild(inner.firstChild);
     el.style.display = 'block';
-    el.className = 'travel-zone-checker__result ' + zone.cssClass;
+    el.className = 'travel-zone-checker__result ' + view.cssClass;
     document.getElementById('tz-error').style.display = 'none';
 
     var h4 = document.createElement('h4');
-    h4.textContent = zone.name;
+    h4.textContent = view.name;
     inner.appendChild(h4);
 
     var p1 = document.createElement('p');
     var strong = document.createElement('strong');
-    strong.textContent = zone.surcharge ? '+$' + zone.surcharge + '/visit' : 'No surcharge';
+    strong.textContent = view.tierText;
     p1.appendChild(strong);
-    p1.appendChild(document.createTextNode(' \u2014 ~' + zone.miles.toFixed(1) + ' miles estimated driving distance from central San Francisco'));
     inner.appendChild(p1);
 
     var p2 = document.createElement('p');
     p2.style.marginTop = '8px';
     p2.style.fontSize = '14px';
     p2.style.color = '#6B5E52';
-    p2.textContent = zone.noteText;
-    if (zone.noteLink) {
+    p2.textContent = view.note;
+    for (var i = 0; i < view.links.length; i++) {
       p2.appendChild(document.createTextNode(' '));
       var a = document.createElement('a');
-      a.href = zone.noteLink;
-      a.textContent = zone.noteLinkText;
+      a.href = view.links[i].href;
+      a.textContent = view.links[i].text;
       p2.appendChild(a);
     }
     inner.appendChild(p2);
@@ -259,19 +356,17 @@
     document.getElementById('tz-result').style.display = 'none';
   }
 
-  /* Initialize map (fail soft if Leaflet did not load) */
+  /* Initialize map (fail soft if Leaflet did not load). No rings, no base marker:
+     the tier is decided by neighborhood and city, not by distance. */
   if (typeof L === 'undefined') {
     showError('The map could not load. Text us your address and we will confirm your travel rate.');
     return;
   }
-  var map = L.map('tz-map', { scrollWheelZoom: false }).setView(CENTER, 12);
+  var map = L.map('tz-map', { scrollWheelZoom: false }).setView(CENTER, 11);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     maxZoom: 18
   }).addTo(map);
-
-  /* Reference marker */
-  L.marker(CENTER).addTo(map).bindPopup('House of Guineas<br>San Francisco');
 
   var lastRequestTime = 0;
   var userMarker = null;
@@ -285,11 +380,9 @@
       return;
     }
 
-    /* Auto-append San Francisco context if not present */
-    var lower = query.toLowerCase();
-    if (lower.indexOf('san francisco') === -1 && lower.indexOf('sf') === -1 &&
-        lower.indexOf(', ca') === -1 && lower.indexOf('california') === -1) {
-      query = query + ', San Francisco, CA';
+    /* Keep the search in California; the viewbox below prefers Bay Area matches */
+    if (!/\bca\b|california/.test(query.toLowerCase())) {
+      query = query + ', CA';
     }
 
     var now = Date.now();
@@ -301,14 +394,14 @@
     btn.disabled = true;
     btn.textContent = 'Searching...';
 
-    fetch('https://nominatim.openstreetmap.org/search?format=json&limit=1&q=' + encodeURIComponent(query))
+    fetch('https://nominatim.openstreetmap.org/search?format=json&limit=1&addressdetails=1&countrycodes=us&viewbox=-122.75,38.10,-121.95,37.25&q=' + encodeURIComponent(query))
       .then(function (res) { return res.json(); })
       .then(function (data) {
         btn.disabled = false;
         btn.textContent = 'Check Rate';
 
         if (!data || data.length === 0) {
-          showError('Address not found. Please try a more specific San Francisco or Peninsula address.');
+          showError('Address not found. Please try a more specific San Francisco, Peninsula or Marin address.');
           return;
         }
 
@@ -320,15 +413,14 @@
           return;
         }
 
-        var straightMiles = haversine(CENTER[0], CENTER[1], lat, lon);
-        var miles = straightMiles * DRIVING_FACTOR;
-        var zone = classifyZone(miles);
+        var decision = decide(data[0].address, lat, lon);
+        var view = present(decision);
 
         if (userMarker) {
           map.removeLayer(userMarker);
         }
         var pinSvg = '<svg xmlns="http://www.w3.org/2000/svg" width="25" height="41" viewBox="0 0 25 41">'
-          + '<path d="M12.5 0C5.6 0 0 5.6 0 12.5C0 21.9 12.5 41 12.5 41S25 21.9 25 12.5C25 5.6 19.4 0 12.5 0Z" fill="' + zone.markerColor + '" stroke="#fff" stroke-width="1.5"/>'
+          + '<path d="M12.5 0C5.6 0 0 5.6 0 12.5C0 21.9 12.5 41 12.5 41S25 21.9 25 12.5C25 5.6 19.4 0 12.5 0Z" fill="' + view.markerColor + '" stroke="#fff" stroke-width="1.5"/>'
           + '<circle cx="12.5" cy="12.5" r="5" fill="#fff"/>'
           + '</svg>';
         var pinIcon = L.divIcon({
@@ -339,10 +431,11 @@
           popupAnchor: [0, -34]
         });
         userMarker = L.marker([lat, lon], { icon: pinIcon }).addTo(map);
-        userMarker.bindPopup(zone.name).openPopup();
+        userMarker.bindPopup(view.name).openPopup();
+        map.setView([lat, lon], 13);
 
-        map.fitBounds(L.latLngBounds([CENTER, [lat, lon]]).pad(0.3));
-        showResult(zone);
+        showResult(view);
+        track(decision);
       })
       .catch(function () {
         btn.disabled = false;

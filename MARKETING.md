@@ -16,7 +16,7 @@ and more bookings from **reptile** and **small-mammal** owners.
   - Deep Clean or Upkeep, weekly: **$105/visit (1 hr, ~$450/month)** · **$185/visit (2 hr, ~$795/month)**
   - Deep Clean or Upkeep, every other week: **$115/visit (1 hr, ~$245/month)** · **$195/visit (2 hr, ~$420/month)**
   - Nail Trims, every other week: **$115/visit (1 hr, ~$245/month)** · **$195/visit (2 hr, ~$420/month)**
-  - Travel by area (most of SF none; outlying SF neighborhoods such as the Marina and Bayview $15/visit; Peninsula $15–$25/visit)
+  - Travel by area (most of SF none; outlying SF neighborhoods such as the Marina, SOMA and Bayview $15/visit; Peninsula $15–$25/visit)
 - **Bearded Dragon Sitter SF** — `/bearded-dragon-sitter-san-francisco/`
 - **Chinchilla & Small-Mammal Sitter SF** — `/chinchilla-small-mammal-sitter-san-francisco/`
 - **Booking form** — `/book/` → **thank-you** page `/thank-you/`
