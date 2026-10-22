@@ -184,62 +184,23 @@
   var CONFIRM = 'We confirm your exact rate when you text us your address.';
   var EXAMPLES = 'Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview are $15/visit.';
 
-  /* Geographic center of San Francisco (Twin Peaks): the map's starting view, and the
-     reference point for the rare address Nominatim returns with no neighborhood field.
+  /* Geographic center of San Francisco (Twin Peaks): the map's starting view only.
      Not an office or a team address. */
   var CENTER = [37.7544, -122.4477];
-  var DRIVING_FACTOR = 1.5;
-  var SF_ESTIMATE_CUTOFF_MILES = 4;
 
-  /* San Francisco neighborhoods in the $15/visit tier, matched (case-insensitively,
-     punctuation stripped) against every neighborhood-level field Nominatim returns.
-     Everything else inside San Francisco is the no-surcharge tier. */
-  var SF_SURCHARGE_PATTERNS = [
-    /\bmarina\b/, /\bcow hollow\b/, /\bpresidio heights\b/, /\bpacific heights\b/, /\bpac heights\b/,
-    /\brussian hill\b/, /\bnob hill\b/, /\bnorth beach\b/, /\btelegraph hill\b/,
-    /\bfinancial district\b/, /\bfidi\b/, /\bchinatown\b/, /\bembarcadero\b/,
-    /\bsoma\b/, /\bsouth of market\b/, /\bmission bay\b/,
-    /\btreasure island\b/, /\byerba buena island\b/,
-    /\bbayview\b/, /\bhunters point\b/, /\bvisitacion valley\b/,
-    /\bportola\b/, /\bexcelsior\b/, /\bcrocker amazon\b/
-  ];
-  /* ZIP codes that sit entirely inside the $15 tier; consulted only when Nominatim
-     returns no neighborhood field at all (Treasure Island is the usual case). */
-  var SF_SURCHARGE_ZIPS = ['94130', '94124', '94134', '94123', '94111', '94104', '94105', '94133', '94108', '94158', '94103'];
   var NEAR_PENINSULA = ['daly city', 'colma', 'brisbane', 'south san francisco', 'san bruno', 'pacifica', 'broadmoor'];
-  var NEIGHBORHOOD_FIELDS = ['neighbourhood', 'quarter', 'suburb', 'city_district', 'residential', 'borough'];
 
   function norm(s) {
     return String(s || '').toLowerCase().replace(/['’]/g, '').replace(/[\-–—\/]+/g, ' ').replace(/\s+/g, ' ').trim();
-  }
-
-  /* Haversine distance in miles */
-  function haversine(lat1, lon1, lat2, lon2) {
-    var R = 3958.8;
-    var dLat = (lat2 - lat1) * Math.PI / 180;
-    var dLon = (lon2 - lon1) * Math.PI / 180;
-    var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-            Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
-            Math.sin(dLon / 2) * Math.sin(dLon / 2);
-    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-  }
-
-  function inSurchargeList(name) {
-    var n = norm(name);
-    if (!n) return false;
-    for (var i = 0; i < SF_SURCHARGE_PATTERNS.length; i++) {
-      if (SF_SURCHARGE_PATTERNS[i].test(n)) return true;
-    }
-    return false;
   }
 
   function placeName(addr) {
     return addr.city || addr.town || addr.village || addr.municipality || '';
   }
 
-  /* Decide the tier from Nominatim's address fields. Mirrors the service-areas FAQ.
-     Returns { area: sf|near_peninsula|peninsula|marin|outside, tier: none|15|25|ask, estimated, place } */
-  function decide(addr, lat, lon) {
+  /* Decide the area from Nominatim's address fields. Mirrors the service-areas FAQ.
+     Returns { area: sf|near_peninsula|peninsula|marin|outside, tier: 15|25|ask, place } */
+  function decide(addr) {
     addr = addr || {};
     var state = norm(addr.state);
     var county = norm(addr.county);
@@ -247,47 +208,27 @@
     var isCalifornia = state === 'california' || state === 'ca';
 
     if (isCalifornia && (city === 'san francisco' || county.indexOf('san francisco') !== -1)) {
-      var hoods = [];
-      for (var i = 0; i < NEIGHBORHOOD_FIELDS.length; i++) {
-        if (addr[NEIGHBORHOOD_FIELDS[i]]) hoods.push(addr[NEIGHBORHOOD_FIELDS[i]]);
-      }
-      for (var j = 0; j < hoods.length; j++) {
-        if (inSurchargeList(hoods[j])) return { area: 'sf', tier: '15', estimated: false, place: hoods[j] };
-      }
-      if (hoods.length) return { area: 'sf', tier: 'none', estimated: false, place: hoods[0] };
-      var zip = String(addr.postcode || '').slice(0, 5);
-      if (SF_SURCHARGE_ZIPS.indexOf(zip) !== -1) return { area: 'sf', tier: '15', estimated: false, place: 'ZIP ' + zip };
-      var miles = haversine(CENTER[0], CENTER[1], lat, lon) * DRIVING_FACTOR;
-      return { area: 'sf', tier: miles <= SF_ESTIMATE_CUTOFF_MILES ? 'none' : '15', estimated: true, place: 'San Francisco' };
+      /* Inside the city the site quotes the split with examples only; the exact fee is
+         confirmed when the pet parent texts their address. */
+      return { area: 'sf', tier: 'ask', place: 'San Francisco' };
     }
     if (isCalifornia && county.indexOf('san mateo') !== -1) {
       var near = NEAR_PENINSULA.indexOf(city) !== -1;
-      return { area: near ? 'near_peninsula' : 'peninsula', tier: near ? '15' : '25', estimated: false, place: placeName(addr) || 'This address' };
+      return { area: near ? 'near_peninsula' : 'peninsula', tier: near ? '15' : '25', place: placeName(addr) || 'This address' };
     }
     if (isCalifornia && county.indexOf('marin') !== -1) {
-      return { area: 'marin', tier: 'ask', estimated: false, place: placeName(addr) || 'Marin County' };
+      return { area: 'marin', tier: 'ask', place: placeName(addr) || 'Marin County' };
     }
-    return { area: 'outside', tier: 'ask', estimated: false, place: '' };
+    return { area: 'outside', tier: 'ask', place: '' };
   }
 
-  /* Turn a decision into the card copy. Never names a base; never $25 for an SF address. */
+  /* Turn a decision into the card copy. Never names a base; never a specific tier for an SF address. */
   function present(d) {
     var textLink = { href: 'tel:' + PHONE, text: 'Text ' + PHONE + '.' };
     var bookLink = { href: 'tel:' + PHONE, text: 'Call or text ' + PHONE + ' to book.' };
-    if (d.area === 'sf' && d.estimated) {
-      var likely15 = d.tier === '15';
-      return { name: likely15 ? 'San Francisco — likely $15/visit' : 'San Francisco — likely no travel surcharge',
-        tierText: likely15 ? 'Likely +$15/visit' : 'Likely no surcharge',
-        cssClass: likely15 ? 'tz-zone-secondary' : 'tz-zone-primary', markerColor: likely15 ? '#D4A843' : '#6B8F71',
-        note: 'We could not pin down the neighborhood for this address. ' + EXAMPLES + ' ' + CONFIRM, links: [textLink] };
-    }
-    if (d.area === 'sf' && d.tier === '15') {
-      return { name: 'San Francisco — outlying neighborhood', tierText: '+$15/visit', cssClass: 'tz-zone-secondary', markerColor: '#D4A843',
-        note: 'This part of San Francisco is in our outlying-neighborhood tier, alongside the Marina, SOMA and Bayview, so a $15/visit travel surcharge applies. ' + CONFIRM, links: [textLink] };
-    }
     if (d.area === 'sf') {
-      return { name: 'San Francisco — no travel surcharge', tierText: 'No surcharge', cssClass: 'tz-zone-primary', markerColor: '#6B8F71',
-        note: 'Most of San Francisco carries no travel surcharge — our base rates cover your visits.', links: [bookLink] };
+      return { name: 'San Francisco', tierText: 'Most neighborhoods: no travel fee \u00b7 outlying neighborhoods: $15/visit', cssClass: 'tz-zone-primary', markerColor: '#6B8F71',
+        note: EXAMPLES + ' ' + CONFIRM, links: [textLink] };
     }
     if (d.area === 'near_peninsula') {
       return { name: 'Near Peninsula — $15/visit', tierText: '+$15/visit', cssClass: 'tz-zone-secondary', markerColor: '#D4A843',
@@ -357,7 +298,7 @@
   }
 
   /* Initialize map (fail soft if Leaflet did not load). No rings, no base marker:
-     the tier is decided by neighborhood and city, not by distance. */
+     the area is decided by city and county, not by distance. */
   if (typeof L === 'undefined') {
     showError('The map could not load. Text us your address and we will confirm your travel rate.');
     return;
@@ -413,7 +354,7 @@
           return;
         }
 
-        var decision = decide(data[0].address, lat, lon);
+        var decision = decide(data[0].address);
         var view = present(decision);
 
         if (userMarker) {

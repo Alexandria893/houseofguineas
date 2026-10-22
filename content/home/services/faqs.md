@@ -51,9 +51,9 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
     <ul>
       <li><strong>San Francisco, most neighborhoods</strong>: No travel surcharge. Our base rates cover these visits.</li>
       <li><strong>San Francisco, outlying neighborhoods</strong> (such as the Marina, SOMA and Bayview): <em>$15/visit</em> travel surcharge.</li>
-      <li><strong>Near Peninsula</strong> (Daly City, Colma, Brisbane, South San Francisco, San Bruno, Pacifica): travel surcharge <em>from $15/visit</em>.</li>
-      <li><strong>Peninsula, farther</strong> (Millbrae, Burlingame, Hillsborough, San Mateo, Foster City, Belmont, San Carlos, Redwood City and beyond): <em>$25/visit</em> travel surcharge.</li>
-      <li><strong>Peninsula Service (San Mateo County)</strong>: Our team serves Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City, and surrounding areas, with the travel surcharge measured from San Francisco. <a href="tel:415-484-6493">Contact us</a> to book!</li>
+      <li><strong>Near Peninsula</strong> (such as Daly City or Pacifica): travel surcharge <em>from $15/visit</em>.</li>
+      <li><strong>Peninsula, farther</strong> (such as Burlingame or Redwood City): <em>$25/visit</em> travel surcharge.</li>
+      <li><strong>Peninsula Service (San Mateo County)</strong>: Our team serves San Mateo County from Daly City down through Burlingame, San Mateo and Redwood City, with the travel surcharge measured from San Francisco. <a href="tel:415-484-6493">Contact us</a> to book!</li>
     </ul>
     <p>Are you farther away? <a href="tel:415-484-6493">Text or call us</a> and let's figure out if we're a good fit for each other!</p>
     <p><em>Note: In-home visits are handled by our caretakers who travel to you. Boarding is hosted by our team in San Francisco and reserved for pet parents outside the city — Peninsula, Marin, and greater Bay Area families are welcome to drive in and drop off their little ones.</em></p>
