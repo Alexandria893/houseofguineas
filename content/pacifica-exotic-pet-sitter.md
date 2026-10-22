@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 Pacifica is where the Peninsula meets the sea. A short drive down Highway 1 from San Francisco, it is a string of beach-town neighborhoods tucked between the coastal hills and the Pacific, wrapped in the kind of thick coastal fog that rolls in off Rockaway and Linda Mar and settles for days. It is a family town — surfers heading out at dawn, kids walking to school in Sharp Park and Vallemar, households where the pets are very much part of the family. And in a lot of those homes, the pet in question is a pair of guinea pigs who popcorn at breakfast, a house rabbit with the run of the living room, a bearded dragon on a strict UVB schedule, or a cockatiel who expects his evening millet. When one of those families is headed out of town, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never trimmed a guinea pig's nails. That is the gap our team fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because Pacifica sits just down the coast on Highway 1 — a straight shot past Devil's Slide's northern edge and the San Bruno Mountain foothills — our team of exotic pet caretakers is only a short trip away when we come to provide in-home care. From the homes above Rockaway Beach to the flatter streets of Linda Mar, and from Sharp Park over toward Fairmont and Vallemar, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
+House of Guineas Pet Care is based in San Francisco, and because Pacifica sits just down the coast on Highway 1 — a straight shot past Devil's Slide's northern edge and the San Bruno Mountain foothills — our team of exotic pet caretakers is only a short trip away when we come to provide in-home care. From the homes above Rockaway Beach to the flatter streets of Linda Mar, and from Sharp Park over toward Fairmont and Vallemar, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
 
 ## Why Pacifica Exotic Pet Owners Choose Our Team
 
@@ -76,7 +76,7 @@ Because Pacifica sits just down the coast from San Francisco on Highway 1, it is
 <details class="faq-details">
   <summary class="faq-summary">Do you really travel to Pacifica for exotic pet care?</summary>
   <div class="faq-answer">
-    <p>Yes. Our team is based in San Francisco's Inner Sunset, and Pacifica sits just down the coast on Highway 1, so it is a short trip for us. In-home exotic care in Pacifica is a regular part of our route.</p>
+    <p>Yes. Our team is based in San Francisco, and Pacifica sits just down the coast on Highway 1, so it is a short trip for us. In-home exotic care in Pacifica is a regular part of our route.</p>
   </div>
 </details>
 
@@ -122,7 +122,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you really travel to Pacifica for exotic pet care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Our team is based in San Francisco's Inner Sunset, and Pacifica sits just down the coast on Highway 1, so it is a short trip for us. In-home exotic care in Pacifica is a regular part of our route."
+        "text": "Yes. Our team is based in San Francisco, and Pacifica sits just down the coast on Highway 1, so it is a short trip for us. In-home exotic care in Pacifica is a regular part of our route."
       }
     },
     {

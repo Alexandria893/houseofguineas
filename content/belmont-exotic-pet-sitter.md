@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 Belmont is one of those Peninsula towns that quietly runs on a commuter rhythm. Tucked into the hilly, wooded folds of San Mateo County between San Mateo and San Carlos, it is full of professionals who spend their weeks on the Caltrain corridor, the 101, and the 280 — and whose weekends and vacations depend on someone reliable holding down the home front. When that home front includes a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who needs his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never trimmed a guinea pig's nails. That is the gap our team fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet caretakers travels down the Peninsula to provide in-home care for Belmont households. From the homes climbing toward Water Dog Lake to the Carlmont neighborhoods near the high school, and the quiet streets off Ralston Avenue, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
+House of Guineas Pet Care is based in San Francisco, and our team of exotic pet caretakers travels down the Peninsula to provide in-home care for Belmont households. From the homes climbing toward Water Dog Lake to the Carlmont neighborhoods near the high school, and the quiet streets off Ralston Avenue, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
 
 ## Why Belmont Exotic Pet Owners Choose Our Team
 
@@ -44,7 +44,7 @@ Belmont's terrain is part of the charm and part of the logistics — the wooded 
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-Belmont is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from our Inner Sunset base. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+Belmont is in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance from San Francisco. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 > **Routine care makes the trip to Belmont, too.** Between school runs and those winding canyon-hill commutes, weekly cage day has a way of slipping — so we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits, where their caretaker takes on the enclosure deep-clean, hay restock, and a gentle health check, and you keep the cuddles.
 

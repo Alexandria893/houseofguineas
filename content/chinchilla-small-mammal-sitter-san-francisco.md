@@ -9,7 +9,7 @@ og_image = "chinchillaChewingOnTreat.jpg"
 
 Chinchillas, ferrets, rats, hamsters, gerbils, hedgehogs — the small mammals beyond guinea pigs and rabbits are some of the most rewarding pets to keep, and some of the easiest to get wrong when you hand them to the wrong sitter. A chinchilla can't tolerate heat or humidity and needs dust baths, not water. A ferret needs a specific high-protein diet and is a champion escape artist. A rat is brilliant and social and hides illness until it's advanced. These are not animals a general dog-and-cat sitter is equipped for — and yet in San Francisco, that's often the only option pet parents can find. That's the gap our team was built to fill: knowledgeable, in-home care for the small mammals other sitters won't touch, delivered by caretakers trained under a clinical lens.
 
-House of Guineas is based in San Francisco's Inner Sunset, and small mammals are the heart of what we do — the whole business grew out of small-mammal care. Our caretakers come to your home so your chinchilla stays in its own cool, familiar room, your ferret keeps its own routine, and your rats stay in their own trusted space.
+House of Guineas is based in San Francisco, and small mammals are the heart of what we do — the whole business grew out of small-mammal care. Our caretakers come to your home so your chinchilla stays in its own cool, familiar room, your ferret keeps its own routine, and your rats stay in their own trusted space.
 <!--more-->
 
 > *"We had the absolute pleasure of having Alexandria care for our chinchilla, Gus... Chinchillas require special care, and she knew exactly how to handle everything—from diet to proper handling techniques."* — Robyn J.
@@ -40,7 +40,7 @@ Small mammals need *frequent* upkeep: weekly cage deep-cleans, constant fresh ha
 - **Twice-daily care** runs **$155–$215/day**
 - **Recurring plans** available as a flat monthly rate — [see routine care](/routine-recurring-exotic-pet-care/)
 
-No Peninsula travel surcharge within San Francisco. (We do host a small amount of [boarding](/home/services/exotic-pet-care-services-boarding) at **$125/night**, but those spots are reserved for families outside San Francisco — for city families, in-home visits are the better fit.)
+Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit, and we confirm your exact rate when you text us your address. (We do host a small amount of [boarding](/home/services/exotic-pet-care-services-boarding) at **$125/night**, but those spots are reserved for families outside San Francisco — for city families, in-home visits are the better fit.)
 
 ## Frequently Asked Questions
 
@@ -75,7 +75,7 @@ No Peninsula travel surcharge within San Francisco. (We do host a small amount o
 <details class="faq-details">
   <summary class="faq-summary">How much does a small-mammal sitter cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. No travel surcharge within San Francisco. Text us at 415-484-6493 for a quote.</p>
+    <p>30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text us at 415-484-6493 with your address for an exact quote.</p>
   </div>
 </details>
 
@@ -117,7 +117,7 @@ Ready to book care for your small companion? [Call or text 415-484-6493](tel:415
       "name": "How much does a small-mammal sitter cost in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. No travel surcharge within San Francisco. Text us at 415-484-6493 for a quote."
+        "text": "30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text us at 415-484-6493 with your address for an exact quote."
       }
     }
   ]

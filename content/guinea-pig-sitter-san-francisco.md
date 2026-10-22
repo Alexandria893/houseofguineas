@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 For a lot of San Francisco families, a guinea pig is the first pet — the one a kid begs for, names on day one, and then, quietly, falls completely in love with. Small mammals have a way of doing that. They are undemanding on the surface and deceptively particular underneath. A guinea pig needs unlimited hay in front of it at all times, fresh vegetables every single day, a steady source of vitamin C its body cannot make on its own, and a caretaker who notices the difference between a pig that is simply napping and a pig that has stopped eating. That last distinction matters more than most people realize, because in a guinea pig — or a rabbit, or a chinchilla — a gut that goes quiet is a genuine emergency, not a wait-and-see. A dog-and-cat sitter, however wonderful, is usually not equipped to spot the early signs of GI stasis or syringe critical-care formula into an animal that has gone off its food. That is exactly the gap our team was built to fill.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and the name is not an accident — the whole business grew out of guinea pig care. Small mammals are the heart of what we do. Our caretakers provide in-home care across the entire city, so your pigs, chinchillas, ferrets, and pocket pets stay in their own enclosures, on their own routines, eating their own hay, while you are away. (Have a chinchilla, ferret, or rat? See our dedicated [chinchilla & small-mammal sitter](/chinchilla-small-mammal-sitter-san-francisco/) page.)
+House of Guineas Pet Care is based in San Francisco, and the name is not an accident — the whole business grew out of guinea pig care. Small mammals are the heart of what we do. Our caretakers provide in-home care across the entire city, so your pigs, chinchillas, ferrets, and pocket pets stay in their own enclosures, on their own routines, eating their own hay, while you are away. (Have a chinchilla, ferret, or rat? See our dedicated [chinchilla & small-mammal sitter](/chinchilla-small-mammal-sitter-san-francisco/) page.)
 
 ## Why San Francisco Small-Mammal Owners Choose Us
 
@@ -45,7 +45,7 @@ We cover the whole city, from the western avenues out to the bay. Small mammals 
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-These are in-city San Francisco visits, so there is **no Peninsula travel surcharge**. Based down the Peninsula? See our [Peninsula guinea pig sitter](/guinea-pig-sitter-peninsula/) page — and note that our [boarding option](/home/services/exotic-pet-care-services-boarding), at **$125/night**, is reserved for families outside San Francisco like you.
+These are in-city San Francisco visits: most of the city carries **no travel surcharge**, and outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Based down the Peninsula? See our [Peninsula guinea pig sitter](/guinea-pig-sitter-peninsula/) page — and note that our [boarding option](/home/services/exotic-pet-care-services-boarding), at **$125/night**, is reserved for families outside San Francisco like you.
 
 > **Liner swaps and hay restocks make wonderful someone-else's-jobs.** San Francisco guinea pig families can schedule standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker changes the liners, tops up the hay, and does a gentle health check, so your time with the herd is popcorning and wheeks, not laundry.
 
@@ -98,14 +98,14 @@ These are in-city San Francisco visits, so there is **no Peninsula travel surcha
 <details class="faq-details">
   <summary class="faq-summary">Do you offer small-mammal boarding?</summary>
   <div class="faq-answer">
-    <p>We do, in a limited way — a few spots at a time, hosted personally by members of our team in their San Francisco homes at $125 per night — but we reserve those spots for pet parents outside San Francisco. For city families, in-home visits are the better fit: no travel surcharge anywhere in SF, far more availability, and your pigs keep their own cage, their own corner, their own routine.</p>
+    <p>We do, in a limited way — a few spots at a time, hosted personally by members of our team in their San Francisco homes at $125 per night — but we reserve those spots for pet parents outside San Francisco. For city families, in-home visits are the better fit: no travel surcharge across most of SF, far more availability, and your pigs keep their own cage, their own corner, their own routine.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Francisco guinea pig sitter cost?</summary>
   <div class="faq-answer">
-    <p>For a single pig or a bonded pair in the city, a 30-minute visit at $95 usually covers hay and vegetables with their daily vitamin C comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $125. Pet parents who want morning and evening feeds book twice-daily care at $155–$215 per day depending on visit length and how many pigs are in the herd. These are in-city San Francisco visits, so no travel surcharge applies. Text 415-484-6493 with your dates for an exact quote.</p>
+    <p>For a single pig or a bonded pair in the city, a 30-minute visit at $95 usually covers hay and vegetables with their daily vitamin C comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $125. Pet parents who want morning and evening feeds book twice-daily care at $155–$215 per day depending on visit length and how many pigs are in the herd. Most San Francisco visits carry no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text 415-484-6493 with your dates for an exact quote.</p>
   </div>
 </details>
 
@@ -147,7 +147,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "Do you offer small-mammal boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do, in a limited way — a few spots at a time, hosted personally by members of our team in their San Francisco homes at $125 per night — but we reserve those spots for pet parents outside San Francisco. For city families, in-home visits are the better fit: no travel surcharge anywhere in SF, far more availability, and your pigs keep their own cage, their own corner, their own routine."
+        "text": "We do, in a limited way — a few spots at a time, hosted personally by members of our team in their San Francisco homes at $125 per night — but we reserve those spots for pet parents outside San Francisco. For city families, in-home visits are the better fit: no travel surcharge across most of SF, far more availability, and your pigs keep their own cage, their own corner, their own routine."
       }
     },
     {
@@ -155,7 +155,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "How much does a San Francisco guinea pig sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For a single pig or a bonded pair in the city, a 30-minute visit at $95 usually covers hay and vegetables with their daily vitamin C comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $125. Pet parents who want morning and evening feeds book twice-daily care at $155–$215 per day depending on visit length and how many pigs are in the herd. These are in-city San Francisco visits, so no travel surcharge applies. Text 415-484-6493 with your dates for an exact quote."
+        "text": "For a single pig or a bonded pair in the city, a 30-minute visit at $95 usually covers hay and vegetables with their daily vitamin C comfortably; larger herds or a full liner change tend to fit better in a 60-minute visit at $125. Pet parents who want morning and evening feeds book twice-daily care at $155–$215 per day depending on visit length and how many pigs are in the herd. Most San Francisco visits carry no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text 415-484-6493 with your dates for an exact quote."
       }
     }
   ]

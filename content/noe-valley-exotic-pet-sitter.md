@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 Noe Valley has a rhythm all its own. Sheltered from the fog that pours over so much of the city, it sits in a sunny little pocket of San Francisco between the Castro, the Mission, and Glen Park, with classic Victorian and Edwardian homes stacked up its steep hills and the 24th Street commercial corridor humming below with cafes and neighborhood shops. It is a neighborhood of young families — locals affectionately call it "Stroller Valley" — and of people who keep busy lives, riding the J-Church Muni line downtown and out again. When those lives include a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who needs his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never trimmed a guinea pig's nails. That is the gap our team fills.
 
-House of Guineas Pet Care is based right here in San Francisco, over in the Inner Sunset — so reaching Noe Valley is a quick, same-city trip across town, not a Peninsula drive. Our team of exotic pet caretakers comes to your home, from the sunny blocks along 24th Street to the steep Victorian-lined hills and the quiet streets near Douglass Park, so your pets can stay in their own enclosures, on their own routines, while you are away.
+House of Guineas Pet Care is based right here in San Francisco — so reaching Noe Valley is a same-city trip, not a Peninsula drive. Our team of exotic pet caretakers comes to your home, from the sunny blocks along 24th Street to the steep Victorian-lined hills and the quiet streets near Douglass Park, so your pets can stay in their own enclosures, on their own routines, while you are away.
 
 ## Why Noe Valley Exotic Pet Parents Choose Our Team
 
@@ -36,7 +36,7 @@ Once you book, we schedule visits around your travel itinerary. Most exotic pets
 
 ## Noe Valley Areas We Serve
 
-Noe Valley's hills are part of the charm and part of the logistics — the sunny streets level out around the 24th Street corridor before climbing into the steep blocks lined with Victorian and Edwardian homes. Our team covers the full neighborhood, including the shops and cafes along 24th Street, the residential stretches near Douglass Park, the hillside homes rising toward Twin Peaks, and the pockets bordering the Castro, the Mission, and Glen Park. Whether you are a few steps from the J-Church line or tucked up a steep hill, we can reach you — and because we are based across town in the Inner Sunset, it is all a short same-city trip.
+Noe Valley's hills are part of the charm and part of the logistics — the sunny streets level out around the 24th Street corridor before climbing into the steep blocks lined with Victorian and Edwardian homes. Our team covers the full neighborhood, including the shops and cafes along 24th Street, the residential stretches near Douglass Park, the hillside homes rising toward Twin Peaks, and the pockets bordering the Castro, the Mission, and Glen Park. Whether you are a few steps from the J-Church line or tucked up a steep hill, we can reach you — it is all a same-city trip.
 
 ## Pricing for Noe Valley Visits
 
@@ -44,7 +44,7 @@ Noe Valley's hills are part of the charm and part of the logistics — the sunny
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-Noe Valley is within San Francisco — our home city — so there is no Peninsula travel surcharge. Pricing stays simple and in-city. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+Noe Valley is within San Francisco — our home city — and carries no travel surcharge. Pricing stays simple and in-city. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 > **Weekends filling up faster than the hay rack empties?** Set a standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visit, and a caretaker from our team takes the deep-clean and a gentle head-to-tail check off your plate — leaving Saturday mornings for 24th Street coffee runs and evenings for cuddles.
 
@@ -76,7 +76,7 @@ Noe Valley is within San Francisco — our home city — so there is no Peninsul
 <details class="faq-details">
   <summary class="faq-summary">Do you travel to Noe Valley for exotic pet care?</summary>
   <div class="faq-answer">
-    <p>Yes. We are based in San Francisco's Inner Sunset, so reaching Noe Valley is a quick same-city trip across town — not a Peninsula drive. Noe Valley sits between the Castro, the Mission, and Glen Park, and in-home exotic care here is a regular part of our route.</p>
+    <p>Yes. We are based in San Francisco, so reaching Noe Valley is a same-city trip — not a Peninsula drive. Noe Valley sits between the Castro, the Mission, and Glen Park, and in-home exotic care here is a regular part of our route.</p>
   </div>
 </details>
 
@@ -104,13 +104,13 @@ Noe Valley is within San Francisco — our home city — so there is no Peninsul
 <details class="faq-details">
   <summary class="faq-summary">How much does a Noe Valley exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Noe Valley families like a clear number, so here it is: 30-minute visits start at $95, 60-minute visits at $125, and twice-daily care lands between $155 and $215 per day depending on visit length and how many little ones we are looking after. Noe Valley is inside San Francisco — our home city — so there is no Peninsula travel surcharge to tack on. Text us at 415-484-6493 with your address and dates and we will confirm your exact rate.</p>
+    <p>Noe Valley families like a clear number, so here it is: 30-minute visits start at $95, 60-minute visits at $125, and twice-daily care lands between $155 and $215 per day depending on visit length and how many little ones we are looking after. Noe Valley is inside San Francisco — our home city — with no travel surcharge to tack on. Text us at 415-484-6493 with your address and dates and we will confirm your exact rate.</p>
   </div>
 </details>
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home) or browse the full [FAQ page](/home/services/faqs). Noe Valley is part of our home turf — see all the neighborhoods we cover on our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) page. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in Noe Valley will want our [guinea pig care guide](/post/guinea-pig-care-guide).
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home) or browse the full [FAQ page](/home/services/faqs). Noe Valley is part of our San Francisco coverage — see all the neighborhoods we cover on our [San Francisco exotic pet sitter](/san-francisco-exotic-pet-sitter/) page. Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in Noe Valley will want our [guinea pig care guide](/post/guinea-pig-care-guide).
 
 <script type="application/ld+json">
 {
@@ -122,7 +122,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you travel to Noe Valley for exotic pet care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. We are based in San Francisco's Inner Sunset, so reaching Noe Valley is a quick same-city trip across town — not a Peninsula drive. Noe Valley sits between the Castro, the Mission, and Glen Park, and in-home exotic care here is a regular part of our route."
+        "text": "Yes. We are based in San Francisco, so reaching Noe Valley is a same-city trip — not a Peninsula drive. Noe Valley sits between the Castro, the Mission, and Glen Park, and in-home exotic care here is a regular part of our route."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How much does a Noe Valley exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Noe Valley families like a clear number, so here it is: 30-minute visits start at $95, 60-minute visits at $125, and twice-daily care lands between $155 and $215 per day depending on visit length and how many little ones we are looking after. Noe Valley is inside San Francisco — our home city — so there is no Peninsula travel surcharge to tack on. Text us at 415-484-6493 with your address and dates and we will confirm your exact rate."
+        "text": "Noe Valley families like a clear number, so here it is: 30-minute visits start at $95, 60-minute visits at $125, and twice-daily care lands between $155 and $215 per day depending on visit length and how many little ones we are looking after. Noe Valley is inside San Francisco — our home city — with no travel surcharge to tack on. Text us at 415-484-6493 with your address and dates and we will confirm your exact rate."
       }
     }
   ]

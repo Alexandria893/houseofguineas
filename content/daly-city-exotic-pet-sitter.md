@@ -9,7 +9,7 @@ og_image = "milo.jpeg"
 
 Daly City is the Gateway to the Peninsula — the first town you hit once you cross the county line heading south, and the place where San Francisco's fog likes to settle in for the long haul. It is a city of dense, tightly knit neighborhoods, of homes stacked along the hills above Highway 1, and of families who keep busy lives moving along the I-280 and Mission Street corridors. When one of those families is headed out of town and the household includes a bonded pair of rabbits, a bearded dragon on a strict UVB schedule, or a conure who expects his evening millet, the question that surfaces the night before a trip is always the same: *who is going to take care of the exotics?* Conventional boarding kennels are built for dogs and cats, and most pet sitters have never trimmed a guinea pig's nails. That is the gap our team fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and because Daly City sits immediately south of the San Francisco county line, our team of exotic pet caretakers is only a short trip away when we come to provide in-home care. From the homes climbing through St. Francis Heights to the flatter streets of Westlake, and from Crocker over toward Bayshore, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
+House of Guineas Pet Care is based in San Francisco, and because Daly City sits just past the county line, our team of exotic pet caretakers is only a short trip away when we come to provide in-home care. From the homes climbing through St. Francis Heights to the flatter streets of Westlake, and from Crocker over toward Bayshore, we come to your pets so they can stay in their own enclosures, on their own routines, while you are away.
 
 ## Why Daly City Exotic Pet Owners Choose Our Team
 
@@ -44,7 +44,7 @@ Daly City is famously foggy and famously hilly, and its neighborhoods each have 
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-Because Daly City sits immediately south of the San Francisco county line, it is a short trip for our SF-based team, so a travel surcharge of $15–$25/visit applies, depending on distance. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+Daly City sits just past the San Francisco county line — a short trip for our SF-based team — and a travel surcharge of $15–$25/visit applies, depending on distance. Text us your address and dates and we will confirm your rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 > **Routine care is a quick hop to Daly City, too.** For pet parents riding BART into the city every morning, we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker handles the enclosure deep-clean, hay restock, and a gentle health check, so evenings back home in the fog belt are all about your little ones.
 
@@ -76,7 +76,7 @@ Because Daly City sits immediately south of the San Francisco county line, it is
 <details class="faq-details">
   <summary class="faq-summary">Do you really travel to Daly City for exotic pet care?</summary>
   <div class="faq-answer">
-    <p>Yes. Our team is based in San Francisco's Inner Sunset, and Daly City sits immediately south of the county line, so it is a short trip for us via I-280 or Highway 1. In-home exotic care in Daly City is a regular part of our route.</p>
+    <p>Yes. Our team is based in San Francisco, and Daly City sits just past the county line, so it is a short trip for us via I-280 or Highway 1. In-home exotic care in Daly City is a regular part of our route.</p>
   </div>
 </details>
 
@@ -104,7 +104,7 @@ Because Daly City sits immediately south of the San Francisco county line, it is
 <details class="faq-details">
   <summary class="faq-summary">How much does a Daly City exotic pet sitter cost?</summary>
   <div class="faq-answer">
-    <p>Daly City pet parents pay the same base rates as our San Francisco families: $95 for 30 minutes, $125 for a full hour, and $155–$215 per day for twice-daily care depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies depending on distance — for our Inner Sunset team, your door is barely past the Daly City BART station. Text us at 415-484-6493 with your address and dates to book.</p>
+    <p>Daly City pet parents pay the same base rates as our San Francisco families: $95 for 30 minutes, $125 for a full hour, and $155–$215 per day for twice-daily care depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies, depending on distance from San Francisco. Text us at 415-484-6493 with your address and dates to book.</p>
   </div>
 </details>
 
@@ -122,7 +122,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Do you really travel to Daly City for exotic pet care?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Our team is based in San Francisco's Inner Sunset, and Daly City sits immediately south of the county line, so it is a short trip for us via I-280 or Highway 1. In-home exotic care in Daly City is a regular part of our route."
+        "text": "Yes. Our team is based in San Francisco, and Daly City sits just past the county line, so it is a short trip for us via I-280 or Highway 1. In-home exotic care in Daly City is a regular part of our route."
       }
     },
     {
@@ -154,7 +154,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "How much does a Daly City exotic pet sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Daly City pet parents pay the same base rates as our San Francisco families: $95 for 30 minutes, $125 for a full hour, and $155–$215 per day for twice-daily care depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies depending on distance — for our Inner Sunset team, your door is barely past the Daly City BART station. Text us at 415-484-6493 with your address and dates to book."
+        "text": "Daly City pet parents pay the same base rates as our San Francisco families: $95 for 30 minutes, $125 for a full hour, and $155–$215 per day for twice-daily care depending on visit length and the number of pets. A travel surcharge of $15–$25/visit applies, depending on distance from San Francisco. Text us at 415-484-6493 with your address and dates to book."
       }
     }
   ]

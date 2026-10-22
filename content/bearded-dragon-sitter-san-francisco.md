@@ -9,7 +9,7 @@ og_image = "beardedDragonPostBath.jpg"
 
 The bearded dragon is the most popular pet reptile in San Francisco, and for good reason — they're curious, expressive, and genuinely bond with their people. But a beardie is also one of the more demanding reptiles to keep well, and finding someone who can actually care for one while you're away, or help you stay on top of the husbandry week to week, is surprisingly hard. Most listings are boarding facilities that want you to pack up and transport your dragon, and moving a bearded dragon means dismantling the one thing that keeps it healthy: a carefully dialed environment. A basking spot at 100–110°F, a genuine cool side, UVB on a schedule, the right diet ratio for its age — that's not a setup you can box up and recreate in a stranger's spare room without stressing the animal. What beardie parents actually want is someone who comes *to* the dragon, leaves the enclosure exactly where it is, and knows precisely what they're looking at. That's what we do.
 
-House of Guineas is based in San Francisco's Inner Sunset, and our team of exotic pet caretakers provides in-home bearded dragon care across the entire city.
+House of Guineas is based in San Francisco, and our team of exotic pet caretakers provides in-home bearded dragon care across the entire city.
 <!--more-->
 
 ## Why San Francisco Beardie Parents Choose Us
@@ -40,7 +40,7 @@ You don't have to be traveling to book us. You can also keep us on a **recurring
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and setup
 - **Recurring plans** are available as a flat monthly rate — [see routine care](/routine-recurring-exotic-pet-care/)
 
-Because this is in-city San Francisco, there's **no Peninsula travel surcharge**.
+Most of San Francisco carries **no travel surcharge**; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit, and we confirm your exact rate when you text us your address.
 
 ## Frequently Asked Questions
 
@@ -68,14 +68,14 @@ Because this is in-city San Francisco, there's **no Peninsula travel surcharge**
 <details class="faq-details">
   <summary class="faq-summary">Do you offer bearded dragon boarding?</summary>
   <div class="faq-answer">
-    <p>We do host boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it's the easy call anyway: moving a calibrated enclosure is stressful for the animal, and our caretakers come to your dragon anywhere in SF with no travel surcharge — the basking spot, the UVB schedule, the whole setup stays exactly where it belongs.</p>
+    <p>We do host boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it's the easy call anyway: moving a calibrated enclosure is stressful for the animal, and our caretakers come to your dragon anywhere in SF, with no travel surcharge across most of the city — the basking spot, the UVB schedule, the whole setup stays exactly where it belongs.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a bearded dragon sitter cost in San Francisco?</summary>
   <div class="faq-answer">
-    <p>30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Because this is in-city San Francisco, there's no travel surcharge. Text us at 415-484-6493 for a firm quote.</p>
+    <p>30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text us at 415-484-6493 for a firm quote.</p>
   </div>
 </details>
 
@@ -109,7 +109,7 @@ Ready to line up care for your beardie? [Call or text 415-484-6493](tel:415-484-
       "name": "Do you offer bearded dragon boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do host boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it's the easy call anyway: moving a calibrated enclosure is stressful for the animal, and our caretakers come to your dragon anywhere in SF with no travel surcharge — the basking spot, the UVB schedule, the whole setup stays exactly where it belongs."
+        "text": "We do host boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it's the easy call anyway: moving a calibrated enclosure is stressful for the animal, and our caretakers come to your dragon anywhere in SF, with no travel surcharge across most of the city — the basking spot, the UVB schedule, the whole setup stays exactly where it belongs."
       }
     },
     {
@@ -117,7 +117,7 @@ Ready to line up care for your beardie? [Call or text 415-484-6493](tel:415-484-
       "name": "How much does a bearded dragon sitter cost in San Francisco?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Because this is in-city San Francisco, there's no travel surcharge. Text us at 415-484-6493 for a firm quote."
+        "text": "30-minute visits start at $95 and 60-minute visits at $125, with twice-daily care from $155–$215/day. Families who want ongoing help can set up standing weekly or every-other-week routine visits. Most of San Francisco carries no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text us at 415-484-6493 for a firm quote."
       }
     }
   ]

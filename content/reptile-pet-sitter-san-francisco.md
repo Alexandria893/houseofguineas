@@ -9,7 +9,7 @@ og_image = "beardedDragonPostBath.jpg"
 
 Ask around San Francisco for someone who will actually come to your home and care for a reptile, and you hit the same wall most exotic pet parents do: there is almost nobody. The listings you find are either boarding facilities that want you to pack up and transport your animal, or businesses based over in the East Bay who treat the city as an afterthought. And for a reptile, transport is not a small thing. A bearded dragon's enclosure is a carefully calibrated little ecosystem — a basking spot dialed to the degree, a UVB bulb on a schedule, a humidity range held steady. Move all of that, and you are not just inconveniencing your pet; you are dismantling the system that keeps it healthy. What most reptile parents actually want is simple: someone who comes to the reptile, leaves the enclosure exactly where it is, and knows what they are looking at. That is the gap this page fills.
 
-House of Guineas Pet Care is based in San Francisco's Inner Sunset, and our team of exotic pet caretakers provides in-home reptile care across the entire city. Your dragon stays on its own basking rock, your gecko keeps its own humidity, your tortoise grazes in its own space — and we come to them.
+House of Guineas Pet Care is based in San Francisco, and our team of exotic pet caretakers provides in-home reptile care across the entire city. Your dragon stays on its own basking rock, your gecko keeps its own humidity, your tortoise grazes in its own space — and we come to them.
 
 ## Why San Francisco Reptile Owners Choose Us
 
@@ -41,7 +41,7 @@ We cover the whole city — from the Sunset and Richmond out west to the eastern
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and the complexity of the setup
 
-Because this is in-city San Francisco, there is **no Peninsula travel surcharge** — the prices above are what you pay. You can read more on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+Most of San Francisco carries **no travel surcharge** — the prices above are what you pay. Outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit, and we confirm your exact rate when you text us your address. You can read more on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
 > **Substrate changes and UVB checks, handled like clockwork.** San Francisco reptile keepers can book standing [routine care](/routine-recurring-exotic-pet-care/) — weekly or every-other-week visits where their caretaker swaps out substrate, verifies temps and UVB output, refreshes water, and does a calm health check, so the habitat stays dialed in and your reptile keeps basking happily.
 
@@ -94,14 +94,14 @@ Because this is in-city San Francisco, there is **no Peninsula travel surcharge*
 <details class="faq-details">
   <summary class="faq-summary">Do you offer reptile boarding?</summary>
   <div class="faq-answer">
-    <p>We do host reptile boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it is an easy call anyway: moving a calibrated habitat is stressful for the animal, and our caretakers come to your reptile anywhere in SF with no travel surcharge — the enclosure never has to move an inch.</p>
+    <p>We do host reptile boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it is an easy call anyway: moving a calibrated habitat is stressful for the animal, and our caretakers come to your reptile anywhere in SF, with no travel surcharge across most of the city — the enclosure never has to move an inch.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">How much does a San Francisco reptile sitter cost?</summary>
   <div class="faq-answer">
-    <p>Because the enclosure never moves, you pay only for a caretaker's time in your home: $95 buys a 30-minute check of temperature gradient, UVB, humidity, and feeding; $125 covers a 60-minute visit when the routine runs longer; and twice-daily care lands at $155–$215 per day for habitats that need a morning and an evening cycle. In-city San Francisco visits carry no travel surcharge. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
+    <p>Because the enclosure never moves, you pay only for a caretaker's time in your home: $95 buys a 30-minute check of temperature gradient, UVB, humidity, and feeding; $125 covers a 60-minute visit when the routine runs longer; and twice-daily care lands at $155–$215 per day for habitats that need a morning and an evening cycle. Most San Francisco visits carry no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text us at 415-484-6493 with your address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -143,7 +143,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "Do you offer reptile boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do host reptile boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it is an easy call anyway: moving a calibrated habitat is stressful for the animal, and our caretakers come to your reptile anywhere in SF with no travel surcharge — the enclosure never has to move an inch."
+        "text": "We do host reptile boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it is an easy call anyway: moving a calibrated habitat is stressful for the animal, and our caretakers come to your reptile anywhere in SF, with no travel surcharge across most of the city — the enclosure never has to move an inch."
       }
     },
     {
@@ -151,7 +151,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "How much does a San Francisco reptile sitter cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Because the enclosure never moves, you pay only for a caretaker's time in your home: $95 buys a 30-minute check of temperature gradient, UVB, humidity, and feeding; $125 covers a 60-minute visit when the routine runs longer; and twice-daily care lands at $155–$215 per day for habitats that need a morning and an evening cycle. In-city San Francisco visits carry no travel surcharge. Text us at 415-484-6493 with your address and dates for a firm quote."
+        "text": "Because the enclosure never moves, you pay only for a caretaker's time in your home: $95 buys a 30-minute check of temperature gradient, UVB, humidity, and feeding; $125 covers a 60-minute visit when the routine runs longer; and twice-daily care lands at $155–$215 per day for habitats that need a morning and an evening cycle. Most San Francisco visits carry no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15/visit. Text us at 415-484-6493 with your address and dates for a firm quote."
       }
     }
   ]
