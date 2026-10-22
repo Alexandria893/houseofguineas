@@ -1,7 +1,7 @@
 +++
 title = "PRN Exotic Pet Caretaker (Pet Sitter), As-Needed | San Francisco & Peninsula Jobs | House of Guineas"
 shortTitle = "PRN Exotic Pet Caretaker (As-Needed)"
-description = "PRN (as-needed) W-2 exotic pet sitter and caretaker job in San Francisco & the Peninsula. $30/hr, every 30-minute visit paid as a full hour, short-notice and holiday premiums, mileage reimbursed."
+description = "PRN (as-needed) W-2 exotic pet sitter and caretaker job in San Francisco & the Peninsula. $35/hr, every 30-minute visit paid as a full hour, short-notice and holiday premiums, mileage reimbursed."
 summary = "Flexible, as-needed coverage visits for small mammals, reptiles and birds when bookings grow or a teammate is out. Hands-on exotics experience required."
 og_image = "HappilyHoldingSnake.jpg"
 weight = 2
@@ -12,8 +12,8 @@ weight = 2
   datePosted = "2026-10-20"
   employmentType = "PER_DIEM"
   employmentLabel = "PRN (as-needed) · W-2"
-  payLabel = "$30/hr"
-  hourlyRate = 30
+  payLabel = "$35/hr"
+  hourlyRate = 35
   locationLabel = "San Francisco & the Peninsula"
   locations = ["San Francisco", "Daly City", "Pacifica", "South San Francisco", "San Bruno", "Millbrae", "Burlingame", "San Mateo"]
 
@@ -22,7 +22,7 @@ weight = 2
   a = "PRN means as-needed. As a PRN, you're the team's flexible coverage: visits are offered to you when bookings grow beyond our core caretakers' schedules or a teammate is out, and you confirm each coverage request with a same-day yes or no."
 [[params.faqs]]
   q = "What does this PRN pet sitter job pay?"
-  a = "$30/hr. Every 30-minute care visit is paid as a full 1-hour block to cover travel and charting. Visits offered with less than a week's notice and major holidays are each paid at time-and-a-half, and the two combine for double time. All work driving is reimbursed at the current IRS mileage rate, and there's a $50/month smartphone reimbursement in any month you work."
+  a = "$35/hr. Every 30-minute care visit is paid as a full 1-hour block to cover travel and charting. Visits offered with less than a week's notice and major holidays are each paid at time-and-a-half, and the two combine for double time. All work driving is reimbursed at the current IRS mileage rate, and there's a $50/month smartphone reimbursement in any month you work."
 [[params.faqs]]
   q = "Is this a W-2 job or an independent contractor gig?"
   a = "It's a PRN (as-needed) W-2 position with workers' compensation coverage."
@@ -55,7 +55,7 @@ We're hiring PRN (as-needed) exotic pet sitters for in-home care visits with sma
 <ul class="job-facts">
   <li><span>Location</span><span>Visits run throughout San Francisco and along the Peninsula. A reliable commute to our primary SF clients is required, and all work driving, including your commute to and from visits, is reimbursed at the current IRS mileage rate.</span></li>
   <li><span>Position Type</span><span>PRN (as-needed), W-2.</span></li>
-  <li><span>Pay</span><span><strong>$30/hr.</strong> Every 30-minute care visit is paid as a full 1-hour block to cover travel and charting. Visits offered with less than a week's notice and major holidays are each paid at time-and-a-half, and the two combine for double time.</span></li>
+  <li><span>Pay</span><span><strong>$35/hr.</strong> Every 30-minute care visit is paid as a full 1-hour block to cover travel and charting. Visits offered with less than a week's notice and major holidays are each paid at time-and-a-half, and the two combine for double time.</span></li>
   <li><span>Schedule</span><span>Visits run in three blocks, by arrival time: Morning (8–11am), Midday (12–3pm) and Evening (4–7pm). We're looking for PRNs available Midday and Evening, Monday through Friday, plus weekends. PRNs with more blocks and more days get priority.</span></li>
 </ul>
 
