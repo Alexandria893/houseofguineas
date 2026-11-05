@@ -1360,35 +1360,6 @@ html {
   font-size: 15px;
   line-height: 1.5;
 }
-.plan-card__prices {
-  list-style: none;
-  padding: 10px 0 0;
-  margin: auto 0 0;
-  border-top: 1px solid #eee;
-}
-.plan-card__prices li {
-  display: flex;
-  justify-content: space-between;
-  gap: 8px;
-  font-size: 14px;
-  padding: 4px 0;
-}
-.plan-card__prices li.plan-card__freq {
-  display: block;
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--color-text-light);
-  padding: 8px 0 2px;
-}
-.plan-card__prices li.plan-card__freq:first-child { padding-top: 0; }
-.plan-card__prices li span:first-child { color: var(--color-text); }
-.plan-card__prices li span:last-child {
-  font-weight: 700;
-  color: var(--color-accent);
-  text-align: right;
-}
 .plan-note {
   font-size: 14px;
   color: var(--color-text-light);
@@ -1435,19 +1406,41 @@ html {
   font-style: italic;
   color: var(--color-text-light) !important;
 }
-.plan-card__price-cols {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 16px;
-  margin-top: auto;
+.plan-card__table {
+  width: 100%;
+  margin: auto 0 0;
+  border-collapse: collapse;
+  border-top: 1px solid #eee;
+  font-size: 14px;
 }
-.plan-card__price-cols .plan-card__prices { margin-top: 0; }
+.plan-card__table th,
+.plan-card__table td { padding: 6px 0 6px 14px; text-align: right; }
+.plan-card__table thead th {
+  padding-top: 10px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-text-light);
+}
+.plan-card__table tbody th {
+  padding-left: 0;
+  text-align: left;
+  font-weight: 400;
+  color: var(--color-text);
+}
+.plan-card__table td {
+  width: 22%;
+  font-weight: 700;
+  color: var(--color-accent);
+}
+.plan-more {
+  text-align: center;
+  margin: 1.25rem 0 0;
+  font-size: 16px;
+}
 @media (max-width: 767px) {
   .plan-cards--two { grid-template-columns: 1fr; }
-}
-@media (max-width: 400px) {
-  .plan-card__price-cols { grid-template-columns: 1fr; gap: 0; }
-  .plan-card__price-cols .plan-card__prices + .plan-card__prices { border-top: none; padding-top: 8px; }
 }
 
 /* Plan card header: icon beside the plan name */

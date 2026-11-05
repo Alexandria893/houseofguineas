@@ -1,7 +1,7 @@
 +++
 title = "Routine Exotic Pet Care in SF, Peninsula & Marin | Cage Deep Cleans, Upkeep & Nail Trims"
 shortTitle = "Routine Care"
-description = "Routine in-home exotic pet care across San Francisco, the Peninsula & Marin — weekly or every-other-week Deep Cleans and Upkeep, plus every-other-week Nail Trims, for guinea pigs, rabbits, birds & reptiles, with a wellness check every visit. From $105/visit."
+description = "Routine in-home exotic pet care across San Francisco, the Peninsula & Marin — weekly, every-other-week or monthly Deep Cleans and Upkeep, plus every-other-week Nail Trims, for guinea pigs, rabbits, birds & reptiles, with a wellness check every visit. From $105/visit."
 og_image = "lionheadBunnyWithTreats.jpg"
 [params]
   serviceType = "Recurring Exotic Pet Care"
@@ -27,24 +27,35 @@ og_image = "lionheadBunnyWithTreats.jpg"
 <div class="plan-cards plan-cards--two">
   <div class="plan-card">
     <div class="plan-card__head"><span class="benefit-list__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/><path d="M20 3v4"/><path d="M22 5h-4"/><path d="M4 17v2"/><path d="M5 18H3"/></svg></span><div><h3>Cleaning</h3>
-    <p class="plan-card__tag">Weekly or every other week</p></div></div>
+    <p class="plan-card__tag">Weekly, every other week, or monthly</p></div></div>
     <div class="plan-card__options">
       <p><strong>Deep Clean</strong> — the full enclosure reset: scrubbed, disinfected, fresh bedding and liners.</p>
       <p><strong>Upkeep</strong> — fresh hay, water, and bedding, plus rotated toys and enrichment.</p>
     </div>
     <p class="plan-card__same">Same rates for either — pick one or mix them.</p>
-    <div class="plan-card__price-cols">
-      <ul class="plan-card__prices"><li class="plan-card__freq">Weekly</li><li><span>1 hour</span><span>$105</span></li><li><span>2 hours</span><span>$185</span></li></ul>
-      <ul class="plan-card__prices"><li class="plan-card__freq">Every other week</li><li><span>1 hour</span><span>$115</span></li><li><span>2 hours</span><span>$195</span></li></ul>
-    </div>
+    <table class="plan-card__table">
+      <thead><tr><th scope="col"><span class="sr-only">Frequency</span></th><th scope="col">1 hour</th><th scope="col">2 hours</th></tr></thead>
+      <tbody>
+        <tr><th scope="row">Weekly</th><td>$105</td><td>$185</td></tr>
+        <tr><th scope="row">Every other week</th><td>$115</td><td>$195</td></tr>
+        <tr><th scope="row">Monthly</th><td>$135</td><td>$215</td></tr>
+      </tbody>
+    </table>
   </div>
   <div class="plan-card">
     <div class="plan-card__head"><span class="benefit-list__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><path d="M8.12 8.12 12 12"/><path d="M20 4 8.12 15.88"/><circle cx="6" cy="18" r="3"/><path d="M14.8 14.8 20 20"/></svg></span><div><h3>Nail Trims</h3>
     <p class="plan-card__tag">Every other week</p></div></div>
     <p>Gentle, unhurried trims, a close look at feet and pads, and one-on-one handling time in the comfort of their home.</p>
-    <ul class="plan-card__prices"><li class="plan-card__freq">Every other week</li><li><span>1 hour</span><span>$115</span></li><li><span>2 hours</span><span>$195</span></li></ul>
+    <table class="plan-card__table">
+      <thead><tr><th scope="col"><span class="sr-only">Frequency</span></th><th scope="col">1 hour</th><th scope="col">2 hours</th></tr></thead>
+      <tbody>
+        <tr><th scope="row">Every other week</th><td>$115</td><td>$195</td></tr>
+      </tbody>
+    </table>
   </div>
 </div>
+
+<p class="plan-more">Need more frequent visits? <a href="/book/?care=routine">Contact us</a> and we'll build a care plan around your pet.</p>
 
 <p class="text-center" style="margin: 1.5rem 0 0.5rem;"><a href="/book/?care=routine" class="btn btn-lg btn-cta-primary">Start Your Routine Care Plan →</a></p>
 
@@ -85,7 +96,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
   "@type": "Service",
   "name": "Routine & Recurring Exotic Pet Care",
   "serviceType": "Recurring in-home exotic pet care",
-  "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — three standing plans in your pet's own home: Deep Cleans and Upkeep visits (weekly or every other week) and every-other-week Nail Trims, each with a health check from a veterinary-informed team.",
+  "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — three standing plans in your pet's own home: Deep Cleans and Upkeep visits (weekly, every other week, or monthly) and every-other-week Nail Trims, each with a health check from a veterinary-informed team.",
   "provider": {
     "@type": "LocalBusiness",
     "@id": "https://www.houseofguineas.com/#localbusiness"
@@ -102,6 +113,10 @@ og_image = "lionheadBunnyWithTreats.jpg"
       {"@type": "Offer", "name": "Upkeep \u2014 weekly, 2 hours", "price": "185.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Deep Clean \u2014 monthly, 1 hour", "price": "135.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Deep Clean \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Upkeep \u2014 monthly, 1 hour", "price": "135.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Upkeep \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"}
     ]
