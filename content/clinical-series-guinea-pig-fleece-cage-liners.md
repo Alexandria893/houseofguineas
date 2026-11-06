@@ -32,7 +32,7 @@ weight = 3
     text-align: left;
   }
   .spec-table th {
-    background-color: #f8f4ef;
+    background-color: #E5F0FA;
     font-weight: bold;
   }
   .comparison-table {
@@ -46,7 +46,7 @@ weight = 3
     text-align: center;
   }
   .comparison-table th {
-    background-color: #f8f4ef;
+    background-color: #E5F0FA;
     font-weight: bold;
   }
   .comparison-table td:first-child {
@@ -63,7 +63,7 @@ weight = 3
 
 <div class="text-center" style="margin: 1.5rem 0;">
   <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="btn btn-lg btn-cta-primary" target="_blank" rel="noopener noreferrer">Order Your Liners</a>
-  <p style="font-size: 13px; color: #6B5E52; margin-top: 6px;">Ships from our Etsy shop</p>
+  <p style="font-size: 13px; color: #4D636C; margin-top: 6px;">Ships from our Etsy shop</p>
 </div>
 
 <div class="text-center" style="margin: 1.5rem 0;">
@@ -338,5 +338,5 @@ That local, clinical background is the whole point. The fabric, the absorption c
     <a href="https://www.etsy.com/listing/4447649326/house-of-guineas-clinical-series-liners" class="btn btn-lg btn-cta-primary" target="_blank" rel="noopener noreferrer">Order Your Liners — $465 for Two</a>
     <a href="/small-mammal-resources" class="btn btn-lg btn-cta-outline">More Small Pet Resources</a>
   </p>
-  <p style="font-size: 13px; color: #6B5E52; margin-top: 6px;">Ships from our Etsy shop</p>
+  <p style="font-size: 13px; color: #4D636C; margin-top: 6px;">Ships from our Etsy shop</p>
 </div>

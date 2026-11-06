@@ -20,7 +20,7 @@ Full disclosure: I'm a guinea pig person at heart. But I genuinely love all thre
 <style>
 .pet-table { width:100%; border-collapse:collapse; margin:1rem 0; }
 .pet-table th,.pet-table td { padding:10px 14px; border:1px solid #ddd; text-align:center; }
-.pet-table th { background-color:#f8f4ef; font-weight:bold; }
+.pet-table th { background-color:#E5F0FA; font-weight:bold; }
 .pet-table td:first-child { text-align:left; font-weight:bold; }
 </style>
 

@@ -19,7 +19,7 @@ Standing weekly, every-other-week or monthly visits in your pet's own home — t
 
 **Three standing plans, from $105/visit.** Every visit comes with a gentle wellness check — a look at habitat temps and UVB and a trained eye for early signs of trouble — plus a photo update. Because exotics hide illness until it's serious, consistent expert eyes catch small things before they become big ones.
 
-<div style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #eee; border-radius: 8px; background: #fafaf8;">
+<div style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #DCE6EA; border-radius: 8px; background: #FBFAF6;">
   <p><strong>Deep Clean — weekly, every other week, or monthly</strong><br>The full enclosure reset: everything out, surfaces scrubbed and disinfected, bedding and liners swapped, hides and bowls washed.</p>
   <ul>
     <li>Weekly — $105/visit for 1 hour (~$450/month) · $185/visit for 2 hours (~$795/month)</li>
@@ -57,7 +57,7 @@ Every visit includes species-specific feeding, fresh water, medication administr
 
 And if your pet ever needs a vet while you're away — a scheduled checkup or a true emergency — we handle it, from spotting the early signs to safe transport and clear communication. [See how vet visits and emergency care work →](/exotic-pet-vet-visits-emergency-care/)
 
-<details style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #eee; border-radius: 8px; background: #fafaf8;">
+<details style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #DCE6EA; border-radius: 8px; background: #FBFAF6;">
   <summary style="font-weight: 600; cursor: pointer; font-size: 1.05em;">See all in-home rates</summary>
   <div style="padding-top: 1rem;">
     <p><strong>Twice-Daily Visits (2x/day)</strong></p>
