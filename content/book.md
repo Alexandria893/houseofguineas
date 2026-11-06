@@ -96,6 +96,7 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
         <option value="Routine: Cleaning (every other week)">Cleaning (Deep Clean or Upkeep), every other week — from $115/visit</option>
         <option value="Routine: Cleaning (monthly)">Cleaning (Deep Clean or Upkeep), monthly — from $135/visit</option>
         <option value="Routine: Nail Trims (every other week)">Nail Trims, every other week — from $115/visit</option>
+        <option value="Routine: Nail Trims (monthly)">Nail Trims, monthly — from $135/visit</option>
         <option value="Routine: not sure which plan">Routine care — help me pick a plan</option>
       </optgroup>
       <optgroup label="Care while you're away">

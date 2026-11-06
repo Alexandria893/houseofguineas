@@ -1,7 +1,7 @@
 +++
 title = "Routine Exotic Pet Care in SF, Peninsula & Marin | Cage Deep Cleans, Upkeep & Nail Trims"
 shortTitle = "Routine Care"
-description = "Routine in-home exotic pet care across San Francisco, the Peninsula & Marin — weekly, every-other-week or monthly Deep Cleans and Upkeep, plus every-other-week Nail Trims, for guinea pigs, rabbits, birds & reptiles, with a wellness check every visit. From $105/visit."
+description = "Routine in-home exotic pet care across San Francisco, the Peninsula & Marin — weekly, every-other-week or monthly Deep Cleans and Upkeep, plus every-other-week or monthly Nail Trims, for guinea pigs, rabbits, birds & reptiles, with a wellness check every visit. From $105/visit."
 og_image = "lionheadBunnyWithTreats.jpg"
 [params]
   serviceType = "Recurring Exotic Pet Care"
@@ -44,12 +44,13 @@ og_image = "lionheadBunnyWithTreats.jpg"
   </div>
   <div class="plan-card">
     <div class="plan-card__head"><span class="benefit-list__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><path d="M8.12 8.12 12 12"/><path d="M20 4 8.12 15.88"/><circle cx="6" cy="18" r="3"/><path d="M14.8 14.8 20 20"/></svg></span><div><h3>Nail Trims</h3>
-    <p class="plan-card__tag">Every other week</p></div></div>
+    <p class="plan-card__tag">Every other week or monthly</p></div></div>
     <p>Gentle, unhurried trims, a close look at feet and pads, and one-on-one handling time in the comfort of their home.</p>
     <table class="plan-card__table">
       <thead><tr><th scope="col"><span class="sr-only">Frequency</span></th><th scope="col">1 hour</th><th scope="col">2 hours</th></tr></thead>
       <tbody>
         <tr><th scope="row">Every other week</th><td>$115</td><td>$195</td></tr>
+        <tr><th scope="row">Monthly</th><td>$135</td><td>$215</td></tr>
       </tbody>
     </table>
   </div>
@@ -96,7 +97,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
   "@type": "Service",
   "name": "Routine & Recurring Exotic Pet Care",
   "serviceType": "Recurring in-home exotic pet care",
-  "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — three standing plans in your pet's own home: Deep Cleans and Upkeep visits (weekly, every other week, or monthly) and every-other-week Nail Trims, each with a health check from a veterinary-informed team.",
+  "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — three standing plans in your pet's own home: Deep Cleans and Upkeep visits (weekly, every other week, or monthly) and Nail Trims (every other week or monthly), each with a health check from a veterinary-informed team.",
   "provider": {
     "@type": "LocalBusiness",
     "@id": "https://www.houseofguineas.com/#localbusiness"
@@ -118,7 +119,9 @@ og_image = "lionheadBunnyWithTreats.jpg"
       {"@type": "Offer", "name": "Upkeep \u2014 monthly, 1 hour", "price": "135.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"}
+      {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Nail Trims \u2014 monthly, 1 hour", "price": "135.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Nail Trims \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"}
     ]
   },
   "areaServed": [

@@ -32,10 +32,10 @@ Standing weekly, every-other-week or monthly visits in your pet's own home — t
     <li>Every other week — $115/visit for 1 hour (~$245/month) · $195/visit for 2 hours (~$420/month)</li>
     <li>Monthly — $135/visit for 1 hour · $215/visit for 2 hours</li>
   </ul>
-  <p style="margin-top: 1rem;"><strong>Nail Trims — every other week</strong><br>Gentle, unhurried trims, a close look at feet and pads, and one-on-one handling time in the comfort of their home.</p>
+  <p style="margin-top: 1rem;"><strong>Nail Trims — every other week or monthly</strong><br>Gentle, unhurried trims, a close look at feet and pads, and one-on-one handling time in the comfort of their home.</p>
   <ul>
-    <li>1 hour — $115/visit (~$245/month)</li>
-    <li>2 hours — $195/visit (~$420/month)</li>
+    <li>Every other week — $115/visit for 1 hour (~$245/month) · $195/visit for 2 hours (~$420/month)</li>
+    <li>Monthly — $135/visit for 1 hour · $215/visit for 2 hours</li>
   </ul>
 </div>
 
