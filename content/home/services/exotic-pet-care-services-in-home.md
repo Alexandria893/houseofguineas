@@ -64,7 +64,7 @@ In-home exotic pet sitting across all of San Francisco — Inner & Outer Sunset,
 
 *Leaving town with a reptile at home? Read our guide on [how to prepare your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting). Wondering about rates? See [how much exotic pet sitting costs in SF & the Peninsula](/post/exotic-pet-sitting-cost-san-francisco/). Own guinea pigs? Learn why [fleece liners are better than disposable bedding](/post/guinea-pig-fleece-liners-vs-disposable-bedding).*
 
-<div style="margin: 1.5rem 0; padding: 1.1rem 1.3rem; background: #F3EDE5; border-radius: 8px;">
+<div style="margin: 1.5rem 0; padding: 1.1rem 1.3rem; background: #E5F1E8; border-radius: 8px;">
   <p style="margin:0;"><strong>Home but busy?</strong> See <a href="/routine-recurring-exotic-pet-care/">Routine In-Home Care</a> for standing weekly upkeep instead.</p>
 </div>
 

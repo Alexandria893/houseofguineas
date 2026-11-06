@@ -85,7 +85,7 @@ Let's do the math over 2 years for a standard 2x4 C&C cage:
     text-align: center;
   }
   .cost-table th {
-    background-color: #f8f4ef;
+    background-color: #E5F0FA;
     font-weight: bold;
   }
   .cost-table td:first-child {
@@ -93,7 +93,7 @@ Let's do the math over 2 years for a standard 2x4 C&C cage:
     font-weight: bold;
   }
   .cost-table tr.highlight-row td {
-    background-color: #f0f7f1;
+    background-color: #E5F1E8;
   }
 </style>
 

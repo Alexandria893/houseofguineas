@@ -21,14 +21,14 @@ Discover House of Guinea's patent pending Clinical Series fleece cage liners —
     display: inline-block;
     padding: 12px 32px;
     margin-top: 15px;
-    background-color: var(--color-accent, #C4704B) !important;
+    background-color: var(--color-accent, #356A70) !important;
     color: #fff !important;
     text-decoration: none !important;
     border-radius: var(--radius-sm, 8px);
     font-weight: bold;
   }
   a.resource-link-button:hover {
-    background-color: var(--color-accent-dark, #A85C3B) !important;
+    background-color: var(--color-accent-dark, #27545A) !important;
     color: #fff !important;
   }
 </style>

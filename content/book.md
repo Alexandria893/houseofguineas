@@ -49,12 +49,12 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
   .booking-form .check-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem 1rem; }
   .booking-form .check-grid label { font-weight: 400; display: flex; align-items: center; gap: 0.5rem; margin: 0; }
   .booking-form .hp { position: absolute; left: -5000px; }
-  .booking-form .required { color: #C4704B; }
-  .booking-form .form-note { font-size: 0.9rem; color: #666; margin-top: 0.35rem; }
+  .booking-form .required { color: #356A70; }
+  .booking-form .form-note { font-size: 0.9rem; color: #4D636C; margin-top: 0.35rem; }
   .booking-form .start-options { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 0.25rem; }
-  .booking-form .start-options label { font-weight: 600; display: flex; align-items: center; gap: 0.45rem; margin: 0; padding: 0.55rem 1rem; border: 2px solid #C4704B; border-radius: 999px; color: #C4704B; cursor: pointer; }
-  .booking-form .start-options input { accent-color: #C4704B; }
-  .booking-form .start-options label:has(input:checked) { background: #C4704B; color: #fff; }
+  .booking-form .start-options label { font-weight: 600; display: flex; align-items: center; gap: 0.45rem; margin: 0; padding: 0.55rem 1rem; border: 2px solid #356A70; border-radius: 999px; color: #356A70; cursor: pointer; }
+  .booking-form .start-options input { accent-color: #356A70; }
+  .booking-form .start-options label:has(input:checked) { background: #356A70; color: #fff; }
   .booking-form .start-options label:has(input:checked) input { accent-color: #fff; }
   @media (max-width: 480px) { .booking-form .check-grid { grid-template-columns: 1fr; } }
 </style>
