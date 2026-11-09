@@ -16,7 +16,7 @@ and more bookings from **reptile** and **small-mammal** owners.
   - Deep Clean or Upkeep, weekly: **$105/visit (1 hr, ~$450/month)** · **$185/visit (2 hr, ~$795/month)**
   - Deep Clean or Upkeep, every other week: **$115/visit (1 hr, ~$245/month)** · **$195/visit (2 hr, ~$420/month)**
   - Deep Clean or Upkeep, monthly: **$135/visit (1 hr)** · **$215/visit (2 hr)**
-  - Add nail trims to Deep Clean or Upkeep (flat rate every visit): weekly **$125/week** (trims once a month) · every other week **$195/2 weeks** · monthly **$215/month** (2-hour visits, trims each time)
+  - Add nail trims to Deep Clean or Upkeep (flat rate every visit): weekly **$125/visit** (trims once a month) · every other week **$195/visit** · monthly **$215/visit** (2-hour visits, trims each time)
   - Need more frequent visits? Contact us and we'll build a care plan around your pet.
   - Nail Trims, every other week: **$115/visit (1 hr, ~$245/month)** · **$195/visit (2 hr, ~$420/month)**
   - Nail Trims, monthly: **$135/visit (1 hr)** · **$215/visit (2 hr)**

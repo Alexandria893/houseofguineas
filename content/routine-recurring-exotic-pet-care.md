@@ -1,7 +1,7 @@
 +++
 title = "Routine Exotic Pet Care in SF, Peninsula & Marin | Cage Deep Cleans, Upkeep & Nail Trims"
 shortTitle = "Routine Care"
-description = "Routine in-home exotic pet care across San Francisco, the Peninsula & Marin — weekly, every-other-week or monthly Deep Cleans and Upkeep, plus every-other-week or monthly Nail Trims, for guinea pigs, rabbits, birds & reptiles, with a wellness check every visit. From $105/week."
+description = "Routine in-home exotic pet care across San Francisco, the Peninsula & Marin — weekly, every-other-week or monthly Deep Cleans and Upkeep, plus every-other-week or monthly Nail Trims, for guinea pigs, rabbits, birds & reptiles, with a wellness check every visit. From $105/visit."
 og_image = "lionheadBunnyWithTreats.jpg"
 [params]
   serviceType = "Recurring Exotic Pet Care"
@@ -34,33 +34,23 @@ og_image = "lionheadBunnyWithTreats.jpg"
     </div>
     <p class="plan-card__same">Same rates for either — pick one or mix them.</p>
     <table class="plan-card__table">
-      <thead><tr><th scope="col"><span class="sr-only">Frequency</span></th><th scope="col">1 hour</th><th scope="col">2 hours</th></tr></thead>
+      <thead><tr><th scope="col"><span class="sr-only">Frequency</span></th><th scope="col">1-hour visit</th><th scope="col">2-hour visit</th></tr></thead>
       <tbody>
-        <tr><th scope="row">Weekly</th><td>$105<span class="plan-card__per">/week</span></td><td>$185<span class="plan-card__per">/week</span></td></tr>
-        <tr><th scope="row">Every other week</th><td>$115<span class="plan-card__per">/2 weeks</span></td><td>$195<span class="plan-card__per">/2 weeks</span></td></tr>
-        <tr><th scope="row">Monthly</th><td>$135<span class="plan-card__per">/month</span></td><td>$215<span class="plan-card__per">/month</span></td></tr>
+        <tr><th scope="row">Weekly</th><td>$105<span class="plan-card__per">/visit</span></td><td>$185<span class="plan-card__per">/visit</span></td></tr>
+        <tr><th scope="row">Every other week</th><td>$115<span class="plan-card__per">/visit</span></td><td>$195<span class="plan-card__per">/visit</span></td></tr>
+        <tr><th scope="row">Monthly</th><td>$135<span class="plan-card__per">/visit</span></td><td>$215<span class="plan-card__per">/visit</span></td></tr>
       </tbody>
     </table>
-    <div class="plan-card__addon">
-      <p class="plan-card__addon-title">Add nail trims</p>
-      <table class="plan-card__table plan-card__table--addon">
-        <tbody>
-          <tr><th scope="row">Weekly <span class="plan-card__addon-detail">trims once a month</span></th><td>$125<span class="plan-card__per">/week</span></td></tr>
-          <tr><th scope="row">Every other week <span class="plan-card__addon-detail">2-hour visits</span></th><td>$195<span class="plan-card__per">/2 weeks</span></td></tr>
-          <tr><th scope="row">Monthly <span class="plan-card__addon-detail">2-hour visits</span></th><td>$215<span class="plan-card__per">/month</span></td></tr>
-        </tbody>
-      </table>
-    </div>
   </div>
   <div class="plan-card">
     <div class="plan-card__head"><span class="benefit-list__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><path d="M8.12 8.12 12 12"/><path d="M20 4 8.12 15.88"/><circle cx="6" cy="18" r="3"/><path d="M14.8 14.8 20 20"/></svg></span><div><h3>Nail Trims</h3>
     <p class="plan-card__tag">Every other week or monthly</p></div></div>
     <p>Gentle, unhurried trims, a close look at feet and pads, and one-on-one handling time in the comfort of their home.</p>
     <table class="plan-card__table">
-      <thead><tr><th scope="col"><span class="sr-only">Frequency</span></th><th scope="col">1 hour</th><th scope="col">2 hours</th></tr></thead>
+      <thead><tr><th scope="col"><span class="sr-only">Frequency</span></th><th scope="col">1-hour visit</th><th scope="col">2-hour visit</th></tr></thead>
       <tbody>
-        <tr><th scope="row">Every other week</th><td>$115<span class="plan-card__per">/2 weeks</span></td><td>$195<span class="plan-card__per">/2 weeks</span></td></tr>
-        <tr><th scope="row">Monthly</th><td>$135<span class="plan-card__per">/month</span></td><td>$215<span class="plan-card__per">/month</span></td></tr>
+        <tr><th scope="row">Every other week</th><td>$115<span class="plan-card__per">/visit</span></td><td>$195<span class="plan-card__per">/visit</span></td></tr>
+        <tr><th scope="row">Monthly</th><td>$135<span class="plan-card__per">/visit</span></td><td>$215<span class="plan-card__per">/visit</span></td></tr>
       </tbody>
     </table>
   </div>
@@ -98,7 +88,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
 
 <details class="faq-details">
   <summary class="faq-summary">Can I add nail trims to a cleaning plan?</summary>
-  <div class="faq-answer"><p>Yes! Weekly cleaning with nail trims is $125/week, with trims once a month. Every-other-week and monthly cleaning become 2-hour visits with trims each time, at $195/2 weeks or $215/month. Your rate stays the same every visit.</p></div>
+  <div class="faq-answer"><p>Yes! Weekly cleaning with nail trims is $125/visit, with trims once a month. Every-other-week and monthly cleaning become 2-hour visits with trims each time, at $195/visit every other week or $215/visit monthly. Your rate stays the same every visit.</p></div>
 </details>
 
 <details class="faq-details">
@@ -196,7 +186,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
       "name": "Can I add nail trims to a cleaning plan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes! Weekly cleaning with nail trims is $125/week, with trims once a month. Every-other-week and monthly cleaning become 2-hour visits with trims each time, at $195/2 weeks or $215/month. Your rate stays the same every visit."
+        "text": "Yes! Weekly cleaning with nail trims is $125/visit, with trims once a month. Every-other-week and monthly cleaning become 2-hour visits with trims each time, at $195/visit every other week or $215/visit monthly. Your rate stays the same every visit."
       }
     },
     {
