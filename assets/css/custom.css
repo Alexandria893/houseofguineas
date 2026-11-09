@@ -1453,8 +1453,35 @@ html {
 }
 .plan-card__table td {
   width: 22%;
+  white-space: nowrap;
   font-weight: 700;
   color: var(--color-accent);
+}
+.plan-card__per {
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--color-text-light);
+}
+/* Nail-trim add-on under the Cleaning prices */
+.plan-card__addon {
+  margin-top: 14px;
+  padding: 10px 12px 4px;
+  background: var(--color-pink);
+  border-radius: 8px;
+}
+.plan-card .plan-card__addon-title {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-text);
+}
+.plan-card__table--addon { border-top: 0; }
+.plan-card__addon-detail {
+  display: block;
+  font-size: 12px;
+  color: var(--color-text-light);
 }
 .plan-more {
   text-align: center;

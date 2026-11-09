@@ -1,7 +1,7 @@
 +++
 title = "Routine Exotic Pet Care in SF, Peninsula & Marin | Cage Deep Cleans, Upkeep & Nail Trims"
 shortTitle = "Routine Care"
-description = "Routine in-home exotic pet care across San Francisco, the Peninsula & Marin — weekly, every-other-week or monthly Deep Cleans and Upkeep, plus every-other-week or monthly Nail Trims, for guinea pigs, rabbits, birds & reptiles, with a wellness check every visit. From $105/visit."
+description = "Routine in-home exotic pet care across San Francisco, the Peninsula & Marin — weekly, every-other-week or monthly Deep Cleans and Upkeep, plus every-other-week or monthly Nail Trims, for guinea pigs, rabbits, birds & reptiles, with a wellness check every visit. From $105/week."
 og_image = "lionheadBunnyWithTreats.jpg"
 [params]
   serviceType = "Recurring Exotic Pet Care"
@@ -36,11 +36,21 @@ og_image = "lionheadBunnyWithTreats.jpg"
     <table class="plan-card__table">
       <thead><tr><th scope="col"><span class="sr-only">Frequency</span></th><th scope="col">1 hour</th><th scope="col">2 hours</th></tr></thead>
       <tbody>
-        <tr><th scope="row">Weekly</th><td>$105</td><td>$185</td></tr>
-        <tr><th scope="row">Every other week</th><td>$115</td><td>$195</td></tr>
-        <tr><th scope="row">Monthly</th><td>$135</td><td>$215</td></tr>
+        <tr><th scope="row">Weekly</th><td>$105<span class="plan-card__per">/week</span></td><td>$185<span class="plan-card__per">/week</span></td></tr>
+        <tr><th scope="row">Every other week</th><td>$115<span class="plan-card__per">/2 weeks</span></td><td>$195<span class="plan-card__per">/2 weeks</span></td></tr>
+        <tr><th scope="row">Monthly</th><td>$135<span class="plan-card__per">/month</span></td><td>$215<span class="plan-card__per">/month</span></td></tr>
       </tbody>
     </table>
+    <div class="plan-card__addon">
+      <p class="plan-card__addon-title">Add nail trims</p>
+      <table class="plan-card__table plan-card__table--addon">
+        <tbody>
+          <tr><th scope="row">Weekly <span class="plan-card__addon-detail">trims once a month</span></th><td>$125<span class="plan-card__per">/week</span></td></tr>
+          <tr><th scope="row">Every other week <span class="plan-card__addon-detail">2-hour visits</span></th><td>$195<span class="plan-card__per">/2 weeks</span></td></tr>
+          <tr><th scope="row">Monthly <span class="plan-card__addon-detail">2-hour visits</span></th><td>$215<span class="plan-card__per">/month</span></td></tr>
+        </tbody>
+      </table>
+    </div>
   </div>
   <div class="plan-card">
     <div class="plan-card__head"><span class="benefit-list__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><path d="M8.12 8.12 12 12"/><path d="M20 4 8.12 15.88"/><circle cx="6" cy="18" r="3"/><path d="M14.8 14.8 20 20"/></svg></span><div><h3>Nail Trims</h3>
@@ -49,8 +59,8 @@ og_image = "lionheadBunnyWithTreats.jpg"
     <table class="plan-card__table">
       <thead><tr><th scope="col"><span class="sr-only">Frequency</span></th><th scope="col">1 hour</th><th scope="col">2 hours</th></tr></thead>
       <tbody>
-        <tr><th scope="row">Every other week</th><td>$115</td><td>$195</td></tr>
-        <tr><th scope="row">Monthly</th><td>$135</td><td>$215</td></tr>
+        <tr><th scope="row">Every other week</th><td>$115<span class="plan-card__per">/2 weeks</span></td><td>$195<span class="plan-card__per">/2 weeks</span></td></tr>
+        <tr><th scope="row">Monthly</th><td>$135<span class="plan-card__per">/month</span></td><td>$215<span class="plan-card__per">/month</span></td></tr>
       </tbody>
     </table>
   </div>
@@ -84,6 +94,11 @@ og_image = "lionheadBunnyWithTreats.jpg"
 <details class="faq-details">
   <summary class="faq-summary">Which plan is right for my pet?</summary>
   <div class="faq-answer"><p>Upkeep keeps things fresh between cleans; Deep Clean is the full reset; Nail Trims keep feet healthy. You can also mix plans, like weekly Upkeep plus an every-other-week Deep Clean — we'll recommend one at your meet-and-greet.</p></div>
+</details>
+
+<details class="faq-details">
+  <summary class="faq-summary">Can I add nail trims to a cleaning plan?</summary>
+  <div class="faq-answer"><p>Yes! Weekly cleaning with nail trims is $125/week, with trims once a month. Every-other-week and monthly cleaning become 2-hour visits with trims each time, at $195/2 weeks or $215/month. Your rate stays the same every visit.</p></div>
 </details>
 
 <details class="faq-details">
@@ -121,7 +136,10 @@ og_image = "lionheadBunnyWithTreats.jpg"
       {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Nail Trims \u2014 monthly, 1 hour", "price": "135.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Nail Trims \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"}
+      {"@type": "Offer", "name": "Nail Trims \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Cleaning + Nail Trims \u2014 weekly, trims once a month", "price": "125.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Cleaning + Nail Trims \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Cleaning + Nail Trims \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"}
     ]
   },
   "areaServed": [
@@ -171,6 +189,14 @@ og_image = "lionheadBunnyWithTreats.jpg"
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Upkeep keeps things fresh between cleans; Deep Clean is the full reset; Nail Trims keep feet healthy. You can also mix plans, like weekly Upkeep plus an every-other-week Deep Clean \u2014 we'll recommend one at your meet-and-greet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I add nail trims to a cleaning plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! Weekly cleaning with nail trims is $125/week, with trims once a month. Every-other-week and monthly cleaning become 2-hour visits with trims each time, at $195/2 weeks or $215/month. Your rate stays the same every visit."
       }
     },
     {
