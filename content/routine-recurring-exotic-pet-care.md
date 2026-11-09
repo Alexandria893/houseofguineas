@@ -54,17 +54,6 @@ og_image = "lionheadBunnyWithTreats.jpg"
       </tbody>
     </table>
   </div>
-  <div class="plan-addon">
-    <div class="plan-addon__intro">
-      <p class="plan-addon__title">Add nail trims to Cleaning</p>
-      <p class="plan-addon__note">One flat rate, the same every visit.</p>
-    </div>
-    <ul class="plan-addon__prices">
-      <li><span class="plan-addon__freq">Weekly</span><span class="plan-addon__price">$125<span class="plan-card__per">/visit</span></span><span class="plan-addon__detail">trims once a month</span></li>
-      <li><span class="plan-addon__freq">Every other week</span><span class="plan-addon__price">$195<span class="plan-card__per">/visit</span></span><span class="plan-addon__detail">2-hour visits</span></li>
-      <li><span class="plan-addon__freq">Monthly</span><span class="plan-addon__price">$215<span class="plan-card__per">/visit</span></span><span class="plan-addon__detail">2-hour visits</span></li>
-    </ul>
-  </div>
 </div>
 
 <p class="plan-more">Need more frequent visits? <a href="/book/?care=routine">Contact us</a> and we'll build a care plan around your pet.</p>
