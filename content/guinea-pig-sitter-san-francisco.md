@@ -98,7 +98,7 @@ These are in-city San Francisco visits: most of the city carries **no travel sur
 <details class="faq-details">
   <summary class="faq-summary">Do you offer small-mammal boarding?</summary>
   <div class="faq-answer">
-    <p>We do, in a limited way — a few spots at a time, hosted personally by members of our team in their San Francisco homes at $125 per night — but we reserve those spots for pet parents outside San Francisco. For city families, in-home visits are the better fit: no travel surcharge across most of SF, far more availability, and your pigs keep their own cage, their own corner, their own routine.</p>
+    <p>We do, in a limited way — a few spots at a time, hosted personally by our founder, Alexandria, at home in San Francisco for $125 per night — but we reserve those spots for pet parents outside San Francisco. For city families, in-home visits are the better fit: no travel surcharge across most of SF, far more availability, and your pigs keep their own cage, their own corner, their own routine.</p>
   </div>
 </details>
 
@@ -147,7 +147,7 @@ Ready to line up care for your small mammals? [Call or text us at 415-484-6493](
       "name": "Do you offer small-mammal boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do, in a limited way — a few spots at a time, hosted personally by members of our team in their San Francisco homes at $125 per night — but we reserve those spots for pet parents outside San Francisco. For city families, in-home visits are the better fit: no travel surcharge across most of SF, far more availability, and your pigs keep their own cage, their own corner, their own routine."
+        "text": "We do, in a limited way — a few spots at a time, hosted personally by our founder, Alexandria, at home in San Francisco for $125 per night — but we reserve those spots for pet parents outside San Francisco. For city families, in-home visits are the better fit: no travel surcharge across most of SF, far more availability, and your pigs keep their own cage, their own corner, their own routine."
       }
     },
     {

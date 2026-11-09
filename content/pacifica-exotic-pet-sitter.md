@@ -97,7 +97,7 @@ Because Pacifica sits just down the coast from San Francisco on Highway 1, it is
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Pacifica?</summary>
   <div class="faq-answer">
-    <p>We do — a small number of spots, hosted personally by members of our team in their San Francisco homes, at $125 per night. And because we reserve those spots for pet parents outside San Francisco, Pacifica families get priority. Just bring the usual enclosure and supplies along for the drive up Highway 1. Full details are on the boarding page.</p>
+    <p>We do — a small number of spots, hosted personally by our founder, Alexandria, at home in San Francisco, at $125 per night. And because we reserve those spots for pet parents outside San Francisco, Pacifica families get priority. Just bring the usual enclosure and supplies along for the drive up Highway 1. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -110,7 +110,7 @@ Because Pacifica sits just down the coast from San Francisco on Highway 1, it is
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) hosted personally by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in Pacifica will want our [guinea pig care guide](/post/guinea-pig-care-guide).
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) hosted personally by our founder, Alexandria, at home in San Francisco, or browse the full [FAQ page](/home/services/faqs). Still getting set up with a vet? Our [San Francisco Bay Area exotic veterinarians](/san-francisco-bay-area-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in Pacifica will want our [guinea pig care guide](/post/guinea-pig-care-guide).
 
 <script type="application/ld+json">
 {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in Pacifica?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do — a small number of spots, hosted personally by members of our team in their San Francisco homes, at $125 per night. And because we reserve those spots for pet parents outside San Francisco, Pacifica families get priority. Just bring the usual enclosure and supplies along for the drive up Highway 1. Full details are on the boarding page."
+        "text": "We do — a small number of spots, hosted personally by our founder, Alexandria, at home in San Francisco, at $125 per night. And because we reserve those spots for pet parents outside San Francisco, Pacifica families get priority. Just bring the usual enclosure and supplies along for the drive up Highway 1. Full details are on the boarding page."
       }
     },
     {
