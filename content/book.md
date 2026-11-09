@@ -94,11 +94,11 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
     <select id="service" name="service" required>
       <option value="" disabled selected>Choose one…</option>
       <optgroup label="Routine care — standing visits">
-        <option value="Routine: Cleaning (weekly)">Cleaning (Deep Clean or Upkeep), weekly — from $105/week</option>
-        <option value="Routine: Cleaning (every other week)">Cleaning (Deep Clean or Upkeep), every other week — from $115/2 weeks</option>
-        <option value="Routine: Cleaning (monthly)">Cleaning (Deep Clean or Upkeep), monthly — from $135/month</option>
-        <option value="Routine: Nail Trims (every other week)">Nail Trims, every other week — from $115/2 weeks</option>
-        <option value="Routine: Nail Trims (monthly)">Nail Trims, monthly — from $135/month</option>
+        <option value="Routine: Cleaning (weekly)">Cleaning (Deep Clean or Upkeep), weekly — from $105/visit</option>
+        <option value="Routine: Cleaning (every other week)">Cleaning (Deep Clean or Upkeep), every other week — from $115/visit</option>
+        <option value="Routine: Cleaning (monthly)">Cleaning (Deep Clean or Upkeep), monthly — from $135/visit</option>
+        <option value="Routine: Nail Trims (every other week)">Nail Trims, every other week — from $115/visit</option>
+        <option value="Routine: Nail Trims (monthly)">Nail Trims, monthly — from $135/visit</option>
         <option value="Routine: not sure which plan">Routine care — help me pick a plan</option>
       </optgroup>
       <optgroup label="Care while you're away">
@@ -107,7 +107,7 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
       </optgroup>
       <option value="Not sure yet">Not sure yet — help me decide</option>
     </select>
-    <p class="form-note" id="routine-note" style="display:none;">Visits start at <strong>$105/week</strong>, <strong>$115/2 weeks</strong>, or <strong>$135/month</strong> — tell us below if you'd like a Deep Clean, Upkeep, or a mix, and we'll fine-tune it at your free meet-and-greet.</p>
+    <p class="form-note" id="routine-note" style="display:none;">Per-visit rates start at <strong>$105</strong> weekly, <strong>$115</strong> every other week, or <strong>$135</strong> monthly — tell us below if you'd like a Deep Clean, Upkeep, or a mix, and we'll fine-tune it at your free meet-and-greet.</p>
     <p class="form-note" id="travel-note" style="display:none;">While you're away, we come to your pet's own home: <strong>$95</strong> for a 30-minute visit, <strong>$125</strong> for a full hour, or twice-daily care at <strong>$155–$215/day</strong> depending on visit lengths. Most of San Francisco has no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15 per visit, and the Peninsula adds $15–$25 per visit depending on distance. We confirm your exact rate when you text us your address. See the <a href="/home/services/exotic-pet-care-services-in-home/">in-home care page</a> for the full rate card.</p>
     <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding is <strong>$125/night</strong>, spots are limited, and we <strong>reserve them for pet parents outside San Francisco</strong> — Peninsula and Marin families, where in-home visits add a travel surcharge, get priority, and the farther you are the more welcome you are to ask. If you live in San Francisco, in-home care is the better fit: no travel surcharge across most of the city, far more availability, and your little ones stay in the home they know. Please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability.</p>
   </div>
@@ -143,11 +143,11 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
     <p class="form-note">The same team that already knows your little ones. Your plan starts once you're home, and we'll set it up at your meet-and-greet.</p>
     <select id="routine_addon" name="routine_addon">
       <option value="" disabled selected>Choose a plan…</option>
-      <option value="Cleaning (weekly)">Cleaning (Deep Clean or Upkeep), weekly — from $105/week</option>
-      <option value="Cleaning (every other week)">Cleaning (Deep Clean or Upkeep), every other week — from $115/2 weeks</option>
-      <option value="Cleaning (monthly)">Cleaning (Deep Clean or Upkeep), monthly — from $135/month</option>
-      <option value="Nail Trims (every other week)">Nail Trims, every other week — from $115/2 weeks</option>
-      <option value="Nail Trims (monthly)">Nail Trims, monthly — from $135/month</option>
+      <option value="Cleaning (weekly)">Cleaning (Deep Clean or Upkeep), weekly — from $105/visit</option>
+      <option value="Cleaning (every other week)">Cleaning (Deep Clean or Upkeep), every other week — from $115/visit</option>
+      <option value="Cleaning (monthly)">Cleaning (Deep Clean or Upkeep), monthly — from $135/visit</option>
+      <option value="Nail Trims (every other week)">Nail Trims, every other week — from $115/visit</option>
+      <option value="Nail Trims (monthly)">Nail Trims, monthly — from $135/visit</option>
       <option value="Not sure which plan">Help me pick a plan at the meet-and-greet</option>
     </select>
   </div>
@@ -174,9 +174,9 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
       var trimsPrice = document.getElementById('trims-price');
       // Cleaning + nail trims is one flat rate per visit, so every charge is the same.
       var withTrims = {
-        'weekly': '$125/week, with trims once a month',
-        'every other week': '$195/2 weeks, as 2-hour visits with trims each time',
-        'monthly': '$215/month, as 2-hour visits with trims each time'
+        'weekly': '$125/visit, with trims once a month',
+        'every other week': '$195/visit, as 2-hour visits with trims each time',
+        'monthly': '$215/visit, as 2-hour visits with trims each time'
       };
 
       // Holiday wording from November 1 to mid-January.
