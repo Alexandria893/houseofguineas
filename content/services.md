@@ -17,25 +17,26 @@ Routine care is the heart of what we do — Deep Cleans, Upkeep, and Nail Trims 
 
 Standing weekly, every-other-week or monthly visits in your pet's own home — the upkeep handled, so your time together is play and cuddles, not chores.
 
-**Three standing plans, from $105/visit.** Every visit comes with a gentle wellness check — a look at habitat temps and UVB and a trained eye for early signs of trouble — plus a photo update. Because exotics hide illness until it's serious, consistent expert eyes catch small things before they become big ones.
+**Three standing plans, from $105/week.** Every visit comes with a gentle wellness check — a look at habitat temps and UVB and a trained eye for early signs of trouble — plus a photo update. Because exotics hide illness until it's serious, consistent expert eyes catch small things before they become big ones.
 
 <div style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #DCE6EA; border-radius: 8px; background: #FBFAF6;">
   <p><strong>Deep Clean — weekly, every other week, or monthly</strong><br>The full enclosure reset: everything out, surfaces scrubbed and disinfected, bedding and liners swapped, hides and bowls washed.</p>
   <ul>
-    <li>Weekly — $105/visit for 1 hour (~$450/month) · $185/visit for 2 hours (~$795/month)</li>
-    <li>Every other week — $115/visit for 1 hour (~$245/month) · $195/visit for 2 hours (~$420/month)</li>
-    <li>Monthly — $135/visit for 1 hour · $215/visit for 2 hours</li>
+    <li>Weekly — 1 hour $105/week · 2 hours $185/week</li>
+    <li>Every other week — 1 hour $115/2 weeks · 2 hours $195/2 weeks</li>
+    <li>Monthly — 1 hour $135/month · 2 hours $215/month</li>
   </ul>
   <p style="margin-top: 1rem;"><strong>Upkeep — weekly, every other week, or monthly</strong><br>Spot-cleaning, liners and litter refreshed, hay restocked, chop prepped, fresh water, and enrichment rotated.</p>
   <ul>
-    <li>Weekly — $105/visit for 1 hour (~$450/month) · $185/visit for 2 hours (~$795/month)</li>
-    <li>Every other week — $115/visit for 1 hour (~$245/month) · $195/visit for 2 hours (~$420/month)</li>
-    <li>Monthly — $135/visit for 1 hour · $215/visit for 2 hours</li>
+    <li>Weekly — 1 hour $105/week · 2 hours $185/week</li>
+    <li>Every other week — 1 hour $115/2 weeks · 2 hours $195/2 weeks</li>
+    <li>Monthly — 1 hour $135/month · 2 hours $215/month</li>
   </ul>
+  <p style="margin-top: 1rem;"><strong>Add nail trims to Deep Clean or Upkeep</strong><br>Weekly $125/week, with trims once a month · every other week $195/2 weeks or monthly $215/month, as 2-hour visits with trims each time.</p>
   <p style="margin-top: 1rem;"><strong>Nail Trims — every other week or monthly</strong><br>Gentle, unhurried trims, a close look at feet and pads, and one-on-one handling time in the comfort of their home.</p>
   <ul>
-    <li>Every other week — $115/visit for 1 hour (~$245/month) · $195/visit for 2 hours (~$420/month)</li>
-    <li>Monthly — $135/visit for 1 hour · $215/visit for 2 hours</li>
+    <li>Every other week — 1 hour $115/2 weeks · 2 hours $195/2 weeks</li>
+    <li>Monthly — 1 hour $135/month · 2 hours $215/month</li>
   </ul>
 </div>
 

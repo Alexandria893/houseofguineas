@@ -56,6 +56,8 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
   .booking-form .start-options input { accent-color: #356A70; }
   .booking-form .start-options label:has(input:checked) { background: #356A70; color: #fff; }
   .booking-form .start-options label:has(input:checked) input { accent-color: #fff; }
+  .booking-form .addon-card { background: #F9E6ED; border-radius: 10px; padding: 1rem 1.1rem; }
+  .booking-form .addon-card select { background: #fff; }
   @media (max-width: 480px) { .booking-form .check-grid { grid-template-columns: 1fr; } }
 </style>
 
@@ -92,11 +94,11 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
     <select id="service" name="service" required>
       <option value="" disabled selected>Choose one…</option>
       <optgroup label="Routine care — standing visits">
-        <option value="Routine: Cleaning (weekly)">Cleaning (Deep Clean or Upkeep), weekly — from $105/visit</option>
-        <option value="Routine: Cleaning (every other week)">Cleaning (Deep Clean or Upkeep), every other week — from $115/visit</option>
-        <option value="Routine: Cleaning (monthly)">Cleaning (Deep Clean or Upkeep), monthly — from $135/visit</option>
-        <option value="Routine: Nail Trims (every other week)">Nail Trims, every other week — from $115/visit</option>
-        <option value="Routine: Nail Trims (monthly)">Nail Trims, monthly — from $135/visit</option>
+        <option value="Routine: Cleaning (weekly)">Cleaning (Deep Clean or Upkeep), weekly — from $105/week</option>
+        <option value="Routine: Cleaning (every other week)">Cleaning (Deep Clean or Upkeep), every other week — from $115/2 weeks</option>
+        <option value="Routine: Cleaning (monthly)">Cleaning (Deep Clean or Upkeep), monthly — from $135/month</option>
+        <option value="Routine: Nail Trims (every other week)">Nail Trims, every other week — from $115/2 weeks</option>
+        <option value="Routine: Nail Trims (monthly)">Nail Trims, monthly — from $135/month</option>
         <option value="Routine: not sure which plan">Routine care — help me pick a plan</option>
       </optgroup>
       <optgroup label="Care while you're away">
@@ -105,7 +107,7 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
       </optgroup>
       <option value="Not sure yet">Not sure yet — help me decide</option>
     </select>
-    <p class="form-note" id="routine-note" style="display:none;">Visits start at <strong>$105</strong> weekly, <strong>$115</strong> every other week, or <strong>$135</strong> monthly — tell us below if you'd like a Deep Clean, Upkeep, or a mix, and we'll fine-tune it at your free meet-and-greet.</p>
+    <p class="form-note" id="routine-note" style="display:none;">Visits start at <strong>$105/week</strong>, <strong>$115/2 weeks</strong>, or <strong>$135/month</strong> — tell us below if you'd like a Deep Clean, Upkeep, or a mix, and we'll fine-tune it at your free meet-and-greet.</p>
     <p class="form-note" id="travel-note" style="display:none;">While you're away, we come to your pet's own home: <strong>$95</strong> for a 30-minute visit, <strong>$125</strong> for a full hour, or twice-daily care at <strong>$155–$215/day</strong> depending on visit lengths. Most of San Francisco has no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15 per visit, and the Peninsula adds $15–$25 per visit depending on distance. We confirm your exact rate when you text us your address. See the <a href="/home/services/exotic-pet-care-services-in-home/">in-home care page</a> for the full rate card.</p>
     <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding is <strong>$125/night</strong>, spots are limited, and we <strong>reserve them for pet parents outside San Francisco</strong> — Peninsula and Marin families, where in-home visits add a travel surcharge, get priority, and the farther you are the more welcome you are to ask. If you live in San Francisco, in-home care is the better fit: no travel surcharge across most of the city, far more availability, and your little ones stay in the home they know. Please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability.</p>
   </div>
@@ -136,6 +138,80 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
     }
   </script>
 
+  <div class="form-row addon-card" id="travel-routine" style="display:none;">
+    <label for="routine_addon" id="travel-routine-title">Coming home after the holidays? Keep things fresh with a routine plan</label>
+    <p class="form-note">The same team that already knows your little ones. Your plan starts once you're home, and we'll set it up at your meet-and-greet.</p>
+    <select id="routine_addon" name="routine_addon">
+      <option value="" disabled selected>Choose a plan…</option>
+      <option value="Cleaning (weekly)">Cleaning (Deep Clean or Upkeep), weekly — from $105/week</option>
+      <option value="Cleaning (every other week)">Cleaning (Deep Clean or Upkeep), every other week — from $115/2 weeks</option>
+      <option value="Cleaning (monthly)">Cleaning (Deep Clean or Upkeep), monthly — from $135/month</option>
+      <option value="Nail Trims (every other week)">Nail Trims, every other week — from $115/2 weeks</option>
+      <option value="Nail Trims (monthly)">Nail Trims, monthly — from $135/month</option>
+      <option value="Not sure which plan">Help me pick a plan at the meet-and-greet</option>
+    </select>
+  </div>
+
+  <div class="form-row" id="trims-addon" style="display:none;">
+    <fieldset>
+      <legend>Add nail trims?</legend>
+      <div class="start-options">
+        <label><input type="checkbox" id="nail_trims" name="nail_trims" value="Yes"> Yes, add nail trims</label>
+      </div>
+      <p class="form-note" id="trims-price"></p>
+    </fieldset>
+  </div>
+
+  <script>
+    (function () {
+      var form = document.querySelector('.booking-form');
+      var subject = form.querySelector('input[name="_subject"]');
+      var service = document.getElementById('service');
+      var addon = document.getElementById('routine_addon');
+      var travelCard = document.getElementById('travel-routine');
+      var trimsRow = document.getElementById('trims-addon');
+      var trims = document.getElementById('nail_trims');
+      var trimsPrice = document.getElementById('trims-price');
+      // Cleaning + nail trims is one flat rate per visit, so every charge is the same.
+      var withTrims = {
+        'weekly': '$125/week, with trims once a month',
+        'every other week': '$195/2 weeks, as 2-hour visits with trims each time',
+        'monthly': '$215/month, as 2-hour visits with trims each time'
+      };
+
+      // Holiday wording from November 1 to mid-January.
+      var today = new Date(), month = today.getMonth(), day = today.getDate();
+      if (!(month === 10 || month === 11 || (month === 0 && day <= 15))) {
+        document.getElementById('travel-routine-title').textContent = 'Coming home from your trip? Keep things fresh with a routine plan';
+      }
+
+      function isTravel() { return service.value === 'Travel / vacation care'; }
+
+      function update() {
+        travelCard.style.display = isTravel() ? 'block' : 'none';
+        if (!isTravel()) addon.selectedIndex = 0;
+        var plan = isTravel() ? addon.value : service.value;
+        var match = /Cleaning \((weekly|every other week|monthly)\)/.exec(plan || '');
+        trimsRow.style.display = match ? 'block' : 'none';
+        if (!match) {
+          trims.checked = false;
+          return;
+        }
+        trimsPrice.textContent = 'With nail trims: ' + withTrims[match[1]] + '. The same rate every visit.';
+        trims.value = 'Yes — ' + withTrims[match[1]];
+      }
+
+      service.addEventListener('change', update);
+      addon.addEventListener('change', update);
+      form.addEventListener('submit', function () {
+        subject.value = isTravel() && addon.value
+          ? 'New care request: travel + routine care'
+          : 'New care request from houseofguineas.com';
+      });
+      update();
+    })();
+  </script>
+
   <div class="form-row">
     <fieldset>
       <legend>My pet(s)</legend>
@@ -158,13 +234,18 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
   <script>
     (function () {
       var service = document.getElementById('service');
+      var addon = document.getElementById('routine_addon');
+      var trims = document.getElementById('nail_trims');
       var note = document.getElementById('nail-trim-note');
       var noTrim = { 'Bird': 'birds', 'Ferret': 'ferrets', 'Cat': 'cats' };
+      function wantsTrims() {
+        return service.value.indexOf('Nail Trims') !== -1 || (addon.value || '').indexOf('Nail Trims') !== -1 || trims.checked;
+      }
       function update() {
         var picked = Array.prototype.slice.call(document.querySelectorAll('input[name="pets"]:checked'))
           .map(function (box) { return noTrim[box.value]; })
           .filter(Boolean);
-        if (service.value.indexOf('Nail Trims') === -1 || !picked.length) {
+        if (!wantsTrims() || !picked.length) {
           note.style.display = 'none';
           return;
         }
@@ -173,7 +254,7 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
         note.textContent = "We don't offer nail trims for " + list + " at this time, but we can absolutely help support you with maintaining their husbandry!";
         note.style.display = 'block';
       }
-      service.addEventListener('change', update);
+      [service, addon, trims].forEach(function (el) { el.addEventListener('change', update); });
       Array.prototype.slice.call(document.querySelectorAll('input[name="pets"]')).forEach(function (box) {
         box.addEventListener('change', update);
       });
