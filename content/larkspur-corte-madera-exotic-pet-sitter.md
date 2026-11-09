@@ -1,19 +1,19 @@
 +++
 title = "Larkspur & Corte Madera Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "Larkspur & Corte Madera Exotic Pet Sitter"
-description = "In-home exotic pet sitting in Larkspur and Corte Madera, CA — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a caretaker who lives right here. No travel surcharge."
+description = "In-home exotic pet sitting in Larkspur and Corte Madera, CA — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from San Francisco's exotic pet care team, with a simple $25/visit travel rate."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
 +++
 
-Larkspur and Corte Madera sit right in the middle of Marin — the walkable downtowns, Baltimore Canyon and Christmas Tree Hill, the flats near Marin Country Mart and Larkspur Landing, and the neighborhoods climbing toward the ridge. This is our home turf in the most literal sense: **our Marin exotic pet caretaker lives right here.** So when a bonded pair of rabbits, a guinea pig herd, a parrot, or a bearded dragon needs looking after while you travel, the person coming to your door is not driving in from another county — they are practically a neighbor.
+Larkspur and Corte Madera sit right in the middle of Marin — the walkable downtowns, Baltimore Canyon and Christmas Tree Hill, the flats near Marin Country Mart and Larkspur Landing, and the neighborhoods climbing toward the ridge. They are also towns where a dedicated exotic pet sitter has been hard to find — and **House of Guineas now covers both from San Francisco.** So when a bonded pair of rabbits, a guinea pig herd, a parrot, or a bearded dragon needs looking after while you travel, the person coming to your door is a trained exotic pet caretaker who made the drive specifically for your little ones, not a neighbor doing their best with a species they have never handled.
 
-House of Guineas is San Francisco's exotic pet care company, and having a caretaker based in Larkspur means Larkspur and Corte Madera get the fastest, most flexible coverage in our entire service area, with **no travel surcharge at all.**
+House of Guineas is San Francisco's exotic pet care company, and our team drives up to Larkspur and Corte Madera for every visit. Both towns sit in our standard Marin travel tier — **one simple $25/visit travel rate** — so the full cost is clear before we ever book.
 
 ## Why Larkspur & Corte Madera Pet Parents Choose Our Team
 
-- **We live here.** Our caretaker is based in Larkspur, so visits are quick to schedule, easy to adjust, and carry no travel surcharge for the immediate area. Early-morning, mid-day medication, and late-evening timing are all straightforward.
+- **We come to you.** Our team drives up from San Francisco for every visit, and the trip is covered by one simple $25/visit travel rate. Early-morning and late-evening timing are both straightforward, and mid-day medication visits can be planned into your schedule.
 - **Veterinary background.** Care here comes from our veterinary-informed team of exotic pet professionals. Our founder previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines — and every member of our team is trained under that same clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our whole focus — nothing about this is an afterthought.
 - **Clinical-grade care.** We can syringe-feed a rabbit in stasis, verify a reptile's UVB and humidity, and read the early warning signs in a bird.
@@ -40,9 +40,9 @@ We start with a free meet-and-greet at your home — a walkthrough of feeding, e
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-Larkspur and Corte Madera are our team's home base, so **no travel surcharge applies** — the same terms San Francisco pet parents get. Text us your dates and we will confirm your rate.
+Because our team drives up from San Francisco, Larkspur and Corte Madera fall in our **standard $25/visit travel tier** — one simple figure, the same across all of Marin. Text us your address and dates and we will confirm your exact rate.
 
-> **Because Larkspur and Corte Madera are our caretaker's home turf,** standing [routine care](/routine-recurring-exotic-pet-care/) visits slot right into your week — weekly or every-other-week, with the enclosure deep-clean and a gentle wellness check finished before your ferry even docks — leaving your evenings for the best parts of life with your little ones.
+> **Standing [routine care](/routine-recurring-exotic-pet-care/) visits slot right into a Larkspur or Corte Madera week** — weekly or every-other-week, with the enclosure deep-clean and a gentle wellness check finished before your ferry even docks — leaving your evenings for the best parts of life with your little ones.
 
 ## Frequently Asked Questions
 
@@ -70,16 +70,16 @@ Larkspur and Corte Madera are our team's home base, so **no travel surcharge app
 </style>
 
 <details class="faq-details">
-  <summary class="faq-summary">Is there really no travel surcharge in Larkspur and Corte Madera?</summary>
+  <summary class="faq-summary">Is there a travel surcharge in Larkspur and Corte Madera?</summary>
   <div class="faq-answer">
-    <p>Correct — because our Marin caretaker is based in Larkspur, these two towns get the same no-surcharge terms as our home city of San Francisco. You pay for the visits themselves, not for someone crossing the bridge to reach you. Text us your dates and we will confirm.</p>
+    <p>Yes. Larkspur and Corte Madera sit in our standard $25/visit travel tier, the same simple figure as the rest of Marin, because our team is based in San Francisco and drives up for each visit. You see the full number before we book, and it does not change mid-trip. Text us your address and dates and we will confirm your exact rate.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Can you do a mid-day medication visit on short notice?</summary>
   <div class="faq-answer">
-    <p>Being local makes this much easier than it is elsewhere in our service area. Because our caretaker lives in Larkspur, mid-day medication drop-ins and last-minute schedule adjustments are realistic here in a way they are not for a sitter driving up from the city. Tell us the protocol and timing and we will build it into the plan.</p>
+    <p>We can, with a little planning. Because our team drives up from San Francisco, a mid-day medication visit works best when it is built into the schedule from the start — tell us the protocol and timing at the meet-and-greet and we will plan the day around it. For a true same-day change, text us and we will be honest about what our team can reach.</p>
   </div>
 </details>
 
@@ -100,7 +100,7 @@ Larkspur and Corte Madera are our team's home base, so **no travel surcharge app
 <details class="faq-details">
   <summary class="faq-summary">Do you cover nearby Greenbrae and Kentfield too?</summary>
   <div class="faq-answer">
-    <p>Yes. Greenbrae and Kentfield sit right between Larkspur and San Rafael and are an easy reach from our base, with the same little-to-no surcharge. If you are in one of those pockets, text us your address and we will confirm your exact rate.</p>
+    <p>Yes. Greenbrae and Kentfield sit right between Larkspur and San Rafael, and our team covers them on the same drive up from San Francisco, at the same $25/visit travel rate. If you are in one of those pockets, text us your address and we will confirm your exact rate.</p>
   </div>
 </details>
 
@@ -115,10 +115,10 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Is there really no travel surcharge in Larkspur and Corte Madera?",
+      "name": "Is there a travel surcharge in Larkspur and Corte Madera?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Correct — because our Marin caretaker is based in Larkspur, these two towns get the same no-surcharge terms as our home city of San Francisco. You pay for the visits themselves, not for someone crossing the bridge to reach you. Text us your dates and we will confirm."
+        "text": "Yes. Larkspur and Corte Madera sit in our standard $25/visit travel tier, the same simple figure as the rest of Marin, because our team is based in San Francisco and drives up for each visit. You see the full number before we book, and it does not change mid-trip. Text us your address and dates and we will confirm your exact rate."
       }
     },
     {
@@ -126,7 +126,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can you do a mid-day medication visit on short notice?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Being local makes this much easier than it is elsewhere in our service area. Because our caretaker lives in Larkspur, mid-day medication drop-ins and last-minute schedule adjustments are realistic here in a way they are not for a sitter driving up from the city. Tell us the protocol and timing and we will build it into the plan."
+        "text": "We can, with a little planning. Because our team drives up from San Francisco, a mid-day medication visit works best when it is built into the schedule from the start — tell us the protocol and timing at the meet-and-greet and we will plan the day around it. For a true same-day change, text us and we will be honest about what our team can reach."
       }
     },
     {
@@ -150,7 +150,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you cover nearby Greenbrae and Kentfield too?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Greenbrae and Kentfield sit right between Larkspur and San Rafael and are an easy reach from our base, with the same little-to-no surcharge. If you are in one of those pockets, text us your address and we will confirm your exact rate."
+        "text": "Yes. Greenbrae and Kentfield sit right between Larkspur and San Rafael, and our team covers them on the same drive up from San Francisco, at the same $25/visit travel rate. If you are in one of those pockets, text us your address and we will confirm your exact rate."
       }
     }
   ]

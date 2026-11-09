@@ -1,19 +1,19 @@
 +++
 title = "Mill Valley Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "Mill Valley Exotic Pet Sitter"
-description = "In-home exotic pet sitting in Mill Valley, CA — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a Marin-based caretaker. Little to no travel surcharge."
+description = "In-home exotic pet sitting in Mill Valley, CA — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from San Francisco's exotic pet care team, with a simple $25/visit travel rate."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
 +++
 
-Mill Valley sits in the redwoods at the foot of Mount Tam, and the households tucked into Blithedale Canyon, Homestead Valley, and the flats of Tam Valley and Strawberry tend to share a certain character: thoughtful, outdoorsy, and busy enough to travel often. Many are families whose kids' first pet was a guinea pig or a pair of rabbits; others keep a long-lived parrot or a carefully tuned reptile enclosure. When a trip comes up, the usual pet-care options fall short — kennels are built for dogs, and the average sitter has never handled a small mammal, let alone dialed in a bearded dragon's basking gradient. That is exactly what our team does, now from a base right here in Marin.
+Mill Valley sits in the redwoods at the foot of Mount Tam, and the households tucked into Blithedale Canyon, Homestead Valley, and the flats of Tam Valley and Strawberry tend to share a certain character: thoughtful, outdoorsy, and busy enough to travel often. Many are families whose kids' first pet was a guinea pig or a pair of rabbits; others keep a long-lived parrot or a carefully tuned reptile enclosure. When a trip comes up, the usual pet-care options fall short — kennels are built for dogs, and the average sitter has never handled a small mammal, let alone dialed in a bearded dragon's basking gradient. That is exactly what our team does — and we now make the drive up to Mill Valley to do it.
 
-House of Guineas has an exotic pet caretaker living in Central Marin, a short drive from Mill Valley. We come to your home so your animals stay in their own environment, on their own schedule — and being based in the county means reaching Mill Valley does not carry the travel cost a San Francisco sitter would have to add for crossing the bridge.
+House of Guineas is based in San Francisco, and our team drives up to Mill Valley for every visit. We come to your home so your animals stay in their own environment, on their own schedule — and the drive is covered by one simple $25/visit travel rate, so you always know the full cost before we book.
 
 ## Why Mill Valley Exotic Pet Parents Choose Our Team
 
-- **Based in Marin.** Our caretaker lives minutes away, so Mill Valley visits are easy to schedule and light on travel cost — even up a winding canyon road.
+- **We make the drive.** Our team comes up from San Francisco for every visit, and a winding canyon road is no obstacle — morning and evening timing both work, for one simple $25/visit travel rate.
 - **Veterinary background.** Ours is a [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) of exotic pet professionals — our founder, Alexandria, previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Our whole team is trained under that clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
 - **Clinical-grade care.** We can syringe-feed a stasis rabbit, verify a reptile's humidity and UVB, and catch the early signs of illness in a bird.
@@ -40,9 +40,9 @@ We begin with a free meet-and-greet at your home to learn feeding routines, encl
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-Because our caretaker is based in Central Marin, Mill Valley falls in our **no-surcharge to $15/visit range** — a real advantage over any sitter driving up from San Francisco. Text us your address and dates and we will confirm your rate.
+Because our team drives up from San Francisco, Mill Valley falls in our **standard $25/visit travel tier** — one simple figure, so the full cost is clear before we book. Text us your address and dates and we will confirm your rate.
 
-> **Our caretaker calls Central Marin home,** which makes a standing [routine care](/routine-recurring-exotic-pet-care/) rhythm easy to hold — weekly or every-other-week, with the enclosure deep-clean and a gentle health check all taken care of — so you can squeeze in a Mount Tam trail after work and still come home to a fresh habitat and happy, settled little ones.
+> **A standing [routine care](/routine-recurring-exotic-pet-care/) rhythm works just as well in Mill Valley** — weekly or every-other-week, with the enclosure deep-clean and a gentle health check all taken care of — so you can squeeze in a Mount Tam trail after work and still come home to a fresh habitat and happy, settled little ones.
 
 ## Frequently Asked Questions
 
@@ -72,7 +72,7 @@ Because our caretaker is based in Central Marin, Mill Valley falls in our **no-s
 <details class="faq-details">
   <summary class="faq-summary">Do you travel up the canyons and hillsides in Mill Valley?</summary>
   <div class="faq-answer">
-    <p>Yes. Blithedale Canyon, Cascade Canyon, Homestead Valley, the Tam Valley flats, Strawberry — we cover all of it. Our caretaker is based in Central Marin, so even a winding, redwood-shaded driveway is an easy reach. Text us your address and we will confirm.</p>
+    <p>Yes. Blithedale Canyon, Cascade Canyon, Homestead Valley, the Tam Valley flats, Strawberry — we cover all of it. Our team drives up from San Francisco for every visit, and a winding, redwood-shaded driveway is part of the job, not an extra charge. Text us your address and we will confirm.</p>
   </div>
 </details>
 
@@ -118,7 +118,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Do you travel up the canyons and hillsides in Mill Valley?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Blithedale Canyon, Cascade Canyon, Homestead Valley, the Tam Valley flats, Strawberry \u2014 we cover all of it. Our caretaker is based in Central Marin, so even a winding, redwood-shaded driveway is an easy reach. Text us your address and we will confirm."
+        "text": "Yes. Blithedale Canyon, Cascade Canyon, Homestead Valley, the Tam Valley flats, Strawberry \u2014 we cover all of it. Our team drives up from San Francisco for every visit, and a winding, redwood-shaded driveway is part of the job, not an extra charge. Text us your address and we will confirm."
       }
     },
     {
