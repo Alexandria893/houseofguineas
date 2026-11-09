@@ -1,21 +1,21 @@
 +++
 title = "Marin County Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "Marin Exotic Pet Sitter"
-description = "In-home exotic pet sitting across Marin County — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a caretaker based right here in Marin. Little to no travel surcharge."
+description = "In-home exotic pet sitting across Marin County — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from San Francisco's exotic pet care team, with a simple $25/visit travel rate."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.9
 +++
 
-For years, Marin County exotic pet parents have had to choose between the wrong options. Board your rabbits at a dog-and-cat kennel that has never cared for a guinea pig. Drive a bearded dragon up to Santa Rosa or across the bridge to the East Bay. Or hand your parrot to a neighbor and hope the millet and the misting schedule survive the week. Marin is one of the most affluent, pet-loving counties in California, and yet there has been no dedicated in-home sitter who actually specializes in exotics. That has changed — **House of Guineas now has a caretaker based right here in Marin.**
+For years, Marin County exotic pet parents have had to choose between the wrong options. Board your rabbits at a dog-and-cat kennel that has never cared for a guinea pig. Drive a bearded dragon up to Santa Rosa or over to the East Bay. Or hand your parrot to a neighbor and hope the millet and the misting schedule survive the week. Marin is one of the most affluent, pet-loving counties in California, and yet there has been no dedicated in-home sitter who actually specializes in exotics. That has changed — **House of Guineas now serves all of Marin County from San Francisco.**
 
-We are San Francisco's exotic pet care company, and our Marin caretaker lives in Central Marin and covers the county from there. That means your rabbits, guinea pigs, reptiles, and birds stay in their own enclosures, on their own routines, cared for by someone who knows the difference between a healthy gut sound and the silence of GI stasis — and because we are based in the county, there is little to no bridge-toll-style travel surcharge to reach you.
+We are San Francisco's exotic pet care company, based in the city, and our team drives up to Marin for every visit. That means your rabbits, guinea pigs, reptiles, and birds stay in their own enclosures, on their own routines, cared for by someone who knows the difference between a healthy gut sound and the silence of GI stasis — and the drive is built into one simple $25/visit travel rate, so there are no surprises on the bill.
 
 ## Why Marin Exotic Pet Owners Choose Our Team
 
-- **A caretaker who actually lives in Marin.** No crossing the Golden Gate on a schedule. They can reach most of the county quickly, which keeps visits flexible and travel costs low.
+- **A team that actually comes to Marin.** We are based in San Francisco and drive up for every visit — morning and evening timing both work, and the travel is one simple $25/visit rate, confirmed before we book.
 - **Veterinary background.** Ours is a [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) of exotic pet professionals, and our founder previously volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every caretaker on our team, in Marin and beyond, is trained under that same clinical lens.
-- **Species specialization.** Exotic pets and cats are our whole focus — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds. That kind of focus is almost impossible to find north of the bridge.
+- **Species specialization.** Exotic pets and cats are our whole focus — rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds. That kind of focus is almost impossible to find north of the Golden Gate.
 - **Clinical-grade care.** We can syringe-feed a rabbit in stasis, check a reptile enclosure's humidity and UVB, and catch the early signs of a crop problem in a parrot — and we know where the nearest exotic vets are if something goes wrong.
 
 ## Exotic Species We Care For in Marin
@@ -30,11 +30,11 @@ If your species is not listed, [call or text us](tel:415-484-6493) — if we hav
 
 ## Marin Towns We Serve
 
-Our Central Marin base puts most of the county within an easy drive. We provide in-home exotic pet care across:
+Our team drives up from San Francisco, and the whole county is within reach. We provide in-home exotic pet care across:
 
 - [San Rafael](/san-rafael-exotic-pet-sitter/) — the county seat and Marin's largest city
 - [Mill Valley](/mill-valley-exotic-pet-sitter/) — and the Tamalpais Valley
-- [Larkspur and Corte Madera](/larkspur-corte-madera-exotic-pet-sitter/) — our home turf
+- [Larkspur and Corte Madera](/larkspur-corte-madera-exotic-pet-sitter/) — the heart of Central Marin
 - [San Anselmo, Ross, Fairfax and the Ross Valley](/san-anselmo-exotic-pet-sitter/)
 - Kentfield and Greenbrae
 - [Sausalito, Tiburon and Belvedere](/sausalito-tiburon-exotic-pet-sitter/) — the southern-Marin waterfront
@@ -48,9 +48,9 @@ If your town is not listed, [text us your address](tel:415-484-6493) and we will
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-Here is the part that surprises people: because our caretaker is based in Central Marin rather than crossing the bridge from the city, **most of Marin falls in our no-surcharge to $15/visit range** — far less than the distance from San Francisco would suggest. Text us your address and dates and we will confirm your exact rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
+Because our team is based in San Francisco and drives up for every visit, **Marin falls in our standard $25/visit travel tier** — the same tier as the farther reaches of the Peninsula, and one simple figure rather than a sliding scale. Text us your address and dates and we will confirm your exact rate. You can read more about what is included on our [in-home exotic pet care page](/home/services/exotic-pet-care-services-in-home).
 
-> **Because our caretaker lives right here in Central Marin,** standing [routine care](/routine-recurring-exotic-pet-care/) visits are easy to keep on the calendar — weekly or every-other-week, with the enclosure deep-clean and a gentle nose-to-tail check all handled — so evenings with your little ones, anywhere in the county, are for floor time and hand-feeding from start to finish.
+> **Standing [routine care](/routine-recurring-exotic-pet-care/) visits work just as well in Marin** — weekly or every-other-week, with the enclosure deep-clean and a gentle nose-to-tail check all handled on a schedule you set — so evenings with your little ones, anywhere in the county, are for floor time and hand-feeding from start to finish.
 
 ## Frequently Asked Questions
 
@@ -80,14 +80,14 @@ Here is the part that surprises people: because our caretaker is based in Centra
 <details class="faq-details">
   <summary class="faq-summary">Do you actually cover Marin County, or drive over from the city?</summary>
   <div class="faq-answer">
-    <p>We genuinely cover Marin. Our caretaker is based in Central Marin and lives in the county, so there is no bridge crossing built into your visit schedule. That is what lets us keep travel costs low and offer flexible morning and evening timing across San Rafael, Mill Valley, Larkspur, Corte Madera, San Anselmo, and the surrounding towns.</p>
+    <p>We genuinely cover Marin, and yes, we drive up from the city. House of Guineas is based in San Francisco, and our team makes the trip for every visit, with morning and evening timing available across San Rafael, Mill Valley, Larkspur, Corte Madera, San Anselmo, and the surrounding towns. The drive is already built into our $25/visit travel rate, so it never shows up as a surprise.</p>
   </div>
 </details>
 
 <details class="faq-details">
   <summary class="faq-summary">Is there a travel surcharge to reach Marin?</summary>
   <div class="faq-answer">
-    <p>Much less than you would expect. Because our caretaker is based in Central Marin, most of the county falls in our no-surcharge to $15/visit range, depending on how far you are from our Marin base. Only the far north of the county approaches our standard $25/visit distance tier. Text us your address for an exact figure.</p>
+    <p>Yes. Marin sits in our standard $25/visit travel tier, the same tier as the farther reaches of the Peninsula, because our team is based in San Francisco and drives up for each visit. It is one simple figure for the county rather than a sliding scale. Text us your address and dates for an exact figure.</p>
   </div>
 </details>
 
@@ -108,7 +108,7 @@ Here is the part that surprises people: because our caretaker is based in Centra
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits?</summary>
   <div class="faq-answer">
-    <p>For most Marin families, in-home visits are the better fit — your little one stays in their own space, on their own routine, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by members of our team in their San Francisco homes and occasionally by a Marin caretaker. Those spots are reserved for pet parents outside San Francisco, so Marin families get priority — but space still books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits.</p>
+    <p>For most Marin families, in-home visits are the better fit — your little one stays in their own space, on their own routine, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by our founder, Alexandria, at home in San Francisco. Those spots are reserved for pet parents outside San Francisco, so Marin families get priority — but space still books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits.</p>
   </div>
 </details>
 
@@ -126,7 +126,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Do you actually cover Marin County, or drive over from the city?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We genuinely cover Marin. Our caretaker is based in Central Marin and lives in the county, so there is no bridge crossing built into your visit schedule. That is what lets us keep travel costs low and offer flexible morning and evening timing across San Rafael, Mill Valley, Larkspur, Corte Madera, San Anselmo, and the surrounding towns."
+        "text": "We genuinely cover Marin, and yes, we drive up from the city. House of Guineas is based in San Francisco, and our team makes the trip for every visit, with morning and evening timing available across San Rafael, Mill Valley, Larkspur, Corte Madera, San Anselmo, and the surrounding towns. The drive is already built into our $25/visit travel rate, so it never shows up as a surprise."
       }
     },
     {
@@ -134,7 +134,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Is there a travel surcharge to reach Marin?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Much less than you would expect. Because our caretaker is based in Central Marin, most of the county falls in our no-surcharge to $15/visit range, depending on how far you are from our Marin base. Only the far north of the county approaches our standard $25/visit distance tier. Text us your address for an exact figure."
+        "text": "Yes. Marin sits in our standard $25/visit travel tier, the same tier as the farther reaches of the Peninsula, because our team is based in San Francisco and drives up for each visit. It is one simple figure for the county rather than a sliding scale. Text us your address and dates for an exact figure."
       }
     },
     {
@@ -158,7 +158,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For most Marin families, in-home visits are the better fit — your little one stays in their own space, on their own routine, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by members of our team in their San Francisco homes and occasionally by a Marin caretaker. Those spots are reserved for pet parents outside San Francisco, so Marin families get priority — but space still books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits."
+        "text": "For most Marin families, in-home visits are the better fit — your little one stays in their own space, on their own routine, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by our founder, Alexandria, at home in San Francisco. Those spots are reserved for pet parents outside San Francisco, so Marin families get priority — but space still books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits."
       }
     }
   ]
