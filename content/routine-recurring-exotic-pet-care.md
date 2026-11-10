@@ -41,6 +41,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
         <tr><th scope="row">Monthly</th><td>$135<span class="plan-card__per">/visit</span></td><td>$215<span class="plan-card__per">/visit</span></td></tr>
       </tbody>
     </table>
+    <p class="plan-card__trims"><strong>Nail trims add-on:</strong> included with 2-hour Deep Cleans, +$80/visit over the 1-hour rate.</p>
   </div>
   <div class="plan-card">
     <div class="plan-card__head"><span class="benefit-list__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><path d="M8.12 8.12 12 12"/><path d="M20 4 8.12 15.88"/><circle cx="6" cy="18" r="3"/><path d="M14.8 14.8 20 20"/></svg></span><div><h3>Nail Trims</h3>
@@ -88,7 +89,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
 
 <details class="faq-details">
   <summary class="faq-summary">Can I add nail trims to a cleaning plan?</summary>
-  <div class="faq-answer"><p>Yes! Weekly cleaning with nail trims is $125/visit, with trims once a month. Every-other-week and monthly cleaning become 2-hour visits with trims each time, at $195/visit every other week or $215/visit monthly. Your rate stays the same every visit.</p></div>
+  <div class="faq-answer"><p>Yes! 2-hour Deep Cleans include nail trims, at +$80/visit over the 1-hour rate: $185 weekly, $195 every other week, or $215 monthly.</p></div>
 </details>
 
 <details class="faq-details">
@@ -112,24 +113,21 @@ og_image = "lionheadBunnyWithTreats.jpg"
     "name": "Routine care plans",
     "itemListElement": [
       {"@type": "Offer", "name": "Deep Clean \u2014 weekly, 1 hour", "price": "105.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Deep Clean \u2014 weekly, 2 hours", "price": "185.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Deep Clean with nail trims \u2014 weekly, 2 hours", "price": "185.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Deep Clean \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Deep Clean \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Deep Clean with nail trims \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 weekly, 1 hour", "price": "105.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 weekly, 2 hours", "price": "185.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Deep Clean \u2014 monthly, 1 hour", "price": "135.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Deep Clean \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Deep Clean with nail trims \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 monthly, 1 hour", "price": "135.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Nail Trims \u2014 monthly, 1 hour", "price": "135.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Nail Trims \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Cleaning + Nail Trims \u2014 weekly, trims once a month", "price": "125.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Cleaning + Nail Trims \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Cleaning + Nail Trims \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"}
+      {"@type": "Offer", "name": "Nail Trims \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"}
     ]
   },
   "areaServed": [
@@ -186,7 +184,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
       "name": "Can I add nail trims to a cleaning plan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes! Weekly cleaning with nail trims is $125/visit, with trims once a month. Every-other-week and monthly cleaning become 2-hour visits with trims each time, at $195/visit every other week or $215/visit monthly. Your rate stays the same every visit."
+        "text": "Yes! 2-hour Deep Cleans include nail trims, at +$80/visit over the 1-hour rate: $185 weekly, $195 every other week, or $215 monthly."
       }
     },
     {
