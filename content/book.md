@@ -172,11 +172,11 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
       var trimsRow = document.getElementById('trims-addon');
       var trims = document.getElementById('nail_trims');
       var trimsPrice = document.getElementById('trims-price');
-      // Cleaning + nail trims is one flat rate per visit, so every charge is the same.
+      // 2-hour Deep Cleans include nail trims: $80/visit more than the 1-hour rate.
       var withTrims = {
-        'weekly': '$125/visit, with trims once a month',
-        'every other week': '$195/visit, as 2-hour visits with trims each time',
-        'monthly': '$215/visit, as 2-hour visits with trims each time'
+        'weekly': '$185/visit',
+        'every other week': '$195/visit',
+        'monthly': '$215/visit'
       };
 
       // Holiday wording from November 1 to mid-January.
@@ -197,8 +197,8 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
           trims.checked = false;
           return;
         }
-        trimsPrice.textContent = 'With nail trims: ' + withTrims[match[1]] + '. The same rate every visit.';
-        trims.value = 'Yes — ' + withTrims[match[1]];
+        trimsPrice.textContent = 'Nail trims are included with 2-hour Deep Cleans: +$80/visit over the 1-hour rate (' + withTrims[match[1]] + ').';
+        trims.value = 'Yes — 2-hour Deep Clean, ' + withTrims[match[1]];
       }
 
       service.addEventListener('change', update);

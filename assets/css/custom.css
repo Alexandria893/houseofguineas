@@ -1457,6 +1457,13 @@ html {
   font-weight: 700;
   color: var(--color-accent);
 }
+.plan-card .plan-card__trims {
+  margin: 10px 0 0;
+  padding: 8px 12px;
+  background: var(--color-pink);
+  border-radius: 8px;
+  font-size: 14px;
+}
 .plan-card__per {
   font-size: 12px;
   font-weight: 400;

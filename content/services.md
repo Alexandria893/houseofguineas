@@ -20,7 +20,7 @@ Standing weekly, every-other-week or monthly visits in your pet's own home — t
 **Three standing plans, from $105/visit.** Every visit comes with a gentle wellness check — a look at habitat temps and UVB and a trained eye for early signs of trouble — plus a photo update. Because exotics hide illness until it's serious, consistent expert eyes catch small things before they become big ones.
 
 <div style="margin: 1.5rem 0; padding: 1rem 1.25rem; border: 1px solid #DCE6EA; border-radius: 8px; background: #FBFAF6;">
-  <p><strong>Deep Clean — weekly, every other week, or monthly</strong><br>The full enclosure reset: everything out, surfaces scrubbed and disinfected, bedding and liners swapped, hides and bowls washed.</p>
+  <p><strong>Deep Clean — weekly, every other week, or monthly</strong><br>The full enclosure reset: everything out, surfaces scrubbed and disinfected, bedding and liners swapped, hides and bowls washed. Nail trims included with 2-hour Deep Cleans: +$80/visit over the 1-hour rate.</p>
   <ul>
     <li>Weekly — 1 hour $105/visit · 2 hours $185/visit</li>
     <li>Every other week — 1 hour $115/visit · 2 hours $195/visit</li>
@@ -32,7 +32,6 @@ Standing weekly, every-other-week or monthly visits in your pet's own home — t
     <li>Every other week — 1 hour $115/visit · 2 hours $195/visit</li>
     <li>Monthly — 1 hour $135/visit · 2 hours $215/visit</li>
   </ul>
-  <p style="margin-top: 1rem;"><strong>Add nail trims to Deep Clean or Upkeep</strong><br>Weekly $125/visit, with trims once a month · every other week $195/visit or monthly $215/visit, as 2-hour visits with trims each time.</p>
   <p style="margin-top: 1rem;"><strong>Nail Trims — every other week or monthly</strong><br>Gentle, unhurried trims, a close look at feet and pads, and one-on-one handling time in the comfort of their home.</p>
   <ul>
     <li>Every other week — 1 hour $115/visit · 2 hours $195/visit</li>
