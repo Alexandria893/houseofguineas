@@ -96,6 +96,8 @@ Our caretakers are a big part of how clients experience House of Guineas, both d
 
 * Send photo and video updates during each booking, shared through the client's photo album, at the frequency you agree on with them at the meet and greet.
 * Handle client communication on your assigned days: reviewing new inquiries, answering clients by phone, text and email, and guiding new clients through to their meet and greet.
+* Keep every client's records current: pet information, care instructions and bookings, updated whenever something changes, so whoever walks in next has the latest details.
+* Edit and send each client's pet care forms and service forms for their visits.
 * Keep the team's coverage board current, working with our Coordinator and Client Communications team.
 
 ## Client Safety & Trust
@@ -151,13 +153,15 @@ Send your resume and a summary of your species experience to [alexandria@houseof
 
 1. This role centers on hands-on husbandry: cleaning, feeding and habitat upkeep, often working independently. What draws you to that kind of work?
 2. Which exotic animals have you cared for, for how long, and in what setting (your own pets, a rescue, a facility, a clinic)? Include your experience with routine care such as nail trims, and with handling live or frozen feeder insects or feeder animals for reptiles.
-3. Which days and blocks are you available? For example, "Midday and Evening Monday through Friday, plus Saturday Morning."
-4. Please confirm your availability for Thanksgiving week and Christmas week (Monday through Sunday), plus December 31–January 1, our peak care dates.
-5. How do you picture a typical week of visits with us?
-6. Hours flex with bookings, with our fullest schedules in July–August and November–December. How does that fit alongside your other commitments?
-7. Describe a time you had a commitment you couldn't make. What did you do?
-8. Do you have a valid driver's license and an operable vehicle?
-9. Can you reliably commute to and within SF, and along the Peninsula?
-10. When could you start?
+3. Client communication is a big part of this role: sending photo and video updates during each booking and, on your assigned days, answering clients by phone, text and email. Tell us about your experience communicating with customers or clients. What does a great visit update look like to you?
+4. You'll also keep each client's pet information, care instructions, bookings and visit forms up to date. Tell us about a time you kept records or paperwork current for a team. How did you stay on top of changes?
+5. Which days and blocks are you available? For example, "Midday and Evening Monday through Friday, plus Saturday Morning."
+6. Please confirm your availability for Thanksgiving week and Christmas week (Monday through Sunday), plus December 31–January 1, our peak care dates.
+7. How do you picture a typical week of visits with us?
+8. Hours flex with bookings, with our fullest schedules in July–August and November–December. How does that fit alongside your other commitments?
+9. Describe a time you had a commitment you couldn't make. What did you do?
+10. Do you have a valid driver's license and an operable vehicle?
+11. Can you reliably commute to and within SF, and along the Peninsula?
+12. When could you start?
 
 <p class="text-center" style="margin: 1.5rem 0;"><a href="mailto:alexandria@houseofguineas.com?subject=Exotic%20Pet%20Caretaker%20Application" class="btn btn-lg btn-cta-primary">Email Your Application</a></p>
