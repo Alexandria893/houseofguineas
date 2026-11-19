@@ -96,6 +96,8 @@ As a PRN, you're often caring for animals while their regular caretaker is away,
 
 * Send photo and video updates from each visit, shared through the client's photo album, at the frequency the client set up with our team.
 * Chart each visit, so the client's regular caretaker and our Coordinator can pick up right where you left off.
+* Update pet information, care instructions and bookings whenever something changes, so the client's records stay current for the whole team.
+* Edit and send pet care forms and service forms for the visits and meet and greets you cover.
 * Keep our Coordinator and Client Communications team in the loop on anything a client asks or mentions during your visits.
 
 ## Client Safety & Trust
@@ -152,7 +154,7 @@ Send your resume and a summary of your species experience to [alexandria@houseof
 
 1. This role centers on hands-on husbandry: cleaning, feeding and habitat upkeep, often working independently. What draws you to that kind of work?
 2. Which exotic animals have you cared for, for how long, and in what setting (your own pets, a rescue, a facility, a clinic)? Include your experience with routine care such as nail trims, and with handling live or frozen feeder insects or feeder animals for reptiles.
-3. As a PRN, you'll often care for animals while their regular caretaker is away, sending their pet parents photo and video updates from each visit. Tell us about your experience communicating with customers or clients. What does a great visit update look like to you?
+3. As a PRN, you'll often care for animals while their regular caretaker is away, sending their pet parents photo and video updates from each visit and keeping their pet information, care instructions, bookings and visit forms up to date. Tell us about your experience communicating with customers or clients and keeping their records current. What does a great visit update look like to you?
 4. Which days and blocks are you available? For example, "Midday and Evening Monday through Friday, plus Saturday Morning."
 5. Please confirm your availability for Thanksgiving week and Christmas week (Monday through Sunday), plus December 31–January 1, our peak care dates.
 6. How do you picture working as a PRN with us?
