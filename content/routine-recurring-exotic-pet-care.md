@@ -1,7 +1,7 @@
 +++
-title = "Routine Exotic Pet Care in SF, Peninsula & Marin | Cage Deep Cleans, Upkeep & Nail Trims"
+title = "Routine Exotic Pet Care in SF, Peninsula & Marin | Cage Deep Cleans, Upkeep & Nail Trims/Grooming"
 shortTitle = "Routine Care"
-description = "Routine in-home exotic pet care across San Francisco, the Peninsula & Marin — weekly, every-other-week or monthly Deep Cleans and Upkeep, plus every-other-week or monthly Nail Trims, for guinea pigs, rabbits, birds & reptiles, with a wellness check every visit. From $105/visit."
+description = "Routine in-home exotic pet care across San Francisco, the Peninsula & Marin — weekly, every-other-week or monthly Deep Cleans and Upkeep, plus every-other-week or monthly Nail Trims/Grooming, for guinea pigs, rabbits, birds & reptiles, with a wellness check every visit. From $105/visit."
 og_image = "lionheadBunnyWithTreats.jpg"
 [params]
   serviceType = "Recurring Exotic Pet Care"
@@ -9,7 +9,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
   priority = 0.9
 +++
 
-**Take back your evenings with routine pet care.** Whether it's a biweekly nail trim or cage upkeep, we help you focus on what matters most: your pets!
+**Take back your evenings with routine pet care.** Whether it's biweekly nail trims/grooming or cage upkeep, we help you focus on what matters most: your pets!
 <!--more-->
 
 ## Why Routine Care
@@ -41,12 +41,12 @@ og_image = "lionheadBunnyWithTreats.jpg"
         <tr><th scope="row">Monthly</th><td>$135<span class="plan-card__per">/visit</span></td><td>$215<span class="plan-card__per">/visit</span></td></tr>
       </tbody>
     </table>
-    <p class="plan-card__trims"><strong>Nail trims add-on:</strong> included with 2-hour Deep Cleans, +$80/visit over the 1-hour rate.</p>
+    <p class="plan-card__trims"><strong>Nail trims/grooming add-on:</strong> included with 2-hour Deep Cleans, +$80/visit over the 1-hour rate.</p>
   </div>
   <div class="plan-card">
-    <div class="plan-card__head"><span class="benefit-list__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><path d="M8.12 8.12 12 12"/><path d="M20 4 8.12 15.88"/><circle cx="6" cy="18" r="3"/><path d="M14.8 14.8 20 20"/></svg></span><div><h3>Nail Trims</h3>
+    <div class="plan-card__head"><span class="benefit-list__icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><path d="M8.12 8.12 12 12"/><path d="M20 4 8.12 15.88"/><circle cx="6" cy="18" r="3"/><path d="M14.8 14.8 20 20"/></svg></span><div><h3>Nail Trims/<wbr>Grooming</h3>
     <p class="plan-card__tag">Every other week or monthly</p></div></div>
-    <p>Gentle, unhurried trims, a close look at feet and pads, and one-on-one handling time in the comfort of their home.</p>
+    <p>Gentle, unhurried nail trims and grooming, one-on-one, in the comfort of their home.</p>
     <table class="plan-card__table">
       <thead><tr><th scope="col"><span class="sr-only">Frequency</span></th><th scope="col">1-hour visit</th><th scope="col">2-hour visit</th></tr></thead>
       <tbody>
@@ -84,12 +84,12 @@ og_image = "lionheadBunnyWithTreats.jpg"
 
 <details class="faq-details">
   <summary class="faq-summary">Which plan is right for my pet?</summary>
-  <div class="faq-answer"><p>Upkeep keeps things fresh between cleans; Deep Clean is the full reset; Nail Trims keep feet healthy. You can also mix plans, like weekly Upkeep plus an every-other-week Deep Clean — we'll recommend one at your meet-and-greet.</p></div>
+  <div class="faq-answer"><p>Upkeep keeps things fresh between cleans; Deep Clean is the full reset; Nail Trims/Grooming keeps feet healthy. You can also mix plans, like weekly Upkeep plus an every-other-week Deep Clean — we'll recommend one at your meet-and-greet.</p></div>
 </details>
 
 <details class="faq-details">
-  <summary class="faq-summary">Can I add nail trims to a cleaning plan?</summary>
-  <div class="faq-answer"><p>Yes! 2-hour Deep Cleans include nail trims, at +$80/visit over the 1-hour rate: $185 weekly, $195 every other week, or $215 monthly.</p></div>
+  <summary class="faq-summary">Can I add nail trims/grooming to a cleaning plan?</summary>
+  <div class="faq-answer"><p>Yes! 2-hour Deep Cleans include nail trims/grooming, at +$80/visit over the 1-hour rate: $185 weekly, $195 every other week, or $215 monthly.</p></div>
 </details>
 
 <details class="faq-details">
@@ -103,7 +103,7 @@ og_image = "lionheadBunnyWithTreats.jpg"
   "@type": "Service",
   "name": "Routine & Recurring Exotic Pet Care",
   "serviceType": "Recurring in-home exotic pet care",
-  "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — three standing plans in your pet's own home: Deep Cleans and Upkeep visits (weekly, every other week, or monthly) and Nail Trims (every other week or monthly), each with a health check from a veterinary-informed team.",
+  "description": "Recurring, in-home exotic pet care for busy San Francisco, Peninsula, and Marin pet parents — three standing plans in your pet's own home: Deep Cleans and Upkeep visits (weekly, every other week, or monthly) and Nail Trims/Grooming (every other week or monthly), each with a health check from a veterinary-informed team.",
   "provider": {
     "@type": "LocalBusiness",
     "@id": "https://www.houseofguineas.com/#localbusiness"
@@ -113,21 +113,21 @@ og_image = "lionheadBunnyWithTreats.jpg"
     "name": "Routine care plans",
     "itemListElement": [
       {"@type": "Offer", "name": "Deep Clean \u2014 weekly, 1 hour", "price": "105.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Deep Clean with nail trims \u2014 weekly, 2 hours", "price": "185.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Deep Clean with nail trims/grooming \u2014 weekly, 2 hours", "price": "185.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Deep Clean \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Deep Clean with nail trims \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Deep Clean with nail trims/grooming \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 weekly, 1 hour", "price": "105.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 weekly, 2 hours", "price": "185.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Deep Clean \u2014 monthly, 1 hour", "price": "135.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Deep Clean with nail trims \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Deep Clean with nail trims/grooming \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 monthly, 1 hour", "price": "135.00", "priceCurrency": "USD", "unitText": "per visit"},
       {"@type": "Offer", "name": "Upkeep \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Nail Trims \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Nail Trims \u2014 monthly, 1 hour", "price": "135.00", "priceCurrency": "USD", "unitText": "per visit"},
-      {"@type": "Offer", "name": "Nail Trims \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"}
+      {"@type": "Offer", "name": "Nail Trims/Grooming \u2014 every other week, 1 hour", "price": "115.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Nail Trims/Grooming \u2014 every other week, 2 hours", "price": "195.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Nail Trims/Grooming \u2014 monthly, 1 hour", "price": "135.00", "priceCurrency": "USD", "unitText": "per visit"},
+      {"@type": "Offer", "name": "Nail Trims/Grooming \u2014 monthly, 2 hours", "price": "215.00", "priceCurrency": "USD", "unitText": "per visit"}
     ]
   },
   "areaServed": [
@@ -176,15 +176,15 @@ og_image = "lionheadBunnyWithTreats.jpg"
       "name": "Which plan is right for my pet?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Upkeep keeps things fresh between cleans; Deep Clean is the full reset; Nail Trims keep feet healthy. You can also mix plans, like weekly Upkeep plus an every-other-week Deep Clean \u2014 we'll recommend one at your meet-and-greet."
+        "text": "Upkeep keeps things fresh between cleans; Deep Clean is the full reset; Nail Trims/Grooming keeps feet healthy. You can also mix plans, like weekly Upkeep plus an every-other-week Deep Clean \u2014 we'll recommend one at your meet-and-greet."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I add nail trims to a cleaning plan?",
+      "name": "Can I add nail trims/grooming to a cleaning plan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes! 2-hour Deep Cleans include nail trims, at +$80/visit over the 1-hour rate: $185 weekly, $195 every other week, or $215 monthly."
+        "text": "Yes! 2-hour Deep Cleans include nail trims/grooming, at +$80/visit over the 1-hour rate: $185 weekly, $195 every other week, or $215 monthly."
       }
     },
     {

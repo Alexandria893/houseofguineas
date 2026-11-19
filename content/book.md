@@ -97,8 +97,8 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
         <option value="Routine: Cleaning (weekly)">Cleaning (Deep Clean or Upkeep), weekly — from $105/visit</option>
         <option value="Routine: Cleaning (every other week)">Cleaning (Deep Clean or Upkeep), every other week — from $115/visit</option>
         <option value="Routine: Cleaning (monthly)">Cleaning (Deep Clean or Upkeep), monthly — from $135/visit</option>
-        <option value="Routine: Nail Trims (every other week)">Nail Trims, every other week — from $115/visit</option>
-        <option value="Routine: Nail Trims (monthly)">Nail Trims, monthly — from $135/visit</option>
+        <option value="Routine: Nail Trims/Grooming (every other week)">Nail Trims/Grooming, every other week — from $115/visit</option>
+        <option value="Routine: Nail Trims/Grooming (monthly)">Nail Trims/Grooming, monthly — from $135/visit</option>
         <option value="Routine: not sure which plan">Routine care — help me pick a plan</option>
       </optgroup>
       <optgroup label="Care while you're away">
@@ -146,17 +146,17 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
       <option value="Cleaning (weekly)">Cleaning (Deep Clean or Upkeep), weekly — from $105/visit</option>
       <option value="Cleaning (every other week)">Cleaning (Deep Clean or Upkeep), every other week — from $115/visit</option>
       <option value="Cleaning (monthly)">Cleaning (Deep Clean or Upkeep), monthly — from $135/visit</option>
-      <option value="Nail Trims (every other week)">Nail Trims, every other week — from $115/visit</option>
-      <option value="Nail Trims (monthly)">Nail Trims, monthly — from $135/visit</option>
+      <option value="Nail Trims/Grooming (every other week)">Nail Trims/Grooming, every other week — from $115/visit</option>
+      <option value="Nail Trims/Grooming (monthly)">Nail Trims/Grooming, monthly — from $135/visit</option>
       <option value="Not sure which plan">Help me pick a plan at the meet-and-greet</option>
     </select>
   </div>
 
   <div class="form-row" id="trims-addon" style="display:none;">
     <fieldset>
-      <legend>Add nail trims?</legend>
+      <legend>Add nail trims/grooming?</legend>
       <div class="start-options">
-        <label><input type="checkbox" id="nail_trims" name="nail_trims" value="Yes"> Yes, add nail trims</label>
+        <label><input type="checkbox" id="nail_trims" name="nail_trims" value="Yes"> Yes, add nail trims/grooming</label>
       </div>
       <p class="form-note" id="trims-price"></p>
     </fieldset>
@@ -197,7 +197,7 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
           trims.checked = false;
           return;
         }
-        trimsPrice.textContent = 'Nail trims are included with 2-hour Deep Cleans: +$80/visit over the 1-hour rate (' + withTrims[match[1]] + ').';
+        trimsPrice.textContent = 'Nail trims/grooming are included with 2-hour Deep Cleans: +$80/visit over the 1-hour rate (' + withTrims[match[1]] + ').';
         trims.value = 'Yes — 2-hour Deep Clean, ' + withTrims[match[1]];
       }
 

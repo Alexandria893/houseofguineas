@@ -9,7 +9,7 @@ title = ""
 <!-- 🐾 [As an exotic pet parent,](\about), I understand the unique and thorough care of exotic pets. the love and care they deserve. Explore my care services below and contact me to discuss how I can best meet you and your pet's needs! -->
 <!-- *Serving San Francisco, California* -->
 
-Finally — animal lovers that understand your exotic pets! Our veterinary-informed team comes to your home across San Francisco and the Peninsula on a routine schedule — cleaning, upkeep, and nail trims — so you get your evenings back and your pets get expert eyes on them every visit.
+Finally — animal lovers that understand your exotic pets! Our veterinary-informed team comes to your home across San Francisco and the Peninsula on a routine schedule — cleaning, upkeep, and nail trims/grooming — so you get your evenings back and your pets get expert eyes on them every visit.
 
 <div class="trust-strip" aria-label="House of Guineas at a glance">
   <div class="trust-chip">
