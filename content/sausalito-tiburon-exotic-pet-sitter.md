@@ -1,19 +1,19 @@
 +++
 title = "Sausalito & Tiburon Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "Sausalito & Tiburon Exotic Pet Sitter"
-description = "In-home exotic pet sitting in Sausalito, Tiburon and Belvedere — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a Marin-based caretaker, including floating homes."
+description = "In-home exotic pet sitting in Sausalito, Tiburon and Belvedere — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from San Francisco's exotic pet care team, including floating homes."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
 +++
 
-Southern Marin's waterfront towns — Sausalito, Tiburon, and Belvedere — are unlike anywhere else in the Bay Area: hillside homes stacked above the marina, the floating homes of Waldo Point, and the quiet peninsula neighborhoods looking back at the city across the water. Families here travel often, and many share their homes with exotic pets that need more than a neighbor topping up a bowl: a bonded pair of rabbits, a parrot on a strict routine, a bearded dragon whose enclosure has to stay dialed in. Reliable exotic pet care has been genuinely hard to find on this side of the water — kennels are built for dogs, and most sitters have never handled a small mammal. Our team fills that gap, from a base right here in Marin.
+Southern Marin's waterfront towns — Sausalito, Tiburon, and Belvedere — are unlike anywhere else in the Bay Area: hillside homes stacked above the marina, the floating homes of Waldo Point, and the quiet peninsula neighborhoods looking back at the city across the water. Families here travel often, and many share their homes with exotic pets that need more than a neighbor topping up a bowl: a bonded pair of rabbits, a parrot on a strict routine, a bearded dragon whose enclosure has to stay dialed in. Reliable exotic pet care has been genuinely hard to find on this side of the water — kennels are built for dogs, and most sitters have never handled a small mammal. Our team fills that gap, driving up from San Francisco for every visit.
 
-House of Guineas is San Francisco's exotic pet care company, and our Marin caretaker is based in Central Marin — a short hop from Sausalito, Tiburon, and Belvedere. Your little ones stay in their own environment, on their own schedule, cared for by someone with real clinical training — without a Golden Gate crossing baked into every visit.
+House of Guineas is San Francisco's exotic pet care company, and Sausalito, Tiburon, and Belvedere are the first Marin towns our team reaches on the drive up. Your little ones stay in their own environment, on their own schedule, cared for by someone with real clinical training — with the trip covered by one simple $25/visit travel rate.
 
 ## Why Southern Marin Exotic Pet Parents Choose Our Team
 
-- **Based in Marin, not across the bridge.** Our caretaker lives in the county, so Sausalito and Tiburon visits are quick to schedule and light on travel cost.
+- **We make the drive.** Our team comes up from San Francisco for every visit, with morning and evening timing available — and the trip is one simple $25/visit travel rate, stated up front.
 - **Veterinary-informed care.** Ours is a [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) of exotic pet professionals — including a founder who previously worked as an exotic veterinary assistant and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines. Every visit happens under that clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
 - **Comfortable in every kind of home.** Hillside condo, a house up a steep Tiburon lane, or a floating home on the Sausalito waterfront — we adapt to the space and the access.
@@ -40,9 +40,9 @@ We start with a free meet-and-greet at your home — a walkthrough of feeding ro
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-Because our caretaker is based in Central Marin, Sausalito, Tiburon, and Belvedere fall in our **$15/visit travel range** — a fraction of what a San Francisco-based sitter would have to charge to cross the bridge. Text us your address and dates and we will confirm your exact rate.
+Because our team drives up from San Francisco, Sausalito, Tiburon, and Belvedere fall in our **standard $25/visit travel tier** — one simple figure for the whole southern-Marin waterfront. Text us your address and dates and we will confirm your exact rate.
 
-> **Because our caretaker is based right here in Marin,** a standing [routine care](/routine-recurring-exotic-pet-care/) schedule is easy to sustain — weekly or every-other-week visits covering the enclosure deep-clean and a gentle health check — so even on evenings when the city runs long and the last ferry feels far away, your little ones are already fed, checked, and cozy.
+> **A standing [routine care](/routine-recurring-exotic-pet-care/) schedule is easy to sustain in southern Marin, too** — weekly or every-other-week visits covering the enclosure deep-clean and a gentle health check — so even on evenings when the city runs long and the last ferry feels far away, your little ones are already fed, checked, and cozy.
 
 ## Frequently Asked Questions
 
@@ -72,7 +72,7 @@ Because our caretaker is based in Central Marin, Sausalito, Tiburon, and Belvede
 <details class="faq-details">
   <summary class="faq-summary">Do you serve the Tiburon peninsula and Belvedere, not just Sausalito?</summary>
   <div class="faq-answer">
-    <p>Yes — we cover the full southern-Marin waterfront: Sausalito, Marin City, all of the Tiburon peninsula including the Del Mar and Reed neighborhoods and Paradise Cay, and the island community of Belvedere. Our Central Marin base keeps the whole area within an easy drive. Text us your address and we will confirm.</p>
+    <p>Yes — we cover the full southern-Marin waterfront: Sausalito, Marin City, all of the Tiburon peninsula including the Del Mar and Reed neighborhoods and Paradise Cay, and the island community of Belvedere. Our team drives up from San Francisco and covers the whole area at the same $25/visit travel rate. Text us your address and we will confirm.</p>
   </div>
 </details>
 
@@ -86,7 +86,7 @@ Because our caretaker is based in Central Marin, Sausalito, Tiburon, and Belvede
 <details class="faq-details">
   <summary class="faq-summary">How much is the travel surcharge for Sausalito and Tiburon?</summary>
   <div class="faq-answer">
-    <p>Southern Marin falls in our $15/visit travel range, because our caretaker is based nearby in Central Marin rather than crossing the bridge from the city. That is far below what a San Francisco-based sitter would need to charge for the same distance. Text us your exact address and dates for a firm quote.</p>
+    <p>Southern Marin falls in our standard $25/visit travel tier, because our team is based in San Francisco and drives up for each visit. It is one simple figure for Sausalito, Tiburon, and Belvedere alike, stated before we book so there are no surprises. Text us your exact address and dates for a firm quote.</p>
   </div>
 </details>
 
@@ -118,7 +118,7 @@ Planning a trip soon? [Call or text us at 415-484-6493](tel:415-484-6493) and we
       "name": "Do you serve the Tiburon peninsula and Belvedere, not just Sausalito?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — we cover the full southern-Marin waterfront: Sausalito, Marin City, all of the Tiburon peninsula including the Del Mar and Reed neighborhoods and Paradise Cay, and the island community of Belvedere. Our Central Marin base keeps the whole area within an easy drive. Text us your address and we will confirm."
+        "text": "Yes — we cover the full southern-Marin waterfront: Sausalito, Marin City, all of the Tiburon peninsula including the Del Mar and Reed neighborhoods and Paradise Cay, and the island community of Belvedere. Our team drives up from San Francisco and covers the whole area at the same $25/visit travel rate. Text us your address and we will confirm."
       }
     },
     {
@@ -134,7 +134,7 @@ Planning a trip soon? [Call or text us at 415-484-6493](tel:415-484-6493) and we
       "name": "How much is the travel surcharge for Sausalito and Tiburon?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Southern Marin falls in our $15/visit travel range, because our caretaker is based nearby in Central Marin rather than crossing the bridge from the city. That is far below what a San Francisco-based sitter would need to charge for the same distance. Text us your exact address and dates for a firm quote."
+        "text": "Southern Marin falls in our standard $25/visit travel tier, because our team is based in San Francisco and drives up for each visit. It is one simple figure for Sausalito, Tiburon, and Belvedere alike, stated before we book so there are no surprises. Text us your exact address and dates for a firm quote."
       }
     },
     {

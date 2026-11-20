@@ -97,7 +97,7 @@ Belmont is in our Peninsula service tier, so a travel surcharge of $15–$25/vis
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in Belmont?</summary>
   <div class="faq-answer">
-    <p>You can. Boarding runs $125 per night in the San Francisco homes of our team members, who host each stay personally — a straightforward drive up the 280 from Belmont. Spots are limited, but we reserve them for pet parents outside San Francisco, so Belmont families get priority — just reserve early and plan to bring your pet's usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>You can. Boarding runs $125 per night at the San Francisco home of our founder, Alexandria, who hosts each stay personally — a straightforward drive up the 280 from Belmont. Spots are limited, but we reserve them for pet parents outside San Francisco, so Belmont families get priority — just reserve early and plan to bring your pet's usual enclosure and supplies. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -110,7 +110,7 @@ Belmont is in our Peninsula service tier, so a travel surcharge of $15–$25/vis
 
 ---
 
-Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) hosted by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). Still getting set up with a vet? Our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in Belmont will want our [guinea pig care guide](/post/guinea-pig-care-guide).
+Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) hosted personally by our founder, Alexandria, at home in San Francisco, or browse the full [FAQ page](/home/services/faqs). Still getting set up with a vet? Our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in Belmont will want our [guinea pig care guide](/post/guinea-pig-care-guide).
 
 <script type="application/ld+json">
 {
@@ -146,7 +146,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet instead of booking in-home visits in Belmont?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can. Boarding runs $125 per night in the San Francisco homes of our team members, who host each stay personally — a straightforward drive up the 280 from Belmont. Spots are limited, but we reserve them for pet parents outside San Francisco, so Belmont families get priority — just reserve early and plan to bring your pet's usual enclosure and supplies. Full details are on the boarding page."
+        "text": "You can. Boarding runs $125 per night at the San Francisco home of our founder, Alexandria, who hosts each stay personally — a straightforward drive up the 280 from Belmont. Spots are limited, but we reserve them for pet parents outside San Francisco, so Belmont families get priority — just reserve early and plan to bring your pet's usual enclosure and supplies. Full details are on the boarding page."
       }
     },
     {

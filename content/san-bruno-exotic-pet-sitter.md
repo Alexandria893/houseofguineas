@@ -97,7 +97,7 @@ San Bruno sits in San Mateo County, a short trip down the 101 or 280 from San Fr
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in San Bruno?</summary>
   <div class="faq-answer">
-    <p>Yes. Boarding happens in San Francisco, hosted personally by members of our team in their homes, and since San Bruno is just a short trip up the Peninsula, it is an easy drive. We reserve our limited boarding spots for pet parents outside San Francisco, so San Bruno families get priority. Boarding runs $125 per night, your pet settles into their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
+    <p>Yes. Boarding happens in San Francisco, hosted personally at home by our founder, Alexandria, and since San Bruno is just a short trip up the Peninsula, it is an easy drive. We reserve our limited boarding spots for pet parents outside San Francisco, so San Bruno families get priority. Boarding runs $125 per night, your pet settles into their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page.</p>
   </div>
 </details>
 
@@ -110,7 +110,7 @@ San Bruno sits in San Mateo County, a short trip down the 101 or 280 from San Fr
 
 ---
 
-Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) hosted personally by members of our team in their San Francisco homes, or browse the full [FAQ page](/home/services/faqs). Still getting set up with a vet? Our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in San Bruno will want our [guinea pig care guide](/post/guinea-pig-care-guide).
+Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) hosted personally by our founder, Alexandria, at home in San Francisco, or browse the full [FAQ page](/home/services/faqs). Still getting set up with a vet? Our [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory is a good place to start, and new guinea pig parents in San Bruno will want our [guinea pig care guide](/post/guinea-pig-care-guide).
 
 <script type="application/ld+json">
 {
@@ -146,7 +146,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet instead of booking in-home visits in San Bruno?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Boarding happens in San Francisco, hosted personally by members of our team in their homes, and since San Bruno is just a short trip up the Peninsula, it is an easy drive. We reserve our limited boarding spots for pet parents outside San Francisco, so San Bruno families get priority. Boarding runs $125 per night, your pet settles into their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
+        "text": "Yes. Boarding happens in San Francisco, hosted personally at home by our founder, Alexandria, and since San Bruno is just a short trip up the Peninsula, it is an easy drive. We reserve our limited boarding spots for pet parents outside San Francisco, so San Bruno families get priority. Boarding runs $125 per night, your pet settles into their own room with soothing music, and we ask that you bring their usual enclosure and supplies. Full details are on the boarding page."
       }
     },
     {
