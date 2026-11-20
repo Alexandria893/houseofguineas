@@ -68,7 +68,7 @@ Most of San Francisco carries **no travel surcharge**; outlying neighborhoods su
 <details class="faq-details">
   <summary class="faq-summary">Do you offer bearded dragon boarding?</summary>
   <div class="faq-answer">
-    <p>We do host boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it's the easy call anyway: moving a calibrated enclosure is stressful for the animal, and our caretakers come to your dragon anywhere in SF, with no travel surcharge across most of the city — the basking spot, the UVB schedule, the whole setup stays exactly where it belongs.</p>
+    <p>We do offer boarding, hosted personally by our founder, Alexandria, at home in San Francisco, but spots are few and reserved for pet parents outside San Francisco. For city families it's the easy call anyway: moving a calibrated enclosure is stressful for the animal, and our caretakers come to your dragon anywhere in SF, with no travel surcharge across most of the city — the basking spot, the UVB schedule, the whole setup stays exactly where it belongs.</p>
   </div>
 </details>
 
@@ -109,7 +109,7 @@ Ready to line up care for your beardie? [Call or text 415-484-6493](tel:415-484-
       "name": "Do you offer bearded dragon boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do host boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it's the easy call anyway: moving a calibrated enclosure is stressful for the animal, and our caretakers come to your dragon anywhere in SF, with no travel surcharge across most of the city — the basking spot, the UVB schedule, the whole setup stays exactly where it belongs."
+        "text": "We do offer boarding, hosted personally by our founder, Alexandria, at home in San Francisco, but spots are few and reserved for pet parents outside San Francisco. For city families it's the easy call anyway: moving a calibrated enclosure is stressful for the animal, and our caretakers come to your dragon anywhere in SF, with no travel surcharge across most of the city — the basking spot, the UVB schedule, the whole setup stays exactly where it belongs."
       }
     },
     {
