@@ -70,9 +70,9 @@ Whether you end up hiring our team or someone else, here is the checklist I wish
 7. **Reptile owners** — double-check [these prep steps](/post/how-to-prepare-your-reptile-for-pet-sitting) specifically. UVB bulb age, thermostat function, and backup heat plans are the three most common failure points.
 8. **Leave a key with a neighbor.** Sitters lose lockboxes, phones die, flights get delayed. A backup key-holder is cheap insurance.
 
-## Boarding Alternative for Longer Trips
+## Longer Trips (Boarding Paused Until Spring 2027)
 
-For trips longer than about ten days — or for families who would rather have their pet stay somewhere staffed around the clock — members of our team personally host boarding in their San Francisco homes. It is a quiet, species-appropriate setup where your pet gets the same hands-on care we give our own little ones. And here is the part that works in your favor: we reserve our limited boarding spots for pet parents outside San Francisco, so Peninsula families get priority. Drop off on the way to SFO and pick up on the way home. Details are on our [exotic pet boarding page](/home/services/exotic-pet-care-services-boarding).
+Our boarding is paused until spring 2027, so for now we cover longer trips with in-home care instead. For trips longer than about ten days, we set up a steady schedule of [in-home visits](/home/services/exotic-pet-care-services-in-home) — twice daily if your pet needs it — so your little ones stay in the home they know with the same hands-on care we give our own. When boarding reopens, we will again reserve our limited spots for pet parents outside San Francisco, so Peninsula families get priority. Details are on our [exotic pet boarding page](/home/services/exotic-pet-care-services-boarding).
 
 ## Ready to Fly Without the 11 p.m. Panic?
 

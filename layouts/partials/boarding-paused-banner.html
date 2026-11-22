@@ -1,0 +1,8 @@
+{{/* Sitewide notice: boarding is paused. Toggle with params.boardingPaused in hugo.toml (styles: .boarding-paused-banner in assets/css/custom.css) */}}
+{{ if .Site.Params.boardingPaused }}
+<div class="boarding-paused-banner" role="note">
+  <div class="container">
+    <p><strong>Boarding is paused until {{ .Site.Params.boardingReturn }}.</strong> We're not taking boarding stays right now — our <a href="/home/services/exotic-pet-care-services-in-home/">in-home care team</a> comes to your pet instead. <a href="/book/" class="boarding-paused-banner__cta">Book in-home care →</a></p>
+  </div>
+</div>
+{{ end }}

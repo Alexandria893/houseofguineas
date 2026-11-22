@@ -61,11 +61,11 @@ If your home sits on Beach Park Boulevard along Central Lake, near Leo J. Ryan M
 | 30-minute in-home visit | from $95 |
 | 60-minute in-home visit | from $125 |
 | Routine 2x/day care | $155–$215/day |
-| Exotic pet boarding (in our team's SF homes) | $125/night |
+| Exotic pet boarding (in our team's SF homes) | Paused until spring 2027 |
 
 *Foster City sits in our Peninsula service tier, so a travel surcharge of $15–$25/visit applies, depending on distance. Call or text us to book.*
 
-Boarding is hosted personally by members of our team in their San Francisco homes — and because we reserve those limited spots for pet parents outside San Francisco, Foster City families get priority. Drop off for longer trips, especially when you're flying out of SFO and it's easier to swing through the city first.
+**Boarding is paused until spring 2027**, so we aren't taking boarding stays before then. In the meantime, our [in-home care team](/home/services/exotic-pet-care-services-in-home/) comes to your pet in Foster City for trips of any length, so your little ones stay in the home they know while you fly out of SFO.
 
 > **Routine care crosses over to Foster City, too.** Biotech weeks run long, so we offer standing weekly or every-other-week [routine care](/routine-recurring-exotic-pet-care/) visits — their caretaker takes care of the enclosure deep-clean, hay restock, and a gentle health check, so when you get home along the lagoons, your little ones are fed, fresh, and ready to hang out.
 
@@ -111,7 +111,7 @@ Boarding is hosted personally by members of our team in their San Francisco home
 <details class="faq-details">
   <summary class="faq-summary">Can you accommodate our frequent work travel schedule?</summary>
   <div class="faq-answer">
-    <p>This is one of the most common asks we get from Foster City pet parents, and yes — frequent, predictable travel is actually easier for us to plan around than one-off trips. We can set up a recurring schedule: standing twice-a-day visits during conference weeks, a lighter once-daily cadence during shorter trips, and boarding in our team's SF homes for longer travel when that makes more sense. After your first trip with us, rebooking is quick, and your pet's care plan, meds, and preferences are already on file so there's no ramp-up each time.</p>
+    <p>This is one of the most common asks we get from Foster City pet parents, and yes — frequent, predictable travel is actually easier for us to plan around than one-off trips. We can set up a recurring schedule: standing twice-a-day visits during conference weeks, a lighter once-daily cadence during shorter trips, and longer stretches of in-home care for extended travel (boarding is paused until spring 2027). After your first trip with us, rebooking is quick, and your pet's care plan, meds, and preferences are already on file so there's no ramp-up each time.</p>
   </div>
 </details>
 
@@ -125,13 +125,13 @@ Boarding is hosted personally by members of our team in their San Francisco home
 <details class="faq-details">
   <summary class="faq-summary">What's the cost of in-home exotic pet care in Foster City?</summary>
   <div class="faq-answer">
-    <p>Base rates start at $95 for a 30-minute visit and $125 for a 60-minute visit, with standard twice-daily care plans running $155–$215 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15–$25/visit applies, depending on distance. Boarding, hosted personally by members of our team in their San Francisco homes, is $125 per night and is often the better option for travel longer than two weeks — and since we reserve those spots for pet parents outside San Francisco, Foster City families get priority. <a href="tel:415-484-6493">Call or text us</a> to book, based on your species, visit frequency, and trip length.</p>
+    <p>Base rates start at $95 for a 30-minute visit and $125 for a 60-minute visit, with standard twice-daily care plans running $155–$215 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15–$25/visit applies, depending on distance. Boarding is paused until spring 2027, so for now our in-home care team covers trips of every length. <a href="tel:415-484-6493">Call or text us</a> to book, based on your species, visit frequency, and trip length.</p>
   </div>
 </details>
 
 ## Ready to Book?
 
-If you're a Foster City resident with a bearded dragon that needs consistent UVB scheduling, a rabbit that needs clinical-eye observation, or a parrot that needs more than a neighbor dropping by — our team is ready to help. Learn more about [why working with an exotic veterinary-trained team matters](/san-francisco-california-exotic-veterinary-experience), review our [in-home exotic pet care services](/home/services/exotic-pet-care-services-in-home), or look into [boarding in our team's San Francisco homes](/home/services/exotic-pet-care-services-boarding). For husbandry-specific prep before your next trip, our [guide to preparing your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting) walks through exactly what to leave out for our caretakers. More general questions? See our full [FAQs](/home/services/faqs) or <a href="tel:415-484-6493">call or text (415) 484-6493</a> and we'll put together a plan that fits your travel schedule.
+If you're a Foster City resident with a bearded dragon that needs consistent UVB scheduling, a rabbit that needs clinical-eye observation, or a parrot that needs more than a neighbor dropping by — our team is ready to help. Learn more about [why working with an exotic veterinary-trained team matters](/san-francisco-california-exotic-veterinary-experience), review our [in-home exotic pet care services](/home/services/exotic-pet-care-services-in-home), or read about [boarding](/home/services/exotic-pet-care-services-boarding), which is paused until spring 2027. For husbandry-specific prep before your next trip, our [guide to preparing your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting) walks through exactly what to leave out for our caretakers. More general questions? See our full [FAQs](/home/services/faqs) or <a href="tel:415-484-6493">call or text (415) 484-6493</a> and we'll put together a plan that fits your travel schedule.
 
 <script type="application/ld+json">
 {
@@ -159,7 +159,7 @@ If you're a Foster City resident with a bearded dragon that needs consistent UVB
       "name": "Can you accommodate our frequent work travel schedule?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "This is one of the most common asks we get from Foster City pet parents, and yes \u2014 frequent, predictable travel is actually easier for us to plan around than one-off trips. We can set up a recurring schedule: standing twice-a-day visits during conference weeks, a lighter once-daily cadence during shorter trips, and boarding in our team's SF homes for longer travel when that makes more sense. After your first trip with us, rebooking is quick, and your pet's care plan, meds, and preferences are already on file so there's no ramp-up each time."
+        "text": "This is one of the most common asks we get from Foster City pet parents, and yes \u2014 frequent, predictable travel is actually easier for us to plan around than one-off trips. We can set up a recurring schedule: standing twice-a-day visits during conference weeks, a lighter once-daily cadence during shorter trips, and longer stretches of in-home care for extended travel (boarding is paused until spring 2027). After your first trip with us, rebooking is quick, and your pet's care plan, meds, and preferences are already on file so there's no ramp-up each time."
       }
     },
     {
@@ -175,7 +175,7 @@ If you're a Foster City resident with a bearded dragon that needs consistent UVB
       "name": "What's the cost of in-home exotic pet care in Foster City?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Base rates start at $95 for a 30-minute visit and $125 for a 60-minute visit, with standard twice-daily care plans running $155\u2013$215 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15\u2013$25/visit applies, depending on distance. Boarding, hosted personally by members of our team in their San Francisco homes, is $125 per night and is often the better option for travel longer than two weeks \u2014 and since we reserve those spots for pet parents outside San Francisco, Foster City families get priority. Call or text us to book, based on your species, visit frequency, and trip length."
+        "text": "Base rates start at $95 for a 30-minute visit and $125 for a 60-minute visit, with standard twice-daily care plans running $155\u2013$215 per day. Because Foster City sits in our Peninsula tier, a travel surcharge of $15\u2013$25/visit applies, depending on distance. Boarding is paused until spring 2027, so for now our in-home care team covers trips of every length. Call or text us to book, based on your species, visit frequency, and trip length."
       }
     }
   ]

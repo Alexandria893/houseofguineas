@@ -96,7 +96,7 @@ You know your dragon. If something feels off, it probably is. Don't second-guess
 
 ---
 
-*Going on a trip? I maintain precise temperature gradients, humidity levels, and UVB schedules for every reptile I care for. Learn about my [in-home reptile care](/home/services/exotic-pet-care-services-in-home) and [reptile boarding](/home/services/exotic-pet-care-services-boarding) in San Francisco. Read more: [How to Prepare Your Reptile for Pet Sitting](/post/how-to-prepare-your-reptile-for-pet-sitting).*
+*Going on a trip? I maintain precise temperature gradients, humidity levels, and UVB schedules for every reptile I care for. Learn about my [in-home reptile care](/home/services/exotic-pet-care-services-in-home) in San Francisco ([reptile boarding](/home/services/exotic-pet-care-services-boarding) is paused until spring 2027). Read more: [How to Prepare Your Reptile for Pet Sitting](/post/how-to-prepare-your-reptile-for-pet-sitting).*
 
 ## Frequently Asked Questions
 

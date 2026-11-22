@@ -85,4 +85,4 @@ If you're thinking about getting a second rabbit, I highly recommend it — but 
 
 ---
 
-*Need someone who understands rabbit health — including GI stasis monitoring, medication administration, and RHDV awareness — to care for your bunnies while you're away? Learn about our [in-home pet sitting](/home/services/exotic-pet-care-services-in-home) and [rabbit boarding](/home/services/exotic-pet-care-services-boarding) in San Francisco.*
+*Need someone who understands rabbit health — including GI stasis monitoring, medication administration, and RHDV awareness — to care for your bunnies while you're away? Learn about our [in-home pet sitting](/home/services/exotic-pet-care-services-in-home) in San Francisco and the Peninsula. ([Rabbit boarding](/home/services/exotic-pet-care-services-boarding) is paused until spring 2027.)*

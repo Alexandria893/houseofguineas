@@ -103,13 +103,14 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
       </optgroup>
       <optgroup label="Care while you're away">
         <option value="Travel / vacation care">In-home care while I travel — from $95/visit</option>
-        <option value="Boarding">Boarding, for families outside SF — $125/night</option>
+        <option value="Boarding" disabled>Boarding — paused until spring 2027 (choose in-home care instead)</option>
       </optgroup>
       <option value="Not sure yet">Not sure yet — help me decide</option>
     </select>
+    <p class="form-note boarding-paused-form-note"><strong>Boarding is paused until spring 2027.</strong> Traveling? Choose <strong>In-home care while I travel</strong> and our caretakers will come to your pet.</p>
     <p class="form-note" id="routine-note" style="display:none;">Per-visit rates start at <strong>$105</strong> weekly, <strong>$115</strong> every other week, or <strong>$135</strong> monthly — tell us below if you'd like a Deep Clean, Upkeep, or a mix, and we'll fine-tune it at your free meet-and-greet.</p>
     <p class="form-note" id="travel-note" style="display:none;">While you're away, we come to your pet's own home: <strong>$95</strong> for a 30-minute visit, <strong>$125</strong> for a full hour, or twice-daily care at <strong>$155–$215/day</strong> depending on visit lengths. Most of San Francisco has no travel surcharge; outlying neighborhoods such as the Marina, SOMA and Bayview add $15 per visit, and the Peninsula adds $15–$25 per visit depending on distance. We confirm your exact rate when you text us your address. See the <a href="/home/services/exotic-pet-care-services-in-home/">in-home care page</a> for the full rate card.</p>
-    <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding is <strong>$125/night</strong>, spots are limited, and we <strong>reserve them for pet parents outside San Francisco</strong> — Peninsula and Marin families, where in-home visits add a travel surcharge, get priority, and the farther you are the more welcome you are to ask. If you live in San Francisco, in-home care is the better fit: no travel surcharge across most of the city, far more availability, and your little ones stay in the home they know. Please <a href="tel:415-484-6493">call or text us</a> as early as you can to check availability.</p>
+    <p class="form-note" id="boarding-note" style="display:none;">Heads up: boarding is <strong>paused until spring 2027</strong>, so we can't take boarding stays before then. Please choose <strong>In-home care while I travel</strong> instead: our caretakers come to your pet, and your little ones stay in the home they know.</p>
   </div>
 
   <script>
@@ -135,6 +136,8 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
         if (!group.children.length) group.remove();
       });
       document.getElementById('routine-note').style.display = 'block';
+      var pausedNote = document.querySelector('.boarding-paused-form-note');
+      if (pausedNote) pausedNote.style.display = 'none';
     }
   </script>
 

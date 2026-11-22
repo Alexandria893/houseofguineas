@@ -1660,3 +1660,33 @@ html {
 @media (max-width: 480px) {
   .holiday-note { padding: 14px 16px; gap: 12px; }
 }
+
+/* Sitewide "boarding paused" strip (layouts/partials/boarding-paused-banner.html) */
+.boarding-paused-banner {
+  background: var(--color-butter);
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text);
+  font-size: 15px;
+  line-height: 1.5;
+  text-align: center;
+}
+.boarding-paused-banner p { margin: 0; padding: 10px 0; }
+.boarding-paused-banner a { color: var(--color-primary); text-decoration: underline; }
+.boarding-paused-banner__cta { font-weight: 700; white-space: nowrap; }
+@media (max-width: 480px) {
+  .boarding-paused-banner { font-size: 14px; text-align: left; }
+}
+
+/* In-page "boarding paused" callout (boarding page, booking form) */
+.boarding-paused-note {
+  margin: 0 0 24px;
+  padding: 16px 20px;
+  background: var(--color-butter);
+  border-left: 5px solid var(--color-primary);
+  border-radius: var(--radius-sm);
+  color: var(--color-text);
+  font-size: 15.5px;
+  line-height: 1.55;
+}
+.boarding-paused-note p { margin: 0; }
+.boarding-paused-note p + p { margin-top: 8px; }

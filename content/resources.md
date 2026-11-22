@@ -44,4 +44,4 @@ A few hand-picked guides from the blog and elsewhere on the site — useful star
 
 ---
 
-Need exotic pet care that goes beyond reading? See our [in-home pet sitting](/home/services/exotic-pet-care-services-in-home/) and [boarding](/home/services/exotic-pet-care-services-boarding/) services across San Francisco and the Peninsula. [Call or text 415-484-6493](tel:415-484-6493) to set up a free meet-and-greet.
+Need exotic pet care that goes beyond reading? See our [in-home pet sitting](/home/services/exotic-pet-care-services-in-home/) services across San Francisco and the Peninsula ([boarding](/home/services/exotic-pet-care-services-boarding/) is paused until spring 2027). [Call or text 415-484-6493](tel:415-484-6493) to set up a free meet-and-greet.

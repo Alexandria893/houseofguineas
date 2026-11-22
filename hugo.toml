@@ -25,7 +25,7 @@ description = "San Francisco & Peninsula's Exotic Pet Professionals"
 email = "petcare@houseofguineas.com"
 phone = "415-484-6493"
 # address = "San Francisco, CA"
-address = "San Francisco & Peninsula's exotic pet specialists — in-home care across SF, Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City and surrounding areas. Boarding hosted in San Francisco."
+address = "San Francisco & Peninsula's exotic pet specialists — in-home care across SF, Burlingame, San Mateo, Millbrae, Hillsborough, Foster City, Redwood City and surrounding areas. Boarding is paused until spring 2027."
 avatar = "logo-shield.svg"
 avatarclass = "circle"
 background = ""
@@ -48,6 +48,11 @@ showFooterContact = true
 showFooterFollowMe = true
 showFooterTextWidget = false
 showFooterFormWidget = false
+
+# Boarding pause: shows a notice strip on every page (layouts/partials/boarding-paused-banner.html).
+# Set boardingPaused = false when boarding reopens.
+boardingPaused = true
+boardingReturn = "spring 2027"
 
 [[menu.main]]
 name = "Home"

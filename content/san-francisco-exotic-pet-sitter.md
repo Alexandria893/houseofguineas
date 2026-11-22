@@ -16,7 +16,7 @@ We are based in San Francisco, and for San Francisco pet parents the answer is *
 - **Veterinary background.** Ours is a veterinary-informed team of exotic pet professionals. Our founder, Alexandria, previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society in Richmond, California, where she administered subcutaneous RHDV2 vaccines. Every member of our team is trained under that same clinical lens.
 - **Species specialization.** Our focus on exotic pets and cats — rabbits, rodents, reptiles, and birds — is genuinely hard to find in San Francisco, where most pet sitters treat exotics as an afterthought.
 - **Clinical-grade care.** We can syringe-feed a GI-stasis rabbit, check a reptile enclosure's humidity and UVB, and recognize the early signs of a crop problem in a parrot. We also know the city's exotic-vet landscape — see our [San Francisco Bay Area exotic veterinarian directory](/san-francisco-bay-area-exotic-veterinarians) — so if something goes sideways while you are away, we know exactly where to go.
-- **Care that comes to you.** Your pets stay in their own environment — the single best thing for a prey animal or a reptile with a calibrated habitat — and our caretakers come to them, anywhere in the city. (We do host a small amount of [boarding](/home/services/exotic-pet-care-services-boarding), but those spots are reserved for families outside San Francisco.)
+- **Care that comes to you.** Your pets stay in their own environment — the single best thing for a prey animal or a reptile with a calibrated habitat — and our caretakers come to them, anywhere in the city. ([Boarding](/home/services/exotic-pet-care-services-boarding) is paused until spring 2027, so in-home care is how we're caring for every pet in the meantime.)
 
 ## Exotic Species We Care For in San Francisco
 
@@ -91,7 +91,7 @@ San Francisco is our **primary service area, and most of the city carries no tra
 <details class="faq-details">
   <summary class="faq-summary">Should I choose in-home visits or boarding?</summary>
   <div class="faq-answer">
-    <p>For San Francisco families, in-home visits — your pets do best in their own environment, especially prey animals and reptiles with calibrated habitats, and our caretakers cover the whole city, with no travel surcharge across most of it. We do host a small amount of <a href="/home/services/exotic-pet-care-services-boarding">boarding</a>, but because space is so limited we reserve those spots for pet parents outside San Francisco, where in-home visits mean travel surcharges and longer drives. In-home visits include species-specific feeding, medication if needed, and daily photo updates — see the <a href="/home/services/exotic-pet-care-services-in-home">in-home care page</a> for details.</p>
+    <p>In-home visits. <a href="/home/services/exotic-pet-care-services-boarding">Boarding</a> is paused until spring 2027, so we aren't taking boarding stays before then — and for San Francisco families, in-home care is the better fit anyway: your pets do best in their own environment, especially prey animals and reptiles with calibrated habitats, and our caretakers cover the whole city, with no travel surcharge across most of it. In-home visits include species-specific feeding, medication if needed, and daily photo updates — see the <a href="/home/services/exotic-pet-care-services-in-home">in-home care page</a> for details.</p>
   </div>
 </details>
 
@@ -138,7 +138,7 @@ Heading out of town soon? [Call or text us at 415-484-6493](tel:415-484-6493) an
       "name": "Should I choose in-home visits or boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For San Francisco families, in-home visits — your pets do best in their own environment, especially prey animals and reptiles with calibrated habitats, and our caretakers cover the whole city, with no travel surcharge across most of it. We do host a small amount of boarding, but because space is so limited we reserve those spots for pet parents outside San Francisco, where in-home visits mean travel surcharges and longer drives. In-home visits include species-specific feeding, medication if needed, and daily photo updates."
+        "text": "In-home visits. Boarding is paused until spring 2027, so we aren't taking boarding stays before then — and for San Francisco families, in-home care is the better fit anyway: your pets do best in their own environment, especially prey animals and reptiles with calibrated habitats, and our caretakers cover the whole city, with no travel surcharge across most of it. In-home visits include species-specific feeding, medication if needed, and daily photo updates."
       }
     },
     {

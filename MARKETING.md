@@ -57,11 +57,11 @@ Do these at [business.google.com](https://business.google.com). Priority order: 
 
 ## GBP business description (743/750 chars — paste as-is)
 
-> House of Guineas provides specialized in-home exotic pet care across San Francisco and the Peninsula, down to San Mateo. We care for guinea pigs, rabbits, chinchillas, ferrets and other small mammals; reptiles such as bearded dragons, geckos, turtles and tortoises; and birds. Choose routine recurring visits for busy pet parents who want steady upkeep, trusted in-home care while you travel, or overnight boarding hosted in San Francisco. Ours is a veterinary-informed team of exotic pet professionals, including a former exotic vet assistant. Bonded, insured, and a member of Pet Sitters International, with a founder who is Pet CPR + First Aid certified. Call or text 415-484-6493 to arrange a meet-and-greet.
+> House of Guineas provides specialized in-home exotic pet care across San Francisco and the Peninsula, down to San Mateo. We care for guinea pigs, rabbits, chinchillas, ferrets and other small mammals; reptiles such as bearded dragons, geckos, turtles and tortoises; and birds. Choose routine recurring visits for busy pet parents who want steady upkeep, or trusted in-home care while you travel. (Boarding is paused until spring 2027.) Ours is a veterinary-informed team of exotic pet professionals, including a former exotic vet assistant. Bonded, insured, and a member of Pet Sitters International, with a founder who is Pet CPR + First Aid certified. Call or text 415-484-6493 to arrange a meet-and-greet.
 
 **Shorter alt (~320 chars):**
 
-> Specialized in-home exotic pet care in San Francisco & the Peninsula (to San Mateo). Guinea pigs, rabbits, chinchillas, reptiles, bearded dragons & birds. Routine weekly upkeep for busy pet parents, travel care, and SF boarding — from a veterinary-informed team. Bonded & insured. Text 415-484-6493.
+> Specialized in-home exotic pet care in San Francisco & the Peninsula (to San Mateo). Guinea pigs, rabbits, chinchillas, reptiles, bearded dragons & birds. Routine weekly upkeep for busy pet parents and in-home travel care — from a veterinary-informed team. Bonded & insured. Text 415-484-6493.
 
 ---
 
@@ -122,9 +122,9 @@ Post from a second Google account, answer from the business profile, upvote your
 - **Do you care for reptiles like bearded dragons and geckos?** — Yes! Reptiles are a core specialty. In-home care across SF and the Peninsula — verifying basking temps, UVB, and humidity every visit — so your reptile never leaves its calibrated enclosure. Handled by our veterinary-informed team. Call/text 415-484-6493.
 - **Do you offer recurring weekly visits, not just vacation sitting?** — Absolutely. Routine care plans bring a caretaker to your home weekly, every other week, or monthly for Deep Cleans, Upkeep, or Nail Trims, with a health check every visit. Details: houseofguineas.com/routine-recurring-exotic-pet-care/
 - **Do you serve San Mateo and the Peninsula?** — Yes — SF down through Millbrae, Burlingame, Hillsborough, San Mateo, Foster City, and Redwood City. Travel surcharge of $15–$25/visit depending on distance from SF. Text 415-484-6493 for a quote.
-- **Do you take care of guinea pigs, chinchillas, and rabbits?** — Small mammals are the heart of what we do — with GI-stasis awareness and species-specific care. In-home care and SF boarding available.
-- **Do you board exotic pets?** — Yes — hosted personally in SF at $125/night for small mammals, reptiles, and birds. Space is limited around holidays, so reach out early. Call/text 415-484-6493.
-- **What are your rates?** — In-home visits from $95 (30 min) / $125 (60 min); twice-daily care $155–$215/day. Routine standing visits from $105/visit weekly. Boarding $125/night. Full breakdown: houseofguineas.com/book/
+- **Do you take care of guinea pigs, chinchillas, and rabbits?** — Small mammals are the heart of what we do — with GI-stasis awareness and species-specific care. In-home care available across SF and the Peninsula.
+- **Do you board exotic pets?** — Boarding is paused until spring 2027. In the meantime, our in-home care team comes to your pet while you travel. Call/text 415-484-6493.
+- **What are your rates?** — In-home visits from $95 (30 min) / $125 (60 min); twice-daily care $155–$215/day. Routine standing visits from $105/visit weekly. Boarding paused until spring 2027. Full breakdown: houseofguineas.com/book/
 
 ---
 

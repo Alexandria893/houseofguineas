@@ -108,13 +108,13 @@ Here is the part that surprises people: because our caretaker is based in Centra
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits?</summary>
   <div class="faq-answer">
-    <p>For most Marin families, in-home visits are the better fit — your little one stays in their own space, on their own routine, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by members of our team in their San Francisco homes and occasionally by a Marin caretaker. Those spots are reserved for pet parents outside San Francisco, so Marin families get priority — but space still books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits.</p>
+    <p>Not right now — boarding is paused until spring 2027, so we aren't taking boarding stays before then. In the meantime, our <a href="/home/services/exotic-pet-care-services-in-home/">in-home care team</a>, including our Marin-based caretaker, comes to your pet, so your little one stays in their own space, on their own routine. When boarding reopens, spots will again be reserved for families outside San Francisco.</p>
   </div>
 </details>
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our limited [boarding option](/home/services/exotic-pet-care-services-boarding), or browse the full [FAQ page](/home/services/faqs). New guinea pig or rabbit parents in Marin will want our [guinea pig care guide](/post/guinea-pig-care-guide) and [rabbit care guide](/post/rabbit-care-guide-bay-area).
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), our [boarding option](/home/services/exotic-pet-care-services-boarding) (paused until spring 2027), or browse the full [FAQ page](/home/services/faqs). New guinea pig or rabbit parents in Marin will want our [guinea pig care guide](/post/guinea-pig-care-guide) and [rabbit care guide](/post/rabbit-care-guide-bay-area).
 
 <script type="application/ld+json">
 {
@@ -158,7 +158,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For most Marin families, in-home visits are the better fit — your little one stays in their own space, on their own routine, and it is our most available service. We do offer a limited amount of boarding at $125 per night, hosted personally by members of our team in their San Francisco homes and occasionally by a Marin caretaker. Those spots are reserved for pet parents outside San Francisco, so Marin families get priority — but space still books up early, so reach out well ahead if you think you will need it. When in doubt, start with in-home visits."
+        "text": "Not right now — boarding is paused until spring 2027, so we aren't taking boarding stays before then. In the meantime, our in-home care team, including our Marin-based caretaker, comes to your pet, so your little one stays in their own space, on their own routine. When boarding reopens, spots will again be reserved for families outside San Francisco."
       }
     }
   ]

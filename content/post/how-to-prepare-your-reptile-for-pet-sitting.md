@@ -58,7 +58,7 @@ A good reptile sitter will want to meet your pet before the first care visit. Th
 * Point out your reptile's normal behaviors versus stress signs
 * Share your vet's contact information and talk through what would constitute an emergency
 
-We require a [meet and greet before every first boarding stay](/home/services/exotic-pet-care-services-boarding) — it's essential for both your pet's comfort and your peace of mind. And honestly, it makes us feel better too.
+We require a meet and greet before your pet's first [in-home visit](/home/services/exotic-pet-care-services-in-home) — it's essential for both your pet's comfort and your peace of mind. And honestly, it makes us feel better too.
 
 ## 5. Know the Warning Signs
 
@@ -81,4 +81,4 @@ Last but definitely not least — make sure your sitter has:
 
 ---
 
-*Need a professional reptile pet sitter in San Francisco? Our team provides [in-home reptile care](/home/services/exotic-pet-care-services-in-home) and [reptile boarding](/home/services/exotic-pet-care-services-boarding) with veterinary-level attention to your pet's environment, diet, and health.*
+*Need a professional reptile pet sitter in San Francisco? Our team provides [in-home reptile care](/home/services/exotic-pet-care-services-in-home) with veterinary-level attention to your pet's environment, diet, and health. ([Reptile boarding](/home/services/exotic-pet-care-services-boarding) is paused until spring 2027.)*

@@ -3,7 +3,7 @@ type = "services"
 aliases = ["/home/services/service2/"]
 title = "Exotic Pet Boarding San Francisco & Peninsula | House of Guineas"
 shortTitle = "Exotic Pet Boarding"
-description = "Exotic pet boarding in San Francisco — guinea pig boarding, rabbit boarding, chinchilla boarding, reptile boarding, bird boarding and small mammal boarding. Reserved for pet parents outside San Francisco — Peninsula, Marin and beyond. Your pet gets their private room with soothing music. $125/night."
+description = "Exotic pet boarding with House of Guineas is paused until spring 2027. In the meantime, our in-home care team cares for guinea pigs, rabbits, chinchillas, reptiles, birds and small mammals in their own homes across San Francisco, the Peninsula and Marin."
 weight = 3
 [params]
   hideFromHomepage = true
@@ -11,23 +11,30 @@ weight = 3
   serviceType = "Exotic Pet Boarding"
   price = "$125"
   priceUnit = "/night"
-  priceNote = "reserved for families outside SF"
+  priceNote = "paused until spring 2027"
   animals = ["Reptiles", "Birds", "Small Mammals"]
   highlights = [
-    "Reserved for families outside San Francisco",
-    "Private room with soothing music",
-    "You bring the enclosure & supplies"
+    "Paused until spring 2027",
+    "Book in-home care in the meantime",
+    "Private room with soothing music when we reopen"
   ]
 [sitemap]
   priority = 0.8
 +++
 
-Your pet gets their private room with soothing music — **$125/night** for **Reptiles, Birds and Small Mammals**. Reserved for pet parents outside San Francisco.
+**Boarding is paused until spring 2027.** In the meantime, our [in-home care team](/home/services/exotic-pet-care-services-in-home/) comes to your pet across San Francisco, the Peninsula and Marin.
 <!--more-->
+
+<div class="boarding-paused-note" role="note">
+<p><strong>We're not available for boarding until spring 2027.</strong> We aren't taking any boarding stays until then, including holiday stays.</p>
+<p>Your little ones can still be cared for while you're away: our <a href="/home/services/exotic-pet-care-services-in-home/"><strong>in-home care team</strong></a> comes to them, so they stay in the home they know, with the same species-specific care. <a href="/book/"><strong>Request in-home care</strong></a> or <a href="tel:415-484-6493">call or text 415-484-6493</a>.</p>
+</div>
+
+*The details below describe our boarding service as it will run when it reopens in spring 2027.*
 
 ## Exotic Pet Boarding in San Francisco
 
-**Please note:** Boarding is hosted personally by members of our team, so we can only take a small number of pets at a time — and we reserve those spots for pet parents **outside San Francisco**, where in-home visits mean travel surcharges and longer drives. If you live in the city, [in-home care](/home/services/exotic-pet-care-services-in-home) is the better fit: your little ones stay in the home they know, there's no travel surcharge across most of San Francisco, and our caretakers have far more availability.
+**Please note:** Boarding is paused until spring 2027. When it reopens, it will be hosted personally by members of our team, so we can only take a small number of pets at a time — and we reserve those spots for pet parents **outside San Francisco**, where in-home visits mean travel surcharges and longer drives. Until then, [in-home care](/home/services/exotic-pet-care-services-in-home) is available to everyone: your little ones stay in the home they know, there's no travel surcharge across most of San Francisco, and our caretakers have far more availability.
 
 Changes in your pet's environment can cause discomfort and stress. With that said, we understand that there are times where their home may not be the best option while you are away. Our [veterinary-informed team](/san-francisco-california-exotic-veterinary-experience) will work with you to make sure their home-away-from-home is the next best thing.
 
@@ -78,7 +85,8 @@ We'll discuss a plan with you to make sure your pet(s) feel as safe and comforta
 
 * Please bring any **enclosures, bedding, food and supplies** your pet needs to feel at home when you drop them off
 * A meet and greet is **required before your pet's first stay** and your pet must be up-to-date with all vaccinations by the first visit
-* Because boarding is hosted in-home by our team, **space is limited and often fills up**, especially around holidays and travel season — and we **reserve spots for pet parents outside San Francisco**, giving priority to families farthest from the city. Please [contact us](tel:415-484-6493) as early as you possibly can. If boarding is already full for your dates — or you live in San Francisco — our [in-home care team](/home/services/exotic-pet-care-services-in-home) has far more availability and can usually still cover you.
+* **Boarding is paused until spring 2027**, so we can't take any boarding stays before then. Our [in-home care team](/home/services/exotic-pet-care-services-in-home) can cover your dates in the meantime — [request in-home care](/book/) or [call or text us](tel:415-484-6493).
+* When boarding reopens, space will be limited because it's hosted in-home by our team, and we'll **reserve spots for pet parents outside San Francisco**, giving priority to families farthest from the city.
 
 *Planning a trip? Read our step-by-step guide on [how to prepare your reptile for pet sitting](/post/how-to-prepare-your-reptile-for-pet-sitting). Guinea pig parent? Check out our [Clinical Series fleece cage liners](/clinical-series-guinea-pig-fleece-cage-liners) for the healthiest bedding option.*
 

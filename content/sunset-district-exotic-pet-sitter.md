@@ -97,7 +97,7 @@ The Sunset is within San Francisco and carries no travel surcharge. Pricing stay
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in the Sunset?</summary>
   <div class="faq-answer">
-    <p>For Sunset families, in-home visits are the better call. Our boarding spots are few and reserved for pet parents outside San Francisco, where in-home visits mean travel surcharges and longer drives. In the Sunset there is no travel surcharge, our caretakers have far more availability, and your little ones stay in the home they know.</p>
+    <p>Boarding is paused until spring 2027, so we aren't taking boarding stays before then — <a href="/home/services/exotic-pet-care-services-in-home/">in-home visits</a> are the way to go for Sunset families. In the Sunset there is no travel surcharge, our caretakers have far more availability, and your little ones stay in the home they know. (When boarding reopens, its few spots will be reserved for pet parents outside San Francisco.)</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet instead of booking in-home visits in the Sunset?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For Sunset families, in-home visits are the better call. Our boarding spots are few and reserved for pet parents outside San Francisco, where in-home visits mean travel surcharges and longer drives. In the Sunset there is no travel surcharge, our caretakers have far more availability, and your little ones stay in the home they know."
+        "text": "Boarding is paused until spring 2027, so we aren't taking boarding stays before then — in-home visits are the way to go for Sunset families. In the Sunset there is no travel surcharge, our caretakers have far more availability, and your little ones stay in the home they know. (When boarding reopens, its few spots will be reserved for pet parents outside San Francisco.)"
       }
     },
     {

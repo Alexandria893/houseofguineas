@@ -9,7 +9,7 @@ og_image = "HappilyHoldingSnake.jpg"
 
 Reptiles and amphibians have very specific environmental, dietary, and handling needs that differ dramatically from traditional pets and even from each other. As a former exotic veterinary assistant, I've provided hands-on care for bearded dragons, snakes, and turtles — and through my clinical training at [Bay Area Bird and Exotics Hospital](https://www.birdandexoticsvet.com), I've gained working knowledge of geckos, axolotls, frogs, and other species as well.
 
-Below you'll find species-specific care essentials that inform my [in-home care](/home/services/exotic-pet-care-services-in-home) and [boarding](/home/services/exotic-pet-care-services-boarding) services here in San Francisco. Whether you're a first-time reptile owner or an experienced keeper, understanding these fundamentals is key to keeping your pet healthy and thriving.
+Below you'll find species-specific care essentials that inform my [in-home care](/home/services/exotic-pet-care-services-in-home) and [boarding](/home/services/exotic-pet-care-services-boarding) services here in San Francisco (boarding is paused until spring 2027; in-home care is available now). Whether you're a first-time reptile owner or an experienced keeper, understanding these fundamentals is key to keeping your pet healthy and thriving.
 
 ---
 

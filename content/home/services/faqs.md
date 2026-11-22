@@ -1,7 +1,7 @@
 +++
 title = "Exotic Pet Care FAQs | San Francisco | House of Guineas"
 shortTitle = "Exotic Pet Care FAQs"
-description = "Frequently asked questions about House of Guineas exotic pet care services in San Francisco. Service areas, boarding, rates, insurance and more."
+description = "Frequently asked questions about House of Guineas exotic pet care services in San Francisco. Service areas, rates, insurance, boarding (paused until spring 2027) and more."
 summary = "Have a question about San Francisco's House of Guineas Pet Care services? Take a look at some answers to common questions!"
 [menu.main]
   name = "FAQs"
@@ -56,7 +56,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       <li><strong>Peninsula Service (San Mateo County)</strong>: Our team serves the Peninsula from San Francisco down to Redwood City — Daly City, Burlingame, San Mateo and surrounding areas — with the travel surcharge measured from San Francisco. <a href="tel:415-484-6493">Contact us</a> to book!</li>
     </ul>
     <p>Are you farther away? <a href="tel:415-484-6493">Text or call us</a> and let's figure out if we're a good fit for each other!</p>
-    <p><em>Note: In-home visits are handled by our caretakers who travel to you. Boarding is hosted by our team in San Francisco and reserved for pet parents outside the city — Peninsula, Marin, and greater Bay Area families are welcome to drive in and drop off their little ones.</em></p>
+    <p><em>Note: In-home visits are handled by our caretakers who travel to you. Boarding is paused until spring 2027, so for now all of our care is in-home.</em></p>
   </div>
 </details>
 
@@ -135,7 +135,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
 <details class="faq-details">
   <summary class="faq-summary">Do you board guinea pigs? What does guinea pig boarding include?</summary>
   <div class="faq-answer">
-    <p>Yes! Guinea pig boarding is $125/night and includes unlimited fresh hay, species-appropriate pellets and vegetables, daily enclosure cleaning, and health monitoring. Our <a href="/san-francisco-california-exotic-veterinary-experience">veterinary-informed team</a> watches for early signs of GI stasis, respiratory distress, bumblefoot, and dental issues. Your guinea pig gets their private room with soothing music. Please bring their enclosure, bedding (or try our <a href="/clinical-series-guinea-pig-fleece-cage-liners">Clinical Series fleece liners</a>), food, and supplies. Because spots are limited, boarding is reserved for pet parents outside San Francisco — city families are best served by our <a href="/home/services/exotic-pet-care-services-in-home">in-home visits</a>, with no travel surcharge across most of SF.</p>
+    <p><strong>Boarding is paused until spring 2027</strong>, so we aren't taking guinea pig boarding stays before then. In the meantime, our <a href="/home/services/exotic-pet-care-services-in-home/">in-home care team</a> comes to your pigs at home with the same care boarding would include: unlimited fresh hay, species-appropriate pellets and vegetables, enclosure cleaning, and health monitoring. Our <a href="/san-francisco-california-exotic-veterinary-experience">veterinary-informed team</a> watches for early signs of GI stasis, respiratory distress, bumblefoot, and dental issues, and your herd never has to leave the home they know.</p>
   </div>
 </details>
 
@@ -164,11 +164,12 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
   <summary class="faq-summary">Do you offer boarding?</summary>
   <div class="faq-answer">
     <p>Changing your pet's environment, especially if they are a prey animal, can cause discomfort and stress. With that said, we understand that there are cases where their home may not be the best place to stay while you are away.</p>
-    <p><strong>House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals</strong> — including rabbits, guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, geckos, snakes, turtles, tortoises, parrots, cockatiels, conures and budgies. Boarding is hosted personally by members of our team in their San Francisco homes, and because space is limited we <strong>reserve it for pet parents outside San Francisco</strong> — Peninsula, Marin, and greater Bay Area families are welcome to drive in and drop off their pets. San Francisco families are best served by our <a href="/home/services/exotic-pet-care-services-in-home">in-home visits</a>, which carry no travel surcharge across most of the city. To ensure the safety and well-being of the exotic animals in the home, <strong>House of Guineas does not offer boarding for dogs and cats.</strong></p>
+    <p><strong>Boarding is paused until spring 2027.</strong> We aren't taking any boarding stays before then. In the meantime, our <a href="/home/services/exotic-pet-care-services-in-home/">in-home care team</a> comes to your pet while you're away across San Francisco, the Peninsula and Marin — <a href="/book/">request in-home care</a> or <a href="tel:415-484-6493">call or text us</a>. Here's how boarding will work when it reopens:</p>
+    <p><strong>House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals</strong> — including rabbits, guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, geckos, snakes, turtles, tortoises, parrots, cockatiels, conures and budgies. Boarding is hosted personally by members of our team in their San Francisco homes, and because space is limited we <strong>reserve it for pet parents outside San Francisco</strong> — Peninsula, Marin, and greater Bay Area families are welcome to drive in and drop off their pets. To ensure the safety and well-being of the exotic animals in the home, <strong>House of Guineas does not offer boarding for dogs and cats.</strong></p>
       <ul>
         <li><strong>Exotic pet boarding is $125 per night.</strong> We'll discuss a plan with you to make sure your pet(s) feel as safe and comfortable as possible. They will have their <strong>private room</strong>, with soothing music played as they become acclimated during their stay.</li>
         <li>Please bring any <strong>medication (if needed), enclosures, bedding, food and supplies</strong> your pet needs to feel at home when you drop them off. Additional charges will apply if House of Guineas picks-up and drops-off your pet(s), including any additional supplies needed during their stay.</li>
-        <li>A meet and greet is required for families new to House of Guineas, and your pet <strong>must be up-to-date with all of their vaccinations by the first visit</strong>. Because every stay is hosted personally by our team, <strong>boarding space is limited and often fills up</strong> — especially around holidays and travel season — and priority goes to the families farthest from San Francisco. Please <a href="tel:415-484-6493">contact us</a> as early as you possibly can. If boarding is already full for your dates, our <a href="/home/services/exotic-pet-care-services-in-home">in-home care</a> team has more availability and can usually still cover you.</li>
+        <li>A meet and greet is required for families new to House of Guineas, and your pet <strong>must be up-to-date with all of their vaccinations by the first visit</strong>. Because every stay is hosted personally by our team, <strong>boarding space is limited</strong> and priority goes to the families farthest from San Francisco.</li>
     </ul>
   </div>
 </details>
@@ -271,7 +272,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "name": "Do you board guinea pigs? What does guinea pig boarding include?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes! Guinea pig boarding is $125/night and includes unlimited fresh hay, species-appropriate pellets and vegetables, daily enclosure cleaning, and health monitoring. Our veterinary-informed team watches for early signs of GI stasis, respiratory distress, bumblefoot, and dental issues. Your guinea pig gets their private room with soothing music. Because spots are limited, boarding is reserved for pet parents outside San Francisco — Peninsula, Marin, and greater Bay Area families are welcome to drive in and drop off. San Francisco families are best served by in-home visits, with no travel surcharge across most of the city."
+        "text": "Boarding is paused until spring 2027, so we aren't taking guinea pig boarding stays before then. In the meantime, our in-home care team comes to your pigs at home with the same care boarding would include: unlimited fresh hay, species-appropriate pellets and vegetables, enclosure cleaning, and health monitoring. Our veterinary-informed team watches for early signs of GI stasis, respiratory distress, bumblefoot, and dental issues, and your herd never has to leave the home they know."
       }
     },
     {
@@ -303,7 +304,7 @@ summary = "Have a question about San Francisco's House of Guineas Pet Care servi
       "name": "Do you offer boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, House of Guineas offers boarding for most reptiles, birds, amphibians and small mammals — including rabbits, guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, geckos, snakes, turtles, tortoises, parrots, cockatiels, conures and budgies — at $125 per night. Boarding is hosted personally by members of our team in their San Francisco homes, and because space is limited it is reserved for pet parents outside San Francisco — Peninsula, Marin, and greater Bay Area families are welcome to drive in and drop off their pets. San Francisco families are best served by in-home visits, which carry no travel surcharge across most of the city. Your pet gets their private room with soothing music. Please bring enclosures, bedding, food and supplies. A meet and greet is required for families new to House of Guineas and pets must be up-to-date with vaccinations. Boarding space often fills up — especially around holidays and travel season — with priority to the families farthest from San Francisco, so please reach out as early as possible. If boarding is full for your dates, our in-home care team has more availability and can usually still help."
+        "text": "Boarding is paused until spring 2027, and we aren't taking any boarding stays before then. In the meantime, our in-home care team comes to your pet while you're away across San Francisco, the Peninsula and Marin. When boarding reopens, House of Guineas will offer boarding for most reptiles, birds, amphibians and small mammals — including rabbits, guinea pigs, chinchillas, ferrets, hamsters, bearded dragons, geckos, snakes, turtles, tortoises, parrots, cockatiels, conures and budgies — at $125 per night. Boarding will be hosted personally by members of our team in their San Francisco homes, and because space is limited it is reserved for pet parents outside San Francisco — Peninsula, Marin, and greater Bay Area families are welcome to drive in and drop off their pets. San Francisco families are best served by in-home visits, which carry no travel surcharge across most of the city. Your pet gets their private room with soothing music. Please bring enclosures, bedding, food and supplies. A meet and greet is required for families new to House of Guineas and pets must be up-to-date with vaccinations. Boarding space is limited, with priority to the families farthest from San Francisco."
       }
     }
   ]

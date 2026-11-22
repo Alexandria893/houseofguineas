@@ -97,7 +97,7 @@ SOMA is within San Francisco, our home city, and sits in our outlying-neighborho
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet instead of booking in-home visits in SOMA?</summary>
   <div class="faq-answer">
-    <p>For SOMA families, in-home visits are the way to go. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin. SOMA carries a $15/visit travel surcharge, but in-home care still gives you far more availability, and your pet's carefully dialed enclosure never has to move.</p>
+    <p>Boarding is paused until spring 2027, so we aren't taking boarding stays before then — <a href="/home/services/exotic-pet-care-services-in-home/">in-home visits</a> are the way to go for SOMA families. SOMA carries a $15/visit travel surcharge, but in-home care gives you far more availability, and your pet's carefully dialed enclosure never has to move. (When boarding reopens, its few spots will be reserved for pet parents outside San Francisco.)</p>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet instead of booking in-home visits in SOMA?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For SOMA families, in-home visits are the way to go. Our boarding spots are few and reserved for pet parents outside San Francisco — families driving in from the Peninsula and Marin. SOMA carries a $15/visit travel surcharge, but in-home care still gives you far more availability, and your pet's carefully dialed enclosure never has to move."
+        "text": "Boarding is paused until spring 2027, so we aren't taking boarding stays before then — in-home visits are the way to go for SOMA families. SOMA carries a $15/visit travel surcharge, but in-home care gives you far more availability, and your pet's carefully dialed enclosure never has to move. (When boarding reopens, its few spots will be reserved for pet parents outside San Francisco.)"
       }
     },
     {

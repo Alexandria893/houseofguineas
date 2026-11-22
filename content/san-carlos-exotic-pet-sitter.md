@@ -99,7 +99,7 @@ San Carlos is in our Peninsula service tier, so a travel surcharge of $15–$25/
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet with you instead of in-home sitting?</summary>
   <div class="faq-answer">
-    <p>Boarding is available at $125 per night, and every stay is hosted personally by a member of our team in their own San Francisco home. Spots are limited, but we reserve them for pet parents outside San Francisco — so families here in the City of Good Living get priority. Reserve ahead of busy travel weeks, and bring the usual enclosure and supplies so everything feels familiar. Details are on the <a href="/home/services/exotic-pet-care-services-boarding">boarding page</a>.</p>
+    <p>Not right now — boarding is paused until spring 2027, so we aren't taking boarding stays before then. In the meantime, our <a href="/home/services/exotic-pet-care-services-in-home/">in-home care team</a> comes to your pet right here in San Carlos, so your little ones stay in the home they know, on their own routine, while you travel. When boarding reopens, spots will again be reserved for families outside San Francisco.</p>
   </div>
 </details>
 
@@ -148,7 +148,7 @@ Ready to line up care for your next trip? [Call or text us at 415-484-6493](tel:
       "name": "Can I board my exotic pet with you instead of in-home sitting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Boarding is available at $125 per night, and every stay is hosted personally by a member of our team in their own San Francisco home. Spots are limited, but we reserve them for pet parents outside San Francisco — so families here in the City of Good Living get priority. Reserve ahead of busy travel weeks, and bring the usual enclosure and supplies so everything feels familiar. Details are on the boarding page."
+        "text": "Not right now — boarding is paused until spring 2027, so we aren't taking boarding stays before then. In the meantime, our in-home care team comes to your pet right here in San Carlos, so your little ones stay in the home they know, on their own routine, while you travel. When boarding reopens, spots will again be reserved for families outside San Francisco."
       }
     },
     {

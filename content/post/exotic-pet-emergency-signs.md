@@ -93,7 +93,7 @@ Please, please do this before you need to. The worst time to search for an exoti
 
 ---
 
-*Need an experienced exotic pet sitter who can recognize these warning signs? Our team provides [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home) and [boarding](/home/services/exotic-pet-care-services-boarding) in San Francisco with veterinary-level attention. My background as an [exotic vet assistant](/san-francisco-california-exotic-veterinary-experience) shaped what we watch for — and when we act.*
+*Need an experienced exotic pet sitter who can recognize these warning signs? Our team provides [in-home exotic pet care](/home/services/exotic-pet-care-services-in-home) in San Francisco with veterinary-level attention ([boarding](/home/services/exotic-pet-care-services-boarding) is paused until spring 2027). My background as an [exotic vet assistant](/san-francisco-california-exotic-veterinary-experience) shaped what we watch for — and when we act.*
 
 ## Frequently Asked Questions
 
