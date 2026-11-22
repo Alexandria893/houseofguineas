@@ -61,17 +61,6 @@ Tell us a little about your pet(s) and what you need, and we'll get right back t
   @media (max-width: 480px) { .booking-form .check-grid { grid-template-columns: 1fr; } }
 </style>
 
-<!-- Closure note (now through January): remove Feb 1 (styles: .holiday-note in assets/css/custom.css) -->
-<div class="holiday-note" role="note" style="max-width: 640px; margin: 1.5rem auto 0;">
-  <span class="holiday-note__icon" aria-hidden="true"><svg class="gp-sleep" viewBox="1 1 22.4 21.4" fill="none" stroke="#356A70" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round"><g class="gp-body"><path d="M3.2 19.4 C2.2 14.6 6 10 11.6 10 C16.8 10 20.6 11.8 21.8 15.2 C22.4 17.4 21.2 19.4 18.8 19.4 Z"/><path d="M14.6 11.6 C15.6 10.4 17.6 10.8 17.6 12.4 C16.4 12.9 15.2 12.6 14.6 11.6 Z"/><path d="M17.6 14.6 q0.9 0.8 1.8 0"/><path d="M14.4 14.2 C13.6 16 13.8 17.8 14.8 19.4"/><path d="M21.4 17.2 q-0.5 0.6 -1.1 0.2"/><circle cx="21.9" cy="15.9" r="0.4" fill="#356A70" stroke="none"/></g><g class="gp-z" stroke-width="1"><path d="M17.4 5.2 h2.2 l-2.2 2.6 h2.2"/><path d="M20.9 1.7 h1.6 l-1.6 1.9 h1.6"/></g></svg></span>
-  <div>
-    <p class="holiday-note__title">We're closed until February</p>
-    <p>House of Guineas is taking a breather and isn't taking new pet care requests from now through the end of January. You're welcome to send a request for February onward.</p>
-    <p class="holiday-note__ref">Need care before then? Please contact our East Bay friends: Michelle at <a href="https://www.furandfeatherpetcare.com" target="_blank" rel="noopener">Fur and Feather Pet Care</a>, the <a href="https://houserabbit.org/boarding" target="_blank" rel="noopener">House Rabbit Society</a>, and Jenny at <a href="mailto:jennybunnyboarding@gmail.com">Jenny Bunny Boarding</a>.</p>
-  </div>
-</div>
-<!-- /Closure note -->
-
 <form class="booking-form" action="https://formsubmit.co/petcare@houseofguineas.com" method="POST">
   <!-- FormSubmit config -->
   <input type="hidden" name="_subject" value="New care request from houseofguineas.com">
