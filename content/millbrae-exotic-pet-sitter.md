@@ -97,7 +97,7 @@ Millbrae falls within our Peninsula service tier, so a travel surcharge of $15�
 <details class="faq-details">
   <summary class="faq-summary">Can I board my exotic pet with you instead of in-home sitting?</summary>
   <div class="faq-answer">
-    <p>Absolutely — members of our team host boarding personally in their San Francisco homes, an easy hop up the 101 from Millbrae. It runs $125 per night, and while spots are limited, we reserve them for pet parents outside San Francisco — so Peninsula families like you get priority. Just bring your pet's usual enclosure and supplies.</p>
+    <p>Absolutely — our founder, Alexandria, hosts boarding personally at home in San Francisco, an easy hop up the 101 from Millbrae. It runs $125 per night, and while spots are limited, we reserve them for pet parents outside San Francisco — so Peninsula families like you get priority. Just bring your pet's usual enclosure and supplies.</p>
   </div>
 </details>
 
@@ -110,7 +110,7 @@ Millbrae falls within our Peninsula service tier, so a travel surcharge of $15�
 
 ---
 
-Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), look into [boarding with our team in San Francisco](/home/services/exotic-pet-care-services-boarding), browse the full [FAQ page](/home/services/faqs), or check the [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory if you are still getting set up with a local vet. New guinea pig parents in Millbrae — our [guinea pig care guide](/post/guinea-pig-care-guide) is a good starting point.
+Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](tel:415-484-6493) and we will get a meet-and-greet on the calendar. You can also read more about our [in-home exotic pet care service](/home/services/exotic-pet-care-services-in-home), look into [boarding with our founder, Alexandria, in San Francisco](/home/services/exotic-pet-care-services-boarding), browse the full [FAQ page](/home/services/faqs), or check the [San Mateo Peninsula exotic veterinarians](/san-mateo-peninsula-exotic-veterinarians/) directory if you are still getting set up with a local vet. New guinea pig parents in Millbrae — our [guinea pig care guide](/post/guinea-pig-care-guide) is a good starting point.
 
 <script type="application/ld+json">
 {
@@ -146,7 +146,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Can I board my exotic pet with you instead of in-home sitting?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Absolutely — members of our team host boarding personally in their San Francisco homes, an easy hop up the 101 from Millbrae. It runs $125 per night, and while spots are limited, we reserve them for pet parents outside San Francisco — so Peninsula families like you get priority. Just bring your pet's usual enclosure and supplies."
+        "text": "Absolutely — our founder, Alexandria, hosts boarding personally at home in San Francisco, an easy hop up the 101 from Millbrae. It runs $125 per night, and while spots are limited, we reserve them for pet parents outside San Francisco — so Peninsula families like you get priority. Just bring your pet's usual enclosure and supplies."
       }
     },
     {

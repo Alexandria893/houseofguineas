@@ -1,19 +1,19 @@
 +++
 title = "San Anselmo & Ross Valley Exotic Pet Sitter | Rabbits, Guinea Pigs, Reptiles & Birds"
 shortTitle = "San Anselmo & Ross Valley Exotic Pet Sitter"
-description = "In-home exotic pet sitting in San Anselmo, Ross, Fairfax and the Ross Valley — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from a Marin-based caretaker. Little to no travel surcharge."
+description = "In-home exotic pet sitting in San Anselmo, Ross, Fairfax and the Ross Valley — rabbits, guinea pigs, reptiles and birds. Clinical-grade care from San Francisco's exotic pet care team, with a simple $25/visit travel rate."
 og_image = "milo.jpeg"
 [sitemap]
   priority = 0.8
 +++
 
-The Ross Valley — San Anselmo, Ross, Fairfax, Sleepy Hollow — is one of the most family-oriented pockets of Marin, all leafy streets, creek-side homes, and a downtown San Anselmo that feels like a small town from another era. It is exactly the kind of place where a child's first pet is a guinea pig or a pair of rabbits, where a household keeps a talkative parrot, or where someone has spent real effort dialing in a reptile's enclosure. And it is exactly the kind of place that has had nowhere to turn for exotic pet care while traveling — until now. Our team covers the Ross Valley from a base right here in Marin.
+The Ross Valley — San Anselmo, Ross, Fairfax, Sleepy Hollow — is one of the most family-oriented pockets of Marin, all leafy streets, creek-side homes, and a downtown San Anselmo that feels like a small town from another era. It is exactly the kind of place where a child's first pet is a guinea pig or a pair of rabbits, where a household keeps a talkative parrot, or where someone has spent real effort dialing in a reptile's enclosure. And it is exactly the kind of place that has had nowhere to turn for exotic pet care while traveling — until now. Our team drives up from San Francisco to cover the Ross Valley.
 
-House of Guineas is San Francisco's exotic pet care company, and our Marin caretaker lives in Central Marin, a short drive from San Anselmo and the surrounding Ross Valley towns. Your pets stay home, on their routines, cared for by someone with genuine clinical training — and because we are local, reaching you costs a fraction of a bridge crossing.
+House of Guineas is San Francisco's exotic pet care company, and our team makes the drive to San Anselmo and the surrounding Ross Valley towns for every visit. Your pets stay home, on their routines, cared for by someone with genuine clinical training — and the trip is covered by one simple $25/visit travel rate, so the full cost is clear before we book.
 
 ## Why Ross Valley Exotic Pet Owners Choose Our Team
 
-- **Local to Marin.** No Golden Gate commute in your schedule or your bill. Our caretaker reaches San Anselmo, Ross, and Fairfax quickly and can keep visit timing flexible.
+- **We make the drive.** Our team comes up from San Francisco for every visit and reaches San Anselmo, Ross, and Fairfax with morning and evening timing both available — for one simple $25/visit travel rate.
 - **Veterinary background.** Ours is a veterinary-informed team of exotic pet professionals. Our founder, Alexandria, previously worked as an [exotic veterinary assistant](/san-francisco-california-exotic-veterinary-experience) and volunteered with the House Rabbit Society administering subcutaneous RHDV2 vaccines — and the whole team is trained under that clinical lens.
 - **Species specialization.** Rabbits, guinea pigs, chinchillas, ferrets, reptiles, and birds are our entire focus.
 - **Clinical-grade care.** We can syringe-feed a stasis rabbit, verify a reptile's UVB and humidity, and spot early illness in a bird.
@@ -40,9 +40,9 @@ We start with a free meet-and-greet at your home to learn feeding routines, encl
 - **60-minute visits** start at **$125**
 - **Twice-daily care** runs **$155–$215/day** depending on visit length and number of pets
 
-Because our caretaker is based in Central Marin, San Anselmo and the Ross Valley fall in our **no-surcharge to $15/visit range**. Text us your address and dates and we will confirm your exact rate.
+Because our team drives up from San Francisco, San Anselmo and the Ross Valley fall in our **standard $25/visit travel tier** — one simple figure across the whole valley. Text us your address and dates and we will confirm your exact rate.
 
-> **With our caretaker living just minutes away in Central Marin,** Ross Valley families can keep a standing [routine care](/routine-recurring-exotic-pet-care/) visit on the calendar — weekly or every-other-week — so the enclosure deep-clean and a gentle health check happen right on schedule between school pickups and soccer practice, and the little ones get unhurried, focused attention every time.
+> **Ross Valley families can keep a standing [routine care](/routine-recurring-exotic-pet-care/) visit on the calendar, too** — weekly or every-other-week — so the enclosure deep-clean and a gentle health check happen right on schedule between school pickups and soccer practice, and the little ones get unhurried, focused attention every time.
 
 ## Frequently Asked Questions
 
@@ -72,7 +72,7 @@ Because our caretaker is based in Central Marin, San Anselmo and the Ross Valley
 <details class="faq-details">
   <summary class="faq-summary">Which Ross Valley towns do you serve?</summary>
   <div class="faq-answer">
-    <p>San Anselmo, Ross, Fairfax, and Sleepy Hollow, plus the neighborhoods bordering Kentfield and San Rafael. Our Central Marin base keeps the whole valley within an easy drive. If your street sits up a wooded hill or along the creek, that is no problem — text us your address and we will confirm.</p>
+    <p>San Anselmo, Ross, Fairfax, and Sleepy Hollow, plus the neighborhoods bordering Kentfield and San Rafael. Our team drives up from San Francisco and covers the whole valley at the same $25/visit travel rate. If your street sits up a wooded hill or along the creek, that is no problem — text us your address and we will confirm.</p>
   </div>
 </details>
 
@@ -86,7 +86,7 @@ Because our caretaker is based in Central Marin, San Anselmo and the Ross Valley
 <details class="faq-details">
   <summary class="faq-summary">How far in advance should I book?</summary>
   <div class="faq-answer">
-    <p>For in-home visits, a week or two ahead is ideal so we can fit a meet-and-greet in before your trip, but we will always try to accommodate shorter notice — being based locally in Marin gives us more flexibility than a sitter coming from out of the area. Holidays and summer fill up fastest, so reach out as soon as you have dates.</p>
+    <p>For in-home visits, a week or two ahead is ideal so we can fit a meet-and-greet in before your trip, but we will always try to accommodate shorter notice — text us and we will tell you honestly what our team can reach. Holidays and summer fill up fastest, so reach out as soon as you have dates.</p>
   </div>
 </details>
 
@@ -118,7 +118,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "Which Ross Valley towns do you serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "San Anselmo, Ross, Fairfax, and Sleepy Hollow, plus the neighborhoods bordering Kentfield and San Rafael. Our Central Marin base keeps the whole valley within an easy drive. If your street sits up a wooded hill or along the creek, that is no problem — text us your address and we will confirm."
+        "text": "San Anselmo, Ross, Fairfax, and Sleepy Hollow, plus the neighborhoods bordering Kentfield and San Rafael. Our team drives up from San Francisco and covers the whole valley at the same $25/visit travel rate. If your street sits up a wooded hill or along the creek, that is no problem — text us your address and we will confirm."
       }
     },
     {
@@ -134,7 +134,7 @@ Ready to lock in coverage for your next trip? [Call or text us at 415-484-6493](
       "name": "How far in advance should I book?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For in-home visits, a week or two ahead is ideal so we can fit a meet-and-greet in before your trip, but we will always try to accommodate shorter notice — being based locally in Marin gives us more flexibility than a sitter coming from out of the area. Holidays and summer fill up fastest, so reach out as soon as you have dates."
+        "text": "For in-home visits, a week or two ahead is ideal so we can fit a meet-and-greet in before your trip, but we will always try to accommodate shorter notice — text us and we will tell you honestly what our team can reach. Holidays and summer fill up fastest, so reach out as soon as you have dates."
       }
     },
     {
