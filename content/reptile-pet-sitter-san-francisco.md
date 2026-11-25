@@ -94,7 +94,7 @@ Most of San Francisco carries **no travel surcharge** — the prices above are w
 <details class="faq-details">
   <summary class="faq-summary">Do you offer reptile boarding?</summary>
   <div class="faq-answer">
-    <p>We do host reptile boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it is an easy call anyway: moving a calibrated habitat is stressful for the animal, and our caretakers come to your reptile anywhere in SF, with no travel surcharge across most of the city — the enclosure never has to move an inch.</p>
+    <p>We do offer reptile boarding, hosted personally by our founder, Alexandria, at home in San Francisco, but spots are few and reserved for pet parents outside San Francisco. For city families it is an easy call anyway: moving a calibrated habitat is stressful for the animal, and our caretakers come to your reptile anywhere in SF, with no travel surcharge across most of the city — the enclosure never has to move an inch.</p>
   </div>
 </details>
 
@@ -143,7 +143,7 @@ Ready to line up care for your reptile? [Call or text us at 415-484-6493](tel:41
       "name": "Do you offer reptile boarding?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We do host reptile boarding, but spots are few and reserved for pet parents outside San Francisco. For city families it is an easy call anyway: moving a calibrated habitat is stressful for the animal, and our caretakers come to your reptile anywhere in SF, with no travel surcharge across most of the city — the enclosure never has to move an inch."
+        "text": "We do offer reptile boarding, hosted personally by our founder, Alexandria, at home in San Francisco, but spots are few and reserved for pet parents outside San Francisco. For city families it is an easy call anyway: moving a calibrated habitat is stressful for the animal, and our caretakers come to your reptile anywhere in SF, with no travel surcharge across most of the city — the enclosure never has to move an inch."
       }
     },
     {
